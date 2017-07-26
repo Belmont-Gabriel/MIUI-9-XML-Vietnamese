@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d ứng dụng gần đây</item>
+        <item quantity="one">1 ứng dụng gần đây</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ẩn thông báo của %d ứng dụng?</item>
+        <item quantity="one">Ẩn thông báo của ứng dụng này?</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Quang</item>
+        <item quantity="one">Nắng</item>
+    </plurals>
+</resources>

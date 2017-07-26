@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d tin nhắn mới</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Lưu trữ %1$d hội thoại?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Xóa %1$d hội thoại?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Hội thoại bao gồm nhiều tin nhắn, xóa?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">Đã lưu trữ %1$d hội thoại.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">Đã xóa %1$d hội thoại.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Đã đổi thư mục</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">Đã bỏ qua %1$d hội thoại.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">Bỏ đánh dấu %1$d hội thoại là quan trọng.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">Bỏ đánh dấu %1$d hội thoại là thư rác</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">Đã báo cáo %1$d hội thoại là lừa đảo.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">Báo cáo %1$d hội thoại là thư rác.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d ngày</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">Sau %d ngày</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d ngày trước</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Thư nháp</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d email sẽ bị xóa vĩnh viễn.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d tháng</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Di chuyển %1$d hội thoại</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d tin nhắn mới</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">Đã chọn %d mục</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d tin nhắn cũ hơn</item>
+    </plurals>
+</resources>

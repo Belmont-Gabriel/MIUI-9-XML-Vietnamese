@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="download_finished">
+        <item quantity="other">&amp;lt;font color=\"red\">%d bài hát&amp;lt;/font> đã tải xuống</item>
+    </plurals>
+    <plurals name="download_running">
+        <item quantity="other">&amp;lt;font color=\"red\">%d bài hát&amp;lt;/font> đang tải xuống</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d bài hát được tìm thấy</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.\"</item>
+    </plurals>
+    <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Tiếp tục tải xuống bài hát đã chọn?\"</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Còn lại %d ngày</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d bài hát sẽ được tải xuống</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Xóa%d danh sách phát?</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d mới</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%dbài hát tương tự</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">%d ca sĩ</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">%d ban nhạc</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Xóa %d bài hát?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Xóa %d bài hát?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d bài hát đã thêm vào danh sách phát</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d bài hát bị xóa khỏi danh sách phát</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Trình phát sẽ dừng trong %d phút</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d bài hát sẽ được gửi</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d bài hát</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d bài hát đã được thêm</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">%d mục được chọn</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Bài hát đã được yêu thích.</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">%d bình luận</item>
+    </plurals>
+    <plurals name="reader_count">
+        <item quantity="other">%d người theo dõi</item>
+    </plurals>
+</resources>

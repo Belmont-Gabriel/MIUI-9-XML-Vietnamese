@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_not_found">Không tìm thấy ứng dụng nào để xử lý tác vụ này</string>
+    <string name="back_to_message_list">Quay lại danh sách tin nhắn</string>
+    <string name="confirm_delete_all_conversations">Xóa tất cả cuộc hội thoại?</string>
+    <string name="confirm_delete_conversation">Xóa toàn bộ chủ đề này?</string>
+    <string name="confirm_delete_group_message">Xóa tin nhắn nhóm?</string>
+    <string name="confirm_delete_locked_message">Xóa tin nhắn bị khóa này?</string>
+    <string name="confirm_delete_message">Xóa tin nhắn này?</string>
+    <string name="confirm_dialog_locked_title">Xóa tin nhắn bị khóa?</string>
+    <string name="confirm_dialog_title">Xóa?</string>
+    <string name="copy_message_text">Sao chép</string>
+    <string name="copy_message_text_success">Đã sao chép thành công</string>
+    <string name="delete">Xóa</string>
+    <string name="delete_message">Xóa</string>
+    <string name="from_label">"Từ: "</string>
+    <string name="menu_forward">Chuyển tiếp</string>
+    <string name="menu_lock">Gắn dấu sao</string>
+    <string name="menu_unlock">Bỏ dấu sao</string>
+    <string name="message_details_title">Chi tiết tin nhắn</string>
+    <string name="message_type_label">"Loại: "</string>
+    <string name="messaging">Nhắn tin</string>
+    <string name="received_label">"Đã nhận: "</string>
+    <string name="repayment_network_error">Đã xảy ra sự cố với mạng của bạn</string>
+    <string name="repayment_title">Thanh toán lại</string>
+    <string name="repayment_way">Phương thức thanh toán lại</string>
+    <string name="sent_label">"Đã gửi: "</string>
+    <string name="smart_messages_network_allow_message">Tin nhắn Mi cần kết nối Internet để có thể hoạt động bình thường. Cho phép ngay?</string>
+    <string name="smart_messages_network_allow_title">Yêu cầu phải có kết nối internet</string>
+    <string name="sms_card_partner_label">"Đối tác thẻ SMS: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="text_message">Tin nhắn văn bản</string>
+    <string name="view_message_details">Xem chi tiết</string>
+</resources>

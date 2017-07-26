@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Chào mừng</string>
+    <string name="app_name">Hướng dẫn sử dụng</string>
+    <string name="input_method_setting">Chọn bàn phím</string>
+    <string name="input_method_category">Chọn bàn phím mặc định mà bạn sẽ sử dụng để viết tin nhắn, ghi chú, và nhiều thứ khác. Lưu ý rằng bạn có thể cài đặt bàn phím của bên thứ ba khác sau đó.</string>
+    <string name="provision_inputmethod_policy_description">"
+Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
+    <string name="provision_inputmethod_policy_description1">Chính sách Riêng tư</string>
+    <string name="multisim_settings_title">Đã phát hiện 2 thẻ SIM</string>
+    <string name="multisim_settings_category">Cài đặt thẻ SIM</string>
+    <string name="sim_card_detection">Lắp thẻ SIM</string>
+    <string name="sim_card_detecting_title">Kiểm tra thẻ SIM</string>
+    <string name="sim_card_detection_info">Để lắp thẻ SIM, hãy đọc các tài liệu hướng dẫn được kèm theo thiết bị của bạn.</string>
+    <string name="sim_card_detecting">Đang kiểm tra thẻ SIM…</string>
+    <string name="other_settings">Cài đặt bổ sung</string>
+    <string name="other_settings_location">Vị trí</string>
+    <string name="other_settings_location_summary">Cho phép các ứng dụng truy cập vào vị trí của bạn</string>
+    <string name="other_settings_user_experience">Chương trình Trải nghiệm Người dùng</string>
+    <string name="other_settings_user_experience_summary">Giúp cải thiện sản phẩm và dịch vụ của chúng tôi bằng cách gửi dữ liệu sử dụng ẩn danh.</string>
+    <string name="other_settings_upload_debug_log_title">Gửi dữ liệu chuẩn đoán tự động</string>
+    <string name="other_settings_upload_debug_log_summary">Thông tin mà chúng tôi thu thập sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và có thể chứa thông tin cá nhân. Không có dữ liệu nào được sử dụng để nhận dạng cá nhân bạn.</string>
+    <string name="other_settings_auto_update">Cập nhật tự động</string>
+    <string name="other_settings_auto_update_summary">MIUI sẽ chọn thời gian thích hợp nhất để tải xuống và cài đặt cập nhật.</string>
+    <string name="other_settings_mifg_online_content">Tạp chí Khóa màn hình</string>
+    <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
+    <string name="back">Quay lại</string>
+    <string name="next">Tiếp theo</string>
+    <string name="skip_underline">Bỏ qua bước này</string>
+    <string name="sim_dectection_next">Tiếp tục</string>
+    <string name="shut_down">Tắt máy</string>
+    <string name="sim_redetection">Kiểm tra lại</string>
+    <string name="congratulation_title">Cài đặt hoàn tất</string>
+    <string name="congratulation_label">Xin chúc mừng!</string>
+    <string name="pref_title_voice_slot">Ưu tiên thẻ SIM thoại</string>
+    <string name="pref_title_data_slot">Ưu tiên thẻ SIM dữ liệu</string>
+    <string name="summary_not_set">Chưa đặt</string>
+    <string name="ime_privacy_policy">Chính sách Riêng tư của bàn phím đã chọn</string>
+    <string name="ime_privacy_policy_no_network">Không có kết nối mạng. Xem Chính sách Riêng tư của bàn phím này tại %s.</string>
+    <string name="terms_of_use">Điều khoản và Điều kiện</string>
+    <string name="terms_of_use_label">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Bạn cần kết nối internet để kích hoạt Dịch vụ Mi, thẻ SIM, Tìm thiết bị và Mi Home."</string>
+    <string name="user_agreement">Điều khoản Dịch vụ</string>
+    <string name="privacy_policy">Chính sách Riêng tư</string>
+    <string name="agree">Đồng ý</string>
+    <string name="disagree">Hủy</string>
+    <string name="setting_locale">Đang thiết lập khu vực…</string>
+    <string name="agree_terms">Tôi đã đọc và đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư.</string>
+    <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Điều khoản Dịch vụ tại %s.</string>
+    <string name="miui_privacy_policy_no_network">Bạn không có kết nối internet. Xem Chính sách Riêng tư tại %s.</string>
+    <string name="locale_picker_title">Chọn khu vực</string>
+    <string name="install_preinstall_app">Đang tải ứng dụng…</string>
+    <string name="title_fingerprint">Thêm vân tay của bạn</string>
+    <string name="desc_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, xác minh giao dịch Mi Pay, đăng nhập ứng dụng và dịch vụ.</string>
+    <string name="next_fingerprint">Tiếp theo</string>
+    <string name="desc_international_fingerprint">Sử dụng vân tay của bạn để mở khóa thiết bị, hoặc đăng nhập ứng dụng và dịch vụ.</string>
+    <string name="content_description_start">Bắt đầu</string>
+    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="network_access_warning">Bạn cần kết nối internet để kích hoạt dịch vụ Mi và Tìm kiếm thiết bị.</string>
+    <string name="other_settings_user_experience_summary1">Chính sách Riêng tư</string>
+    <string name="page_layout_label">Điều chỉnh kích thước văn bản và bố cục cho Màn hình chính, thanh thông báo, bàn phím quay số và nhiều thứ nữa.</string>
+    <string name="page_layout_title">Bố cục hệ thống</string>
+    <string name="provision_finish">OK</string>
+    <string name="provision_finish_restart">Khởi động lại</string>
+    <string name="content_description_complete">Hoàn tất</string>
+    <string name="content_description_language_picker">Chọn ngôn ngữ</string>
+    <string name="summary_sim_card">Thẻ %1$d</string>
+    <string name="summary_sim_card_with_operator">Thẻ %1$d: %2$s</string>
+    <string name="title_congratulation">Xin chúc mừng!</string>
+</resources>

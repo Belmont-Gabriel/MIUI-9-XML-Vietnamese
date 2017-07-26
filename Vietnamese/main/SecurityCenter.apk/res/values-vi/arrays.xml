@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Tuần này "</item>
+        <item>"Hôm nay "</item>
+        <item>"Tháng này "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Hôm qua "</item>
+        <item>"Hôm nay "</item>
+        <item>"Tháng này "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Tuần này: "</item>
+        <item>"Hôm nay: "</item>
+        <item>"Tháng này: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Hôm qua: "</item>
+        <item>"Hôm nay: "</item>
+        <item>"Tháng này: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Hôm qua (dữ liệu)</item>
+        <item>Hôm nay (dữ liệu)</item>
+        <item>Tháng này (dữ liệu)</item>
+        <item>Hôm qua (Wi-Fi)</item>
+        <item>Hôm nay (Wi-Fi)</item>
+        <item>Tháng này (Wi-Fi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Hôm qua (dữ liệu)</item>
+        <item>Hôm nay (dữ liệu)</item>
+        <item>Tháng này (dữ liệu)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 giây</item>
+        <item>4 giây</item>
+        <item>5 giây</item>
+        <item>6 giây</item>
+        <item>7 giây</item>
+        <item>8 giây</item>
+        <item>9 giây</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Sử dụng dữ liệu "</item>
+        <item>"Sử dụng Wi-Fi "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Sử dụng dữ liệu "</item>
+        <item>"Sử dụng Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Sử dụng dữ liệu "</item>
+        <item>"Sử dụng Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nhận tự động</item>
+        <item>Thiết lập thủ công</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Hiển thị cảnh báo</item>
+        <item>Cảnh báo và tắt dữ liệu di động</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Sử dụng nhiều nhất</item>
+        <item>Tên</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Luôn luôn</item>
+        <item>Chỉ trường hợp ngoại lệ</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Khi thiết bị khóa</item>
+        <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
+        <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Thêm vào danh sách ngoại lệ</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Sau 1 phút</item>
+        <item>Sau 5 phút</item>
+        <item>Sau 10 phút</item>
+        <item>Sau 30 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Một lần</item>
+        <item>Mỗi ngày</item>
+        <item>Ngày làm việc</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Một lần</item>
+        <item>Mỗi ngày</item>
+        <item>Các ngày trong tuần</item>
+        <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+        <item>2 phút</item>
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Hiệu suất cao</item>
+        <item>Cân bằng</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Mặc định</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Không rung</item>
+        <item>Rung khi im lặng</item>
+        <item>Luôn rung</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>Trong 1 phút</item>
+        <item>Trong 5 phút</item>
+        <item>Trong 10 phút</item>
+        <item>Trong 30 phút</item>
+        <item>Không bao giờ</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Không</item>
+        <item>Thấp</item>
+        <item>Vừa</item>
+        <item>Cao</item>
+    </string-array>
+</resources>

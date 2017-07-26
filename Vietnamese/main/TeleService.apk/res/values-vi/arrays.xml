@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Toàn cầu</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA và EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA và LTE</item>
+        <item>TD-SCDMA, WCDMA và LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM và LTE</item>
+        <item>TD-SCDMA và GSM</item>
+        <item>TD-SCDMA và LTE</item>
+        <item>TD-SCDMA và WCDMA</item>
+        <item>Chỉ TD-SCDMA</item>
+        <item>LTE/WCDMA</item>
+        <item>Chỉ LTE</item>
+        <item>LTE/GSM/CDMA tự động (PRL)</item>
+        <item>LTE/GSM tự động (PRL)</item>
+        <item>LTE/CDMA tự động (PRL)</item>
+        <item>GSM/CDMA tự động (PRL)</item>
+        <item>Chỉ EvDo</item>
+        <item>Chỉ CDMA</item>
+        <item>CDMA tự động (PRL)</item>
+        <item>GSM tự động (PRL)</item>
+        <item>Chỉ WCDMA</item>
+        <item>Chỉ GSM</item>
+        <item>Ưu tiên WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Tiếng Anh</item>
+        <item>Tiếng Pháp</item>
+        <item>Tiếng Tây Ban Nha</item>
+        <item>Tiếng Nhật</item>
+        <item>Tiếng Hàn</item>
+        <item>Tiếng Trung</item>
+        <item>Tiếng Do Thái</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Trong nước</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Cả 3</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Cả 3</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Bình thường</item>
+        <item>Dài</item>
+    </string-array>
+    <string-array name="livetalk_about_info_array">
+        <item>- Hỗ trợ số điện thoại trong nước và quốc tế.</item>
+        <item>- Mỗi cuộc gọi sử dụng 1KB dữ liệu di động (sử dụng mạng di động thông thường khi không có kết nối dữ liệu di động).</item>
+        <item>- Nhà cung cấp dịch vụ có thể sẽ tính phí chuyển vùng khi sử dụng dịch vụ này.</item>
+        <item>- Bạn cần phải bật Nghe miễn phí để sử dụng dịch vụ này, nếu không nhà mạng có thể tính phí trong khi chuyển vùng.</item>
+        <item>- Dịch vụ hỗ trợ: YunZhiXun, RonLianYunTongXun, LTSC</item>
+    </string-array>
+</resources>
