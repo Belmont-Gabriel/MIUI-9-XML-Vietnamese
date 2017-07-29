@@ -223,7 +223,6 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="file_uploading">Đang tải lên…</string>
     <string name="new_backup">Sao lưu</string>
     <string name="restore_backup">Khôi phục</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">Vui lòng chờ…</string>
     <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
