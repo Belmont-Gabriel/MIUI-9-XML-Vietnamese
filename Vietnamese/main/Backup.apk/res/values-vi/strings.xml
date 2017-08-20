@@ -4,9 +4,12 @@
     <string name="xiaomi_update_dialog_message">"Giới thiệu phiên bản %1$s
 Kích thước: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Giới thiệu phiên bản %1$s
-Kích thước bản cập nhật Delta: %2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Lưu trữ không khả dụng, hãy kiểm tra thẻ SD.</string>
-    <string name="xiaomi_connect_download_manager_fail">Kết nối Quản lý Tải xuống thất bại, vui lòng kiểm tra trạng thái Quản lý Tải xuống trong Quản lý Ứng dụng.</string>
+Kích thước cập nhật Delta: %2$s"</string>
+    <string name="xiaomi_external_storage_unavailable">Lưu trữ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_connect_download_manager_fail">Không thể bắt đầu tải xuống. Chắc chắn rằng Quản ý Tải xuống hoạt động bình thường.</string>
     <string name="app_name">Sao lưu</string>
     <string name="local_app_name">Sao lưu</string>
     <string name="local_home_title">Sao lưu trên máy</string>
@@ -125,10 +128,10 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="button_finish">Hoàn tất</string>
     <string name="progress_backup_hint">Đang sao lưu…</string>
     <string name="cancel_backup">Hủy sao lưu</string>
+    <string name="cancel_restore">Dừng</string>
     <string name="restore_contact">Khôi phục liên hệ</string>
     <string name="restore_contact_content">Khôi phục có thể dẫn đến các liên hệ bị trùng.</string>
     <string name="progress_restore_hint">Đang khôi phục…</string>
-    <string name="cancel_restore">Hủy khôi phục</string>
     <string name="restore_failed">Không thể khôi phục</string>
     <string name="local_select_sysdata">Hệ thống</string>
     <string name="local_select_userapp">Ứng dụng</string>
@@ -226,9 +229,11 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="state_waiting">Vui lòng chờ…</string>
     <string name="state_mounting">Đang truy cập bộ nhớ bộ định tuyến…</string>
     <string name="abort_backup_confirm">Sao lưu chưa hoàn tất. Dừng lại không?</string>
+    <string name="abort_restore_confirm">Khôi phục chưa hoàn tất. Vẫn dừng lại?</string>
     <string name="feature_title_call_log">Lịch sử cuộc gọi</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Tài khoản Mi</string>
+    <string name="feature_title_antispam">Danh sách chặn</string>
     <string name="summary_err_backup_encrypting">Đăng nhập vào Tài khoản Mi.</string>
     <string name="summary_err_restore_encrypting">Không thể khôi phục. Đảm bảo bản sao lưu này được tạo ra bằng Tài khoản Mi của bạn.</string>
     <string name="summary_err_backup_no_network">Không thể kết nối mạng</string>
@@ -252,6 +257,8 @@ Kích thước bản cập nhật Delta: %2$s"</string>
     <string name="notif_restore_complete_title">Khôi phục thành công</string>
     <string name="notif_trans_sending_completed">Dữ liệu đã gửi thành công</string>
     <string name="notif_trans_receiving_completed">Dữ liệu đã nhận thành công</string>
+    <string name="notif_trans_sending_failed">Không thể gửi dữ liệu</string>
+    <string name="notif_trans_receiving_failed">Không thể nhận dữ liệu</string>
     <string name="custom_progress">%d mục</string>
     <string name="remote_receive">Nhận</string>
     <string name="click_to_view">Chạm để xem</string>

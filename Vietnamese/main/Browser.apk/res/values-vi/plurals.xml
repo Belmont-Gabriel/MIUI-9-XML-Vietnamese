@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d mục đã chặn</item>
+        <item quantity="one">%d mục đã chặn</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d kết quả phù hợp</item>
+        <item quantity="one">%d kết quả phù hợp</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d ngày trước</item>
     </plurals>
@@ -11,32 +19,24 @@
         <item quantity="other">Đã chọn %1$d mục</item>
         <item quantity="one">Đã chọn %1$d mục</item>
     </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">Xóa %1$d video?</item>
-        <item quantity="one">Xóa %1$d video?</item>
-    </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">Đã xóa %1$d video thành công.</item>
         <item quantity="one">Đã xóa %1$d video thành công.</item>
     </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">Còn lại %d phút</item>
-        <item quantity="one">Còn lại %d phút</item>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Xóa %1$d video?</item>
+        <item quantity="one">Xóa %1$d video?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">Đã xóa %1$d mục khỏi lịch sử.</item>
+        <item quantity="one">Đã xóa %1$d mục khỏi lịch sử.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Xóa %1$d mục khỏi lịch sử?</item>
         <item quantity="one">Xóa %1$d mục khỏi lịch sử?</item>
     </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d mục đã được xóa khỏi lịch sử.</item>
-        <item quantity="one">%1$d mục đã được xóa khỏi lịch sử.</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d kết quả phù hợp</item>
-        <item quantity="one">%d kết quả phù hợp</item>
-    </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">%d mục đã chặn</item>
-        <item quantity="one">%d mục đã chặn</item>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Còn lại %d phút</item>
+        <item quantity="one">Còn lại %d phút</item>
     </plurals>
 </resources>
