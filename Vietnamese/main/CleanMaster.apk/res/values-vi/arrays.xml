@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Hiển thị</item>
-        <item>Không hiển thị</item>
-        <item>Hiển thị sau</item>
+        <item>Chỉ thông báo</item>
+        <item>Xóa tự động</item>
+        <item>Xóa và thông báo</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Dọn dẹp tập tin này</item>
@@ -61,6 +61,16 @@
         <item>Mỗi 7 ngày</item>
         <item>Mỗi 15 ngày</item>
         <item>Mỗi 30 ngày</item>
+    </string-array>
+    <string-array name="wechat_menu_delete">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+        <item>Xóa</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Xóa</item>
+        <item>Xem</item>
     </string-array>
     <string-array name="scan_engine">
         <item>Clean Master</item>

@@ -19,10 +19,16 @@
         <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
     <plurals name="view_num">
-        <item quantity="other">%1$d lượt xem</item>
+        <item quantity="other">%1$s lượt xem</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d nhóm</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Xóa %d ảnh?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Xóa %1$s ảnh từ tất cả thiết bị?</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">Bạn có thể xóa dữ liệu không quan trọng của %d ứng dụng</item>
@@ -41,5 +47,26 @@
     </plurals>
     <plurals name="deepclean_video_summary">
         <item quantity="other">Tìm thấy %d video, bạn có thể xóa video không cần thiết.</item>
+    </plurals>
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">%d ứng dụng đã cài đặt</item>
+    </plurals>
+    <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Không thể xuất %d video. Giải phóng dung lượng và thử lại</item>
+    </plurals>
+    <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d tập tin trống) %2$s</item>
+    </plurals>
+    <plurals name="app_usage_day">
+        <item quantity="other">Chưa sử dụng %d ngày</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Chưa sử dụng %d tháng</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Chưa sử dụng %d năm</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">&lt;Data>&amp;lt;font color=#ff0000 >%d&amp;lt;/font> ứng dụng không sử dụng trong thời gian dài, hãy kiểm tra.;&lt;/Data></item>
     </plurals>
 </resources>
