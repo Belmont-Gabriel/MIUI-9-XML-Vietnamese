@@ -42,7 +42,7 @@
     <string name="cloud_app_no_data">Không có sao lưu</string>
     <string name="cloud_app_restore_error">Không thể khôi phục</string>
     <string name="cloud_app_restore_success">Đã khôi phục ứng dụng</string>
-    <string name="cloud_app_backup_success">Hoàn tất sao lưu ứng dụng</string>
+    <string name="cloud_app_backup_success">Sao lưu ứng dụng thành công</string>
     <string name="cloud_app_check_data">Đang trao đổi với Mi Cloud…</string>
     <string name="cloud_app_no_network">Không thể kết nối mạng</string>
     <string name="button_delete">Xóa</string>
@@ -119,6 +119,6 @@
     <string name="btn_back">Quay lại</string>
     <string name="btn_continue">Tiếp tục</string>
     <string name="btn_skip">Bỏ qua bước này</string>
-    <string name="provision_arrow_back">&lt;</string>
-    <string name="provision_arrow_next">></string>
+    <string name="can_not_restore_in_lite_mode">Không thể khôi phục trong Chế độ thu gọn</string>
+    <string name="can_not_backup_in_lite_mode">Không thể sao lưu trong Chế độ thu gọn</string>
 </resources>
