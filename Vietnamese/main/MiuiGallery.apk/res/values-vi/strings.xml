@@ -915,7 +915,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="app_name_edit_picture">Chỉnh sửa ảnh</string>
     <string name="appwidget_empty_text">Không có ảnh</string>
     <string name="appwidget_title">Thư viện</string>
-    <string name="aspect_ratio_square">1:1</string>
     <string name="auto">Tự động</string>
     <string name="auto_create_recent_album">Tạo album yêu thích tự động</string>
     <string name="auto_create_recent_album_confirm">Thư viện sẽ xóa dữ liệu album Yêu thích. Album yêu thích được đánh dấu thủ công sẽ không bị ảnh hưởng.</string>
