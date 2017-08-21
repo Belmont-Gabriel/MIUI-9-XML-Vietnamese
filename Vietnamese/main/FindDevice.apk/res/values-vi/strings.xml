@@ -14,6 +14,7 @@
     <string name="find_device_error_account_unknown_error">Lỗi Tài khoản Mi (%s).</string>
     <string name="find_device_crash">Tìm thiết bị bị đóng đột ngột.</string>
     <string name="find_device_storage_corrupted">Tìm Thiết bị lưu trữ bị hỏng. Thiết bị của bạn hiện không an toàn.</string>
+    <string name="find_device_telephony_fault">Tìm kiếm Thiết bị: Lỗi điện thoại (%s).</string>
     <string name="time_correction_success">Đã hiệu chỉnh thời gian</string>
     <string name="time_correction_failure">Không thể hiệu chỉnh thời gian. %s</string>
     <string name="find_device_stop_noise">Bấm OK để im lặng</string>
@@ -40,6 +41,8 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="activate_xiaomi_account">Kích hoạt thiết bị này</string>
     <string name="login_extra_steps">Đăng nhập xác minh</string>
     <string name="phone_locked">Thiết bị này có thể đã liên kết với tài khoản Mi (%s). Đăng nhập để kích hoạt thiết bị này.</string>
+    <string name="phone_locked_account_email">, email đã liên kết: %s</string>
+    <string name="phone_locked_account_phone">, số điện thoại đã liên kết: %s</string>
     <string name="password">Mật khẩu</string>
     <string name="captcha">Mã xác thực</string>
     <string name="stop_on_empty_password">Mật khẩu không được để trống</string>
@@ -74,4 +77,6 @@ Lý do khác
     <string name="default_lock_msg_words_with_phone">Xin chào! Tôi bị mất điện thoại. Bạn có thể liên lạc với tôi được không? Cám ơn!</string>
     <string name="default_lock_msg_words">Thiết bị này đã liên kết với Tài khoản Mi có sẵn. Vì lý do an toàn, bạn cần nhập mật khẩu để xác minh thiết bị.</string>
     <string name="lock_msg_phone">Thông tin liên lạc: %s</string>
+    <string name="default_debt_msg_words">"Thiết bị này đã bị khóa do chưa thanh toán trả góp.
+Liên hệ với đại lý bán hàng để biết thêm chi tiết."</string>
 </resources>

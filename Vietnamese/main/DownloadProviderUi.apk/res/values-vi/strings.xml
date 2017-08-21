@@ -12,6 +12,7 @@
     <string name="download_success">Tải xuống hoàn tất</string>
     <string name="download_error">Không thể tải xuống</string>
     <string name="download_error_insufficient_space">Không đủ dung lượng</string>
+    <string name="download_error_download_file_not_exists">Tập tin không tồn tại</string>
     <string name="dialog_title_not_available">Không thể tải xuống</string>
     <string name="dialog_failed_body">Thử tải tập tin này xuống sau hoặc xóa trong danh sách chờ tải xuống?</string>
     <string name="dialog_title_queued_body">Tập tin chưa thể sử dụng</string>
@@ -30,7 +31,7 @@
     <string name="retry_download">Hãy thử lại</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
     <string name="select_all">Chọn tất cả</string>
-    <string name="selected_count">Đã chọn %1$d mục, tổng %2$d.</string>
+    <string name="selected_count">Đã chọn %1$d mục, tổng %2$d</string>
     <string name="download_share_dialog">Chia sẻ qua…</string>
     <string name="action_settings">Cài đặt</string>
     <string name="storage_internal">Bộ nhớ trong</string>
@@ -61,15 +62,15 @@
     <string name="continue_download">Tiếp tục</string>
     <string name="open_download">Mở</string>
     <string name="open_folder">Mở thư mục</string>
-    <string name="paused_by_app">Đã tạm dừng</string>
+    <string name="paused_by_app">Tạm dừng</string>
     <string name="paused_queued_for_wifi">Đang chờ kết nối mạng</string>
     <string name="paused_waiting_for_network">Đang chờ kết nối mạng</string>
     <string name="paused_waiting_to_retry">Đang chờ thử lại</string>
-    <string name="paused_unknown">Đã tạm dừng</string>
+    <string name="paused_unknown">Tạm dừng</string>
     <string name="confirm_delete_downloads_message">%d tải xuống sẽ bị xóa.</string>
     <string name="confirm_delete_the_download_item_message">Xóa tải xuống này?</string>
     <string name="delete_the_downloaded_file">Các tập tin đã tải xuống sẽ bị xóa.</string>
-    <string name="downloads_operating">Đang tiến hành…</string>
+    <string name="downloads_operating">Đang thực hiện…</string>
     <string name="select_operation_items">Chọn mục</string>
     <string name="preferences_title">Cài đặt</string>
     <string name="pref_download_settings_title">Giới hạn kích thước tải xuống</string>
@@ -80,8 +81,8 @@
     <string name="pref_summary_no_limit_popup">Không giới hạn</string>
     <string name="download">Tải xuống</string>
     <string name="rank">Xếp hạng</string>
-    <string name="download_in_process">ĐANG TẢI XUỐNG</string>
-    <string name="download_complete">HOÀN TẤT</string>
+    <string name="download_in_process">Đang tải xuống</string>
+    <string name="download_complete">Hoàn tất</string>
     <string name="downloading_empty">Trống</string>
     <string name="downloaded_empty">Trống</string>
     <string name="download_list_get_free_vip">Dùng thử Xunlei</string>
@@ -91,7 +92,7 @@
     <string name="download_list_get_hightspeed_flow_auto_open">Tăng tốc tải xuống Xunlei đã bật</string>
     <string name="turn_off_xunlei_tips">Tăng tốc tải xuống Xunlei đã tắt</string>
     <string name="auth_activity_title">Tài khoản Xunlei</string>
-    <string name="retry_after_network_available">Không thể kết nối tới mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
+    <string name="retry_after_network_available">Không thể kết nối mạng. Kiểm tra kết nối dữ liệu của bạn và thử lại.</string>
     <string name="editmode_menu_share">Chia sẻ</string>
     <string name="editmode_menu_delete">Xóa</string>
     <string name="all_downloads">Tất cả tải xuống</string>
@@ -118,9 +119,9 @@
     <string name="bind_xunlei_account">Thêm Tài khoản Xunlei</string>
     <string name="choose_open_time">Chọn khi nào bạn muốn bắt đầu</string>
     <string name="experience_xunlei_account_speed">Thành viên Xunlei có thể tận hưởng tải xuống tốc độ cao.</string>
-    <string name="high_speed_channel">Tăng tốc Xunlei (trả phí)</string>
+    <string name="high_speed_channel">Tăng tốc Xunlei (trả phí):</string>
     <string name="free_high_speed_channel">Tăng tốc Xunlei (miễn phí)</string>
-    <string name="dredge_xunlei_account">Tạo một Tài khoản Xunlei</string>
+    <string name="dredge_xunlei_account">Tạo tài khoản Xunlei</string>
     <string name="immediately_a_renewal">Gia hạn ngay</string>
     <string name="period_of_validity">Hiệu lực:</string>
     <string name="determine">OK</string>
@@ -139,7 +140,7 @@
     <string name="get_order_dialog_msg">Đang nhận thông tin đơn hàng…</string>
     <string name="get_account_dialog_msg">Đang nhận thông tin tài khoản…</string>
     <string name="display_expire_netiv1">Tháng này</string>
-    <string name="add_flow_success_msg">%s đã thêm tháng này</string>
+    <string name="add_flow_success_msg">Đã thêm %s tháng này</string>
     <string name="add_flow_fail_vip_msg">Đã bật tăng tốc tải xuống Xunlei</string>
     <string name="add_flow_fail_haveget_msg">Thời gian dùng thử đã hết hạn.</string>
     <string name="download_list_open_xl_title">Tăng tốc tải xuống Xunlei</string>
@@ -162,10 +163,10 @@
     <string name="recommend_show_other_downloads">Xem phổ biến</string>
     <string name="recommend_install">Cài đặt</string>
     <string name="recommend_open">Mở</string>
-    <string name="recommend_downloading">Đang tải…</string>
+    <string name="recommend_downloading">Đang tải xuống…</string>
     <string name="recommend_prepare">Đang chờ…</string>
     <string name="recommend_installing">Đang cài đặt…</string>
-    <string name="recommend_failed">Đã thất bại</string>
+    <string name="recommend_failed">Thất bại</string>
     <string name="recommend_paused">Tạm dừng</string>
     <string name="recommend_loading">Đang tải…</string>
     <string name="about">Giới thiệu</string>
@@ -185,7 +186,7 @@
     <string name="third_web_cancel">Hủy</string>
     <string name="third_web_confirm">OK</string>
     <string name="creat_task_success">Đã thêm vào danh sách chờ tải xuống</string>
-    <string name="no_vip_info">Đăng ký làm thành viên Xunlei để tăng tốc tải xuống</string>
+    <string name="no_vip_info">Đăng ký thành viên Xunlei để tăng tốc tải xuống</string>
     <string name="no_vip_show_info">"Tăng tốc tải xuống
 trên tất cả thiết bị với Xunlei"</string>
     <string name="vip_show_info">"Hơn 5 triệu thành viên.
@@ -204,15 +205,15 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="starting_analysis">Đang nhận thông tin…</string>
     <string name="network_error">Không thể kết nối mạng</string>
     <string name="start_analysis">Kiểm tra ngay</string>
-    <string name="create_task">Tạo nhiệm vụ tải xuống</string>
+    <string name="create_task">Tạo tác vụ</string>
     <string name="input_valid_address">Nhập địa chỉ tải xuống</string>
-    <string name="invalid_address">Địa chỉ tải xuống bạn nhập không hợp lệ</string>
+    <string name="invalid_address">Địa chỉ tập tin bạn nhập không hợp lệ</string>
     <string name="do_not_support_url">Loại URL này không được hỗ trợ</string>
     <string name="edit_hint">Nhập địa chỉ http, torrent, hoặc eMule</string>
     <string name="revert_download_path">Sử dụng vị trí tải xuống mặc định?</string>
     <string name="revert_default">Khôi phục cài đặt mặc định</string>
-    <string name="save_path">"Lưu tải xuống đến: "</string>
-    <string name="cancel">Huỷ</string>
+    <string name="save_path">"Lưu tải xuống vào: "</string>
+    <string name="cancel">Hủy</string>
     <string name="confirm">OK</string>
     <string name="download_auth">Đang nhận ủy quyền…</string>
     <string name="setting_open_debug">Chế độ Gỡ lỗi đang bật. Chạm 6 lần vào đây để tắt chế độ Gỡ lỗi.</string>
@@ -222,7 +223,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="install">Cài đặt</string>
     <string name="downloading">Đang tải xuống…</string>
     <string name="downloaded">Tải xuống hoàn tất</string>
-    <string name="paused">Đã tạm dừng</string>
+    <string name="paused">Tạm dừng</string>
     <string name="installing">Đang cài đặt…</string>
     <string name="open">Mở</string>
     <string name="bt_download">Tải xuống</string>
@@ -231,7 +232,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="task_detail">Nhiệm vụ</string>
     <string name="subbt_wait">Đang chờ…</string>
     <string name="subbt_downloading">Đang tải xuống…</string>
-    <string name="subbt_pause">Đã tạm dừng</string>
+    <string name="subbt_pause">Tạm dừng</string>
     <string name="subbt_fail">Đã thất bại</string>
     <string name="hint">Chú ý</string>
     <string name="xunlei_open_info">Sử dụng Công cụ tải xuống Xunlei để tải xuống loại liên kết này?</string>
@@ -328,8 +329,8 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="xl_highway_autoopen_info">Bật kênh tốc độ cao tự động</string>
     <string name="xl_extend">Thêm</string>
     <string name="xl_pay_info">Tổng %1$s NDT, tiết kiệm %2$s NDT</string>
-    <string name="xl_vip_open">Mua</string>
-    <string name="xl_vip_pay">Tiếp tục gia hạn</string>
+    <string name="xl_vip_open">Nạp tiền</string>
+    <string name="xl_vip_pay">Gia hạn</string>
     <string name="xl_vip_overdue">Hết hạn</string>
     <string name="download_num_size">%1$s | %2$s</string>
     <string name="app_size">%1$s</string>
@@ -351,10 +352,10 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="unit_cn_hundredmillions">00M</string>
     <string name="ad_mark">QC</string>
     <string name="download_list_title_browser">Tải xuống</string>
-    <string name="menu_title_fileexplore">Khám phá</string>
+    <string name="menu_title_fileexplore">Tập tin</string>
     <string name="high_speed_tryout">Tốc độ tải xuống chậm, hãy đăng ký làm thành viên Xunlei</string>
     <string name="high_speed_tryout_time">Thời gian còn lại: %1$s. Đăng ký làm thành viên Xunlei.</string>
-    <string name="high_speed_tryout_percent">Tăng tốc độ tải lên %1$s, đăng ký làm thành viên của Xunlei</string>
+    <string name="high_speed_tryout_percent">Tăng tốc độ tải lên %1$s, hãy đăng ký làm thành viên của Xunlei</string>
     <string name="sniff_vip_tip_speedup">Bạn có thể thử một lần tăng tốc miễn phí</string>
     <string name="sniff_vip_tip_vip">Xunlei có thể tăng tốc độ tải xuống</string>
     <string name="high_speed_tryout_percent_slow">Xunlei có thể tăng tốc độ tải xuống</string>
@@ -394,7 +395,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="durationMinuteSecond">%1$d phút %2$d giây</string>
     <string name="durationSeconds">%1$d giây</string>
     <string name="durationSecond">%1$d giây</string>
-    <string name="search_hot_recommend">Đã đề nghị</string>
+    <string name="search_hot_recommend">Kiến nghị</string>
     <string name="search_hot_source">Phổ biến</string>
     <string name="search_website">Trang web</string>
     <string name="search_history_title">Lịch sử</string>
@@ -420,7 +421,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="save_text">Tiết kiệm %1$s Tệ</string>
     <string name="sniff_copyright_text">Không thể hiển thị kết quả do vấn đề bản quyền</string>
     <string name="extend">Thêm</string>
-    <string name="task_fail">Đã thất bại</string>
+    <string name="task_fail">Thất bại</string>
     <string name="notify_disabled_net_by_app">Truy cập internet bị giới hạn</string>
     <string name="notify_only_wifi_download">Đang chờ kết nối Wi-Fi</string>
     <string name="toast_only_wifi_download">Kết nối Wi-Fi để tải xuống mục này</string>
@@ -430,18 +431,22 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="clear_data">Xóa</string>
     <string name="search_home_download_popup">Quay lại Tải xuống</string>
     <string name="search_home_vif_show_more">Thêm</string>
-    <string name="goto_global_search">Đang tìm kiếm \"%1$s\"</string>
+    <string name="goto_global_search">Đang tìm kiếm web \"%1$s\"</string>
     <string name="search_vif_score_text">Đánh giá: %1$s</string>
     <string name="search_vif_empty">Không có mục được kiến nghị</string>
     <string name="title_homepage_infoflow">Cập nhật gần đây</string>
     <string name="text_showmore_infoflow">Xem thêm nguồn</string>
-    <string name="ad_title_other">Người đã tải hình ảnh này cũng đã tải xuống</string>
-    <string name="info_flow_only_load_wifi">Tải nguồn được kiến nghị khi kết nối Wi-Fi</string>
-    <string name="info_flow_show">Nguồn được kiến nghị</string>
-    <string name="info_flow_setting">Cài đặt</string>
+    <string name="ad_title_other">Người tải hình ảnh này cũng đã tải xuống</string>
+    <string name="info_flow_only_load_wifi">Chỉ tải xuống nội dung bằng Wi-Fi</string>
+    <string name="info_flow_show">Hiển thị nội dung kiến nghị</string>
+    <string name="info_flow_setting">Cài đặt nội dung</string>
     <string name="no_result_for_keyword">Không tìm thấy \"%1$s\"</string>
-
-
-
-
+    <string name="download_status_paused">Tạm dừng</string>
+    <string name="download_status_continue">Tiếp tục</string>
+    <string name="download_status_fail">Hãy thử lại</string>
+    <string name="dialog_title_recommend">Tắt nguồn được kiến nghị</string>
+    <string name="dialog_msg_recommend">Bạn không thể xem nguồn kiến nghị sau khi tắt. Bạn có thể chọn \"Chỉ sử dụng Wi-Fi\" để tiết kiệm dữ liệu di động.</string>
+    <string name="dialog_btn_cancel">Hủy</string>
+    <string name="dialog_btn_ok">OK</string>
+    <string name="ad_install">Cài đặt</string>
 </resources>

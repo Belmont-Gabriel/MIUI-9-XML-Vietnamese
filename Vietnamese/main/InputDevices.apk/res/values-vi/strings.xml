@@ -7,6 +7,7 @@
     <string name="keyboard_layout_english_us_intl">Tiếng Anh (Mỹ), kiểu Quốc tế</string>
     <string name="keyboard_layout_english_us_colemak_label">Tiếng Anh (Mỹ), kiểu Colemak</string>
     <string name="keyboard_layout_english_us_dvorak_label">Tiếng Anh (Mỹ), kiểu Dvorak</string>
+    <string name="keyboard_layout_english_us_workman_label">Tiếng Anh (Mỹ), kiểu Workman</string>
     <string name="keyboard_layout_german_label">Tiếng Đức</string>
     <string name="keyboard_layout_french_label">Tiếng Pháp</string>
     <string name="keyboard_layout_french_ca_label">Tiếng Pháp (Canada)</string>

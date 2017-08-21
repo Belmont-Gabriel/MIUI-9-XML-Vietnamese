@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_ACCESS_EXTENSION_SERVICE">Cho phép ứng dụng truy cập vào mô-đun mở rộng của Vân tay.</string>
+</resources>
