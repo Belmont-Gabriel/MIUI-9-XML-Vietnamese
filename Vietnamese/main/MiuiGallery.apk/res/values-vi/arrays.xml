@@ -12,6 +12,14 @@
         <item>Ông ngoại</item>
         <item>Bà ngoại</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Cha</item>
+        <item>Mẹ</item>
+        <item>Ông nội</item>
+        <item>Bà nội</item>
+        <item>Ông ngoại</item>
+        <item>Bà ngoại</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>Tôi</item>
         <item>Con cái</item>
@@ -19,7 +27,7 @@
         <item>Đồng nghiệp</item>
         <item>Bạn học</item>
         <item>Bạn bè</item>
-        <item>Không xác định</item>
+        <item>Chưa thiết lập</item>
     </string-array>
     <string-array name="slideshow_time_entries">
         <item>5 phút</item>

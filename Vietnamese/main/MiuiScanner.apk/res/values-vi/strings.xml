@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Máy quét</string>
     <string name="impunity_declaration_title">Điều khoản Dịch vụ</string>
-    <string name="impunity_declaration_content">Ứng dụng này cần phải kết nối Internet để làm việc bình thường.</string>
+    <string name="impunity_declaration_content">Ứng dụng này cần kết nối Internet và dịch vụ vị trí để làm việc bình thường.</string>
     <string name="impunity_declaration_positive_text">Cho phép</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="accessibility_shutter_button">Màn trập</string>
@@ -30,8 +30,9 @@
     <string name="picker_lable">Ảnh</string>
     <string name="common_retake_picture">Chụp lại</string>
     <string name="common_save">Lưu</string>
-    <string name="common_retry">Thử lại</string>
+    <string name="common_retry">Hãy thử lại</string>
     <string name="sdk_not_ready">Đang chuẩn bị SDK. Hãy thử lại sau.</string>
+    <string name="error_get_image">nhận ảnh thất bại</string>
     <string name="language_entry_chinese_cn">Tiếng Trung giản thể</string>
     <string name="language_entry_chinese_tw">Tiếng Trung phồn thể</string>
     <string name="language_entry_danish">Tiếng Đan Mạch</string>
@@ -64,6 +65,7 @@
     <string name="recognize_fail">Không thể đọc mã</string>
     <string name="place_barcode_into_rectangle">Đặt mã vạch trong khung</string>
     <string name="barcode_into_rectangle">Đặt mã vạch trong khung</string>
+    <string name="drag_barcode_into_frame">Kéo khung cho vừa với mã</string>
     <string name="scan_fail">Không thể quét mã</string>
     <string name="scan_result">Kết quả</string>
     <string name="url_is_safety">Trang web này an toàn</string>
@@ -90,7 +92,7 @@
     <string name="wifi_open_fail">Không thể bật Wi-Fi</string>
     <string name="allow_check_website_security">Hiển thị thông báo kiểm tra bảo mật trang web</string>
     <string name="accept">OK</string>
-    <string name="cancel">Huỷ</string>
+    <string name="cancel">Hủy</string>
     <string name="tips_message">Kết nối internet để kiểm tra các trang web bạn truy cập là an toàn.</string>
     <string name="not_tips">Không hiển thị lại</string>
     <string name="settings">Cài đặt</string>
@@ -98,6 +100,8 @@
     <string name="choose_picture">Chọn ảnh mã QR</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">Alipay</string>
+    <string name="weixin_code_tip">Sử dụng WeChat để quét mã QR này</string>
+    <string name="back">Quay lại</string>
     <string name="shopping_title">Chụp ảnh của sản phẩm</string>
     <string name="shopping_searching">Đang tìm kiếm…</string>
     <string name="shopping_vendor_info">Được cung cấp bởi Taobao</string>
@@ -162,4 +166,16 @@
     <string name="document_color_picture_tip">Đang chuyển đổi sang màu…</string>
     <string name="document_save_succeed_tip">Tài liệu đã lưu vào %1$s</string>
     <string name="document_recognize_fail_tip">Không thể đọc tài liệu</string>
+    <string name="recognition_error_download_title">Yêu cầu công cụ nhận dạng</string>
+    <string name="recognition_error_download_msg">Tải xuống công cụ nhận dạng để quét thẻ. Dung lượng khoảng 15MB.</string>
+    <string name="recognition_error_download_ok">Tải xuống</string>
+    <string name="recognition_error_download_cancel">Để sau</string>
+    <string name="recognition_error_download_no_network">Không thể tải xuống. Hãy chắc chắn bạn đã kết nối với mạng.</string>
+    <string name="recognition_error_downloading">Đang tải xuống công cụ nhận dạng…</string>
+    <string name="recognition_error_download_data_msg">Tải xuống công cụ nhận dạng để quét thẻ. Dung lượng khoảng 15MB. Sử dụng dữ liệu di động để tải?</string>
+    <string name="recognition_error_download_success">Đã tải xuống thành công</string>
+    <string name="recognition_error_download_fail">Không thể tải xuống công cụ nhận dạng</string>
+    <string name="low_version_tip">Phiên bản MIUI quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
+    <string name="app_description_title">Giới thiệu Máy quét</string>
+    <string name="app_description_content">Máy quét có thể quét mã QR, danh thiếp, và tài liệu. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
 </resources>

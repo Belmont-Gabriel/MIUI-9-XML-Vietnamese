@@ -50,4 +50,9 @@
         <item>Bụi</item>
         <item>Sương mù</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Hình nền</item>
+        <item>Tiện ích</item>
+        <item>Cài đặt</item>
+    </string-array>
 </resources>

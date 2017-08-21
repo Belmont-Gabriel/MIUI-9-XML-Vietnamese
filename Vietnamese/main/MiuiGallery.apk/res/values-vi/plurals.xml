@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Không hiển thị khuôn mặt này?</item>
+    <plurals name="face_count">
+        <item quantity="other">Tổng %d ảnh</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s ảnh %2$s >></item>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Tổng %d ảnh</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d năm</item>
@@ -40,13 +40,13 @@
         <item quantity="other">Không thể tải xuống %1$d ảnh, thử lại?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos, please connect network and retry"</item>
+        <item quantity="other">Không thể tải xuống %1$d ảnh, kết nối với mạng và thử lại</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">Không thể tải xuống %1$d ảnh (%2$dMB), thử lại?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Couldn't download %1$d photos (%2$dMB), please connect network and retry"</item>
+        <item quantity="other">Không thể tải xuống %1$d ảnh (%2$dMB), kết nối với mạng và thử lại</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
         <item quantity="other">Hủy tải xuống %d ảnh còn lại?</item>
@@ -70,25 +70,37 @@
         <item quantity="other">%d ảnh</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d ảnh| %2$s</item>
+        <item quantity="other">%1$d ảnh | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d mục đã được sao lưu</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d ảnh và video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d mục đang chờ sao lưu</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d ảnh và video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Lỗi mạng. %1$d mục đang chờ sao lưu</item>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Tiếp tục sao lưu trong %d giờ</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Đồng bộ đã tắt. %1$d mục đang chờ sao lưu</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d ảnh và video | Đã tạm dừng</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud đã đầy. %1$d mục đang chờ sao lưu</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">Chưa sao lưu %d ảnh và video</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Bộ nhớ trong không đủ. %1$d mục đang chờ sao lưu</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d mục</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d ảnh</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d ảnh</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d ảnh đang chờ sao lưu</item>
@@ -111,10 +123,46 @@
     <plurals name="download_error">
         <item quantity="other">Không thể tải xuống %1$d tập tin</item>
     </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Không thể tải xuống %1$d tập tin, kiểm tra kết nối mạng và thử lại</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d mục đã chọn</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">Bỏ qua %1$d ảnh không được kết xuất.</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">Tổng %1$d mục</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Tìm thấy %1$d ảnh mới</item>
+    </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Đã thêm %1$d ảnh vào album ẩn</item>
+    </plurals>
+    <plurals name="backup_waiting">
+        <item quantity="other">%1$d mục đang chờ sao lưu</item>
+    </plurals>
+    <plurals name="backuped">
+        <item quantity="other">%1$d mục đã được sao lưu</item>
+    </plurals>
+    <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud đã đầy. %1$d mục đang chờ sao lưu</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Không hiển thị khuôn mặt này?</item>
+    </plurals>
+    <plurals name="local_space_full">
+        <item quantity="other">Bộ nhớ trong không đủ. %1$d mục đang chờ sao lưu</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s ảnh %2$s >></item>
+    </plurals>
+    <plurals name="network_unsatisfied">
+        <item quantity="other">Lỗi mạng. %1$d mục đang chờ sao lưu</item>
+    </plurals>
+    <plurals name="sync_off">
+        <item quantity="other">Đồng bộ đã tắt. %1$d mục đang chờ sao lưu</item>
     </plurals>
 </resources>
