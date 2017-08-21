@@ -47,11 +47,9 @@
     <string name="notify_install_guide_forward_text">Mở</string>
     <string name="dialog_data_limit_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="dialog_data_limit_msg1">%s dữ liệu di động được sử dụng để tải tập tin này xuống. Tải ngay?</string>
-    <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_msg3">Thay đổi giới hạn</string>
     <string name="dialog_data_limit_button1">Chờ Wi-Fi</string>
     <string name="dialog_data_limit_button2">Tải xuống ngay</string>
-    <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
     <string name="dialog_button_ok">OK</string>
     <string name="dialog_button_cancel">Hủy</string>
     <string name="dialog_tip_limit">Cảnh báo khi tải tập tin lớn hơn %s</string>
