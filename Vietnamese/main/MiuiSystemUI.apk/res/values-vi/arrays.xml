@@ -5,28 +5,202 @@
         <item>Đang quét…</item>
         <item>Đang kết nối…</item>
         <item>Đang xác thực…</item>
-        <item>Đang lấy địa chỉ IP…</item>
+        <item>Đang nhận địa chỉ IP…</item>
         <item>Đã kết nối</item>
-        <item>Bị tạm ngưng</item>
+        <item>Đã tạm dừng</item>
         <item>Đang ngắt kết nối…</item>
         <item>Đã ngắt kết nối</item>
         <item>Không thành công</item>
-        <item>Bị chặn</item>
-        <item>Tạm thời tránh kết nối kém</item>
+        <item>Đã chặn</item>
+        <item>Tránh kết nối yếu tạm thời</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Đang quét…</item>
-        <item>Đang kết nối tới %1$s</item>
-        <item>Đang xác thực với %1$s…</item>
-        <item>Đang lấy địa chỉ IP từ %1$s…</item>
-        <item>Đã kết nối tới %1$s</item>
-        <item>Bị tạm ngưng</item>
-        <item>Đăng ngắt kết nối khỏi %1$s…</item>
+        <item>Đang kết nối %1$s…</item>
+        <item>Đang xác thực %1$s…</item>
+        <item>Đang nhận địa chỉ IP từ %1$s…</item>
+        <item>Kết nối %1$s</item>
+        <item>Đã tạm dừng</item>
+        <item>Đang ngắt kết nối khỏi %1$s…</item>
         <item>Đã ngắt kết nối</item>
         <item>Không thành công</item>
-        <item>Bị chặn</item>
-        <item>Tạm thời tránh kết nối kém</item>
+        <item>Đã chặn</item>
+        <item>Tránh kết nối yếu tạm thời</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Không kiểm tra</item>
+        <item>Chỉ kiểm tra nội dung DRM</item>
+        <item>Luôn kiểm tra</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Không bao giờ sử dụng HDCP kiểm tra</item>
+        <item>Chỉ sử dụng HDCP kiểm tra nội dung DRM</item>
+        <item>Luôn sử dụng HDCP kiểm tra</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Tắt</item>
+        <item>Bộ đệm nhật ký 64K</item>
+        <item>Bộ đệm nhật ký 256K</item>
+        <item>Bộ đệm nhật ký 1M</item>
+        <item>Bộ đệm nhật ký 4M</item>
+        <item>Bộ đệm nhật ký 16M</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Không</item>
+        <item>480p</item>
+        <item>480p (an toàn)</item>
+        <item>720p</item>
+        <item>720p (an toàn)</item>
+        <item>1080p</item>
+        <item>1080p (an toàn)</item>
+        <item>4K</item>
+        <item>4K (an toàn)</item>
+        <item>4K (nâng cao chất lượng hình ảnh)</item>
+        <item>4K (nâng cao chất lượng hình ảnh, an toàn)</item>
+        <item>720p, 1080p (màn hình kép)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Không</item>
+        <item>Logcat</item>
+        <item>Systrace (Đồ họa)</item>
+        <item>Call stack trên glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Tắt</item>
+        <item>Đổ màu xanh lam khu vực không thuộc phạm vi hình chữ nhật</item>
+        <item>Mệnh lệnh làm nổi bật khu vực vẽ thử nghiệm màu xanh lá cây</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Tắt</item>
+        <item>Hiển thị trên màn hình dạng thanh</item>
+        <item>Trong adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Tắt</item>
+        <item>Hiển thị vùng vẽ quá độ</item>
+        <item>Hiển thị các khu vực cho Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Giới hạn tiêu chuẩn</item>
+        <item>Không có tiến trình chạy nền</item>
+        <item>Nhiều nhất 1 tiến trình</item>
+        <item>Nhiều nhất 2 tiến trình</item>
+        <item>Nhiều nhất 3 tiến trình</item>
+        <item>Nhiều nhất 4 tiến trình</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Sạc pin</item>
+        <item>MTP (Giao thức Chuyển giao Đa phương tiện)</item>
+        <item>PTP (Giao thức Chuyển giao Hình ảnh)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Nguồn âm thanh</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Rất chậm</item>
+        <item>Chậm</item>
+        <item>Bình thường</item>
+        <item>Nhanh</item>
+        <item>Nhanh hơn</item>
+        <item>Rất nhanh</item>
+        <item>Siêu nhanh</item>
+        <item>Cực nhanh</item>
+        <item>Nhanh nhất</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Sáng (mặc định)</item>
+        <item>Tự nhiên</item>
+        <item>Tiêu chuẩn</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Tăng cường màu sắc</item>
+        <item>Màu tự nhiên giống như xem bằng mắt thường</item>
+        <item>Tối ưu màu sắc cho nội dung số</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
         <item>Nắng</item>
@@ -43,13 +217,13 @@
         <item>Mưa nhỏ</item>
         <item>Mưa kèm tuyết rơi</item>
         <item>Bão tuyết</item>
-        <item>Tuyết rơi</item>
+        <item>Tuyết</item>
         <item>Tuyết rơi dày</item>
         <item>Tuyết rơi vừa</item>
         <item>Tuyết rơi nhẹ</item>
         <item>Bão cát mạnh</item>
         <item>Bão cát</item>
-        <item>Bụi Cát</item>
+        <item>Bụi cát</item>
         <item>Gió</item>
         <item>Mưa đá</item>
         <item>Bụi</item>
