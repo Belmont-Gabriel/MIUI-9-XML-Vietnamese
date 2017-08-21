@@ -594,7 +594,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="welcome_to_slim">Tối ưu lưu trữ trên máy</string>
     <string name="slim_introduce">Thay thế ảnh phân giải cao bằng phiên bản tối ưu sau khi sao lưu vào Mi Cloud. Các ảnh phân giải cao này vẫn được lưu trữ trên Mi Cloud.</string>
     <string name="slim_introduce_with_specific_size">Thay thế tập tin phân giải cao bằng phiên bản tối ưu sau khi đã sao lưu vào Mi Cloud. Các ảnh phân giải cao này vẫn được lưu trữ trên Mi Cloud. Điều này giúp tiết kiệm đến %1$s dung lượng trên máy (yêu cầu đăng nhập Tài khoản Mi).</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">Sao lưu ảnh và video tự động (yêu cầu đăng nhập Tài khoản Mi)</string>
     <string name="next">Tiếp theo</string>
     <string name="login_and_enable_service">Đăng nhập bằng Tài khoản Mi</string>
@@ -671,7 +670,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="cloud_storage_ok_append_desc">Trống %s</string>
     <string name="cloud_storage_warn_title">Không đủ dung lượng Mi Cloud</string>
     <string name="cloud_storage_warn_desc">Đăng ký VIP Mi Cloud để mua dung lượng bổ sung</string>
-    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">Mở rộng không gian Mi Cloud</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
     <string name="user_agreement4">Chính sách Riêng tư</string>
@@ -779,8 +777,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="search_setting_sub_title">Đã cải thiện tìm kiếm hình ảnh</string>
     <string name="search_setting_sub_title_open">Đã thông qua. Vui lòng chờ trong giây lát.</string>
     <string name="search_request_open">Gia nhập đội kiểm tra</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">Cho phép truy cập</string>
     <string name="grant_permission_text">"Thư viện cần truy cập vào 
 %s
