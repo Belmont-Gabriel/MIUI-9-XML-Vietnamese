@@ -166,7 +166,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="current_account">Xin chào, %s</string>
     <string name="current_sim">Thẻ SIM hiện tại</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
-    <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+    <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">Không thể kết nối mạng</string>
     <string name="retry">Thử lại</string>
     <string name="select_all">Chọn tất cả</string>
@@ -349,5 +349,11 @@ Giải phóng ít nhất %s."</string>
     <string name="user_notice_title">Chú ý</string>
     <string name="user_notice_message">Một số tính năng yêu cầu phải kết nối internet để hoạt động bình thường.</string>
     <string name="user_notice_declaration_ignore">Không hiển thị lại</string>
+    <string name="total_size">, %s</string>
+    <string name="btn_got_it">Tôi biết</string>
+    <string name="backup_security_tips_title">Sao lưu không làm việc</string>
+    <string name="backup_security_tips_message">Vài ứng dụng không hỗ trợ sao lưu hoặc khôi phục.</string>
+    <string name="trans_security_tips_title">Khả năng tương thích Mi Mover</string>
+    <string name="trans_security_tips_message">Vài ứng dụng không hỗ trợ Mi Mover.</string>
     <string name="guarded_mode_dialog_message">Tính năng này không khả dụng ở chế độ Khách.</string>
 </resources>

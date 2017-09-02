@@ -145,6 +145,7 @@
     <string name="map_auth_notif_ticker">Yêu cầu xác thực Obex</string>
     <string name="map_auth_notif_title">Khóa phiên</string>
     <string name="map_auth_notif_message">Nhập khóa phiên cho %1$s</string>
+    <string name="map_defaultname">Bộ rảnh tay trên ô tô</string>
     <string name="map_unknownName">Tên không xác định</string>
     <string name="map_localPhoneName">Tên của tôi</string>
     <string name="permlab_handoverStatus">Nhận truyền phát chuyển giao BT.</string>
