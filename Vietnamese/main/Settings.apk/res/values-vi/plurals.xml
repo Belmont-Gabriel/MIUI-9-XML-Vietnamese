@@ -165,10 +165,10 @@
         <item quantity="other">%1$d thiết bị đã kết nối</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành%1$d bước để xem thông tin điện thoại.</item>
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
     </plurals>
     <plurals name="show_cit_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào CIT.</item>
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào kiểm tra phần cứng.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
