@@ -5693,7 +5693,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="wifi_master_key_service_dialog_content">WiFi Master Key là dịch vụ miễn phí cung cấp mật khẩu cho mạng Wi-Fi đã chia sẻ. WiFi Master Key sẽ không chia sẻ mật khẩu mạng của bạn. Bạn cũng có thể %1$s.</string>
     <string name="wifi_master_key_service_dialog_title">Mạng Wi-Fi chia sẻ</string>
     <string name="spellchecker_switch_title">Bật kiểm tra Chính tả</string>
-    <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện các hoạt động:</string>
     <string name="anr_record_interval_title">Thời gian ghi lại ANR</string>
     <string name="mqsas_settings_category">MQSAS</string>
     <string name="open_anr_debug">Bật gỡ lỗi ANR</string>
