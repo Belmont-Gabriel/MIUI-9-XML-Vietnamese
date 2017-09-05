@@ -62,8 +62,6 @@
     <string name="apn_server_title">Máy chủ</string>
     <string name="apn_type_title">Loại APN</string>
     <string name="apn_username_title">Tên đăng nhập</string>
-    <string name="apn_value_not_set">Chưa đặt</string>
-    <string name="apn_value_required">Bắt buộc</string>
     <string name="app_name">Lõi không gian</string>
     <string name="color_picker_default_title">Chọn</string>
     <string name="color_picker_select_color">Chọn màu biểu tượng</string>
