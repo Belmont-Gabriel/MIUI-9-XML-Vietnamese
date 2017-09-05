@@ -236,6 +236,7 @@
     <string name="inactive_app_inactive_summary">Chưa kích hoạt. Chạm để chuyển.</string>
     <string name="inactive_app_active_summary">Đã kích hoạt. Chạm để chuyển.</string>
     <string name="runningservices_settings_title">Đang chạy dịch vụ</string>
+
     <string name="runningservices_settings_summary">Xem và điều khiển dịch vụ đang chạy</string>
     <string name="enable_webview_multiprocess">WebView đa tiến trình</string>
     <string name="enable_webview_multiprocess_desc">Chạy kiết xuất WebView độc lập</string>
@@ -363,6 +364,12 @@
     <string name="status_bar_style_list">Kết hợp</string>
     <string name="status_bar_style_page">Tách</string>
     <string name="status_bar_settings_style">Thông báo &amp; bố cục phím nhanh</string>
+    <string name="close_gesture">Đóng bằng cử chỉ</string>
+    <string name="got_it">Tôi biết</string>
+    <string name="hide_screen_button">Ẩn phím ảo</string>
+    <string name="hide">Ẩn</string>
+    <string name="screen_button_tips">Trượt xuống để ẩn phím ảo</string>
+    <string name="screen_button">Phím ảo</string>
     <string name="abc_action_mode_done">Xong</string>
     <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
     <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
@@ -383,12 +390,6 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">BẬT</string>
     <string name="abc_capital_off">TẮT</string>
-    <string name="close_gesture">Đóng bằng cử chỉ</string>
-    <string name="got_it">Tôi biết</string>
-    <string name="hide_screen_button">Ẩn phím ảo</string>
-    <string name="hide">Ẩn</string>
-    <string name="screen_button_tips">Trượt xuống để ẩn phím ảo</string>
-    <string name="screen_button">Phím ảo</string>
     <string name="menu_item_show_more">Hiển thị thêm</string>
     <string name="ringtone_mute">Không</string>
     <string name="title_system_resource">Tài nguyên hệ thống</string>
@@ -450,9 +451,9 @@
     <string name="small_font">Nhỏ</string>
     <string name="medium_font">Vừa</string>
     <string name="large_font">Lớn</string>
-    <string name="font_size_preview_text">Phục vụ người đàn ông này một ly bia và kiwi.</string>
     <string name="font_size_make_smaller_desc">Thu nhỏ</string>
     <string name="font_size_make_larger_desc">Phóng to</string>
+    <string name="font_size_preview_text">Phục vụ người đàn ông này một ly bia và kiwi.</string>
     <string name="font_size_preview_text_headline">Văn bản mẫu</string>
     <string name="font_size_preview_text_title">The Wonderful Wizard of Oz (Phù thủy tuyệt vời xứ Oz)</string>
     <string name="font_size_preview_text_subtitle">Chương 11: The Wonderful Emerald City of Oz (Thành phố ngọc lục bảo tuyệt vời của Oz)</string>
@@ -675,7 +676,7 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="security_enable_widgets_title">Bật tiện ích con</string>
     <string name="security_enable_widgets_disabled_summary">Bị tắt bởi quản trị viên</string>
     <string name="owner_info_settings_summary">Không có</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
+    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Joe.</string>
     <string name="user_info_settings_title">Thông tin người dùng</string>
     <string name="show_profile_info_on_lockscreen_label">Hiển thị thông tin tiểu sử trên màn hình khóa</string>
@@ -1130,6 +1131,7 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_hotspot_configure_ap_text">Thiết lập điểm phát sóng Wi‑Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Điểm phát sóng Wi‑Fi DĐ AndroidAP WPA2 PSK</string>
     <string name="wifi_tether_configure_subtext">Điểm phát sóng %1$s %2$s</string>
+    <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">Thông tin Wi-Fi</string>
     <string name="disableNetwork">Tắt</string>
     <string name="enableNetwork">Bật</string>
@@ -1158,7 +1160,6 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_state_unknown">Không rõ</string>
     <string name="wifi_config_info">Cấu hình Wi-Fi</string>
     <string name="config_list_label">Mạng đã cấu hình</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_calling_settings_title">Gọi qua Wi-Fi</string>
     <string name="wifi_calling_suggestion_title">Bật Gọi qua Wi-Fi</string>
     <string name="wifi_calling_suggestion_summary">Sử dụng Wi-Fi thay vì mạng di động</string>
@@ -1367,7 +1368,7 @@ Có thể mã PIN không đúng."</string>
     <string name="usb_midi_title">MIDI</string>
     <string name="usb_midi_summary">Cho phép các ứng dụng hỗ trợ MIDI hoạt động qua USB bằng phần mềm MIDI trên máy tính của bạn.</string>
     <string name="storage_other_users">Người dùng khác</string>
-    <string name="storage_internal_title">Lưu trữ ngoài hệ thống</string>
+    <string name="storage_internal_title">Bộ nhớ của thiết bị</string>
     <string name="storage_external_title">Bộ nhớ di động</string>
     <string name="storage_volume_summary">Đã sử dụng %1$s trong tổng số %2$s</string>
     <string name="storage_size_large">^1<small><small> ^2</small></small></string>
@@ -1935,7 +1936,7 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="user_dict_settings_edit_dialog_title">Chỉnh sửa từ</string>
     <string name="user_dict_settings_context_menu_edit_title">Chỉnh sửa</string>
     <string name="user_dict_settings_context_menu_delete_title">Xóa</string>
-    <string name="user_dict_settings_empty_text">"Bạn không có từ điển nào cẍ
+    <string name="user_dict_settings_empty_text">"Bạn không có bất kỳ từ điển nào.
 Chạm dấu cộng để thêm từ."</string>
     <string name="user_dict_settings_all_languages">Cho tất cả ngôn ngữ</string>
     <string name="user_dict_settings_more_languages">Ngôn ngữ khác…</string>
@@ -1990,14 +1991,15 @@ Chạm dấu cộng để thêm từ."</string>
     <string name="accessibility_screen_magnification_title">Cử chỉ thu phóng</string>
     <string name="accessibility_screen_magnification_short_summary">Nhấn 3 lần để thu phóng</string>
     <string name="accessibility_screen_magnification_summary"><b>Để thu phóng</b>", nhấn nhanh vào màn hình 3 lần bằng một ngón tay.
-"<li><ul>"Kéo 2 hoặc nhiều ngón tay để cuộn
-"<li>Chụm 2 hoặc nhiều ngón tay vào nhau hoặc tách ra để điều chỉnh thu phóng</li></ul></li>"
+"<ul><li>"Kéo 2 hoặc nhiều ngón tay để cuộn
+"<li>Chụm 2 hoặc nhiều ngón tay vào nhau hoặc tách ra để điều chỉnh thu phóng</li></li></ul>"
 
 "<b>Để thu phóng tạm thời</b>", nhấn nhanh vào màn hình 3 lần và giữ ngón tay vào lần nhấn thứ ba.
-"<li><ul>"Kéo ngón tay để di chuyển xung quanh màn hìn
+"<ul><li>"Kéo ngón tay để di chuyển xung quanh màn hìn
 
 
-"<li>Nhấc ngón tay để thu nhỏ</li></ul></li>"
+
+"<li>Nhấc ngón tay để thu nhỏ</li></li></ul>"
 
 
 
@@ -4234,7 +4236,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="lockpassword_confirm_for_second_user">Xác nhận mật khẩu Không gian thứ hai</string>
     <string name="lockpassword_choose_for_second_user">Đặt mật khẩu Không gian thứ hai</string>
     <string name="lockpassword_choose_your_password_second_space">"Đặt mật khẩu  cho Không gian thứ hai"</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Đặt PIN cho Không gian thứ hai"</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">Đặt PIN cho Không gian thứ hai</string>
     <string name="cancel_alert">Hủy các thay đổi của bạn?</string>
     <string name="android_beam_witch_label">Android Beam</string>
     <string name="sim_management_title">Mạng di động</string>
@@ -4294,7 +4296,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="wifi_share_summary3">Bạn cũng có thể chia sẻ mạng Wi-Fi công cộng cho người dùng MIUI khác.</string>
     <string name="wifi_share_add">Chia sẻ mạng Wi-Fi công cộng</string>
     <string name="wifi_share_notification_summary">MIUI đã kết nối bạn đến mạng Wi-Fi công cộng.</string>
-    <string name="wifi_share_add_summary">"Khi bạn chia sẻ mạng Wi-Fi công cộng, bạn có thể sử dụng các mạng được chia sẻ của người dùng khác"</string>
+    <string name="wifi_share_add_summary">Khi bạn chia sẻ mạng Wi-Fi công cộng, bạn có thể sử dụng các mạng được chia sẻ của người dùng khác</string>
     <string name="wifi_share_login">Chia sẻ mạng Wi-Fi</string>
     <string name="wifi_share_login_summary">Nếu đây là mạng công cộng, bạn có thể chia sẻ với người dùng MIUI khác.</string>
     <string name="wifi_share_connected_title">MIUI đã chia sẻ Wi-Fi</string>
@@ -4591,7 +4593,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="page_layout_confirm_title">Thay đổi cài đặt hiển thị</string>
     <string name="page_layout_confirm_message">Thiết bị của bạn cần phải khởi động lại để áp dụng những thay đổi này. Quá trình này mất khoảng 1 phút.</string>
     <string name="provision_page_layout_confirm_message">Thiết bị của bạn cần phải khởi động lại để áp dụng những thay đổi này. Quá trình này mất khoảng 1 phút.</string>
-    <string name="page_layout_1">Chủ nhật, 16 tháng 8</string>
+    <string name="page_layout_1">Chủ nhật, 6 tháng 7</string>
     <string name="page_layout_2">Máy ảnh</string>
     <string name="page_layout_3">Thư viện</string>
     <string name="page_layout_4">Nhạc</string>
@@ -4729,7 +4731,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="crypt_keeper_conditions">Quá trình mã hóa cần thời gian ít nhất 1 giờ. Bạn phải sạc đầy pin hoặc cắm sạc điện thoại trong suốt quá trình mã hóa. Nếu quá trình gián đoạn bạn sẽ mất một phần hoặc toàn bộ dữ liệu.</string>
     <string name="application_lock_name">Khóa ứng dụng</string>
     <string name="connecting_to_vpn">Đang kết nối với VPN</string>
-    <string name="vpn_on">Đã bật</string>
+    <string name="vpn_on">Bật</string>
     <string name="vpn_off">Tắt</string>
     <string name="apply_fingerprint_to_category_title">Áp dụng vân tay để…</string>
     <string name="fingerprint_list_title">Vân tay</string>
@@ -5165,6 +5167,132 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_app_unavailable">Chức năng này phụ thuộc vào ứng dụng hệ thống, hãy chắc chắn rằng ứng dụng khả dụng</string>
     <string name="print_settings_title">Dịch vụ in</string>
+    <string name="bluetooth_filter_device_display">Hiển thị Tất cả</string>
+    <string name="bluetooth_filter_device_filter">Hiển thị kiến nghị</string>
+    <string name="virus_scan_app_find_risk">Đã tìm thấy %d nguy cơ</string>
+    <string name="auto_startup_count">%d ứng dụng được phép tự khởi chạy</string>
+    <string name="lockpassword_pin_fixed_length">Mã PIN phải chứa %d chữ số</string>
+    <string name="wifi_share_count">Đã chia sẻ %d mạng</string>
+    <string name="free_wifi_connected_count">%1$d thiết bị đã kết nối</string>
+    <string name="status_bar_screen_button_desc">Trượt xuống để ẩn phím ảo</string>
+    <string name="status_bar_screen_button_key_can_hide">Phím ảo có thể ẩn</string>
+    <string name="suspension_ball_enable_desc">Bật và tắt phím ảo bằng lối tắt</string>
+    <string name="suspension_ball_enable">Lối tắt phím ảo</string>
+    <string name="location_agps_register_network_type_dialog_summary">Chọn mạng</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Chờ %d giây và thử lại.</string>
+    <string name="block_list_mtk_dialog_content">Thao tác này sẽ ngắt kết nối “%s” khỏi thiết bị này</string>
+    <string name="block_list_qcom_dialog_content">Thao tác này sẽ ngắt kết nối “%s” với thiết bị này và thêm vào danh sách chặn</string>
+    <string name="enalbe_identify_iPhone">Nhận dạng AP</string>
+    <string name="screen_resolution_confirm">Khởi động lại</string>
+    <string name="input_password_hint_text">Nhập mật khẩu</string>
+    <string name="accessibility_feature_or_input_method_not_allowed">Không được tổ chức của bạn cho phép</string>
+    <string name="accessibility_toggle_large_text_preference_title">Chữ lớn</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Phóng đại màn hình</string>
+    <string name="app_notification_peekable_summary">Cho phép ứng dụng này nhấn mạnh các thông báo nhất định bằng cách trượt nhanh chúng vào chế độ xem trên màn hình hiện tại</string>
+    <string name="app_notification_peekable_title">Cho phép xem nhanh</string>
+    <string name="app_notification_priority_summary">Bật âm cho thông báo của ứng dụng này khi Không làm phiền được đặt thành Chỉ ưu tiên</string>
+    <string name="app_notification_priority_title">Coi là ưu tiên</string>
+    <string name="app_notification_sensitive_summary">Khi thiết bị bị khóa, hãy ẩn nội dung có thể tiết lộ thông tin cá nhân trong thông báo của ứng dụng này</string>
+    <string name="app_notification_sensitive_title">Ẩn nội dung nhạy cảm</string>
+    <string name="confirm_enable_multi_window_text">CẢNH BÁO: Đây là tính năng mang tính thử nghiệm cao cho phép nhiều hoạt động trên màn hình cùng một lúc thông qua giao diện người dùng ứng dụng Gần đây. Một số ứng dụng có thể bị lỗi hoặc không hoạt động đúng cách khi được sử dụng với tính năng này.</string>
+    <string name="confirm_enable_multi_window_title">Bật chế độ nhiều cửa sổ?</string>
+    <string name="dialog_title_font_size">Kích thước phông chữ</string>
+    <string name="enable_multi_window">Chế độ nhiều cửa sổ</string>
+    <string name="enable_multi_window_summary">Nhiều hoạt động trên màn hình cùng một lúc.</string>
+    <string name="enforce_read_external_confirm_message">"Khi bộ lưu trữ USB được bảo vệ, các ứng dụng phải yêu cầu quyền đọc dữ liệu từ bộ nhớ ngoài.
+
+Một số ứng dụng có thể không hoạt động cho đến khi được nhà phát triển cập nhật."</string>
+    <string name="enforce_read_external_confirm_title">Bảo vệ bộ lưu trữ USB?</string>
+    <string name="enforce_read_external_summary">Các ứng dụng phải yêu cầu quyền đọc bộ lưu trữ USB</string>
+    <string name="enforce_read_external_title">Bảo vệ bộ lưu trữ USB</string>
+    <string name="filter_notif_no_peeking">Không có xem nhanh</string>
+    <string name="global_font_change_title">Thay đổi cỡ chữ</string>
+    <string name="ims_reg_required_off">Yêu cầu tắt đăng ký IMS</string>
+    <string name="ims_reg_required_on">Yêu cầu bật đăng ký IMS</string>
+    <string name="keyguard_left_function_chooser_hint_text">Lối tắt bên trái đổi thành %s</string>
+    <string name="keyguard_left_function_chooser_title">Ứng dụng</string>
+    <string name="keyguard_left_function_title">Bên trái</string>
+    <string name="keyguard_right_function_chooser_hint_text">Lối tắt bên phải đổi thành %s</string>
+    <string name="keyguard_right_function_chooser_title">Ứng dụng</string>
+    <string name="keyguard_right_function_title">Bên phải</string>
+    <string name="keyguard_shortcut_summary">Đặt lối tắt cho 2 ứng dụng trên Màn hình khóa</string>
+    <string name="keyguard_shortcut_title">Lối tắt Màn hình khóa</string>
+    <string name="keywords_display_night_mode">chủ đề tối chế độ ban đêm màn hình mờ chuyển đổi độ sáng</string>
+    <string name="keywords_sounds_and_notifications">loa tiếng bíp</string>
+    <string name="language_settings_category">Cài đặt ngôn ngữ</string>
+    <string name="legacy_dhcp_client">Sử dụng ứng dụng DHCP cũ</string>
+    <string name="lockpassword_press_continue">Chạm vào Tiếp tục khi hoàn tất</string>
+    <string name="lte_ram_dump_off">Tắt lỗi ram lte</string>
+    <string name="lte_ram_dump_on">Bật lỗi ram lte</string>
+    <string name="managed_profile_device_admin_info">Để ngăn %1$s truy cập hồ sơ công việc của bạn, hãy xóa hồ sơ trong Cài đặt > Tài khoản</string>
+    <string name="night_mode_auto">Tự động</string>
+    <string name="night_mode_no">Sáng</string>
+    <string name="night_mode_summary">%s</string>
+    <string name="night_mode_title">Chủ đề</string>
+    <string name="night_mode_yes">Tối</string>
+    <string name="notification_section_header">Thông báo</string>
+    <string name="notification_settings">Âm thanh và thông báo</string>
+    <string name="notification_settings_apps_title">Thông báo ứng dụng</string>
+    <string name="notifications_no_peeking">Không có xem nhanh</string>
+    <string name="notifications_sensitive">Đã ẩn nội dung nhạy cảm</string>
+    <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
+    <string name="notifications_two_items">%1$s / %2$s</string>
+    <string name="nsd_quick_toggle_summary">Cho phép ứng dụng trên các thiết bị khác khám phá ứng dụng trên thiết bị này</string>
+    <string name="nsd_quick_toggle_title">Khám phá dịch vụ mạng</string>
+    <string name="pico_installed">Đã cài đặt</string>
+    <string name="pico_languages_and_voices">Ngôn ngữ và giọng nói</string>
+    <string name="pico_not_installed">Chưa cài đặt</string>
+    <string name="pico_voice_summary_female">Nữ</string>
+    <string name="pico_voice_summary_male">Nam</string>
+    <string name="print_service_security_warning_summary">Tài liệu của bạn có thể đi qua một hoặc nhiều máy chủ trên đường đến máy in.</string>
+    <string name="print_service_security_warning_title">Sử dụng %1$s?</string>
+    <string name="radio_info_data_attempts_label">Nỗ lực dữ liệu:</string>
+    <string name="radio_info_data_successes_label">Dữ liệu thành công:</string>
+    <string name="radio_info_gsm_disconnects_label">Ngắt kết nối GSM:</string>
+    <string name="radio_info_network_type_label">Loại mạng:</string>
+    <string name="radio_info_ping_hostname">Ping Tên máy chủ lưu trữ (www.google.com.vn):</string>
+    <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+    <string name="radio_info_radio_resets_label">Đặt lại radio:</string>
+    <string name="search_led">LED;Đèn thông báo;Đèn LED</string>
+    <string name="search_status_sim">Trạng thái thẻ SIM;SIM</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_warning">Lưu ý: Vân tay của bạn kém an toàn hơn so với việc dùng hình hoặc mã PIN mạnh.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Tìm hiểu thêm</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message">Để sử dụng vân tay để mở khóa màn hình của bạn hoặc xác nhận mua hàng, chúng tôi cần phải:</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_1">Thiết lập phương pháp khóa màn hình dự phòng của bạn</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_2">Thêm vân tay của bạn</string>
+    <string name="security_settings_fingerprint_enroll_onboard_title">Thiết lập vân tay</string>
+    <string name="setup_wizard_back_button_label">Quay lại</string>
+    <string name="setup_wizard_next_button_label">Tiếp theo</string>
+    <string name="sms_over_ims_off">Tắt SMS qua IMS</string>
+    <string name="sms_over_ims_on">Bật SMS qua IMS</string>
+    <string name="ssl_ca_cert_dialog_title">Giám sát mạng</string>
+    <string name="ssl_ca_cert_info_message">"Thiết bị này được quản lý bởi: 
+ %s 
+ 
+Quản trị viên của bạn có thể giám sát hoạt động mạng của bạn, bao gồm email, ứng dụng và trang web an toàn. 
+ 
+Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn."</string>
+    <string name="ssl_ca_cert_settings_button">Kiểm tra bằng chứng xác thực tin cậy</string>
+    <string name="trust_agent_disabled_device_admin">Bị tắt bởi quản trị viên</string>
+    <string name="tts_data_installed_summary">Giọng nói bắt buộc cho tổng hợp tiếng nói đã được cài đặt chính xác</string>
+    <string name="tts_engine_error">Công cụ bạn đã chọn không thể chạy được.</string>
+    <string name="tts_engine_error_config">Định cấu hình</string>
+    <string name="tts_engine_error_reselect">Chọn công cụ khác</string>
+    <string name="tts_engine_name_is_disabled_summary">%s đã bị tắt</string>
+    <string name="tts_engine_name_is_enabled_summary">%s đã được bật</string>
+    <string name="tts_engine_name_settings">Cài đặt %s</string>
+    <string name="tts_engine_settings_section">Cài đặt công cụ</string>
+    <string name="tts_engines_section">Công cụ</string>
+    <string name="tts_notif_engine_install_message">Bật công cụ mới trước khi dùng</string>
+    <string name="tts_notif_engine_install_title">Công cụ tổng hợp giọng nói đã cài đặt</string>
+    <string name="tts_settings_changed_demo">Cài đặt của bạn đã thay đổi. Đây là ví dụ về cách chúng phát âm thanh.</string>
+    <string name="turn_off_radio">Tắt radio</string>
+    <string name="turn_on_radio">Bật radio</string>
+    <string name="user_owner">Chủ sở hữu</string>
+    <string name="volte_provisioned_flag_off">Tắt cờ cấp phép VoLTE</string>
+    <string name="volte_provisioned_flag_on">Bật cờ cấp phép VoLTE</string>
+    <string name="wifi_alert_lockdown_by_device_owner">%1$s quản lý thiết bị của bạn và không cho phép sửa đổi hoặc xóa mạng Wi-Fi này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn.</string>
+    <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
     <string name="dirac_control">Tối ưu chất lượng âm thanh</string>
     <string name="dirac_mode_off">Dirac tắt</string>
     <string name="dirac_mode_in_ear">Tai nghe Mi in-ear rút gọn</string>
@@ -5178,9 +5306,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="location_access_on">Bật</string>
     <string name="location_access_off">Tắt</string>
-    <string name="bluetooth_filter_device_display">Hiển thị Tất cả</string>
-    <string name="bluetooth_filter_device_filter">Hiển thị kiến nghị</string>
-    <string name="virus_scan_app_find_risk">Đã tìm thấy %d nguy cơ</string>
     <string name="title_dolby_control">Điều chỉnh âm thanh Dolby</string>
     <string name="dolby_mode_off">Tắt</string>
     <string name="dolby_mode_music">Nhạc</string>
@@ -5200,66 +5325,36 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="dolby_eq_enter_alert_title">Bật bộ chỉnh âm thanh Dolby</string>
     <string name="dolby_eq_enter_alert_msg">Bật chế độ âm nhạc Dolby để dùng EQ?</string>
     <string name="equalizer">Bộ chỉnh âm thanh</string>
-    <string name="auto_startup_count">%d ứng dụng được phép tự khởi chạy</string>
-    <string name="lockpassword_pin_fixed_length">Mã PIN phải chứa %d chữ số</string>
     <string name="internal_media_format_final_desc">Xóa bộ nhớ trong? Bạn không thể hoàn tác hành động này! Điện thoại sẽ khởi động lại sau khi bộ nhớ trong bị xóa.</string>
     <string name="internal_media_format_desc">Xóa bộ nhớ trong? <b>Tất cả</b> dữ liệu của bạn sẽ bị xóa. Điện thoại sẽ khởi động lại sau khi bộ nhớ trong bị xóa.</string>
     <string name="internal_media_format_button_text">Xóa bộ nhớ trong</string>
     <string name="internal_media_format_title">Xóa bộ nhớ trong</string>
     <string name="internal_format">Xóa bộ nhớ trong</string>
     <string name="internal_format_summary">Xóa tất cả dữ liệu trên bộ nhớ trong của thiết bị</string>
-    <string name="wifi_share_count">Đã chia sẻ %d mạng</string>
-    <string name="free_wifi_connected_count">%1$d thiết bị đã kết nối</string>
-    <string name="dndm_wristband_detailed2">Tắt Không làm phiền nếu Mi Band phát hiện bạn đã thức dậy trong vòng 1 giờ trước thời gian kết thúc dự kiến</string>
     <string name="advanced_text_layout">Bật bố trí văn bản nâng cao</string>
     <string name="cell_broadcast_settings_summary">Chọn loại cảnh báo khẩn cấp để hiển thị</string>
-    <string name="close_install_and_connect">Không, cảm ơn</string>
-    <string name="confirm_install_and_connect">Cài đặt &amp; kết nối</string>
     <string name="crypt_keeper_encrypt_summary">Yêu cầu mật khẩu để mã hóa điện thoại mỗi lần bạn bật.</string>
     <string name="device_security_settings_title">Bảo mật</string>
-    <string name="disable_wifi_master_key_service_first">Tắt</string>
-    <string name="disable_wifi_master_key_service">Tắt</string>
     <string name="enable_crypt_keeper_encrypt">Bật mã hóa</string>
-    <string name="enable_wifi_master_key_service_first">Bật</string>
-    <string name="enable_wifi_master_key_service">Bật WiFi Master Key</string>
     <string name="experience_optimization_category">Chương trình Trải nghiệm Người dùng</string>
-    <string name="install_master_key_and_connect">Bạn có thể kết nối với mạng này bằng WiFi Master Key. Cài đặt công cụ này?</string>
-    <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
     <string name="print_enable">Bật in</string>
     <string name="print_remind">Bật in trước</string>
     <string name="privacy_mode_summary">Khóa ứng dụng cá nhân hoặc ẩn thông tin cá nhân</string>
     <string name="privacy_mode_title">Thiết lập riêng tư</string>
-    <string name="show_wifi_master_key_summary">Kết nối với mạng Wi-Fi chia sẻ bằng WiFi Master Key</string>
-    <string name="show_wifi_master_key_title">Phát hiện mạng Wi-Fi chia sẻ</string>
-    <string name="uninstall_wifi_master_key">Gỡ cài đặt WiFi Master Key</string>
-    <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
-    <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
     <string name="usb_media_format_final_desc">Tất cả tập tin trên lưu trữ USB sẽ bị xóa vĩnh viễn.</string>
     <string name="usb_media_format_title">Xóa lưu trữ USB</string>
     <string name="usb_unmount_inform_text">Lưu trữ USB sẽ bị ngắt kết nối.</string>
-    <string name="use_media_format_desc">Xóa Lưu trữ USB? <b>Tất cả</b> tập tin sẽ bị xóa vĩnh viễn.</string>
-    <string name="use_wifi_master_key_summary">Kết nối bằng WiFi Master Key</string>
     <string name="virtual_sim_search_title">SIM ảo</string>
     <string name="deny_sms_message">Không cho phép ứng dụng đã cài đặt gửi tin nhắn SMS</string>
-    <string name="wifi_master_key_dialog_content_master_key">WiFi Master Key</string>
-    <string name="wifi_master_key_dialog_content_password">Mật khẩu</string>
-    <string name="wifi_master_key_dialog_title">Kết nối bằng</string>
-    <string name="wifi_master_key_name">WiFi Master Key</string>
-    <string name="wifi_master_key_service_dialog_content">WiFi Master Key là dịch vụ miễn phí cung cấp mật khẩu cho mạng Wi-Fi đã chia sẻ. WiFi Master Key sẽ không chia sẻ mật khẩu mạng của bạn. Bạn cũng có thể %1$s.</string>
-    <string name="wifi_master_key_service_dialog_title">Mạng Wi-Fi chia sẻ</string>
+    <string name="deny_sms_title">Khóa tin nhắn SMS</string>
+    <string name="set_password_action">Thiết lập mật khẩu</string>
     <string name="quiet_mode">Chế độ không làm phiền</string>
-    <string name="block_list_mtk_dialog_content">Thao tác này sẽ ngắt kết nối “%s” khỏi thiết bị này</string>
-    <string name="block_list_qcom_dialog_content">Thao tác này sẽ ngắt kết nối “%s” với thiết bị này và thêm vào danh sách chặn</string>
     <string name="dlg_confirm_uicc_unmount_text">Nếu bạn gỡ lưu trữ UICC, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
     <string name="dlg_confirm_uicc_unmount_title">Gỡ lưu trữ UICC?</string>
     <string name="dlg_confirm_usb_unmount_text">Nếu bạn gỡ lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
     <string name="dlg_confirm_usb_unmount_title">Gỡ lưu trữ USB?</string>
     <string name="dlg_error_uicc_unmount_text">Không thể gỡ lưu trữ UICC. Hãy thử lại sau.</string>
     <string name="dlg_error_usb_unmount_text">Không thể gỡ lưu trữ USB. Hãy thử lại sau.</string>
-    <string name="enalbe_identify_iPhone">Nhận dạng AP</string>
-    <string name="location_agps_register_network_type_dialog_summary">Chọn mạng</string>
-    <string name="miui_disturb_title">Không làm phiền</string>
-    <string name="screen_resolution_confirm">Khởi động lại</string>
     <string name="storage_uicc">Lưu trữ UICC</string>
     <string name="uicc_eject">Gỡ lưu trữ UICC</string>
     <string name="uicc_eject_summary">Gỡ lưu trữ UICC để ngắt kết nối thiết bị an toàn</string>
@@ -5292,6 +5387,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="children_mode_tips_on">Sau khi tắt chế độ Trẻ em, chạm phím Trang chính để quay lại Màn hình chính.</string>
     <string name="children_mode_title">Chế độ Trẻ em</string>
     <string name="debug_log">Chương trình Trải nghiệm Người dùng</string>
+    <string name="dndm_wristband_detailed2">Tắt Không làm phiền nếu Mi Band phát hiện bạn đã thức dậy trong vòng 1 giờ trước thời gian kết thúc dự kiến</string>
     <string name="enable_quickboot_summary">Đặt thiết bị vào chế độ khởi động nhanh thay vì tắt bình thường</string>
     <string name="enable_quickboot_title">Bật chế độ khởi động nhanh</string>
     <string name="handy_mode_enter_ask">Hỏi trước khi vào chế độ một tay</string>
@@ -5325,6 +5421,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="miracast_sink_not_available">Không khả dụng</string>
     <string name="miracast_sink_ready_to_connect">Sẵn sàng kết nối</string>
     <string name="miracast_wifi_off">Để sử dụng Miracast, hãy bật Wi-Fi</string>
+    <string name="miui_disturb_title">Không làm phiền</string>
     <string name="miui_screensaver_show_time">Thời gian</string>
     <string name="miui_screensaver_show_time_select_title">Đặt thời gian trình chiếu</string>
     <string name="miui_screensaver_state_off">Tắt</string>
@@ -5574,10 +5671,45 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="use_default_tts_settings_summary">Cài đặt mặc định dưới đây ghi đè cài đặt ứng dụng</string>
     <string name="use_default_tts_settings_title">Luôn sử dụng cài đặt của tôi</string>
     <string name="zen_mode_miui_disturb_category">Không làm phiền</string>
-    <string name="input_password_hint_text">Nhập mật khẩu</string>
+    <string name="close_install_and_connect">Không, cảm ơn</string>
+    <string name="confirm_install_and_connect">Cài đặt &amp; kết nối</string>
+    <string name="disable_wifi_master_key_service_first">Tắt</string>
+    <string name="disable_wifi_master_key_service">Tắt</string>
+    <string name="enable_wifi_master_key_service_first">Bật</string>
+    <string name="enable_wifi_master_key_service">Bật WiFi Master Key</string>
+    <string name="install_master_key_and_connect">Bạn có thể kết nối với mạng này bằng WiFi Master Key. Cài đặt công cụ này?</string>
+    <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
+    <string name="show_wifi_master_key_summary">Kết nối với mạng Wi-Fi chia sẻ bằng WiFi Master Key</string>
+    <string name="show_wifi_master_key_title">Phát hiện mạng Wi-Fi chia sẻ</string>
+    <string name="uninstall_wifi_master_key">Gỡ cài đặt WiFi Master Key</string>
+    <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
+    <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
+    <string name="use_media_format_desc">Xóa Lưu trữ USB? <b>Tất cả</b> tập tin sẽ bị xóa vĩnh viễn.</string>
+    <string name="use_wifi_master_key_summary">Kết nối bằng WiFi Master Key</string>
+    <string name="wifi_master_key_dialog_content_master_key">WiFi Master Key</string>
+    <string name="wifi_master_key_dialog_content_password">Mật khẩu</string>
+    <string name="wifi_master_key_dialog_title">Kết nối bằng</string>
+    <string name="wifi_master_key_name">WiFi Master Key</string>
+    <string name="wifi_master_key_service_dialog_content">WiFi Master Key là dịch vụ miễn phí cung cấp mật khẩu cho mạng Wi-Fi đã chia sẻ. WiFi Master Key sẽ không chia sẻ mật khẩu mạng của bạn. Bạn cũng có thể %1$s.</string>
+    <string name="wifi_master_key_service_dialog_title">Mạng Wi-Fi chia sẻ</string>
     <string name="spellchecker_switch_title">Bật kiểm tra Chính tả</string>
-    <string name="status_bar_screen_button_desc">Trượt xuống để ẩn phím ảo</string>
-    <string name="status_bar_screen_button_key_can_hide">Phím ảo có thể ẩn</string>
-    <string name="suspension_ball_enable_desc">Bật và tắt phím ảo bằng lối tắt</string>
-    <string name="suspension_ball_enable">Lối tắt phím ảo</string>
+    <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện các hoạt động:</string>
+    <string name="anr_record_interval_title">Thời gian ghi lại ANR</string>
+    <string name="mqsas_settings_category">MQSAS</string>
+    <string name="open_anr_debug">Bật gỡ lỗi ANR</string>
+    <string name="record_anr_in_background">Ghi lại ANR nền</string>
+    <string name="bind_xiaomi_account_cancel">Hủy</string>
+    <string name="binded_xiaomi_summary">Tài khoản hiện tại: %s</string>
+    <string name="childmod_privacy_password_role_instruction">Bật Chế độ trẻ em để ngăn hành động không mong muốn khi trẻ sử dụng thiết bị</string>
+    <string name="confirm_privacy_password_instruction">Mật khẩu này bảo vệ tin nhắn, ảnh và liên hệ.</string>
+    <string name="path_camera_key_action_shortcut_screenshot">Cài đặt/Cài đặt bổ sung/Chụp ảnh màn hình</string>
+    <string name="path_enable_adb">Cài đặt/Cài đặt bổ sung/Tùy chọn nhà phát triển/Gỡ lỗi USB</string>
+    <string name="path_fluency_mode">Cài đặt/Pin &amp; hiệu suất/Ảnh động hệ thống</string>
+    <string name="path_force_touch">Cài đặt/Cài đặt bổ sung/3D Touch</string>
+    <string name="path_permission_settings_title">Cài đặt/Quyền truy cập/Giấy phép ứng dụng</string>
+    <string name="path_pn_settings">Cài đặt/Mạng di động/Tên điểm truy cập</string>
+    <string name="privacy_applock">Khóa ứng dụng</string>
+    <string name="privacy_childmode">Chế độ Trẻ em</string>
+    <string name="privacy_password_remind_bindaccont_message">Thêm Tài khoản Mi của bạn (\"%s) để có thể đặt lại mật khẩu trong trường hợp quên mật khẩu.\"</string>
+    <string name="search_camera_key_action_shortcut_screenshot">Chụp ảnh màn hình</string>
 </resources>
