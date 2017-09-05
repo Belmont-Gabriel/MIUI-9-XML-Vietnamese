@@ -22,7 +22,7 @@
         <item quantity="other">%d bài hát sẽ được tải xuống</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Xóa%d danh sách phát?</item>
+        <item quantity="other">Xóa %d danh sách phát?</item>
     </plurals>
     <plurals name="Nnew_tracks_count">
         <item quantity="other">%d mới</item>
