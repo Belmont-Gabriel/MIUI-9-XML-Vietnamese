@@ -8,15 +8,18 @@
         <item>Lục</item>
         <item>Lam</item>
     </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Máy tính</item>
-        <item>iPhone</item>
-        <item>iPad</item>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Chuyển tiếp hoặc quay lại trang web</item>
+        <item>Chuyển thẻ</item>
+        <item>Không</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Trang bắt đầu mặc định</item>
         <item>Tùy chỉnh</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Điện thoại</item>
+        <item>Máy tính bảng</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Rất nhỏ</item>
@@ -25,20 +28,22 @@
         <item>Lớn</item>
         <item>Rất lớn</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Điện thoại</item>
-        <item>Máy tính bảng</item>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Máy tính</item>
+        <item>iPhone</item>
+        <item>iPad</item>
     </string-array>
-    <string-array name="shortcut_dialog_title">
-        <item>Tin nhắn từ Trình duyệt</item>
-        <item>Cùng Mi đồng hành Olympics</item>
+    <string-array name="shortcut_dialog_delete">
+        <item>Xóa</item>
+        <item>Không, cảm ơn</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>OK</item>
         <item>Theo dõi</item>
     </string-array>
-    <string-array name="shortcut_dialog_delete">
-        <item>Xóa</item>
-        <item>Không, cảm ơn</item>
+    <string-array name="shortcut_dialog_title">
+        <item>Tin nhắn từ Trình duyệt</item>
+        <item>Cùng Mi đồng hành Olympics</item>
     </string-array>
 </resources>

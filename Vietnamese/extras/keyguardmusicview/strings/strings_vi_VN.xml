@@ -1,4 +1,5 @@
-<strings>
-    <string name="no_title" value="Mở trình nghe nhạc" />
-    <string name="no_artist" value="Không có nhạc" />
-</strings>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_title">Không có nhạc</string>
+    <string name="no_artist">Không có nhạc</string>
+</resources>

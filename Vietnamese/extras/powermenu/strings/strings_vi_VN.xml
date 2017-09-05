@@ -7,4 +7,5 @@
     <string name="label_alert_reboot">Chạm để khởi động lại</string>
     <string name="label_alert_shutdown">Chạm để tắt nguồn</string>
     <string name="label_blank">Quay lại</string>
+    <string name="label_emergency_call">Cuộc gọi khẩn cấp</string>
 </resources>

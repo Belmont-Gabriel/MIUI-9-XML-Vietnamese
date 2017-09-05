@@ -1,4 +1,5 @@
-<strings>
-    <string name="no_title" value="Trình nghe nhạc" />
-    <string name="no_artist" value="Nhấn để mở Trình nghe nhạc" />
-</strings>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_title">Trình phát nhạc</string>
+    <string name="no_artist">Chạm để mở ứng dụng Nhạc</string>
+</resources>

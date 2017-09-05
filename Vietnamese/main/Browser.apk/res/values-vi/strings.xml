@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">Chọn màu</string>
     <string name="color_picker_hue">Màu sắc</string>
     <string name="color_picker_saturation">Độ bão hòa</string>
+    <string name="color_picker_value">Giá trị</string>
     <string name="comment_app_menu">Bình luận</string>
     <string name="comment_description">Bình luận</string>
     <string name="comment_hint">Bình luận</string>
@@ -201,7 +202,7 @@
     <string name="current_version_pc">Máy tính</string>
     <string name="current_version_phone">Điện thoại</string>
     <string name="custom_head_card_text">Hãy luôn tin rằng điều kỳ diệu sắp xảy ra</string>
-    <string name="custom_head_card_text_incognito">"Bạn đang ẩn danh!
+    <string name="custom_head_card_text_incognito">"Bạn đang ẩn danh
 Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="data_traffic_prompt_change">Dùng kết nối dữ liệu di động để xem video sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="data_traffic_prompt_message">Dùng kết nối dữ liệu di động để xem video này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
@@ -264,7 +265,7 @@ Trang mà bạn xem sẽ không xuất hiện trong lịch sử."</string>
     <string name="download_filter_zip">Zip</string>
     <string name="download_in_process">Đang tải xuống…</string>
     <string name="download_list_open_xl_ok">OK</string>
-    <string name="download_memory_info_avai">" trống %s|"</string>
+    <string name="download_memory_info_avai">" trống %s |"</string>
     <string name="download_memory_info_total">" tổng ​%s"</string>
     <string name="download_no_application_title">Không tìm thấy tập tin. Bạn đã di chuyển hoặc xóa?</string>
     <string name="download_no_sdcard_dlg_msg">Thẻ SD được yêu cầu để tải xuống %s.</string>
@@ -479,6 +480,8 @@ Rời khỏi trang này?"</string>
     <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Kiểm tra %s1cài đặt proxy%s2.</string>
     <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Xóa bộ nhớ đệm (%s1Cài đặt%s2 - Xóa dữ liệu).</string>
     <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Xóa bộ nhớ đệm và cookie (%s1Cài đặt%s2 - Xóa dữ liệu, thông tin tài khoản của bạn có thể bị mất).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Xóa bộ nhớ đệm và cookie ( thông tin tài khoản của bạn có thể bị mất).</string>
+    <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Xóa bộ nhớ đệm.</string>
     <string name="miuichromium_error_page_suggestion_connect_and_retry">Tải lại sau khi kết nối internet</string>
     <string name="miuichromium_error_page_suggestion_contact_admin">Liên hệ với quản trị viên hệ thống của bạn.</string>
     <string name="miuichromium_error_page_suggestion_correct_url">Kiểm tra địa chỉ mà bạn nhập và thử lại bằng URL chính xác.</string>
@@ -658,6 +661,7 @@ Rời khỏi trang này?"</string>
     <string name="pull_to_refresh_pull_label">Kéo để làm mới</string>
     <string name="pull_to_refresh_release_label">Thả để vào kiến nghị và làm mới</string>
     <string name="qr_code_title">Mã QR</string>
+    <string name="qr_description">Quét mã QR</string>
     <string name="quicklink_bookmark_save">Lưu vào</string>
     <string name="quicklink_cannot_save_url">Không thể thêm URL này.</string>
     <string name="quicklink_folder_text">Ứng dụng top</string>
@@ -756,8 +760,8 @@ Rời khỏi trang này?"</string>
     <string name="send_comment_title">Bình luận</string>
     <string name="senddesktop">Màn hình chính</string>
     <string name="sendstartpage">Trang bắt đầu</string>
-    <string name="share_image_text">Cùng xem những gì tôi tìm thấy!</string>
-    <string name="share_page_text">Cùng xem những gì tôi tìm thấy: %1$s | %2$s</string>
+    <string name="share_image_text">Hãy xem những gì tôi đã chia sẻ! @MIUI</string>
+    <string name="share_page_text">Hãy xem tôi đã chia sẻ: %1$s @MIUI| %2$s</string>
     <string name="show_check_security_url_check_tip_dialog_description">Trình duyệt cần kết nối internet để làm việc bình thường. Để cải thiện độ an toàn, nhận thêm kiến nghị có liên quan, cho phép trình duyệt nhận URL của website mà bạn truy cập và truy cập thông tin vị trí của bạn.</string>
     <string name="show_check_security_url_check_tip_dialog_description_international">Trình duyệt cần kết nối internet để làm việc bình thường. Để nhận thêm kiến nghị có liên quan, cho phép trình duyệt nhận URL của website mà bạn truy cập và truy cập thông tin vị trí của bạn.</string>
     <string name="show_security_tip_dialog_title">Điều khoản Dịch vụ</string>
@@ -773,6 +777,7 @@ Rời khỏi trang này?"</string>
     <string name="ssl_certificate">Chứng chỉ bảo mật</string>
     <string name="ssl_certificate_is_valid">Chứng chỉ này có giá trị.</string>
     <string name="ssl_continue">Tiếp tục</string>
+    <string name="ssl_date_error_warnings_header">"Chứng chỉ của trang này đã hết hạn hoặc chưa hợp lệ. Bạn nên rời khỏi trang này."</string>
     <string name="ssl_date_invalid">Chứng chỉ này có ngày không hợp lệ.</string>
     <string name="ssl_expired">Chứng chỉ này đã hết hạn.</string>
     <string name="ssl_go_back">Quay lại</string>
@@ -803,7 +808,7 @@ Rời khỏi trang này?"</string>
     <string name="switchText">CÓ</string>
     <string name="switch_proxy_dialog_msg">Đã phát hiện tấn công mạng. Hãy sử dụng ứng dụng Bảo mật của MIUI hoặc báo cáo cho cho nhà cung cấp.</string>
     <string name="switch_proxy_dialog_title">Tin tặc mạng</string>
-    <string name="tab_hotpage">Tin mới nhất</string>
+    <string name="tab_hotpage">Tin nóng</string>
     <string name="tab_quicklinks">Thường dùng</string>
     <string name="tab_yellowpage">Liên kết</string>
     <string name="tabs_description">Thẻ</string>
@@ -905,6 +910,7 @@ Rời khỏi trang này?"</string>
     <string name="view_document_downloaded_files">Xem tập tin đã tải xuống trong Tải xuống</string>
     <string name="voice_check_network">Kiểm tra cài đặt mạng và thử lại.</string>
     <string name="voice_connect_network">Không thể kết nối mạng.</string>
+    <string name="voice_description">Tìm kiếm giọng nói</string>
     <string name="voice_network_connection">Tìm kiếm bằng giọng nói cần phải kết nối Internet để làm việc bình thường.</string>
     <string name="voice_search_permission">Tìm kiếm bằng giọng nói cần truy cập micro để làm việc bình thường.</string>
     <string name="voice_semantic_analysis">Trình duyệt sẽ phân tích ngữ nghĩa sau khi bạn cho phép kết nối.</string>
@@ -919,6 +925,13 @@ Rời khỏi trang này?"</string>
     <string name="webview_find_on_page">Tìm trên trang</string>
     <string name="webviewchromium_private_browsing_warning">Tính năng không được hỗ trợ cho phiên bản Android này.</string>
     <string name="week_picker_dialog_title">Đặt tuần</string>
+    <string name="contextmenu_manually_block_ad">Đánh dấu là quảng cáo</string>
+    <string name="pref_advert_null">Quảng cáo không được đánh dấu. Bạn có thể nhấn nhãn trên trang.</string>
+    <string name="pref_cancel_screen">Hủy màn hình</string>
+    <string name="pref_label_advert_manager">Quản lý quảng cáo đươc dán nhãn</string>
+    <string name="voice_close_description">Đóng</string>
+    <string name="voice_start_description">Bắt đầu</string>
+    <string name="voice_stop_description">Dừng</string>
     <string name="search_label">Trình duyệt</string>
     <string name="history_saved_webpage">Lưu trang</string>
     <string name="new_folder_name_lable">Tên nhóm</string>
