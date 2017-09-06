@@ -37,16 +37,6 @@
         <item>Ô nhiễm nặng</item>
         <item>Ô nhiễm nghiêm trọng</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Giảm hoạt động ngoài trời</item>
-        <item>Chú ý đường trơn</item>
-        <item>Trời mưa bão, hãy cẩn thận!</item>
-        <item>Không khí ô nhiễm, nhớ mang khẩu trang!</item>
-        <item>Đem theo ô khi bạn ra ngoài</item>
-        <item>Hãy cẩn thận khi đi ra ngoài</item>
-        <item>Sắp có bão cát, hãy mang khẩu trang!</item>
-        <item>Chúc bạn ngày mới tốt lành!</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>Báo thức sẽ tắt sau gần 1 phút nữa.</item>
         <item>Báo thức sẽ tắt trong %1$s.</item>
