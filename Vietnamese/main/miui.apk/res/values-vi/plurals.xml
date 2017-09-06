@@ -2,7 +2,6 @@
 <resources>
     <plurals name="items_selected">
         <item quantity="other">Đã chọn %d mục</item>
-        <item quantity="one">Đã chọn %d mục</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Vừa xong</item>
@@ -42,18 +41,14 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d phút trước</item>
-        <item quantity="one">1 phút trước</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d phút trước</item>
-        <item quantity="one">1 phút trước</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">trong %d phút</item>
-        <item quantity="one">trong 1 phút</item>
     </plurals>
     <plurals name="in_num_minutes">
         <item quantity="other">trong %d phút</item>
-        <item quantity="one">trong 1 phút</item>
     </plurals>
 </resources>

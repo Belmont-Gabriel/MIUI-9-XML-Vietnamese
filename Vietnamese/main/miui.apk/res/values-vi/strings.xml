@@ -24,6 +24,7 @@
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn</string>
     <string name="instruction">Hướng dẫn</string>
+    <string name="sar">Thông tin Phơi nhiễm RF</string>
     <string name="abc_action_bar_up_description">Điều hướng lên</string>
     <string name="abc_action_bar_home_description">Quay về Màn hình chính</string>
     <string name="time_picker_label_hour">Giờ</string>
@@ -54,11 +55,11 @@
     <string name="check_phone_error_title">Đồng bộ tắt</string>
     <string name="check_phone_io_error">Không thể kết nối mạng</string>
     <string name="send_sms_for_sync_title">Cảnh báo sử dụng dữ liệu</string>
-    <string name="send_sms_for_sync_notice">Nhà cung cấp có thể tính phí tin nhắn SMS được sử dụng để kích hoạt dịch vụ này.</string>
+    <string name="send_sms_for_sync_notice">Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
     <string name="activate">Kích hoạt</string>
     <string name="activate_fail_notification_title">Kích hoạt lại đồng bộ</string>
-    <string name="sim_changed_reactivate_notice">Nhà cung cấp có thể tính phí tin nhắn SMS được sử dụng để kích hoạt dịch vụ này.</string>
-    <string name="sim_changed_reactivate_int_notice">Nhà cung cấp có thể tính phí tin nhắn SMS quốc tế được sử dụng để kích hoạt dịch vụ này.</string>
+    <string name="sim_changed_reactivate_notice">Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt lại dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
+    <string name="sim_changed_reactivate_int_notice">Một tin nhắn SMS quốc tế có thể được yêu cầu gửi đi để kích hoạt lại dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này.</string>
     <string name="error_title">Đồng bộ thất bại</string>
     <string name="error_unauthorized">Đồng bộ đã bị tắt do cố gắng đăng nhập quá nhiều.</string>
     <string name="error_forbidden">Đồng bộ đã bị tắt do vấn đề với Tài khoản Mi của bạn.</string>
@@ -253,7 +254,7 @@
     <string name="website">Trang web</string>
     <string name="address">Địa chỉ</string>
     <string name="note">Ghi chú</string>
-    <string name="the_eve_of_the_spring_festival">Đêm Giao Thừa</string>
+    <string name="the_eve_of_the_spring_festival">Giao Thừa</string>
     <string name="the_spring_festival">Tết Nguyên Đán</string>
     <string name="the_second_day">Ngày Thứ hai</string>
     <string name="the_third_day">Ngày Thứ ba</string>
@@ -583,4 +584,10 @@
     <string name="webview_reload">Thử lại</string>
     <string name="hybrid_provider">Được cung cấp bởi %1$s</string>
     <string name="xiaomi_mobile">Mi Mobile</string>
+    <string name="immersion_button_close_description">Đóng</string>
+    <string name="search_input_description">Tìm kiếm</string>
+    <string name="search_mode_button_back_description">Quay lại</string>
+    <string name="actionbar_immersion_button_more_description">Thêm</string>
+    <string name="actionbar_button_up_description">Quay lại</string>
+    <string name="clearable_edittext_clear_description">Xóa</string>
 </resources>

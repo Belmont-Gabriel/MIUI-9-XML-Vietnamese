@@ -36,4 +36,5 @@
     <string name="enable_wifi_title">Bật Wi-Fi</string>
     <string name="enable_wifi_message">Bật Wi-Fi để tìm kiếm và kết nối thiết bị lân cận.</string>
     <string name="enable_wifi_btn">Bật</string>
+    <string name="media_route_controller_disconnect">Ngắt kết nối</string>
 </resources>
