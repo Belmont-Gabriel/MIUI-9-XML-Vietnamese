@@ -182,48 +182,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Bạn không có bất kỳ liên hệ nào để hiển thị.</string>
     <string name="noContactsHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm liên hệ, chạm "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm:
+Để thêm liên hệ, chạm "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc cài đặt tài khoản vào liên hệ, bạn có thể đồng bộ đến điện thoại 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nhập/xuất để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</b></font></li>"\" "</string>
     <string name="noContactsHelpTextWithSync">"\"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tùy chọn hiển thị để cho phép liên hệ nào hiển thị
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất  để nhập liên hệ từ thẻ SIM hoặc thẻ nhớ SD
+"</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpText">"\"Bạn không có bất kỳ liên hệ nào để hiển thị.
 
-Để thêm địa chỉ liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm địa chỉ liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới để tạo liên hệ mới từ đầu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới để tạo liên hệ mới từ đầu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất để nhập liên hệ từ thẻ nhớ SD 
+"</b></font></li>"\" "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Bạn không có bất kỳ liên hệ nào để hiển thị. (Nếu bạn vừa thêm tài khoản, quá trình đồng bộ liên hệ có thể mất vài phút.)
 
-Để thêm liên hệ, chạm vào "<b><font fgcolor="#ffffffff">Menu</font></b>", sau đó chạm vào:
+Để thêm liên hệ, chạm vào "<font fgcolor="#ffffffff"><b>Menu</b></font>", sau đó chạm vào:
  
-"<b><font fgcolor="#ffffffff"><li>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Liên hệ mới  để tạo liên hệ mới từ đầu 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
-"</li></font></b>"\" "</string>
+"<li><font fgcolor="#ffffffff"><b>"Tài khoản để thêm hoặc thiết lập tài khoản có liên hệ mà bạn có thể đồng bộ với điện thoại 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tùy chọn hiển thị  để cho phép liên hệ nào hiển thị
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Liên hệ mới  để tạo liên hệ mới từ đầu 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nhập/Xuất  để nhập liên hệ từ thẻ nhớ SD
+"</b></font></li>"\" "</string>
     <string name="noFavoritesHelpText">"\"Bạn không có mục yêu thích nào.
 
 Để thêm liên hệ đến danh sách yêu thích của bạn:
@@ -787,7 +787,8 @@ Danh thiếp sẽ tắt"</string>
     <string name="zero_items_selected">Chọn mục</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
-    <string name="select_done">Không thể chọn thêm</string>
+    <string name="select_exceed">Không chọn vượt quá %1$d</string>
+    <string name="select_all_exceed">Không chọn vượt quá %1$d, không thể chọn tất cả</string>
     <string name="select_none">Chưa chọn gì</string>
     <string name="toast_finish_delete_call_log">Đã xóa lịch sử cuộc gọi</string>
     <string name="toast_finish_delete_selected_call_log">Đã xóa lịch sử cuộc gọi</string>
@@ -931,8 +932,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="option_rename_group">Đổi tên</string>
     <string name="option_delete_group">Xóa</string>
     <string name="deleteConfirmation_title">Xóa liên hệ này?</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" chứa thông tin từ nhiều tài khoản. Bất kỳ thông tin nào không thể xóa sẽ được ẩn trong danh sách liên hệ của bạn.</string>
-    <string name="multipleContactDeleteConfirmationDetail">Xóa \"%s\" sẽ xóa thông tin từ nhiều tài khoản.</string>
     <string name="deleteConfirmationDetail">Xóa \"%s\"?</string>
     <string name="nickname_picker_name_column">Tên liên hệ</string>
     <string name="nickname_picker_nickname_column">Tiêu đề</string>
@@ -957,6 +956,8 @@ Danh thiếp sẽ tắt"</string>
     <string name="antispam_provider_format">Được nhận dạng bởi %s</string>
     <string name="type_mx_msg">Tin nhắn Mi</string>
     <string name="qr_card_card">Mã QR</string>
+    <string name="unknown_details_new_contact">Liên hệ mới</string>
+    <string name="unfold_all">Mở rộng tất cả</string>
     <string name="menu_new_favorite_action_bar">Thêm vào yêu thích</string>
     <string name="click_close">Chạm để đóng</string>
     <string name="phone_primary">Chính</string>
@@ -1113,8 +1114,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="confirm_delete_sim_entry_miui_title">Xóa</string>
     <string name="importing_sim_contacts_miui_prepare">Đang chuẩn bị liên hệ…</string>
     <string name="deleting_sim_entry_miui_prepare">Đang chuẩn bị liên hệ…</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">Bỏ chọn tất cả</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Chọn tất cả</string>
     <string name="delete_selected_sim_entry_miui">Xóa liên hệ đã chọn?</string>
     <string name="import_selected_sim_entries_miui">Nhập liên hệ đã chọn</string>
     <string name="add_blacklist_dialog_title">Chặn số điện thoại này?</string>
@@ -1250,15 +1249,20 @@ Danh thiếp sẽ tắt"</string>
     <string name="editContactNameExpandCloseDescription">Thu gọn tên</string>
     <string name="force_touch_new_contact">Liên hệ mới</string>
     <string name="force_touch_miprofile">Danh thiếp</string>
-    <string name="fraud_more_indemnity">Thêm</string>
-    <string name="telecom_fraud_insurance">Bảo hiểm lừa đảo qua điện thoại</string>
-    <string name="telecom_fraud_insurance_description">Bảo hiểm 10,000 NDT | Xiaomi độc quyền | 9.9 NDT trên năm</string>
     <string name="yesterday">Hôm qua</string>
     <string name="tomorrow">Ngày mai</string>
     <string name="low_memory_toast">Không thể sử dụng tính năng này do không đủ bộ nhớ.</string>
     <string name="yellowpage_fc_toast">Không thể sử dụng tính năng này do Danh bạ web bị sự cố.</string>
     <string name="contact_search_history">Lịch sử</string>
     <string name="contact_clear_search_history">Xóa lịch sử</string>
+    <string name="fraud_more_indemnity">Thêm</string>
+    <string name="telecom_fraud_insurance">Bảo hiểm lừa đảo qua điện thoại</string>
+    <string name="telecom_fraud_insurance_description">Bảo hiểm 10,000 NDT | Xiaomi độc quyền | 9.9 NDT trên năm</string>
+    <string name="multipleContactDeleteConfirmationDetail">Xóa \"%s\" sẽ xóa thông tin từ nhiều tài khoản.</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" chứa thông tin từ nhiều tài khoản. Bất kỳ thông tin nào không thể xóa sẽ được ẩn trong danh sách liên hệ của bạn.</string>
+    <string name="select_done">Không thể chọn thêm</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Bỏ chọn tất cả</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Chọn tất cả</string>
     <string name="callrecordview_menu_voip">VoIP</string>
     <string name="calls_voip_prompt">VoIP</string>
     <string name="close_dial_pad">Đóng trình quay số</string>
@@ -1340,4 +1344,10 @@ Danh thiếp sẽ tắt"</string>
     <string name="voip_name">Mi Voice</string>
     <string name="voip_recommend_msg">Chạm để sử dụng Mi Voice</string>
     <string name="voip_shortcut_name">Mi Voice</string>
+    <string name="call_settings_primary_user_only">Cài đặt điện thoại chỉ được thay đổi bởi người dùng chính.</string>
+    <string name="t9_search_empty_create_contact">Liên hệ mới</string>
+    <string name="t9_search_empty_video_call">Cuộc gọi video</string>
+    <string name="t9_search_empty_send_sms">Gửi tin nhắn</string>
+    <string name="t9_search_empty_edit_contact">Thêm vào liên hệ</string>
+    <string name="add_field_toast">Không có mục để thêm.</string>
 </resources>

@@ -107,6 +107,9 @@
     <string name="life_post_setting_open_subtitle">Nhận thông tin về thời tiết khi bạn tắt báo thức từ 4:00 đến 9:30</string>
     <string name="life_post_setting_wake_up_list_title">Lịch sử thức dậy</string>
     <string name="percentage_sign">%</string>
+    <string name="life_post_setting_FBE_remind">Do giới hạn của hệ thống, báo cáo thông tin thời tiết buổi sáng có thể hiển thị không chính xác sau khi khởi động lại</string>
+    <string name="install_weather_app_loading">Vui lòng chờ…</string>
+    <string name="install_weather_app_error">Không thể tải ứng dụng</string>
     <string name="app_label">Đồng hồ</string>
     <string name="alarm_list_title">Báo thức</string>
     <string name="add_alarm">Thêm báo thức</string>

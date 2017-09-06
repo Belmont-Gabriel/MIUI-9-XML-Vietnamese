@@ -418,7 +418,11 @@
     <string name="file">Tập tin</string>
     <string name="output_videos">Xuất video</string>
     <string name="wechat_clean">Trình dọn dẹp WeChat</string>
+    <string name="qq_clean">Trình dọn dẹp QQ</string>
+    <string name="wechat_qq_normal_files">Rác</string>
     <string name="wechat_cache_files">Bộ nhớ đệm WeChat</string>
+    <string name="qq_cache_files">Bộ nhớ đệm QQ</string>
+    <string name="wechat_qq_chat_files">Lịch sử trò chuyện</string>
     <string name="wechat_chat_clean_done">Mọi thứ đều tốt</string>
     <string name="analying">Đang phân tích…</string>
     <string name="open_file_error">Không tìm thấy ứng dụng để mở tập tin này</string>
@@ -429,6 +433,7 @@
     <string name="wechat_clean_stop_confirm_msg">Dừng quét ngay?</string>
     <string name="wechat_clean_exit_confirm">Thoát?</string>
     <string name="wechat_clean_exit_confirm_msg">Dừng quét và thoát ngay?</string>
+    <string name="qq_clean_exit_confirm_msg">Dừng quét và thoát ngay?</string>
     <string name="wechat_chat_data_type_normal">Rác</string>
     <string name="wechat_chat_data_type_normal_desc">Xóa sẽ không ảnh hưởng đến việc sử dụng của bạn.</string>
     <string name="wechat_chat_data_type_normal_clean_tips">Đây là những tập tin kỹ thuật. Xóa sẽ không ảnh hưởng đến việc sử dụng của bạn.</string>
@@ -438,6 +443,15 @@
     <string name="wechat_chat_data_type_chat_desc">Bạn sẽ không thể khôi phục lịch sử trò chuyện.</string>
     <string name="wechat_chat_data_type_other">Khác</string>
     <string name="wechat_chat_data_type_other_desc">Hãy cẩn thận, bạn sẽ không thể khôi phục các tập tin này sau khi xóa.</string>
+    <string name="qq_data_type_normal">Rác</string>
+    <string name="qq_data_type_normal_desc">Xóa tập tin rác sẽ không ảnh hưởng đến việc sử dụng.</string>
+    <string name="qq_data_type_normal_clean_tips">Đây là những tập tin kỹ thuật. Xóa chúng sẽ không ảnh hưởng đến việc sử dụng.</string>
+    <string name="qq_data_type_cache">Bộ nhớ đệm QQ</string>
+    <string name="qq_data_type_cache_desc">Bạn có thể khôi phục các tập tin này sau khi bạn kết nối internet.</string>
+    <string name="qq_data_type_chat">Lịch sử trò chuyện</string>
+    <string name="qq_data_type_chat_desc">Bạn sẽ không thể khôi phục lịch sử trò chuyện.</string>
+    <string name="qq_data_type_other">Khác</string>
+    <string name="qq_data_type_other_desc">Hãy cẩn thận, bạn sẽ không thể khôi phục các tập tin này sau khi xóa.</string>
     <string name="wechat_copy_to_gallery">Xuất đến Thư viện</string>
     <string name="wechat_copying_video">Đang xuất…</string>
     <string name="wechat_copy_video_failed_dialog_title">Không thể xuất</string>
@@ -454,15 +468,12 @@
     <string name="app_usage_recently">Sử dụng gần đây</string>
     <string name="resutl_function_deep_clean_summary">" Hơn "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> tập tin có thể bị xóa. Giải phóng thêm dung lượng trống.;</Data>" "</string>
     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm WeChat. Giải phóng thêm dung lượng trống.;</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data>Bạn có thể xóa &lt;font color=#ff0000 >%1$s&lt;/font> bộ nhớ đệm được tạo bởi QQ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">Giới thiệu Trình dọn dẹp</string>
     <string name="app_description_content">Trình dọn dẹp tìm rác trên thiết bị và giải phóng dung lượng. Chắc chắn rằng bạn không cần những tính năng này trước khi gỡ cài đặt ứng dụng.</string>
     <string name="engine_init">Đang khởi tạo...</string>
-    <string name="wechat_normal_files">Rác</string>
-    <string name="wechat_chat_files">Lịch sử trò chuyện</string>
-    <string name="wechat_clean_downloads">Đã nhận tập tin</string>
-    <string name="wechat_clean_downloads_desc">Đã nhận tập tin trên WeChat</string>
     <string name="app_install_tips_go_to">Mở</string>
     <string name="app_install_tips_install_success">Đã cài đặt %1$s thành công</string>
     <string name="authorize_detail">Chặn %d ứng dụng</string>
@@ -496,4 +507,8 @@
     <string name="safety_rank">Hơn %d%% người dùng MIUI về mặt nhận thức bảo mật</string>
     <string name="traffic_top">TOP 5 ứng dụng tiêu hao lưu lượng dữ liệu</string>
     <string name="unlike">Không, cảm ơn</string>
+    <string name="wechat_chat_files">Lịch sử trò chuyện</string>
+    <string name="wechat_clean_downloads">Đã nhận tập tin</string>
+    <string name="wechat_clean_downloads_desc">Đã nhận tập tin trên WeChat</string>
+    <string name="wechat_normal_files">Rác</string>
 </resources>

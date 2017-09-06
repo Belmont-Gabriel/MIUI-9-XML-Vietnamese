@@ -187,8 +187,7 @@
     <string name="third_web_confirm">OK</string>
     <string name="creat_task_success">Đã thêm vào danh sách chờ tải xuống</string>
     <string name="no_vip_info">Đăng ký thành viên Xunlei để tăng tốc tải xuống</string>
-    <string name="no_vip_show_info">"Tăng tốc tải xuống
-trên tất cả thiết bị với Xunlei"</string>
+    <string name="no_vip_show_info">"Tăng tốc tải xuống trên tất cả thiết bị với Xunlei"</string>
     <string name="vip_show_info">"Hơn 5 triệu thành viên.
 Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="vip_expire_show_info">Thành viên Xunlei đã hết hạn.</string>
@@ -449,4 +448,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="dialog_btn_cancel">Hủy</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="ad_install">Cài đặt</string>
+    <string name="download_title">Tải xuống</string>
 </resources>

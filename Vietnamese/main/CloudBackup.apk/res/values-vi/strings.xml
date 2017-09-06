@@ -18,7 +18,7 @@
     <string name="cloud_backup_detail_state_summary">Ứng dụng, màn hình chính và cài đặt hệ thống</string>
     <string name="cloud_backup_detail_frequence">Lịch trình sao lưu</string>
     <string name="cloud_back_up_interval_long">7 ngày</string>
-    <string name="cloud_back_up_interval_short">Mỗi ngày</string>
+    <string name="cloud_back_up_interval_short">ngày</string>
     <string name="cloud_backup_detail_frequence_day">Sao lưu sau mỗi %1$s</string>
     <string name="cloud_backup_detail_time">Sao lưu trước: %1$s</string>
     <string name="cloud_backup_detail_manage">Quản lý sao lưu</string>
