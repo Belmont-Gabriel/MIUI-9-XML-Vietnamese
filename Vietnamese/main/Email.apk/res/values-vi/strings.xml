@@ -7,13 +7,10 @@
     <string name="account_duplicate_dlg_title">Tài khoản bị trùng</string>
     <string name="account_name_toast">Một tài khoản có cùng tên đã tồn tại</string>
     <string name="account_options_sync_title">Đồng bộ</string>
-    <string name="account_password_spaces_error">"Mật khẩu này bắt đầu hoặc kết thúc với một hoặc nhiều 
-      khoảng trống. Nhiều máy chủ không hỗ trợ mật khẩu là dấu cách."</string>
-    <string name="account_security_dialog_content_fmt">"%s yêu cầu bạn cập nhật cài đặt
-         bảo mật."</string>
+    <string name="account_password_spaces_error">"Mật khẩu này bắt đầu hoặc kết thúc với một hoặc nhiều khoảng trống. Nhiều máy chủ không hỗ trợ mật khẩu là dấu cách."</string>
+    <string name="account_security_dialog_content_fmt">"%s yêu cầu bạn cập nhật cài đặt bảo mật."</string>
     <string name="account_security_dialog_title">Cập nhật bảo mật</string>
-    <string name="account_security_policy_explanation_fmt">"Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng 
-         bảo mật trên thiết bị Android của bạn."</string>
+    <string name="account_security_policy_explanation_fmt">"Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng bảo mật trên thiết bị Android của bạn."</string>
     <string name="account_security_title">Bảo mật thiết bị</string>
     <string name="account_set_up_change_type_note">Nếu bạn cần chuyển đổi giữa các cài đặt POP3 và IMAP, xóa tài khoản của bạn và tạo một tài khoản mới bằng cài đặt mong muốn của bạn.</string>
     <string name="account_setting">Tài khoản</string>
@@ -34,7 +31,7 @@
     <string name="account_settings_enforced_summary">Không</string>
     <string name="account_settings_incoming_summary">Cài đặt tên người dùng, mật khẩu và máy chủ khác</string>
     <string name="account_settings_login_dialog_content_fmt">"Tên người dùng hoặc mật khẩu tài khoản %s không chính xác.
- Cập nhật ngay?"</string>
+Cập nhật ngay?"</string>
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Không thể đăng nhập vào tài khoản %s. Phản hồi máy chủ: %s</string>
     <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_mail_check_frequency_label">Tần suất</string>
@@ -206,6 +203,7 @@
     <string name="auto_remind_text">Nhắc nhở tự động</string>
     <string name="auto_remind_unbind">Dừng</string>
     <string name="auto_sync_off">Đã tắt tự động đồng bộ.</string>
+    <string name="automatic_remind_text">Tự động nhắc nhở</string>
     <string name="bank_card_detail">Chi tiết thẻ tín dụng</string>
     <string name="battery_saver">Tiết kiệm pin</string>
     <string name="battery_saver_keywords">tiết kiệm pin;pin mail</string>
@@ -228,6 +226,7 @@
     <string name="calendar_remind_gridview_pick_date">Chọn ngày</string>
     <string name="cancel">Hủy</string>
     <string name="cancel_action">Hủy</string>
+    <string name="cancel_pop3_attchemt_downloading">Tài khoản loại pop3 không thể hủy tệp đính kèm trong quá trình tải xuống</string>
     <string name="cant_move_or_change_labels">Không thể di chuyển nội dung từ nhiều tài khoản.</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
@@ -334,7 +333,6 @@
     <string name="device_not_activiey_lint1">Quản lý thiết bị chưa được kích hoạt</string>
     <string name="device_not_activiey_lint2">Dịch vụ thư không hoạt động với Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Không thể tự động nhận tin nhắn mới. Đồng bộ đã tắt.</string>
-    <string name="dialog_auto_sync_setting_no_open">Không thể tự động nhận tin nhắn mới. Đồng bộ đã tắt.</string>
     <string name="dialog_change_sync_lookback">Thư nhận vào %s trước sẽ được xóa tự động. Chạm để thay đổi.</string>
     <string name="dialog_gmail_proxy_server_is_error">Proxy máy chủ Gmail lỗi.</string>
     <string name="dialog_insufficient_space_on_external">Không thể tải xuống tập tin đính kèm. Bộ nhớ ngoài không đủ dung lượng.</string>
@@ -385,10 +383,7 @@
     <string name="empty_trash_dialog_title">Xóa sạch Thùng rác?</string>
     <string name="enable_sync_in_account_settings">"Mở trong  %1$s ."</string>
     <string name="error">Lỗi</string>
-    <string name="exception_cancel">"
-        Sự kiện này đã bị hủy
-        vào:
-%s "</string>
+    <string name="exception_cancel">"Sự kiện này đã bị hủy vào: %s "</string>
     <string name="exception_updated">Chi tiết của sự kiện này đã được thay đổi: %s</string>
     <string name="exchange_name">Công ty</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -512,39 +507,16 @@
     <string name="mark_unread">Đánh dấu chưa đọc</string>
     <string name="me_object_pronun">tôi</string>
     <string name="me_subject_pronun">tôi</string>
-    <string name="meeting_accepted">"
-        Đã chấp nhận:
-%s "</string>
-    <string name="meeting_allday">"
-        Khi:
-%s (cả ngày)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        Khi:
-%s (cả ngày, định kỳ)
-    "</string>
-    <string name="meeting_canceled">"
-        Đã hủy:
-%s "</string>
-    <string name="meeting_declined">"
-        Đã từ chối:
-%s "</string>
-    <string name="meeting_recurring">"
-        Khi:
-%s (định kỳ)
-    "</string>
-    <string name="meeting_tentative">"
-        Dự kiến:
-%s "</string>
-    <string name="meeting_updated">"
-        Đã cập nhật:
-%s "</string>
-    <string name="meeting_when">"
-        Khi:
-%s "</string>
-    <string name="meeting_where">"
-        Tại:
-%s "</string>
+    <string name="meeting_accepted">"Đã chấp nhận: %s "</string>
+    <string name="meeting_allday">"Khi: %s (cả ngày)"</string>
+    <string name="meeting_allday_recurring">"Khi: %s (cả ngày, định kỳ)"</string>
+    <string name="meeting_canceled">"Đã hủy: %s "</string>
+    <string name="meeting_declined">"Đã từ chối: %s "</string>
+    <string name="meeting_recurring">"Khi: %s (định kỳ)"</string>
+    <string name="meeting_tentative">"Dự kiến: %s "</string>
+    <string name="meeting_updated">"Đã cập nhật: %s "</string>
+    <string name="meeting_when">"Khi: %s "</string>
+    <string name="meeting_where">"Tại: %s "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Tập tin đính kèm</string>
     <string name="menu_att_mgr_order_default">Đã xem gần đây</string>
@@ -655,8 +627,7 @@ Hãy thử hộp thư khác."</string>
     <string name="password_expire_warning_content_title">Mật khẩu khóa màn hình hết hạn</string>
     <string name="password_expire_warning_dialog_content_fmt">Bạn cần thay đổi PIN hoặc mật khẩu màn hình khóa của bạn sớm, hoặc dữ liệu %s sẽ bị xóa. Bạn muốn thay đổi ngay bây giờ không?</string>
     <string name="password_expire_warning_dialog_title">Mật khẩu khóa màn hình hết hạn</string>
-    <string name="password_expire_warning_ticker_fmt">"\"%s\" yêu cầu bạn thay đổi mã
-            PIN hoặc mật khẩu khóa màn hình."</string>
+    <string name="password_expire_warning_ticker_fmt">"\"%s\" yêu cầu bạn thay đổi mã PIN hoặc mật khẩu khóa màn hình."</string>
     <string name="password_expired_content_title">Mật khẩu khóa màn hình đã hết hạn</string>
     <string name="password_expired_dialog_content_fmt">Đã xóa dữ liệu tài khoản %s từ thiết bị. Bạn có thể khôi phục bằng cách thay đổi mã PIN hoặc mật khẩu màn hình khóa. Bạn có muốn thay đổi ngay bây giờ?</string>
     <string name="password_expired_dialog_title">Mật khẩu khóa màn hình đã hết hạn</string>
@@ -684,8 +655,7 @@ Hãy thử hộp thư khác."</string>
     <string name="photo_load_failed">Không thể tải ảnh</string>
     <string name="photo_view_count" formatted="false">%d/%d</string>
     <string name="please_fill_in_your_mailbox_information2">Nhập thông tin hộp thư của bạn</string>
-    <string name="pls_parse_bill_discribe">"Phân tích hóa đơn và thông tin du lịch trên email của bạn
-để nhận nhắc nhở về thanh toán và du lịch"</string>
+    <string name="pls_parse_bill_discribe">"Phân tích hóa đơn và thông tin du lịch trên email của bạn để nhận nhắc nhở về thanh toán và du lịch"</string>
     <string name="policy_app_blacklist">Không cho phép những ứng dụng chỉ định</string>
     <string name="policy_app_whitelist">Chỉ cho phép ứng dụng chỉ định</string>
     <string name="policy_bluetooth_restricted">Giới hạn sử dụng Bluetooth</string>
@@ -837,8 +807,8 @@ Hãy thử hộp thư khác."</string>
     <string name="search_txt_size_limit_prompt">Từ tìm kiếm phải lớn hơn 3 ký tự</string>
     <string name="security_changed_ticker_fmt">Tài khoản \"%s\" đã thay đổi cài đặt bảo mật; Không có hành động người dùng được yêu cầu.</string>
     <string name="security_needed_ticker_fmt">Tài khoản \"%s\" yêu cầu cập nhật cài đặt bảo mật.</string>
-    <string name="security_notification_content_change_title">"Chính sách bảo mật đã thay đổi"</string>
-    <string name="security_notification_content_unsupported_title">"Yêu cầu bảo mật không thể được đáp ứng"</string>
+    <string name="security_notification_content_change_title">Chính sách bảo mật đã thay đổi</string>
+    <string name="security_notification_content_unsupported_title">Yêu cầu bảo mật không thể được đáp ứng</string>
     <string name="security_notification_content_update_title">Yêu cầu cập nhật bảo mật</string>
     <string name="security_unsupported_ticker_fmt">Tài khoản \"%s\" không thể đồng bộ do yêu cầu bảo mật.</string>
     <string name="select_attachment_type">Chọn tập tin đính kèm từ</string>
@@ -926,13 +896,11 @@ Hãy thử hộp thư khác."</string>
     <string name="translation_technology_support">Hỗ trợ kỹ thuật bởi iciba.com</string>
     <string name="trash_folder_selection_title">Chọn thư mục thùng rác cho %s</string>
     <string name="try_exchange_login">Đăng nhập bằng EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">"Thay đổi bạn thực hiện cho 
-    tất cả các ứng dụng và tài khoản, không chỉ là Gmail, sẽ được đồng bộ 
-    giữa các trang web, các thiết bị khác và %1$s của bạn."</string>
+    <string name="turn_auto_sync_on_dialog_body">"Thay đổi bạn thực hiện cho tất cả các ứng dụng và tài khoản, không chỉ là Gmail, sẽ được đồng bộ giữa các trang web, các thiết bị khác và %1$s của bạn."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Bật</string>
     <string name="turn_auto_sync_on_dialog_title">Mở tự động đồng bộ?</string>
-    <string name="unbind_dialog_text">"Bạn sẽ không nhận được nhắc nhở sau khi bạn dừng phân tích hóa đơn.
-Dừng ngay?"</string>
+    <string name="unbind_dialog_text">"Thư chưa được giải quyết sau khi hủy liên kết.
+Xác nhận hủy liên kết?"</string>
     <string name="undo">Hoàn tác</string>
     <string name="unknow">Không rõ</string>
     <string name="unread_string">Hội thoại chưa đọc</string>
@@ -975,6 +943,7 @@ Chạm "<b>Đồng bộ bây giờ</b> để đồng bộ email một lần, ho�
     <string name="you_are_in_mobile_network">Gửi nhật ký bằng kết nối dữ liệu di động? Nếu bạn vượt quá giới hạn kế hoạch sử dụng dữ liệu, nhà cung cấp có thể tính phí bổ sung.</string>
     <string name="youfuli">Mail đề xuất</string>
     <string name="zip_viewer_no_file">Không có tập tin nào.</string>
+    <string name="dialog_auto_sync_setting_no_open">Không thể tự động nhận tin nhắn mới. Đồng bộ đã tắt.</string>
     <string name="chat_view_description">Tập hợp danh sách vào giao diện hội thoại</string>
     <string name="chat_view_title">Xem hội thoại</string>
     <string name="contact_edit_set_black_list_filtering">Đang lọc…</string>

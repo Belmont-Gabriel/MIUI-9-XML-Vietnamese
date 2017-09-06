@@ -72,9 +72,7 @@
     <string name="confirm_know">OK</string>
     <string name="confirm_clean">Dọn dẹp</string>
     <string name="error_info_cant_send_folder">Không thể gửi loại tập tin này.</string>
-    <string name="fail_to_create_folder">Không đủ dung lượng hoặc thư mục đã tồn tại.</string>
     <string name="fail_to_create_folder_unknown">Không thể tạo thư mục</string>
-    <string name="fail_to_rename">Một tập tin cùng tên đã tồn tại.</string>
     <string name="error_filename_too_long">Tên tập tin bạn đã nhập là quá dài.</string>
     <string name="enable_sd_card">Gắn thẻ SD hoặc tắt bộ nhớ chung USB.</string>
     <string name="enable_usb">Kết nối thiết bị USB</string>
@@ -84,7 +82,6 @@
     <string name="notif_title">Máy chủ FTP đang chạy.</string>
     <string name="storage_warning">Không thể sử dụng bộ nhớ ngoài</string>
     <string name="wifi_state">Mạng Wi-Fi</string>
-    <string name="instruction_pre">Chạm để khởi động máy chủ FTP</string>
     <string name="instruction">Nhập địa chỉ sau vào máy khách FTP:</string>
     <string name="no_wifi">Không phát hiện mạng nào</string>
     <string name="no_wifi_hint">Không kết nối</string>
@@ -116,7 +113,8 @@
     <string name="operation_compressing">Đang nén…</string>
     <string name="operation_decompressing">Đang giải nén…</string>
     <string name="decompress_success">Giải nén hoàn tất</string>
-    <string name="decompress_fail">Không thể giải nén. Bộ nhớ đầy hoặc xảy ra lỗi không xác định.</string>
+    <string name="decompress_fail">Không thể giải nén.</string>
+    <string name="decompress_corrupt">Không thể giải nén tập tin. Tập tin đã hỏng.</string>
     <string name="decompress_destination_error">Không thể giải nén tập tin đến vị trí này.</string>
     <string name="decompress_to_here">Giải nén ở đây</string>
     <string name="decompress_to">Giải nén tập tin đến…</string>
@@ -129,7 +127,7 @@
     <string name="move_failed">Không thể cắt</string>
     <string name="copy_failed">Không thể sao chép</string>
     <string name="toast_file_not_can_read">Không tìm thấy ứng dụng để xử lý tác vụ này.</string>
-    <string name="extended_storage_file_can_not_open">Không thể mở tập tin. Hãy sao chép tập tin vào bộ nhớ trong trước.</string>
+    <string name="extended_storage_file_can_not_open">Không thể mở tập tin. Hãy sao chép tập tin vào bộ nhớ trong.</string>
     <string name="server_control_settings">Cài đặt</string>
     <string name="server_control_advanced_settings">Cài đặt FTP</string>
     <string name="server_control_charset">Mã hóa chuyển đổi</string>
@@ -157,8 +155,6 @@
     <string name="name_empty">Bạn phải nhập một tên.</string>
     <string name="folder_name_illegal">Tên thư mục không hợp lệ</string>
     <string name="folder_name_empty">Tên thư mục không được để trống</string>
-    <string name="unmount_inform_text">Ngắt kết nối bộ nhớ USB?</string>
-    <string name="dlg_error_unmount_text">Không thể ngắt kết nối lưu trữ USB.</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -172,7 +168,6 @@
     <string name="category_type_meida">Phương tiện</string>
     <string name="category_type_document">Tài liệu</string>
     <string name="category_type_other">Khác</string>
-    <string name="phone">Bộ nhớ trong</string>
     <string name="category">Phân loại</string>
     <string name="file_not_exist">Tập tin không tồn tại</string>
     <string name="action_mode_deselect_all">Bỏ chọn tất cả</string>
@@ -204,7 +199,7 @@
     <string name="port_range">Số cổng phải trong khoảng từ 1024–65535</string>
     <string name="file_name_invalid">Tên tập tin không được bao gồm các ký tự sau: /\\:*?&lt;></string>
     <string name="rename_alert">Nếu bạn thay đổi định dạng tập tin, bạn sẽ không thể mở.</string>
-    <string name="rename_alert2">Tập tin sẽ được ẩn.</string>
+    <string name="rename_alert2">Nếu bạn sửa đổi các hậu tố, tập tin có thể không mở được.</string>
     <string name="search_file_type_picture">Ảnh</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_file_type_music">Nhạc</string>
@@ -222,21 +217,14 @@
     <string name="rlv_refreshing">Đang làm mới…</string>
     <string name="rlv_last_refreshing_time">Đã cập nhật %1$s</string>
     <string name="rlv_loading_more">Vui lòng chờ…</string>
-    <string name="notification_setting">Thông báo</string>
-    <string name="notification_title">Hiển thị thông báo khi %1$s tạo một tập tin</string>
     <string name="notification_dialog_title">Thông báo</string>
     <string name="notification_dialog_content">Tự động thông báo và sắp xếp khi tập tin được thêm hoặc thay đổi trong %1$s.</string>
     <string name="notification_dialog_confirm">OK</string>
     <string name="smb_loading">Vui lòng chờ…</string>
     <string name="online_not_support">Hiện tại không thể xem tập tin này.</string>
     <string name="delete_file_error">Không thể xóa tập tin</string>
-    <string name="notification_content_hint">Chạm để xem</string>
-    <string name="notification_wechat_title">Khi video trò chuyện sắp hết hạn</string>
     <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
     <string name="notification_wechat_expired_empty">WeChat đã xóa những video này.</string>
-    <string name="notification_wechat_sticker_hint">Hiển thị thông báo khi biểu tượng WeChat khả dụng</string>
-    <string name="notification_wechat_auto_backup_hint">Chạm để tìm hiểu thêm.</string>
-    <string name="notification_wechat_auto_backup_switch_title">Sao lưu video trò chuyện</string>
     <string name="backup_title">Sao lưu video trò chuyện?</string>
     <string name="backup_confirm">Sao lưu ngay</string>
     <string name="backup_cancel">Không sao lưu</string>
@@ -259,7 +247,7 @@
     <string name="app_name_midrop">Mi Drop</string>
     <string name="data_consumption_title">Kết nối Internet</string>
     <string name="data_consumption_message">Ứng dụng này cần phải kết nối Internet bằng Wi-Fi để làm việc bình thường.</string>
-    <string name="data_consumption_message1">Thiết bị cần được kết nối internet để xem video và biểu tượng phổ biến.</string>
+    <string name="data_consumption_message1">Video và Stickers cần kết nối internet bằng Wi-Fi để hoạt động bình thường.</string>
     <string name="data_consumption_checkbox_hint">Không hiển thị lại</string>
     <string name="data_consumption_confirm">OK</string>
     <string name="data_consumption_cancel">Thoát</string>
@@ -303,7 +291,7 @@
     <string name="network_spent_reminding_title">Thông báo sử dụng dữ liệu</string>
     <string name="network_spent_reminding">Sử dụng kết nối dữ liệu di động để xem trang này? Bạn sẽ phải trả phí dữ liệu di động thông thường từ nhà cung cấp.</string>
     <string name="shared_sticker_use_tip_title">Cách sử dụng biểu tượng</string>
-    <string name="shared_sticker_use_tip">"Bạn có thể gửi biểu tượng đã lưu từ trò chuyện giống như bạn gửi ảnh.
+    <string name="shared_sticker_use_tip">"Bạn có thể gửi biểu tượng đã lưu từ WeChat giống như bạn gửi ảnh.
 (Tập tin GIF có thể được thêm vào Tùy chỉnh trong Biểu tượng WeChat)."</string>
     <string name="shared_sticker_page_no_file">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
     <string name="shared_sticker_network_permission_tip">Không thể kết nối mạng. Hãy kiểm tra và thử lại.</string>
@@ -334,15 +322,12 @@
     <string name="search_result">Kết quả</string>
     <string name="add_private_files">Thêm tập tin</string>
     <string name="type_not_support">Định dạng tập tin này không được hỗ trợ. Giải nén và thử lại.</string>
-    <string name="notify_private_folder_title">Tạo thư mục ẩn</string>
-    <string name="notify_private_folder_msg">Chạm để tìm hiểu thêm.</string>
     <string name="select_dest_folder">Chọn thư mục</string>
     <string name="menu_item_sort_by_added_time">Đã thêm</string>
     <string name="move_icon_to_desktop_hint">Tạo lối tắt trên Màn hình chính để quản lý tập tin hiệu quả hơn.</string>
     <string name="move_icon_to_desktop_success">Đã thêm lối tắt đến Màn hình chính.</string>
     <string name="clean_hint">Chạm để giải phóng dung lượng</string>
     <string name="private_toast_hint2">Để ẩn một tập tin, bấm và giữ đối tượng sau đó thêm vào thư mục ẩn.</string>
-    <string name="private_toast_hint3">Kéo xuống để xem thư mục ẩn</string>
     <string name="encrypt_success_first_five">Mã hóa và ẩn tập tin. Bạn có thể xem tập tin ẩn bằng cách kéo xuống trang bắt đầu Tập tin.</string>
     <string name="add_private">Ẩn tập tin ngay</string>
     <string name="private_folder_no_file_hints">Không có tập tin ẩn.</string>
@@ -352,7 +337,6 @@
     <string name="make_private_msg_3">Tất cả tập tin trong thư mục này sẽ được ẩn.</string>
     <string name="homepage_tab_recent">Gần đây</string>
     <string name="homepage_tab_category">Phân loại</string>
-    <string name="homepage_tab_file_view">Lưu trữ</string>
     <string name="found_usb">Lưu trữ USB đã kết nối</string>
     <string name="found_router">Bộ định tuyến đã kết nối</string>
     <string name="hot_video">Video</string>
@@ -374,7 +358,7 @@
     <string name="video_status_review">Đang được đánh giá</string>
     <string name="video_status_reject">Đã từ chối</string>
     <string name="unreviewed_video_cannot_share">Video nên được đánh giá trước khi chia sẻ</string>
-    <string name="share_to">Chia sẻ tới…</string>
+    <string name="share_to">Chia sẻ qua…</string>
     <string name="wechat_platform">WeChat</string>
     <string name="wxcircle_platform">Khoảnh khắc</string>
     <string name="qq_platform">QQ</string>
@@ -421,15 +405,15 @@
     <string name="download_fail">Không thể tải xuống</string>
     <string name="installing">Đang cài đặt…</string>
     <string name="video_ad_download">Cài đặt</string>
-    <string name="need_read_storage_permission">Tập tin cần truy cập vào bộ nhớ trong của thiết bị để làm việc bình thường.</string>
+    <string name="need_read_storage_permission">Tập tin yêu cầu quyền truy cập vào lưu trữ thiết bị để hoạt động bình thường.</string>
     <string name="enable_documentsui">Bật %s trong Cài đặt > Ứng dụng đã cài đặt trước</string>
     <string name="not_installed_documentsui">DocumentsUI chưa được cài đặt</string>
     <string name="title_enable_documentsui">Bật DocumentsUI</string>
-    <string name="error_contains_sharer_path">Không thể mã hóa tập tin trong thư mục /MIUI/Gallery/cloud/sharer. Chuyển tập tin vào thư mục khác và thử lại.</string>
     <string name="server_error">Lỗi máy chủ, thử lại sau. (Lỗi %s)</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
     <string name="request_timeout">Yêu cầu hết giờ</string>
-    <string name="login_expired">Đăng nhập thất bại, hãy đăng nhập lại</string>
+    <string name="login_expired">Đăng nhập đã hết hạn, thử đăng nhập lại.</string>
+    <string name="error_contains_sharer_path">Không thể mã hóa tập tin trong thư mục /MIUI/Gallery/cloud/sharer. Chuyển tập tin vào thư mục khác và thử lại</string>
     <string name="hottest_sticker_str">Phổ biến</string>
     <string name="no_new_content_tip">Tất cả mục đều được cập nhật</string>
     <string name="share_title_1">Đã tìm thấy gói biểu tượng hấp dẫn!</string>
@@ -438,7 +422,6 @@
     <string name="video_upload_btn">Tiếp theo</string>
     <string name="video_upload_title">Chọn video</string>
     <string name="video_upload_item_title">%1$s (%2$s)</string>
-    <string name="video_upload_item_more">Thêm (%1$s)</string>
     <string name="video_comment_topic">\#Thêm chủ đề#</string>
     <string name="video_comment_hint">Chọn chủ đề</string>
     <string name="video_comment_publish">Gửi</string>
@@ -529,8 +512,6 @@
     <string name="user_setting_new_comment_tip">Bạn sẽ nhận được thông báo khi bình luận hoặc video được trả lời</string>
     <string name="user_setting_new_liked">Thông báo khi được thích</string>
     <string name="user_setting_new_liked_tip">Bạn sẽ nhận được thông báo khi có người thích bình luận hoặc video của bạn</string>
-    <string name="user_setting_topic_new_msg">Thông báo khi chủ đề theo dõi có động thái mới</string>
-    <string name="user_setting_topic_new_msg_tip">Bạn sẽ nhận được thông báo khi có video mới trong chủ đề bạn theo dõi</string>
     <string name="user_setting_follow_new_msg">Thông báo khi người bạn theo dõi có động thái mới</string>
     <string name="user_setting_follow_new_msg_tip">Bạn sẽ được thông báo về video mới</string>
     <string name="user_setting_followed_msg">Thông báo khi có người theo dõi</string>
@@ -572,8 +553,8 @@
     <string name="you_liao_god_str">Quý ông</string>
     <string name="you_liao_goddess_str">Quý bà</string>
     <string name="you_liao_xunlei_str">Máy chủ Xunlei</string>
-    <string name="original_user_desc">Tải video gốc lên thường xuyên để nhận Danh hiệu</string>
-    <string name="you_liao_xunlei_desc">Ký điều khoản với chúng tôi để nhận danh hiệu Chủ phát</string>
+    <string name="original_user_desc">Tải video gốc lên thường xuyên để nhận danh hiệu Nhà sáng tạo</string>
+    <string name="you_liao_xunlei_desc">Ký thỏa thuận với chúng tôi để nhận danh hiệu Người phát chính</string>
     <string name="you_liao_god_desc">Tải video lên thường xuyên và tăng số lượng người hâm mộ của mình để nhận danh hiệu Quý ông</string>
     <string name="you_liao_goddess_desc">Tải video lên thường xuyên và tăng số lượng người hâm mộ của mình để nhận danh hiệu Quý bà</string>
     <string name="default_user_desc">Người này chưa thêm bất kỳ miêu tả nào</string>
@@ -625,10 +606,6 @@
     <string name="download">Tải xuống</string>
     <string name="open_app">Mở</string>
     <string name="recent_show">Gần đây</string>
-    <string name="youliao_ad_title">Video phổ biến đã được nâng cấp!</string>
-    <string name="youliao_ad_msg">"Hãy vui cùng \"Youliao\"!
-Gia nhập cùng 170 triệu Mi Fan!"</string>
-    <string name="youliao_ad_update">Cập nhật</string>
     <string name="setting_message_notify">Thông báo</string>
     <string name="setting_account_bind">Thêm tài khoản</string>
     <string name="user_setting_logout">Đăng xuất</string>
@@ -670,7 +647,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="popup_msg_wx">Chia sẻ video này với bạn bè WeChat của bạn.</string>
     <string name="popup_msg_qq">Chia sẻ video này với bạn bè của bạn trên QQ.</string>
     <string name="video_uploaded">Đã tải lên</string>
-    <string name="video_recommend_upload">Đã kiến nghị</string>
     <string name="video_upload_kuaishou_hint">Tải lên video Kuaishou để có thêm người hâm mộ.</string>
     <string name="video_upload_wechat_hint">Tải video lên WeChat để có thêm nhiều fan.</string>
     <string name="upload_video_failed_progress">Không thể tải lên, hãy thử lại</string>
@@ -694,7 +670,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="sort_size_desc">Lớn đến nhỏ</string>
     <string name="sort_size_asc">Nhỏ đến lớn</string>
     <string name="tab_homepage">Trang chính</string>
-    <string name="tab_claim">Nhận</string>
     <string name="tab_discover">Khám phá</string>
     <string name="tab_mine">Hồ sơ</string>
     <string name="original_user_signal">Đội tài năng</string>
@@ -702,20 +677,6 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="original_user_register">• &lt;font color=#fc7050>%1$s&lt;/font> đã tham gia cộng đồng</string>
     <string name="original_user_verify">• Cảm ơn bạn đã gắn bó với chúng tôi!</string>
     <string name="original_user_qq_group">Tham gia nhóm QQ đội tài năng</string>
-    <string name="claim_video">Nhận</string>
-    <string name="claim_video_locking">Đang nhận…</string>
-    <string name="claim_no_video">Không có video nào để nhận</string>
-    <string name="claim_video_already_locked">Đã nhận</string>
-    <string name="claim_video_already_claimed">Video này đã được nhận, lần sau nhớ nhanh tay!</string>
-    <string name="claim_video_over">Nhận quá nhiều hôm nay, hãy quay lại vào ngày mai!</string>
-    <string name="claim_operation_too_frequently">Quá nhiều lần! Thử lại sau.</string>
-    <string name="claim_video_success">Đã nhận thành công</string>
-    <string name="claim_video_failure">Không thể nhận, thử lại</string>
-    <string name="claim_remind_dialog_title">Chú ý</string>
-    <string name="claim_remind_dialog_message">Bạn sẽ không thể nhận video nếu quay lại</string>
-    <string name="claim_remind_dialog_confirm">Ở lại</string>
-    <string name="claim_remind_dialog_cancel">Xem video khác</string>
-    <string name="claim_video_unlogin">Đăng nhập để nhận video</string>
     <string name="video_encrypt_login_text">Đăng nhập để phát video này</string>
     <string name="video_encrypt_login_btn">Đăng nhập</string>
     <string name="video_encrypt_fans_text">Chỉ fans mới có thể xem video này</string>
@@ -784,14 +745,10 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="gender_choose_sub_tile">Nhận nội dung cá nhân</string>
     <string name="share_topic_title">Tôi đang xem #%1$s#, hãy xem cùng nào!</string>
     <string name="share_topic_desc">Tải video lên để giành phần thưởng</string>
-    <string name="comment_added">Đã thêm thành công</string>
-    <string name="comment_added_tip">Bạn rất tích cực tham gia bình luận. Hãy theo dõi tôi nhé?</string>
     <string name="recommend_popup_title">Đề nghị</string>
     <string name="need_login">Đăng nhập trước</string>
     <string name="no_videos">Không có nội dung nào. Hãy xem người dùng bên dưới!</string>
     <string name="my_follows">Bảng tin của tôi</string>
-    <string name="next_time">Lần tới</string>
-    <string name="add_follow">Theo dõi</string>
     <string name="video_publish_watchable_limit">Bạn có thể sử dụng đặc quyền này hai lần một ngày</string>
     <string name="select_interest_str">Chọn chủ đề bạn thích</string>
     <string name="select_interest_tip">Rất nhiều điều thú vị đang chờ bạn khám phá!</string>
@@ -826,6 +783,25 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="clear_record">Xóa lịch sử</string>
     <string name="overwrite_msg">\"%s\" đã tồn tại. Chạm để thay thế bằng tập tin mới.</string>
     <string name="skip_file">Bỏ qua</string>
+    <string name="mtp_label">MTP</string>
+    <string name="mtp_device">Thiết bị đa phương tiện (MTP)</string>
+    <string name="connection_lost">Đã ngắt kết nối</string>
+    <string name="error_invalid_path">Đường dẫn không chính xác</string>
+    <string name="error_create_dir">Không thể tạo thư mục</string>
+    <string name="error_create_file">Không thể tạo tập tin</string>
+    <string name="error_not_support">Không hỗ trợ</string>
+    <string name="error_delete_failed">Không thể xóa tập tin</string>
+    <string name="error_folder_already_exists">Tập tin này đã tồn tại</string>
+    <string name="clock_in">Đang kiểm tra…</string>
+    <string name="unknown_error">Xảy ra lỗi không xác định. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="permission_denial">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
+    <string name="permission_required">Không thể truy cập tập tin. Cho phép Trình duyệt truy cập tập tin trong Cài đặt.</string>
+    <string name="pad">Bộ nhớ trong</string>
+    <string name="phone">Bộ nhớ trong</string>
+    <string name="instruction_pre_phone">Chạm để khởi động máy chủ FTP</string>
+    <string name="instruction_pre_pad">Chạm để khởi động máy chủ FTP</string>
+    <string name="homepage_tab_file_view_phone">Lưu trữ</string>
+    <string name="cannot_send">Không thể gửi tập tin từ bộ nhớ ngoài</string>
     <string name="account_bind_prompt">Đang chuyển dữ liệu người dùng… Có thể mất một vài phút.</string>
     <string name="account_login_title">Tài khoản</string>
     <string name="activity_rule">Quy tắc</string>
@@ -863,6 +839,7 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="des_running_trans">%1$d tập tin chưa được chuyển.</string>
     <string name="dir_not_support">Không thể ẩn thư mục này.</string>
     <string name="directory_no_item">Thư mục trống</string>
+    <string name="dlg_error_unmount_text">Không thể ngắt kết nối lưu trữ USB.</string>
     <string name="download_failed">Không thể tải xuống</string>
     <string name="download_link_completed">%1$s đã chia sẻ thông qua KuaiPan. Chạm vào liên kết bên dưới để xem: </string>
     <string name="downloading_in_3g">Đang tải xuống bằng 3G…</string>
@@ -872,6 +849,8 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="empty_file_download">Không thể tải xuống tập tin trống</string>
     <string name="empty_file_upload">Không thể tải lên tập tin trống</string>
     <string name="expand_all">Tất cả</string>
+    <string name="fail_to_create_folder">Không đủ dung lượng hoặc thư mục đã tồn tại.</string>
+    <string name="fail_to_rename">Một tập tin cùng tên đã tồn tại.</string>
     <string name="file_already_downlaoded">Đã lưu tập tin \"%1$s\"</string>
     <string name="file_too_large">Tập tin quá lớn để tải lên.</string>
     <string name="files">Tập tin</string>
@@ -880,6 +859,8 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
     <string name="folder_name_invalid">Tên thư mục không được bao gồm các ký tự sau: /\\:*?&lt;></string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Chạm&lt;/a> để vào thùng rác</string>
     <string name="good_tip">Rất tốt!</string>
+    <string name="homepage_tab_file_view">Lưu trữ</string>
+    <string name="instruction_pre">Chạm để khởi động máy chủ FTP</string>
     <string name="join_activity">Tham gia</string>
     <string name="kp_category_all">Thể loại</string>
     <string name="kp_category_doc">Word</string>
@@ -974,8 +955,17 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="no_network_tip">Không thể kết nối mạng. Hãy kiểm tra kết nối và thử lại.</string>
     <string name="no_tasks">Không có tác vụ nào.</string>
     <string name="no_topic_found">Không tìm thấy chủ đề</string>
+    <string name="notification_content_hint">Chạm để xem</string>
+    <string name="notification_setting">Thông báo</string>
     <string name="notification_summary">%1$s chưa hỗ trợ tính năng này</string>
+    <string name="notification_title">Hiển thị thông báo khi %1$s tạo một tập tin</string>
+    <string name="notification_wechat_auto_backup_hint">Chạm để tìm hiểu thêm.</string>
+    <string name="notification_wechat_auto_backup_switch_title">Sao lưu video trò chuyện</string>
+    <string name="notification_wechat_sticker_hint">Hiển thị thông báo khi biểu tượng WeChat khả dụng</string>
     <string name="notification_wechat_sticker_switch_title">Thông báo hàng ngày biểu tượng mới</string>
+    <string name="notification_wechat_title">Khi video trò chuyện sắp hết hạn</string>
+    <string name="notify_private_folder_msg">Chạm để tìm hiểu thêm.</string>
+    <string name="notify_private_folder_title">Tạo thư mục ẩn</string>
     <string name="oauth_success_tip">Đã ủy quyền thành công</string>
     <string name="open_changed_file_message">"Tập tin mà bạn đang cố gắng mở đã được thay đổi. Xin vui lòng:
 1. Tải xuống lần nữa để cập nhật tập tin.
@@ -1004,6 +994,7 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="phone_btn_str">Điện thoại</string>
     <string name="phone_storage_total">Tổng</string>
     <string name="private_toast_hint1">Chạm để thêm tập tin đến thư mục ẩn</string>
+    <string name="private_toast_hint3">Kéo xuống để xem thư mục ẩn</string>
     <string name="pull_to_signin">Kéo xuống để đăng ký.</string>
     <string name="quota_info">Mi Drive: Trống: %1$s, tổng: %2$s</string>
     <string name="release_to_signin">Thả ra để đăng ký</string>
@@ -1085,6 +1076,7 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="ui_main_menu_option_sign_in">Đăng ký</string>
     <string name="ui_main_menu_option_task_manage">Xem chuyển đổi</string>
     <string name="ui_main_progress_txt_open_file">Đang tải xuống…</string>
+    <string name="unmount_inform_text">Ngắt kết nối bộ nhớ USB?</string>
     <string name="upload_failed">Không thể tải lên</string>
     <string name="upload_file_toolarge_message">%1$d quá lớn. Không thể tải lên tập tin lớn hơn 300MB.</string>
     <string name="upload_local_video">Chia sẻ video clip</string>
@@ -1104,6 +1096,8 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="user_guide_summary">Lưu trữ đám mây tiện lợi và an toàn</string>
     <string name="user_guide_upload_to_kuaipan">Lưu trữ dữ liệu lên Kuaipan từ điện thoại của bạn</string>
     <string name="user_msg_text">Tin nhắn</string>
+    <string name="user_setting_topic_new_msg">Thông báo khi chủ đề theo dõi có động thái mới</string>
+    <string name="user_setting_topic_new_msg_tip">Bạn sẽ nhận được thông báo khi có video mới trong chủ đề bạn theo dõi</string>
     <string name="user_topic_btn_text">Xem thêm chủ đề</string>
     <string name="user_upload_tip">Tải lên</string>
     <string name="video_comment_title">Mô tả</string>
@@ -1111,6 +1105,7 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="video_releasing">Đang tải lên…</string>
     <string name="video_replay">Phát lại</string>
     <string name="video_upload_btn_hint_span">Không thể tìm thấy video của bạn?</string>
+    <string name="video_upload_item_more">Thêm (%1$s)</string>
     <string name="videos">Video</string>
     <string name="vip_info">VIP: %1$s</string>
     <string name="wait_net">Đang chờ kết nối mạng</string>
@@ -1120,6 +1115,22 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="wangpan_root_path">Ổ đĩa của tôi</string>
     <string name="xiaomi_account">Tài khoản Mi</string>
     <string name="zero_comment">No comments</string>
+    <string name="claim_no_video">Không có video nào để nhận</string>
+    <string name="claim_operation_too_frequently">Quá nhiều lần! Thử lại sau.</string>
+    <string name="claim_remind_dialog_cancel">Xem video khác</string>
+    <string name="claim_remind_dialog_confirm">Ở lại</string>
+    <string name="claim_remind_dialog_message">Bạn sẽ không thể nhận video nếu quay lại</string>
+    <string name="claim_remind_dialog_title">Chú ý</string>
+    <string name="claim_video">Nhận</string>
+    <string name="claim_video_already_claimed">Video này đã được nhận, lần sau nhớ nhanh tay!</string>
+    <string name="claim_video_already_locked">Đã nhận</string>
+    <string name="claim_video_failure">Không thể nhận, thử lại</string>
+    <string name="claim_video_locking">Đang nhận…</string>
+    <string name="claim_video_over">Nhận quá nhiều hôm nay, hãy quay lại vào ngày mai!</string>
+    <string name="claim_video_success">Đã nhận thành công</string>
+    <string name="claim_video_unlogin">Đăng nhập để nhận video</string>
+    <string name="comment_added">Đã thêm thành công</string>
+    <string name="comment_added_tip">Bạn rất tích cực tham gia bình luận. Hãy theo dõi tôi nhé?</string>
     <string name="flow_setting">Cài đặt</string>
     <string name="hot_app">Ứng dụng phổ biến</string>
     <string name="only_wifi">Tải xuống khi kết nối Wi-Fi</string>
@@ -1133,14 +1144,22 @@ Hãy tải xuống khi bạn cần và không bao giờ bỏ qua bất kỳ bi�
     <string name="user_like_text">Thích</string>
     <string name="user_message_text">Tin nhắn</string>
     <string name="user_upload_text">Tải lên</string>
+    <string name="video_recommend_upload">Đã kiến nghị</string>
     <string name="welcome_to_my_page">Chào mừng đến với trang chủ của tôi</string>
     <string name="welcome_to_my_page_1">Theo dõi tôi!</string>
     <string name="welcome_to_my_page_2">Theo dõi tôi!</string>
     <string name="wx_title1">Đây là video hay!</string>
     <string name="wx_title2">Tôi đã chia sẻ một video, xem ngay!</string>
     <string name="wx_title3">Xem video từ khắp nơi trên thế giới!</string>
+    <string name="youliao_ad_msg">"Hãy vui cùng \"Youliao\"!
+Gia nhập cùng 170 triệu Mi Fan!"</string>
+    <string name="youliao_ad_title">Video phổ biến đã được nâng cấp!</string>
+    <string name="youliao_ad_update">Cập nhật</string>
     <string name="youliao_dialog_msg">"Video phổ biến được thay thế bằng \"Youliao\" 
 ứng dụng mang lại cho bạn nhiều niềm vui hơn!"</string>
     <string name="youliao_dialog_title">Không có video quan tâm?</string>
     <string name="zero">0</string>
+    <string name="tab_claim">Nhận</string>
+    <string name="next_time">Lần tới</string>
+    <string name="add_follow">Theo dõi</string>
 </resources>

@@ -106,9 +106,6 @@
     <string name="notification_action_speaker">Loa ngoài</string>
     <string name="notification_action_earpiece">Loa trong</string>
     <string name="notification_requesting_video_call">Nhận được yêu cầu cuộc gọi video</string>
-    <string name="add_vm_number_str">Thêm số</string>
-    <string name="no_vm_number">Thiếu số thư thoại</string>
-    <string name="no_vm_number_msg">Không có số thư thoại lưu trữ trên thẻ SIM.</string>
     <string name="description_image_button_one">một</string>
     <string name="description_image_button_two">hai</string>
     <string name="description_image_button_three">ba</string>
@@ -140,6 +137,7 @@
     <string name="unlock_phone">Mở khóa thiết bị</string>
     <string name="remind_unlock_message">Thiết bị của bạn hiện bị khóa. \"%s\" sẽ khả dụng sau khi bạn mở khóa thiết bị. Mở khóa ngay?</string>
     <string name="user_locked_prompt">Mở khóa thiết bị để truy cập liên hệ.</string>
+    <string name="package_not_available">\"%s\" không khả dụng</string>
     <string name="select_voice_call_sim">Chọn thẻ SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">Không thể sử dụng SIM %2$d, khi đang sử dụng SIM %1$d.</string>
@@ -233,6 +231,9 @@
     <string name="incoming_circle_text_answer">Thả ra</string>
     <string name="incoming_circle_text_message_p">Trượt lên</string>
     <string name="incoming_circle_text_message">Thả ra</string>
+    <string name="no_vm_number">Thiếu số thư thoại</string>
+    <string name="no_vm_number_msg">Không có số thư thoại lưu trữ trên thẻ SIM.</string>
+    <string name="add_vm_number_str">Thêm số điện thoại</string>
     <string name="alert_dialog_yes">Có</string>
     <string name="alert_dialog_no">Không</string>
     <string name="alert_dialog_dismiss">Bỏ qua</string>
@@ -241,9 +242,9 @@
     <string name="livetalk_left_minute">%s phút còn lại</string>
     <string name="onscreen_rcs_text">Tin nhắn</string>
     <string name="call_self">Không thể gọi số của mình</string>
+    <string name="cancel_call">Gác máy</string>
     <string name="dial_with_gsm_phone">Cuộc gọi thông thường</string>
     <string name="purchase_now">Nạp tiền</string>
-    <string name="cancel_call">Gác máy</string>
     <string name="fraud_call_answer">Trả lời</string>
     <string name="fraud_call_decline">Từ chối</string>
     <string name="fraud_call_waring">Hãy cẩn thận: Luôn xác minh danh tính của liên hệ bằng điện thoại hoặc cuộc gọi video trước khi trả lời bất kỳ tin nhắn có liên quan đến thông tin cá nhân của bạn.</string>

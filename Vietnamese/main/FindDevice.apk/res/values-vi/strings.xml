@@ -6,6 +6,7 @@
     <string name="disable_find_device_success">Tìm thiết bị đã tắt</string>
     <string name="enable_find_device_error">Không thể bật Tìm thiết bị. %1$s</string>
     <string name="disable_find_device_error">Không thể tắt Tìm thiết bị. %1$s</string>
+    <string name="find_device_error_access_denied">Đã từ chối truy cập.</string>
     <string name="find_device_error_unknown">Lỗi không xác định (%s).</string>
     <string name="find_device_error_password_changed">Mật khẩu tài khoản đã thay đổi gần đây.</string>
     <string name="find_device_error_network">Lỗi mạng.</string>
@@ -79,4 +80,8 @@ Lý do khác
     <string name="lock_msg_phone">Thông tin liên lạc: %s</string>
     <string name="default_debt_msg_words">"Thiết bị này đã bị khóa do chưa thanh toán trả góp.
 Liên hệ với đại lý bán hàng để biết thêm chi tiết."</string>
+    <string name="sys_notification_async_verify_title">Kích hoạt lại Tìm thiết bị</string>
+    <string name="sys_notification_async_verify_content">Chính sách bảo mật đã cập nhật yêu cầu Tìm thiết bị kích hoạt lại.</string>
+    <string name="sys_notification_async_open_failed_title">Không thể bật Tìm thiết bị</string>
+    <string name="sys_notification_async_open_failed_content">Chạm để thử lại hoặc hủy.</string>
 </resources>

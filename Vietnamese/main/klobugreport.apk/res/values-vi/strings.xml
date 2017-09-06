@@ -23,4 +23,6 @@
     <string name="mem_collect_text_thx">"Tải lên hoàn tất.
 Cảm ơn sự hỗ trợ của bạn!"</string>
     <string name="to_turn_on_wifi">Vui lòng bật Wi-Fi</string>
+    <string name="ramdump_notification_title">Ramdump đã tạo</string>
+    <string name="ramdump_notification_text">Vui lòng thu thập bản ghi</string>
 </resources>

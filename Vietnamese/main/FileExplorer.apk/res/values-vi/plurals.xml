@@ -36,38 +36,11 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d ngày trước</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d giây</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d phút</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d giờ</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d ngày</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Đã tìm thấy %1$d tập tin mới</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Đã nhận %1$d tập tin từ %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Đã nhận %1$d tập tin từ WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d video WeChat sắp hết hạn</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d video hội thoại WeChat sắp hết hạn. Sao lưu chúng đến bộ nhớ trong thiết bị?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d biểu tượng WeChat mới hôm nay</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Đã sao lưu %1$d video WeChat.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Đã tìm thấy %1$s video mới</item>
@@ -108,14 +81,11 @@
     <plurals name="follow_count">
         <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> người theo dõi</item>
     </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">%1$s thích</item>
-    </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s đá quý</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Thu thập &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> nhiều đá quý hơn để tham gia rút thăm trúng thưởng</item>
+        <item quantity="other">Sưu tập &amp;lt;font color=#fc7050>&amp;lt;b>%d&amp;lt;/b>&amp;lt;/font> nhiều đá quý để tham gia rút thăm trúng thưởng.</item>
     </plurals>
     <plurals name="clockin_days">
         <item quantity="other">Đã check in %1$s ngày liên tục</item>
@@ -132,14 +102,41 @@
     <plurals name="total_user_num">
         <item quantity="other">%1$s người</item>
     </plurals>
+    <plurals name="days">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Đã nhận %1$d tập tin từ %2$s</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d biểu tượng WeChat mới hôm nay</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Đã nhận %1$d tập tin từ WeChat</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Đã sao lưu %1$d video WeChat.</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d video WeChat sắp hết hạn</item>
+    </plurals>
     <plurals name="follower_num">
         <item quantity="other">người theo dõi</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d giờ</item>
     </plurals>
     <plurals name="items_file">
         <item quantity="other"> (%1$d mục)</item>
     </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$d phút</item>
+    </plurals>
     <plurals name="number_of_comment">
         <item quantity="other">%1$s bình luận</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%1$d giây</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">%1$d tập tin còn lại cần tải xuống</item>
@@ -158,5 +155,8 @@
     </plurals>
     <plurals name="user_follow_me_items">
         <item quantity="other">người theo dõi</item>
+    </plurals>
+    <plurals name="video_like_num">
+        <item quantity="other">%1$s thích</item>
     </plurals>
 </resources>
