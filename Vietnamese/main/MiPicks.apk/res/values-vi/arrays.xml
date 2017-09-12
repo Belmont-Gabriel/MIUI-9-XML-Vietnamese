@@ -283,67 +283,67 @@
         <item>intercept outgoing calls</item>
         <item>read calendar events plus confidential information</item>
         <item>read contact data</item>
-        <item>read user defined dictionary</item>
-        <item>read frame buffer</item>
-        <item>"read Browser's history and bookmarks"</item>
-        <item>record what you type and actions you take</item>
-        <item>read sensitive log data</item>
-        <item>read historical network usage</item>
-        <item>read phone state and identity</item>
-        <item>read your profile data</item>
-        <item>read SMS or MMS</item>
-        <item>read your social stream</item>
-        <item>read sync settings</item>
-        <item>read sync statistics</item>
-        <item>force phone reboot</item>
-        <item>automatically start at boot</item>
-        <item>receive emergency broadcasts</item>
-        <item>receive MMS</item>
-        <item>receive SMS</item>
-        <item>receive WAP</item>
-        <item>record audio</item>
-        <item>stop running applications</item>
-        <item>reorder running applications</item>
-        <item>retrieve screen content</item>
-        <item>monitor and control all application launching</item>
-        <item>modify/delete SD card contents</item>
-        <item>send SMS messages</item>
-        <item>send SMS messages with no confirmation</item>
-        <item>set alarm in alarm clock</item>
-        <item>make all background applications close</item>
-        <item>modify global animation speed</item>
-        <item>enable application debugging</item>
-        <item>change screen orientation</item>
-        <item>change pointer speed</item>
-        <item>set preferred applications</item>
-        <item>limit number of running processes</item>
-        <item>set time</item>
-        <item>set time zone</item>
-        <item>set wallpaper</item>
-        <item>set wallpaper size hints</item>
-        <item>partial shutdown</item>
-        <item>send Linux signals to applications</item>
-        <item>disable or modify status bar</item>
-        <item>status bar</item>
-        <item>prevent app switches</item>
-        <item>read subscribed feeds</item>
-        <item>write subscribed feeds</item>
-        <item>display system-level alerts</item>
-        <item>make/receive Internet calls</item>
-        <item>use the authentication credentials of an account</item>
-        <item>control vibrator</item>
-        <item>prevent phone from sleeping</item>
-        <item>change/intercept network settings and traffic</item>
-        <item>"add or modify calendar events and send email to guests without owners' knowledge"</item>
-        <item>write contact data</item>
-        <item>write to user defined dictionary</item>
-        <item>modify the Google services map</item>
-        <item>"write Browser's history and bookmarks"</item>
-        <item>write to your profile data</item>
-        <item>modify secure system settings</item>
-        <item>modify global system settings</item>
-        <item>edit SMS or MMS</item>
-        <item>write to your social stream</item>
-        <item>write sync settings</item>
+        <item>đọc từ điển được người dùng định nghĩa</item>
+        <item>đọc bộ đệm khung</item>
+        <item>đọc lịch sử và dấu trang của trình duyệt</item>
+        <item>ghi lại những gì bạn gõ và hành động bạn thực hiện</item>
+        <item>đọc dữ liệu đăng nhập nhạy cảm</item>
+        <item>đọc lịch sử sử dụng mạng</item>
+        <item>đọc trạng thái và nhận dạng điện thoại</item>
+        <item>đọc dữ liệu cá nhân của bạn</item>
+        <item>đọc SMS hoặc MMS</item>
+        <item>đọc luồng xã hội của bạn</item>
+        <item>đọc cài đặt đồng bộ hóa</item>
+        <item>đọc số liệu thống kê đồng bộ</item>
+        <item>buộc điện thoại khởi động lại</item>
+        <item>tự động chạy khi khởi động</item>
+        <item>nhận truyền phát khẩn cấp</item>
+        <item>nhận MMS</item>
+        <item>nhận SMS</item>
+        <item>nhận WAP</item>
+        <item>ghi âm</item>
+        <item>ngừng chạy các ứng dụng</item>
+        <item>sắp xếp lại các ứng dụng đang chạy</item>
+        <item>truy xuất nội dung màn hình</item>
+        <item>theo dõi và kiểm soát việc khởi chạy ứng dụng</item>
+        <item>sửa/xóa nội dung thẻ SD</item>
+        <item>gửi tin nhắn SMS</item>
+        <item>gửi tin nhắn SMS mà không cần xác nhận</item>
+        <item>đặt báo thức trong đồng hồ báo thức</item>
+        <item>làm cho tất cả các ứng dụng nền đóng</item>
+        <item>sửa đổi tốc độ hoạt ảnh toàn cầu</item>
+        <item>cho phép gỡ lỗi ứng dụng</item>
+        <item>thay đổi hướng màn hình</item>
+        <item>thay đổi tốc độ con trỏ</item>
+        <item>thiết lập các ứng dụng ưu tiên</item>
+        <item>giới hạn số tiến trình đang chạy</item>
+        <item>đặt giờ</item>
+        <item>đặt múi giờ</item>
+        <item>cài đặt hình nền</item>
+        <item>thiết lập gợi ý kích thước hình nền</item>
+        <item>tắt một phần</item>
+        <item>gửi tín hiệu Linux tới các ứng dụng</item>
+        <item>tắt hoặc sửa thanh trạng thái</item>
+        <item>thanh trạng thái</item>
+        <item>ngăn việc chuyển ứng dụng</item>
+        <item>đọc dữ liệu đăng ký</item>
+        <item>ghi dữ liệu đăng ký</item>
+        <item>hiển thị cảnh báo mức hệ thống</item>
+        <item>thực hiện/nhận cuộc gọi Internet</item>
+        <item>sử dụng chứng chỉ xác thực của một tài khoản</item>
+        <item>kiểm soát bộ rung</item>
+        <item>ngăn không cho điện thoại ngủ</item>
+        <item>thay đổi/chặn cài đặt mạng và lưu lượng truy cập</item>
+        <item>thêm hoặc sửa sự kiện lịch và gửi email cho khách mà không cần sự cho phép của chủ sở hữu</item>
+        <item>ghi dữ liệu liên hệ</item>
+        <item>ghi vào từ điển được người dùng định nghĩa</item>
+        <item>sửa dịch vụ bản đồ của Google</item>
+        <item>ghi lịch sử và dấu trang của trình duyệt</item>
+        <item>ghi vào dữ liệu hồ sơ của bạn</item>
+        <item>sửa cài đặt hệ thống bảo mật</item>
+        <item>sửa cài đặt hệ thống toàn cầu</item>
+        <item>sửa SMS hoặc MMS</item>
+        <item>viết vào luồng xã hội của bạn</item>
+        <item>ghi cài đặt đồng bộ hóa</item>
     </string-array>
 </resources>

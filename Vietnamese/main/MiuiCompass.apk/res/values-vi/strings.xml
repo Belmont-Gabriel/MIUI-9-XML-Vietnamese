@@ -34,7 +34,7 @@
     <string name="mobiledata_alert_dialog_message">Kết nối internet để đo đạc độ cao?</string>
     <string name="do_not_show_next_time">Không hiển thị lại</string>
     <string name="location_not_enabled_title">Dịch vụ vị trí</string>
-    <string name="location_not_enabled_summary">Danh bạ cần thông tin vị trí của bạn để làm việc bình thường.</string>
+    <string name="location_not_enabled_summary">La bàn cần truy cập vị trí của bạn để hiển thị tọa độ và cao độ.</string>
     <string name="location_enable">Cho phép</string>
     <string name="location_enable_later">Để sau</string>
     <string name="location_enabled">Bạn có thể tắt dịch vụ vị trí bất cứ lúc này trong phần Cài đặt.</string>
@@ -52,6 +52,8 @@
     <string name="altitude_uncalibrate_msg">Không thể đo chính xác độ cao nếu không có kết nối dữ liệu di động hoặc GPS.</string>
     <string name="altitude_uncalibrate_refresh">Thử lại</string>
     <string name="altitude_uncalibrate_cancel">Hủy</string>
+    <string name="app_description_title">Giới thiệu về La bàn</string>
+    <string name="app_description_content">La bàn được sử dụng để điều hướng, định hướng và hiển thị phương hướng. Chắc chắn rằng bạn có thể thực hiện mà không cần tính năng này trước khi gỡ cài đặt ứng dụng.</string>
     <string name="calibrate_altitude">Đang đo…</string>
     <string name="getting_location">Đang đo…</string>
     <string name="menu_calibrate">Cân chỉnh la bàn</string>

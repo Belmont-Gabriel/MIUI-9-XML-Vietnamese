@@ -166,6 +166,7 @@
     <string name="document_color_picture_tip">Đang chuyển đổi sang màu…</string>
     <string name="document_save_succeed_tip">Tài liệu đã lưu vào %1$s</string>
     <string name="document_recognize_fail_tip">Không thể đọc tài liệu</string>
+    <string name="document_recognize_null_tip">Kết quả tài liệu trống</string>
     <string name="recognition_error_download_title">Yêu cầu công cụ nhận dạng</string>
     <string name="recognition_error_download_msg">Tải xuống công cụ nhận dạng để quét thẻ. Dung lượng khoảng 15MB.</string>
     <string name="recognition_error_download_ok">Tải xuống</string>
@@ -177,5 +178,5 @@
     <string name="recognition_error_download_fail">Không thể tải xuống công cụ nhận dạng</string>
     <string name="low_version_tip">Phiên bản MIUI quá cũ. Cập nhật MIUI để sử dụng Máy quét.</string>
     <string name="app_description_title">Giới thiệu Máy quét</string>
-    <string name="app_description_content">Máy quét có thể quét mã QR, danh thiếp, và tài liệu. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
+    <string name="app_description_content">Máy quét cung cấp quét mã QR, quét để dịch, quét để giải quyết vấn đề, nhận dạng danh thiếp .v.v… Hãy chắc chắn rằng bạn hiểu rõ chức năng và dịch vụ được cung cấp bởi ứng dụng này.</string>
 </resources>

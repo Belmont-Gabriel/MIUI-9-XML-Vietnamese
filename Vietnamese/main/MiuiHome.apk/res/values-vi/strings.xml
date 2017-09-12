@@ -91,7 +91,7 @@
     <string name="sort_by_abc">Sắp xếp theo tên</string>
     <string name="encryption">Mã hóa</string>
     <string name="failed_to_drop">Di chuyển thất bại</string>
-    <string name="failed_to_drop_widget_nospace">Không còn chỗ trên Màn hình chính</string>
+    <string name="no_space_toast">Không đủ dung lượng</string>
     <string name="failed_to_drop_widget_invalid">Tiện ích không hợp lệ</string>
     <string name="failed_to_delete_temporary">Không thể xóa</string>
     <string name="confirm_btn_label">OK</string>
@@ -266,12 +266,14 @@
     <string name="notification_open_button">Mở</string>
     <string name="toast_screen_icons_misplaced">Đã khôi phục từ nguồn khác, một vài biểu tượng có thể không được đặt đúng chổ</string>
     <string name="screen_locked_toast">Bố cục Màn hình chính bị khóa</string>
-    <string name="widget_quick_function">Tính năng nhanh</string>
+    <string name="widget_quick_function">Chức năng nhanh</string>
     <string name="menu_trans_effect">Hiệu ứng chuyển cảnh</string>
+    <string name="menu_default_screen_preview">Đặt làm màn hình mặc định</string>
     <string name="menu_cell_setting">Cài đặt màn hình</string>
     <string name="menu_auto_fill">Tự động điền</string>
     <string name="menu_lock">Khóa màn hình</string>
     <string name="menu_more">Thêm</string>
+    <string name="default_screen_preview_title">Chạm để đặt làm màn hình mặc định</string>
     <string name="apply_as_lock_wallpaper_message">Cũng áp dụng hình nền này cho màn hình khóa?</string>
     <string name="apply_as_lockwallpaper_action">Áp dụng</string>
     <string name="apply_negative_action">Không</string>
@@ -282,6 +284,7 @@
     <string name="children_mode_tips_title">Vui lòng chọn ứng dụng</string>
     <string name="delete_wallpapers_message">Xóa %1$d hình nền?</string>
     <string name="editing_mode_title">Đã chọn %1$d</string>
+    <string name="failed_to_drop_widget_nospace">Không còn chỗ trên Màn hình chính</string>
     <string name="gadget_clock_22_label">Đồng hồ 2x2</string>
     <string name="scroll_tip_format_when_announce_accessibility">trang %1$d, %2$d ứng dụng</string>
     <string name="uninstall_dialog_title_multi_format" formatted="false">Gỡ cài đặt %s và %d ứng dụng khác?</string>
