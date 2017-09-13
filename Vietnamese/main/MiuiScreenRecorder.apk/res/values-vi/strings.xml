@@ -38,6 +38,7 @@
     <string name="battery_not_allowed" formatted="false">Không thể quay màn hình khi pin dưới 3%. Hãy chắc chắn pin còn ít nhất 20%.</string>
     <string name="low_memory_title">Không đủ dung lượng trống</string>
     <string name="low_memory">Bạn có ít hơn 200MB dung lượng trống. Bạn có thể quay đến 5 phút.</string>
+    <string name="low_memory_dior">Bạn có ít hơn 500MB dung lượng trống. Bạn có thể quay đến 12 phút.</string>
     <string name="memory_not_allowed">Không đủ dung lượng trống. Giải phóng dung lượng để quay.</string>
     <string name="auto_stop_title">Video đã lưu thành công</string>
     <string name="low_battery_warning">Pin yếu. Đã dừng quay phim và lưu video.</string>
@@ -60,6 +61,7 @@
     <string name="stop_by_second_space">Chuyển không gian sẽ dừng quay phim</string>
     <string name="cannot_change_parames">Không thể thay đổi thông số khi quay phim</string>
     <string name="cannot_record">Không thể quay màn hình, hãy thử lại sau.</string>
+    <string name="frequently_click_toast">Dịch vụ đang khởi tạo, vui lòng chờ</string>
     <string name="no_sound">Tắt tiếng</string>
     <string name="mic_sound">Micro</string>
     <string name="loopback_sound">Loa</string>
