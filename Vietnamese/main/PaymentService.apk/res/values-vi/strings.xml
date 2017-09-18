@@ -236,10 +236,6 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_recharge_other">Xem các phương thức khác</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d đã thêm %2$s Mi Credit vào tài khoản của bạn</string>
     <string name="mibi_recharge_push_notification_sub_title">Nạp hoàn tất.</string>
-    <string name="mibi_recharge_value_money">Mua %s Tệ giá trị Mi Credit</string>
-    <string name="mibi_recharge_value_money_special_unit">Mua %1$s %2$s giá trị Mi Credit</string>
-    <string name="mibi_recharge_value_money_with_tip">"Mua %s Tệ giá trị Mi Credit &lt;font color=red>(Không thể dùng Mi Credit trên Mi.com)&lt;/font>"</string>
-    <string name="mibi_recharge_value_money_with_tip_special_unit">"Mua %1$s %2$s giá trị Mi Credit &lt;font color=red>(Không thể dùng Mi Credit trên Mi.com)&lt;/font>"</string>
     <string name="mibi_scan_prompt_number">Quét mã thẻ trả trước %1$s</string>
     <string name="mibi_scan_prompt_password">Quét mật khẩu thẻ trả trước %1$s</string>
     <string name="mibi_scan_prompt_voucher">Quét mật khẩu Mi Credit</string>
