@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color=\"red\">%d bài hát&amp;lt;/font> đã tải xuống</item>
+        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đã tải xuống</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color=\"red\">%d bài hát&amp;lt;/font> đang tải xuống</item>
+        <item quantity="other">&amp;amp;lt;font color=\"red\">%d bài hát&amp;amp;lt;/font> đang tải xuống</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Xóa %d nhiệm vụ?</item>
@@ -60,9 +60,6 @@
     <plurals name="folder_songs_count">
         <item quantity="other">%d bài hát</item>
     </plurals>
-    <plurals name="Nnew_local_audios">
-        <item quantity="other">%d bài hát đã được thêm</item>
-    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d mục được chọn</item>
     </plurals>
@@ -104,6 +101,9 @@
     </plurals>
     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">\"Bạn chỉ có thể tải xuống %d Bài hát Thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.\"</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d bài hát đã được thêm</item>
     </plurals>
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d bài hát</item>

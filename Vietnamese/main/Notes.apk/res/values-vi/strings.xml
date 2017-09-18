@@ -2,10 +2,11 @@
 <resources>
     <string name="sina_share_pendding">Đang gửi…</string>
     <string name="sina_share_success">Đã gửi</string>
-    <string name="sina_share_fail">Gửi thất bại</string>
-    <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn: Vui lòng liên kết lại</string>
-    <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ: Vui lòng liên kết lại</string>
-    <string name="sina_share_fail_content_repeat">Không thể chia sẻ, nội dung này đã tồn tại…</string>
+    <string name="sina_share_fail">Không thể gửi</string>
+    <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn, thêm tài khoản lại.</string>
+    <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ, thêm tài khoản lại.</string>
+    <string name="sina_share_fail_content_repeat">Bạn đã chia sẻ nội dung này.</string>
+
     <string name="search_keyword_notes">Ghi chú;Ghi nhớ</string>
     <string name="search_path_notes">Ứng dụng hệ thống/Ghi chú</string>
     <string name="dlg_move_message">Đang chuyển…</string>
@@ -64,11 +65,15 @@
     <string name="alert_message_restore">Không thể mở ghi chú này. Khôi phục để chỉnh sửa nội dung.</string>
     <string name="note_sort_way">Chọn cách bạn muốn sắp xếp ghi chú</string>
     <string name="trash_folder_reminder">Ghi chú  mà bạn xóa sẽ bị xóa vĩnh viễn trong 30 ngày.</string>
-    <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Mi Cloud, cũng như đọc liên hệ của bạn để đánh dấu ghi chú khi gọi.</string>
+    <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Mi Cloud, cũng như đọc liên hệ của bạn để gắn nhãn ghi chú khi bạn thực hiện cuộc gọi.</string>
     <string name="menu_add_folder">Thêm vào thư mục</string>
     <string name="dialog_share_title">Chia sẻ ghi chú</string>
     <string name="dialog_share_as_text">Chia sẻ ghi chú như văn bản</string>
     <string name="dialog_share_as_pic">Chia sẻ ghi chú như hình ảnh</string>
+    <string name="note_description_title">Giới thiệu về Ghi chú </string>
+    <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Mi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
+    <string name="db_downgrade_clear_date_reminder">Khi bạn chuyển sang phiên bản MIUI khác, cần xóa hết dữ liệu của ứng dụng Ghi chú. Trước khi thực hiện, chắc chắn rằng bạn đã sao lưu ghi chú vào Mi Cloud.</string>
+    <string name="db_downgrade_clear_button">Xóa dữ liệu ứng dụng</string>
     <string name="app_name">Ghi chú</string>
     <string name="app_widget">Ghi chú</string>
     <string name="widget_havenot_content">Chạm để tạo ghi chú. Bấm giữ tiện ích để thay đổi kích thước.</string>
@@ -96,13 +101,13 @@
     <string name="menu_send_weibo">Gửi đến Weibo</string>
     <string name="info_note_enter_desktop">Đã thêm vào Màn hình chính</string>
     <string name="all_terms">%1$s và %2$s</string>
-    <string name="alert_title_delete">Xóa ghi chú?</string>
+    <string name="alert_title_delete">Xóa ghi chú</string>
     <string name="alert_message_delete">Xóa %1$s?</string>
     <string name="alert_message_delete_note">Xóa ghi chú này?</string>
     <string name="format_move_notes_to_folder">Đã chuyển %1$s đến %2$s</string>
     <string name="format_move_notes_out_folder">Đã chuyển %1$s</string>
     <string name="format_move_note_to_folder">Chuyển đến %1$s</string>
-    <string name="format_move_note_out_folder">Đã chuyển đi</string>
+    <string name="format_move_note_out_folder">Ghi chú này đã bị di chuyển</string>
     <string name="alert_title_edit_anyway">Ghi chú này chứa nội dung không được hỗ trợ</string>
     <string name="alert_message_edit_anyway">Nếu bạn sửa ghi chú này, một số nội dung có thể bị mất.</string>
     <string name="alert_action_edit_anyway">Tiếp tục chỉnh sửa</string>
@@ -168,7 +173,35 @@
 
 Nếu có thắc mắc, hãy truy cập diễn đàn MIUI Việt Nam:
 http://miui.vn/"</string>
+    <string name="cloud_trash_bin_title">Xóa ghi chú trên Mi Cloud</string>
+    <string name="done">Hoàn tất</string>
     <string name="menu_mark_privacy">Ẩn</string>
+    <string name="menu_add_description">Thêm ghi chú</string>
+    <string name="action_mode_switcher_list_description">Xem theo danh sách</string>
+    <string name="action_mode_switcher_grid_description">Xem theo ô lưới</string>
+    <string name="action_folder_description">Xem thư mục</string>
+    <string name="action_settings_description">Mở Cài đặt</string>
+    <string name="menu_add_folder_description">Thêm thư mục</string>
+    <string name="toolbar_share_description">Chia sẻ ghi chú này</string>
+    <string name="toolbar_theme_description">Chọn chủ đề</string>
+    <string name="toolbar_delete_description">Xóa ghi chú này</string>
+    <string name="toolbar_more_description">Thêm</string>
+    <string name="toolbar_undo_description">Hoàn tác</string>
+    <string name="toolbar_redo_description">Khôi phục</string>
+    <string name="toolbar_gallery_description">Thêm ảnh</string>
+    <string name="toolbar_check_description">Thêm hộp chọn</string>
+    <string name="edit_header_home_description">Quay lại</string>
+    <string name="theme_white_description">Trắng</string>
+    <string name="theme_yellow_description">Vàng</string>
+    <string name="theme_blue_description">Xanh da trời</string>
+    <string name="theme_green_description">Xanh lá cây</string>
+    <string name="theme_red_description">Đỏ</string>
+    <string name="set_alarm_description">Đặt báo thức</string>
+    <string name="cancel_alarm_description">Hủy báo thức</string>
+    <string name="edit_header_done_description">Hoàn tất</string>
+    <string name="refuse_to_share_as_pic_because_of_content">Ghi chú này quá lớn để chia sẻ.</string>
+    <string name="refuse_to_share_as_pic_because_of_loading">Chờ đến khi ghi chú được tải và thử lại.</string>
+    <string name="toast_reach_text_limit_checkbox">Không thể thêm hộp chọn vì ghi chú quá dài</string>
     <string name="menu_unmark_privacy">Bỏ ẩn</string>
     <string name="alert_edit_action_delete">Xóa</string>
     <string name="alert_edit_action_update">Thay đổi</string>
@@ -198,6 +231,4 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="toast_unmark_privacy_notes">Bỏ ẩn thành công</string>
     <string name="toast_unmark_privacy_notes_count">Bỏ ẩn %1$s thành công</string>
     <string name="widget_under_privacy_mode">Không thể xem ghi chú khi ở chế độ Khách</string>
-    <string name="cloud_trash_bin_title">Xóa ghi chú trên Mi Cloud</string>
-    <string name="done">Hoàn tất</string>
 </resources>

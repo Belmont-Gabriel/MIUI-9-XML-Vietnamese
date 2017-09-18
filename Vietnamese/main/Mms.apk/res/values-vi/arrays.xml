@@ -14,13 +14,9 @@
         <item>Ghi chú</item>
         <item>Quan hệ</item>
     </string-array>
-    <string-array name="resent_via_entries_sms">
-        <item>SMS</item>
-        <item>Tin nhắn Mi</item>
-    </string-array>
-    <string-array name="resent_via_entries_mms">
-        <item>SMS</item>
-        <item>Tin nhắn Mi</item>
+    <string-array name="entries_mms_validity_period">
+        <item>Tối đa</item>
+        <item>2 ngày</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Chưa đặt</item>
@@ -30,13 +26,18 @@
         <item>1 ngày</item>
         <item>Tối đa</item>
     </string-array>
-    <string-array name="entries_mms_validity_period">
-        <item>Tối đa</item>
-        <item>2 ngày</item>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>Không bao giờ</item>
     </string-array>
-    <string-array name="wild_msg_sync_options">
-        <item>Đồng bộ tất cả tin nhắn</item>
-        <item>Đồng bộ tin nhắn từ thẻ SIM được chọn</item>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Tin nhắn Mi</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Tin nhắn Mi</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 giây</item>
@@ -51,9 +52,12 @@
         <item>10 giây</item>
         <item>Khác</item>
     </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Luôn luôn</item>
-        <item>Chỉ khi im lặng</item>
-        <item>Không bao giờ</item>
+    <string-array name="switch_sdk">
+        <item>Tin nhắn Mi</item>
+        <item>Tin nhắn Thông minh CMCC</item>
+    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Đồng bộ tất cả tin nhắn</item>
+        <item>Đồng bộ tin nhắn từ thẻ SIM được chọn</item>
     </string-array>
 </resources>

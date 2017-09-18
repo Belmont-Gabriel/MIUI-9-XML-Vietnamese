@@ -9,8 +9,8 @@
         <item>Thư viện</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Sắp xếp theo ngày tạo </item>
-        <item>Sắp xếp theo ngày chỉnh sửa </item>
+        <item>Sắp xếp theo ngày tạo</item>
+        <item>Sắp xếp theo ngày chỉnh sửa</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Tên</item>

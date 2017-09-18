@@ -36,7 +36,6 @@
     <string name="mibi_change_security_lock">Thêm khóa màn hình</string>
     <string name="mibi_colon">": "</string>
     <string name="mibi_deduct_goods_name">Sản phẩm</string>
-    <string name="mibi_deduct_open">Bật</string>
     <string name="mibi_deduct_open_prompt">%1$s sẽ có thể tính phí bạn tự động bằng cách sử dụng %2$s mà không cần xác minh. Bạn có thể tắt tính năng này trong %1$s</string>
     <string name="mibi_deduct_order_price">Giá</string>
     <string name="mibi_deduct_pay_group_title">Chọn phương thức khấu trừ</string>
@@ -64,7 +63,6 @@
     <string name="mibi_detail_recharge_order">Đơn nạp tiền số:</string>
     <string name="mibi_detail_recharge_time">Thời gian</string>
     <string name="mibi_detail_recharge_title">Lịch sử nạp tiền</string>
-    <string name="mibi_direct_pay_group_title">Chọn phương thức thanh toán</string>
     <string name="mibi_direct_pay_novalid_method">Không có phương thức thanh toán hợp lệ.</string>
     <string name="mibi_direct_payment_title">Thông tin đơn hàng</string>
     <string name="mibi_enter_failed">Mở thất bại</string>
@@ -223,7 +221,7 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_progress_voucher_creating">Đang nạp thẻ Mi Credit…</string>
     <string name="mibi_progress_warning_check_with_contact">"Thanh toán vẫn chưa chuyển đến đến tài khoản của bạn. 
 Chúng tôi sẽ kiểm tra lại trong vòng hai ngày.
-Trung tâm dịch vụ khách hàng：400-100-5678"</string>
+Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="mibi_progress_warning_waiting">Thanh toán vẫn chưa chuyển đến đến tài khoản của bạn.</string>
     <string name="mibi_prompt_info_button_hint">Chú ý (%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
@@ -238,6 +236,10 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_recharge_other">Xem các phương thức khác</string>
     <string name="mibi_recharge_push_notification_prime_title">%1$d đã thêm %2$s Mi Credit vào tài khoản của bạn</string>
     <string name="mibi_recharge_push_notification_sub_title">Nạp hoàn tất.</string>
+    <string name="mibi_recharge_value_money">Mua %s Tệ giá trị Mi Credit</string>
+    <string name="mibi_recharge_value_money_special_unit">Mua %1$s %2$s giá trị Mi Credit</string>
+    <string name="mibi_recharge_value_money_with_tip">"Mua %s Tệ giá trị Mi Credit &lt;font color=red>(Không thể dùng Mi Credit trên Mi.com)&lt;/font>"</string>
+    <string name="mibi_recharge_value_money_with_tip_special_unit">"Mua %1$s %2$s giá trị Mi Credit &lt;font color=red>(Không thể dùng Mi Credit trên Mi.com)&lt;/font>"</string>
     <string name="mibi_scan_prompt_number">Quét mã thẻ trả trước %1$s</string>
     <string name="mibi_scan_prompt_password">Quét mật khẩu thẻ trả trước %1$s</string>
     <string name="mibi_scan_prompt_voucher">Quét mật khẩu Mi Credit</string>
@@ -245,7 +247,7 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_shurtcut_create_success">Đã thêm vào màn hình chính</string>
     <string name="mibi_sms_code_empty">Nhập mã xác minh được gửi đến điện thoại của bạn.</string>
     <string name="mibi_sms_code_error">Lỗi mã xác minh, vui lòng nhận lại mã khác.</string>
-    <string name="mibi_sms_code_hint">Nhập mã xác minh 6 chữ số</string>
+    <string name="mibi_sms_code_hint">Nhập mã xác minh từ 3 tới 6 chữ số</string>
     <string name="mibi_summary_bind_phone">Để đảm bảo an toàn cho tài khoản của bạn, vui lòng hoàn tất thanh toán sau khi liên kết với SĐT:</string>
     <string name="mibi_summary_custom_service_phone">ĐT:</string>
     <string name="mibi_summary_sms_code">Nhập mã xác minh được gửi đến %1$s, và sau đó hoàn tất thanh toán.</string>
@@ -261,7 +263,7 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_title_password_threshold">Giới hạn hàng ngày = %1$s Tệ</string>
     <string name="mibi_title_sms_code">Vui lòng nhập mã xác minh</string>
     <string name="mibi_unit">Mi Credit</string>
-    <string name="mibi_voucher_card_text">Vui lòng xóa bớt</string>
+    <string name="mibi_voucher_card_text">Hãy cào mã thẻ</string>
     <string name="mibi_voucher_error_password">Mã không hợp lệ.</string>
     <string name="mibi_voucher_input_password_prompt">Nhập mã</string>
     <string name="mibi_web_login">Đăng nhập</string>
@@ -272,11 +274,22 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_applock_dialog_content">Do việc nâng cấp hệ thống, hình vẽ mở khóa hiện tại của bạn đã hết hạn. Vui lòng thiết lập hình mở khóa mới.</string>
     <string name="mibi_applock_dialog_ok">Thiết lập</string>
     <string name="mibi_applock_dialog_title">Thiết lập hình mở khóa mới</string>
-    <string name="mibi_deduct_query_error">"Không thể ký thoả thuận gia hạn. Chờ một vài phút và thử lại."</string>
+    <string name="mibi_click_retry">%1$s, nhấn để thử lại</string>
+    <string name="mibi_deduct_query_error">Không thể ký thoả thuận gia hạn. Chờ một vài phút và thử lại.</string>
+    <string name="mibi_header_network_error">"Không thể kết nối mạng."</string>
+    <string name="mibi_order_balance_lable">Mi Credit</string>
+    <string name="mibi_order_balance_lable_append">Mi Credit và Phiếu giảm giá</string>
+    <string name="mibi_order_balance_title">Mi Credit của tôi</string>
+    <string name="mibi_order_no_use_balance">Không sử dụng</string>
+    <string name="mibi_order_pay_back">Xác nhận</string>
+    <string name="mibi_order_pay_type">Phương thức thanh toán</string>
+    <string name="mibi_order_pay_type_title">Chọn phương thức thanh toán</string>
+    <string name="mibi_order_title">Thanh toán</string>
     <string name="mibi_paytool_mipay">Thanh toán Mi</string>
     <string name="mibi_signing_pay_group_title">Chọn phương thức thanh toán</string>
     <string name="mibi_signing_success_sub">Tái tạo phương thức thanh toán bằng cách dùng %1$s</string>
     <string name="mibi_signing_success_title">Đã chọn thành công</string>
+    <string name="mibi_web_sso_login_fail">Bạn cần đăng nhập lại</string>
     <string name="passport_access_denied">Đã từ chối truy cập</string>
     <string name="passport_account_hint_text">Địa chỉ email hoặc ID Tài khoản Mi</string>
     <string name="passport_account_identity_title">Xác minh danh tính của bạn</string>
@@ -460,6 +473,7 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="hfb_succ_label">Thanh toán thành công</string>
     <string name="hfb_succ_result">Cảm ơn bạn đã sử dụng dịch vụ tài khoản thanh toán.</string>
     <string name="hfb_succ_service_phone_tip">SĐT dịch vụ: 4001125881</string>
+    <string name="mibi_direct_pay_group_title">Chọn phương thức thanh toán</string>
     <string name="mibi_recharge_notification">Đang nạp: %1$s Mi Credit</string>
     <string name="mibi_title_gesture">Hình mở khóa</string>
     <string name="mibi_button_sms_code">Xác nhận</string>
@@ -467,7 +481,6 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_fee_with_mibi_giftcard"> phiếu quà tặng %1$s Mi Credit</string>
     <string name="mibi_fee_with_partner_giftcard"> %1$s Mi Credit %2$s</string>
     <string name="mibi_giftcard_expire">%1$s đã hết hạn</string>
-    <string name="mibi_img_captcha_hint">Nhập mã xác nhận hình ảnh</string>
     <string name="mibi_lockpassword_choose_your_pattern_header">Chọn hình mở khóa của bạn</string>
     <string name="mibi_lockpassword_confirm_your_pattern_header">Xác nhận hình mở khóa của bạn</string>
     <string name="mibi_lockpassword_input_your_pattern_header">Xác nhận hình mở khóa của bạn</string>
@@ -502,6 +515,8 @@ Trung tâm dịch vụ khách hàng：400-100-5678"</string>
     <string name="mibi_title_lockpattern">Yêu cầu hình mở khóa</string>
     <string name="mibi_title_recharge">Nạp Mi Credit</string>
     <string name="mibi_title_visible_pattern">Hiển thị hình mở khóa</string>
+    <string name="mibi_deduct_open">Bật</string>
+    <string name="mibi_img_captcha_hint">Nhập mã xác nhận hình ảnh</string>
     <string name="mibi_pay_notification">Đang trả %1$s Mi Credit</string>
     <string name="mibi_auto_pay_page_title">Chọn phương thức thanh toán</string>
     <string name="mibi_button_auto_pay">Tự động gia hạn</string>

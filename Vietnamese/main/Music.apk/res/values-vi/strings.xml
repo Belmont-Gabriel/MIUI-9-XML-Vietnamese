@@ -209,6 +209,8 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="lyric_open_other_connect">Tải lời bài hát bằng cách sử dụng mạng điện thoại di động</string>
     <string name="playback_failed_no_title_by_bad_file">Định dạng của bài hát này không được hỗ trợ hoặc tập tin không tồn tại.</string>
     <string name="streamloadingtext">Kết nối với %s</string>
+    <string name="toast_new_playlist_name_too_long">Tên danh sách phát quá dài</string>
+    <string name="toast_new_playlist_name_no_enter">Không thể bắt đầu đoạn mới</string>
     <string name="error_title">Không thể đồng bộ với Tài khoản Mi</string>
     <string name="error_unauthorized">Đồng bộ đã bị tắt do cố gắng đăng nhập quá nhiều.</string>
     <string name="error_forbidden">Đồng bộ đã bị tắt do vấn đề với Tài khoản Mi của bạn.</string>
@@ -426,7 +428,7 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="search_title_album">Album</string>
     <string name="search_title_song">Bài hát</string>
     <string name="metered_alert">Cảnh báo sử dụng dữ liệu</string>
-    <string name="metered_alert_msg">Dùng kết nối dữ liệu di động để nghe nhạc có thể làm tăng chi phí sử dụng dữ liệu của bạn đối với nhà mạng.</string>
+    <string name="metered_alert_msg">Bạn đang sử dụng dữ liệu di động để phát bài hát. Vẫn tiếp tục phát?</string>
     <string name="metered_alert_msg_with_data">Bạn còn %s dữ liệu di động. Sử dụng dữ liệu di động để phát bài hát?</string>
     <string name="metered_allow">Phát</string>
     <string name="metered_disallow">Lần tới</string>
@@ -492,6 +494,7 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="please_search_or_select">Tìm kiếm hoặc chọn một lĩnh vực</string>
     <string name="in_searching_please_wait">Đang tìm…</string>
     <string name="no_file_picker_find">Trình tập tin chưa được cài đặt trên thiết bị này</string>
+    <string name="no_system_cropper_find">Hệ thống không có sẵn trình cắt ảnh</string>
     <string name="set_lyric_successful">Đã lưu lời bài hát</string>
     <string name="set_album_successful">Đã lưu album</string>
     <string name="set_id3_successful">Đã lưu thông tin bài hát</string>
@@ -843,8 +846,8 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="talkback_favorite">Thích bài hát này</string>
     <string name="talkback_progress">Thanh tiến độ</string>
     <string name="talkback_back">Quay lại</string>
-    <string name="talkback_nowplaying_circle">Play Circle</string>
-    <string name="talkback_nowplaying_bar">Play Bar</string>
+    <string name="talkback_nowplaying_circle">Vòng phát</string>
+    <string name="talkback_nowplaying_bar">Thanh phát</string>
     <string name="cloud_music">Bài hát trên Mi Cloud</string>
     <string name="backup_immediate">Sao lưu</string>
     <string name="backup_song_title">Chọn bài hát để sao lưu</string>
@@ -895,6 +898,7 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="online_service_title">Dịch vụ trực tuyến</string>
     <string name="online_service_open_tip">Dịch vụ âm nhạc trực tuyến bật</string>
     <string name="online_play_tips">Bài hát này chỉ có sẵn trực tuyến. Bật dịch vụ trực tuyến trong cài đặt để nghe.</string>
+    <string name="date_format_str">dd-MM-yyyy</string>
     <string name="alert_msg_vip_song_for_download">Nhận Gói Bài hát Thu phí để tải xuống bài hát này.</string>
     <string name="alert_msg_vip_song_for_download_upgrade">Bạn đã tải xuống hết bài hát thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.</string>
     <string name="alert_msg_vip_song_for_stream">Nhận Gói Bài hát Thu phí để nghe bài hát này.</string>
@@ -949,5 +953,4 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="vip_renew_notification_message">Bạn sẽ không thể thưởng thức bài hát chất lượng cao sau khi đăng ký của bạn hết hạn.</string>
     <string name="vip_renew_notification_title">Đăng ký hết hạn ngày mai</string>
     <string name="billboard_song_subtitle">— %s</string>
-    <string name="date_format_str">dd-MM-yyyy</string>
 </resources>
