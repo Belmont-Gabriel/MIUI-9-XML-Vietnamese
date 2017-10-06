@@ -83,7 +83,6 @@
     <string name="bind_stb">Tiếp tục ghép nối với đầu thu</string>
     <string name="bind_stb_dlg">Ghép nối đầu thu để chuyển kênh</string>
     <string name="bind_stb_dlg_agree">Ghép nối</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Chọn nhà sản xuất</string>
     <string name="brand_title_all">Tất cả</string>
     <string name="brand_title_hot">Phổ biến</string>
@@ -252,7 +251,6 @@
     <string name="hot_videos">Phổ biến</string>
     <string name="hour">giờ</string>
     <string name="humidity">Độ ẩm:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Tăng</string>
     <string name="input_complete">OK</string>
     <string name="input_source">Nguồn đầu vào</string>
@@ -328,7 +326,6 @@
     <string name="match_data">Thông tin ghép nối</string>
     <string name="match_data_error_tips">"Không thể nhận thông tin
 Quay lại để tiếp tục"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Phím bấm điều hướng có hoạt động không?</string>
     <string name="match_dvd_intro_pause">Thả ra khi phát DVD tạm dừng</string>
     <string name="match_dvd_intro_play">Thả ra khi DVD bắt đầu phát</string>
@@ -525,8 +522,6 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="scaning">Đang tìm…</string>
     <string name="scanning_milink">Tìm kiếm thiết bị…</string>
     <string name="scene_default">Mặc định</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Chụp màn hình</string>
     <string name="screenshot_failed">Không thể chụp ảnh màn hình</string>
     <string name="screenshot_failed_and_check_connection">Không thể chụp ảnh màn hình, kiểm tra thiết bị đã kết nối</string>
@@ -623,7 +618,6 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="start_diagnosis">Kiểm tra</string>
     <string name="start_match">Ghép nối</string>
     <string name="stb">Đầu thu</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">Bật/tắt đầu thu</string>
     <string name="steps">Thử #%d</string>
     <string name="stop_diagnosis">Dừng</string>

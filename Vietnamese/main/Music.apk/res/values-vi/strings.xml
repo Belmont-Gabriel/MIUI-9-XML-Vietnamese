@@ -501,7 +501,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="set_id3_failed">Không thể lưu thông tin</string>
     <string name="set_id3_not_support_format">Không thể sửa định dạng tập tin này</string>
     <string name="set_id3_not_have_read_or_write_permission">Bạn không có quyền sửa tập tin này</string>
-    <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="lyric_setting">Cài đặt lời bài hát</string>
     <string name="modify_lyric">Sửa lời bài hát</string>
     <string name="modify_progress">Thay đổi tốc độ cuộn lời bài hát</string>

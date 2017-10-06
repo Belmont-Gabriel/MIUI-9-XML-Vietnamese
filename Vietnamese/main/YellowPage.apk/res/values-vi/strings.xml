@@ -74,7 +74,6 @@
     <string name="content_desc_send_sms">Gửi SMS</string>
     <string name="currency_character">Tệ</string>
     <string name="app_recommendation_install">Cài đặt</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="menu_follow_yellow_page">Theo dõi</string>
     <string name="menu_unfollow_yellow_page">Bỏ theo dõi</string>
     <string name="menu_add_to_favorite">Yêu thích</string>

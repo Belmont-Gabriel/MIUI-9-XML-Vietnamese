@@ -380,7 +380,6 @@ phản hồi"</string>
     <string name="detail_app_button">Thông tin ứng dụng</string>
     <string name="pref_about_traffic_title">Cài đặt sử dụng dữ liệu</string>
     <string name="pref_traffic_manage_title">Sử dụng dữ liệu</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">Giới hạn dữ liệu di động</string>
     <string name="pref_adjust_traffic_data">Thiết lập sử dụng dữ liệu</string>
     <string name="pref_category_title_other">Cài đặt bổ sung</string>
@@ -874,7 +873,6 @@ Hoạt động này làm giảm tuổi thọ pin."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Ứng dụng này có thể làm chậm
 thiết bị của bạn"</string>
-    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Gỡ cài đặt %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Gỡ cài đặt ứng dụng này để sửa vấn đề pin.</string>
     <string name="om_ill_proc_type_wakelock_title">Ứng dụng khóa chế độ ngủ và hao pin</string>
@@ -1269,7 +1267,6 @@ thiết bị của bạn"</string>
     <string name="menu_text_networkassistants">Sử dụng dữ liệu</string>
     <string name="menu_text_networkassistants_remain">Còn lại %s</string>
     <string name="menu_text_networkassistants_danger">Vượt quá %s</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1629,7 +1626,6 @@ thiết bị của bạn"</string>
     <string name="card_main_deepclean_wechat_action">Dọn dẹp</string>
     <string name="card_main_sectool_title">Công cụ</string>
     <string name="card_main_monthreport_action">Xem</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Kiểm tra mạng</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>

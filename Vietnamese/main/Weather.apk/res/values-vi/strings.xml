@@ -96,7 +96,6 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="open">Mở</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="aqi_publish_source">Cập nhật lúc %1$s bởi CNEMC</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">๖ۣۜßεℓ™ - MIUI.VN</string>
     <string name="traffic_controls">Hạn chế số xe</string>
     <string name="traffic_control_today_numbers">Hôm nay: %1$s</string>

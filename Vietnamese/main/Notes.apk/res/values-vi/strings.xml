@@ -118,7 +118,6 @@
     <string name="error_unsupport_content">Ghi chú này chứa nội dung không được hỗ trợ, chạm vào đây để cập nhật</string>
     <string name="error_contact_not_exist">Liên hệ không tồn tại</string>
     <string name="sync_tips">Chạm để đồng bộ ghi chú với Mi Cloud.</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">Cỡ chữ</string>
     <string name="call_folder_name">Ghi chú cuộc gọi</string>
     <string name="trash_folder_name">Thùng rác</string>

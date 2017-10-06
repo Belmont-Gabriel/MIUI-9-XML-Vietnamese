@@ -547,7 +547,6 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">Thiết bị lưu trữ USB đã được kết nối</string>
     <string name="ext_media_mountable_notification_message">Chạm để mở trong Tập tin.</string>
     <string name="ext_media_safe_remove">Rút ra an toàn</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
@@ -626,7 +625,6 @@ d MMMM"</string>
     <string name="notification_header_title">Thông báo</string>
     <string name="weather_publish_time">Đã cập nhật %1$s</string>
     <string name="no_weather_description">Nhận thông tin thời tiết ></string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">Chụp ảnh màn hình kéo dài</string>
     <string name="screenshot_edit">Sửa</string>
     <string name="screenshot_send">Gửi</string>

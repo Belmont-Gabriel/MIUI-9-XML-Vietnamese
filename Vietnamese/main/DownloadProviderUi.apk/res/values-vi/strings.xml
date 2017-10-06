@@ -331,8 +331,6 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="xl_vip_open">Nạp tiền</string>
     <string name="xl_vip_pay">Gia hạn</string>
     <string name="xl_vip_overdue">Hết hạn</string>
-    <string name="download_num_size">%1$s | %2$s</string>
-    <string name="app_size">%1$s</string>
     <string name="ad_title">Người dùng tải nội dung còn tải %1$s</string>
     <string name="rank_data_empty">Không xếp hạng</string>
     <string name="net_error">Không thể kết nối mạng, hãy thử lại sau</string>

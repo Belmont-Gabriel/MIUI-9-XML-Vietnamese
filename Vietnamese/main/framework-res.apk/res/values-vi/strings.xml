@@ -35,7 +35,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d ngày</string>
     <string name="durationDayHours">%1$d ngày %2$d giờ</string>
     <string name="durationDayHour">%1$d ngày %2$d giờ</string>
@@ -1327,7 +1326,6 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="zen_mode_alarm">Cho tới %1$s (cảnh báo tiếp theo)</string>
     <string name="zen_mode_forever">Cho đến khi bạn tắt tính năng này</string>
     <string name="zen_mode_forever_dnd">Cho đến khi bạn tắt Đừng làm phiền</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="toolbar_collapse_description">Thu gọn</string>
     <string name="zen_mode_feature_name">Không làm phiền</string>
     <string name="zen_mode_downtime_feature_name">Thời gian ngừng hoạt động</string>
@@ -1353,7 +1351,6 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="floating_toolbar_close_overflow_description">Đóng tràn</string>
     <string name="maximize_button_text">Tối đa hóa</string>
     <string name="close_button_text">Đóng</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="importance_from_user">Bạn đặt tầm quan trọng của các thông báo này.</string>
     <string name="importance_from_person">Thông báo này quan trọng vì những người có liên quan.</string>
     <string name="user_creation_account_exists">Cho phép %1$s tạo người dùng mới bằng %2$s?</string>

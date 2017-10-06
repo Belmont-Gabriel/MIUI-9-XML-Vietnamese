@@ -45,7 +45,6 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Hoàn tất</string>
     <string name="date_picker_dialog_title">Đặt ngày</string>
     <string name="time_picker_dialog_title">Đặt giờ</string>

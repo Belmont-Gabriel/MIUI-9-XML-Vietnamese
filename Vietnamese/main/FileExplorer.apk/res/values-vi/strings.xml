@@ -161,7 +161,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">TRÊN MÁY</string>
     <string name="sys_size_enable">" trống"</string>
     <string name="tools">CÔNG CỤ</string>
@@ -421,7 +420,6 @@
     <string name="video_upload_btn_hint">Video MP4 nên dài từ 3 giây~10 phút</string>
     <string name="video_upload_btn">Tiếp theo</string>
     <string name="video_upload_title">Chọn video</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#Thêm chủ đề#</string>
     <string name="video_comment_hint">Chọn chủ đề</string>
     <string name="video_comment_publish">Gửi</string>
@@ -495,7 +493,6 @@
     <string name="video_topic_hint">Tìm kiếm người hoặc chủ đề</string>
     <string name="comment_reply">Trả lời %1$s: </string>
     <string name="comment_hint">Thêm bình luận</string>
-    <string name="origin_name">%1$s: </string>
     <string name="hot_comments">Bình luận phổ biến</string>
     <string name="new_comments">Bình luận mới</string>
     <string name="copy_text">Sao chép văn bản</string>
@@ -755,7 +752,6 @@
     <string name="finish_str">Hoàn tất</string>
     <string name="tab_msg">Tin nhắn</string>
     <string name="msg_page_video_default_title">Tôi đã tải lên một video, hãy nhanh đến xem! :)</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">Đã theo dõi thành công</string>
     <string name="comment_fail">Không thể gửi bình luận, hãy thử lại</string>
     <string name="comment_fail_banned_temporary">Bạn tạm thời bị cấm do bình luận không phù hợp</string>

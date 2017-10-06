@@ -6,9 +6,6 @@ Kích thước: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Giới thiệu phiên bản %1$s
 Kích thước cập nhật Delta: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Lưu trữ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">Không thể bắt đầu tải xuống. Chắc chắn rằng Quản ý Tải xuống hoạt động bình thường.</string>
     <string name="app_name">Sao lưu</string>
     <string name="local_app_name">Sao lưu</string>

@@ -124,7 +124,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="more_face">Thêm khuôn mặt giống nhau</string>
     <string name="face_confirm">Đây là cùng một người</string>
     <string name="face_recommend">Kiến nghị</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="face_name_input">Nhập tên</string>
     <string name="face_name_edit">Sửa</string>
     <string name="confirm_hidden_recommend_group">OK</string>
@@ -418,7 +417,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tip_capture_time">Thời gian chụp:</string>
     <string name="tip_file_info">Thông tin tập tin:</string>
     <string name="tip_capture_params">Dữ liệu EXIF:</string>

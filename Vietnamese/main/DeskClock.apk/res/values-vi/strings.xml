@@ -80,7 +80,6 @@
     <string name="birthday_alarm_summary">Phát bài hát \"Chúc mừng sinh nhật\" thay cho âm báo thức mặc định trong ngày sinh nhật của bạn</string>
     <string name="turn_off_a_repeat_alarm">Tắt lặp lại báo thức</string>
     <string name="skip_alarm_once_hint">Tắt một lần vào %s</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">Tắt lặp lại báo thức này</string>
     <string name="today">Hôm nay</string>
     <string name="tomorrow">Ngày mai</string>

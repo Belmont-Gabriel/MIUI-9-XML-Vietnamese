@@ -453,7 +453,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="recent">Gần đây</string>
     <string name="recent_updates">Cập nhật gần đây</string>
     <string name="account_type_format">%1$s liên hệ</string>
-    <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">Sử dụng ảnh này</string>
     <string name="contact_read_only">Không thể chỉnh sửa từ ứng dụng này.</string>
     <string name="no_contact_details">Không có thông tin bổ sung nào cho liên hệ này.</string>
@@ -521,7 +520,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="non_phone_add_to_contacts">Thêm vào liên hệ có sẵn</string>
     <string name="activity_title_confirm_add_detail">Thêm vào liên hệ</string>
     <string name="non_phone_close">Đóng</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Cung cấp một năm</string>
     <string name="social_widget_label">Liên hệ</string>
     <string name="social_widget_loading">Đang tải…</string>
@@ -539,7 +537,6 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="toast_text_copied">Đã sao chép văn bản</string>
     <string name="cancel_confirmation_dialog_title">Hủy</string>
     <string name="cancel_confirmation_dialog_message">Hủy các thay đổi của bạn?</string>
-    <string name="call_type_and_date">%1$s %2$s     </string>
     <string name="profile_display_name">Thiết lập hồ sơ của tôi</string>
     <string name="enter_contact_name">Nhập tên liên hệ</string>
     <string name="view_updates_from_group">Xem cập nhật</string>
@@ -1010,7 +1007,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="preference_smart_group_location_summary">Nhóm theo mã vùng</string>
     <string name="preference_smart_group_frequency_title">Gần đây</string>
     <string name="preference_smart_group_frequency_summary">Nhóm theo mức độ thường xuyên</string>
-    <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_label">Nhóm thông minh</string>
     <string name="smart_group_loading">Vui lòng chờ…</string>
     <string name="smart_group_company_label">Công ty</string>
