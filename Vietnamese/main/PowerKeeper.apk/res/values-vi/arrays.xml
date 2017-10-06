@@ -59,8 +59,8 @@
         <item>Gần đây</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Chặn chế độ Ngủ sâu</item>
-        <item>Chặn chế độ Ngủ</item>
+        <item>Chặn chế độ ngủ sâu</item>
+        <item>Chặn chế độ ngủ</item>
         <item>Đang tìm Wi-Fi</item>
         <item>Sử dụng GPS</item>
         <item>CPU chiếm dụng cao</item>
@@ -73,5 +73,13 @@
         <item>GPS</item>
         <item>CPU</item>
         <item>Đánh thức</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Chế độ điều khiển nhiệt độ mặc định</item>
+        <item>Chế độ ưu tiên hiệu suất</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Chế độ mặc định hiện tại</item>
+        <item>Chế độ hiệu suất hiện tại</item>
     </string-array>
 </resources>

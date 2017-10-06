@@ -87,7 +87,13 @@
     <string name="i_know">Tôi biết</string>
     <string name="dialog_text">Tạo lối tắt Tăng tốc trò chơi trên Màn hình chính</string>
     <string name="anim_gamebooster_text">Vui lòng chờ…</string>
-    <string name="intro_skip">bỏ qua</string>
+    <string name="intro_skip">Bỏ qua</string>
+    <string name="open_game">Mở</string>
+    <string name="try_game">Thử</string>
+    <string name="install_sucess">Đã cài đặt %s thành công</string>
+    <string name="more_game">Thêm trò chơi</string>
+    <string name="sys_title_gamebooster_unit_gb">G</string>
+    <string name="sys_title_gamebooster_unit_mb">M</string>
     <string name="application_item_disable">Đã giới hạn</string>
     <string name="application_item_already_permission">Đã cho phép</string>
     <string name="man_add_application">Thêm ứng dụng tự khởi chạy thủ công</string>
@@ -114,4 +120,16 @@
     <string name="start">Bắt đầu</string>
     <string name="close">Đóng</string>
     <string name="lucky_result_title">Trợ lý Lì xì</string>
+    <string name="fastboot_status_locked_info">Fastboot chưa được mở khóa trên thiết bị này</string>
+    <string name="fastboot_status_locked_summary">Không thể nhận quyền root</string>
+    <string name="fastboot_locked_question_1">Tại sao nên khóa Fastboot?</string>
+    <string name="fastboot_locked_answer_1">Fastboot là cách truyền thống để flash thiết bị Mi. Khi thiết bị ở chế độ Fastboot, tất cả dữ liệu được lưu trữ trên máy có thể bị tiếp cận và xóa trực tiếp. Chúng tôi khóa Fastboot để đảm bảo dữ liệu vẫn an toàn trong trường hợp mất thiết bị, cũng như đảm bảo độ tin cậy của tính năng Tìm thiết bị.</string>
+    <string name="fastboot_locked_question_2">Mở khóa Fastboot có thể dẫn đến những rủi ro nào?</string>
+    <string name="fastboot_locked_answer_2">Trong trường hợp mất thiết bị, Fastboot đảm bảo độ an toàn của dữ liệu được lưu trữ. Nếu bạn mở khóa Fastboot, bạn sẽ không thể khóa từ xa hoặc xóa dữ liệu bằng Tìm thiết bị. Đó là lý do chúng tôi không kiến nghị bạn mở khóa Fastboot trên thiết bị.</string>
+    <string name="fastboot_locked_question_3">Tôi biết là rủi ro nhưng tôi vẫn cần mở khóa thiết. Tôi nên làm gì?</string>
+    <string name="fastboot_locked_answer_3">Bạn nên sử dụng công cụ mở khóa từ trang web MIUI. Để mở khóa thiết bị, chúng tôi cần chắc chắn rằng thiết bị là của bạn. Đó là lý do bạn nên đăng nhập Tài khoản Mi của bạn và bật Tìm thiết bị.</string>
+    <string name="fastboot_unlock_web_title">Truy cập trang web MIUI chính thức để nhận công cụ mở khóa.</string>
+    <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+    <string name="gb_weixinpay_can_not_complete">Không thể hoàn tất thanh toán. Cài đặt để tiếp tục.</string>
+    <string name="gb_alipays_can_not_complete">Không thể hoàn tất thanh toán. Cài đặt để tiếp tục.</string>
 </resources>
