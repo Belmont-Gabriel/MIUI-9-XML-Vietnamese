@@ -418,7 +418,6 @@ Cài đặt này ảnh hưởng đến tất cả người dùng trên điện t
     <string name="security_enable_widgets_title">Bật tiện ích con</string>
     <string name="security_enable_widgets_disabled_summary">Bị tắt bởi quản trị viên</string>
     <string name="owner_info_settings_summary">Không có</string>
-    <string name="owner_info_settings_status">%1$d/%2$d</string>
     <string name="owner_info_settings_edit_text_hint">Ví dụ: Android của Joe.</string>
     <string name="user_info_settings_title">Thông tin người dùng</string>
     <string name="show_profile_info_on_lockscreen_label">Hiển thị thông tin tiểu sử trên màn hình khóa</string>
@@ -654,7 +653,6 @@ Quá trình mã hóa mất ít nhất một giờ. Bạn phải bắt đầu b�
     <string name="wifi_display_operating_channel">Kênh điều hành</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="wifi_alert_lockdown_by_device_owner">%1$s quản lý thiết bị của bạn và không cho phép sửa đổi hoặc xóa mạng Wi-Fi này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn.</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Cho phép trao đổi dữ liệu khi điện thoại chạm vào thiết bị khác</string>
@@ -927,7 +925,6 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="auto_brightness_title">Độ sáng thích nghi</string>
     <string name="auto_brightness_summary">Tối ưu hóa độ sáng cho ánh sáng có sẵn</string>
     <string name="night_mode_title">Chủ đề</string>
-    <string name="night_mode_summary">%s</string>
     <string name="night_mode_no">Sáng</string>
     <string name="night_mode_yes">Tối</string>
     <string name="night_mode_auto">Tự động</string>
@@ -2036,7 +2033,6 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="gadget_title">Kiểm soát điện năng</string>
     <string name="gadget_toggle_wifi">Đang cập nhật cài đặt Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Đang cập nhật cài đặt Bluetooth</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">bật</string>
     <string name="gadget_state_off">tắt</string>
     <string name="gadget_state_turning_on">đang bật</string>
@@ -2214,7 +2210,6 @@ Một giải pháp đồng bộ hóa dữ liệu của Google cho phép quyền 
     <string name="delete">Xóa</string>
     <string name="misc_files">Tệp khác</string>
     <string name="misc_files_selected_count">đã chọn %1$d trong tổng số %2$d</string>
-    <string name="misc_files_selected_count_bytes">%1$s trong tổng số %2$s</string>
     <string name="select_all">Chọn tất cả</string>
     <string name="hdcp_checking_title">Kiểm tra HDCP</string>
     <string name="hdcp_checking_dialog_title">Cài đặt HDCP kiểm tra hành vi</string>
@@ -2516,7 +2511,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="nfc_payment_no_apps">Thanh toán bằng điện thoại của bạn trong cửa hàng</string>
     <string name="nfc_payment_default">Mặc định thanh toán</string>
     <string name="nfc_payment_default_not_set">Chưa đặt</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">Sử dụng mặc định</string>
     <string name="nfc_payment_favor_default">Luôn luôn</string>
     <string name="nfc_payment_favor_open">Trừ khi một ứng dụng thanh toán khác đang mở</string>
@@ -2577,7 +2571,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">Thẻ SIM</string>
     <string name="sim_settings_title">Thẻ SIM</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_cards_changed_message">Thẻ SIM đã thay đổi</string>
     <string name="sim_cards_changed_message_summary">Nhấn để đặt hoạt động</string>
     <string name="sim_cellular_data_unavailable">Không có dữ liệu di động</string>
@@ -2675,7 +2668,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="zen_mode_option_important_interruptions">Chỉ ưu tiên</string>
     <string name="zen_mode_option_alarms">Chỉ báo thức</string>
     <string name="zen_mode_option_no_interruptions">Hoàn toàn tắt tiếng</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="ringtone_title">Nhạc chuông điện thoại</string>
     <string name="notification_ringtone_title">Nhạc chuông thông báo mặc định</string>
     <string name="vibrate_when_ringing_title">Đồng thời rung khi có cuộc gọi</string>
@@ -2748,12 +2740,10 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="zen_mode_event_rule_reply_yes_or_maybe">Có hoặc Có thể</string>
     <string name="zen_mode_event_rule_reply_yes">Có</string>
     <string name="zen_mode_rule_not_found_text">Không tìm thấy quy tắc.</string>
-    <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
     <string name="zen_mode_schedule_rule_days">Ngày</string>
     <string name="zen_mode_schedule_rule_days_none">Không có</string>
     <string name="zen_mode_schedule_rule_days_all">Hàng ngày</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s đến %2$s</string>
     <string name="zen_mode_calls">Cuộc gọi</string>
     <string name="zen_mode_messages">Tin nhắn</string>
@@ -2864,8 +2854,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="notifications_sensitive">Đã ẩn nội dung nhạy cảm</string>
     <string name="notifications_priority">Đã ghi đè Không làm phiền</string>
     <string name="notifications_no_peeking">Không có xem nhanh</string>
-    <string name="notifications_two_items">%1$s / %2$s</string>
-    <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Chưa được cấp quyền nào</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Không yêu cầu quyền</string>
     <string name="launch_defaults_some">Vài thiết lập mặc định</string>
@@ -2925,8 +2913,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="memory_avg_use">Trung bình</string>
     <string name="memory_max_desc">Tối đa %1$s</string>
     <string name="memory_avg_desc">Trung bình %1$s</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
-    <string name="process_format">%1$s (%2$d)</string>
     <string name="high_power_apps">Tối ưu hóa pin</string>
     <string name="high_power_filter_on">Không được tối ưu hóa</string>
     <string name="high_power_on">Không được tối ưu hóa</string>
@@ -3022,7 +3008,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="dndm_auto_setting_group">Theo lịch trình</string>
     <string name="dndm_auto_button_title">Lặp lại thời gian không làm phiền</string>
     <string name="dndm_auto_time_setting">Đặt giờ</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">Từ</string>
     <string name="dndm_auto_time_turn_on_title">Tự động bật không làm phiền</string>
     <string name="dndm_auto_time_turn_off">Đến</string>
@@ -4513,7 +4498,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="input_password_hint_text">Nhập mật khẩu</string>
     <string name="miui_enable_service_title">Dịch vụ sẽ thực hiện:</string>
     <string name="storage_wizard_format_confirm_third_body">^1 đang được định dạng</string>
