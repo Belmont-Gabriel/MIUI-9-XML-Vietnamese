@@ -14,12 +14,23 @@
     <string name="delete">Xóa</string>
     <string name="delete_message">Xóa</string>
     <string name="from_label">"Từ: "</string>
+    <string name="hybrid_check_network">Cài đặt mạng</string>
+    <string name="hybrid_data_error">Có lỗi xảy ra</string>
+    <string name="hybrid_locating_fail">"Không thể tìm thấy vị trí của bạn"</string>
+    <string name="hybrid_network_access_denied">Truy cập mạng đã bị từ chối</string>
+    <string name="hybrid_network_unavaliable">"Không thể kết nối với mạng"</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Kéo xuống để làm mới…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Chờ 1 lát…</string>
+    <string name="hybrid_pull_to_refresh_release_label">Thả ra để làm mớ…</string>
+    <string name="hybrid_service_unavailiable">Dịch vụ không có sẵn</string>
+    <string name="hybrid_try_again">Thử lại</string>
     <string name="menu_forward">Chuyển tiếp</string>
     <string name="menu_lock">Gắn dấu sao</string>
     <string name="menu_unlock">Bỏ dấu sao</string>
     <string name="message_details_title">Chi tiết tin nhắn</string>
     <string name="message_type_label">"Loại: "</string>
     <string name="messaging">Nhắn tin</string>
+    <string name="packages_select_sim_cards_title">Chọn thẻ SIM</string>
     <string name="received_label">"Đã nhận: "</string>
     <string name="repayment_network_error">Đã xảy ra sự cố với mạng của bạn</string>
     <string name="repayment_title">Thanh toán lại</string>
@@ -31,4 +42,6 @@
     <string name="sms_card_teddy_mobile">Teddy Mobile</string>
     <string name="text_message">Tin nhắn văn bản</string>
     <string name="view_message_details">Xem chi tiết</string>
+    <string name="sim1">Sim 1</string>
+    <string name="sim2">Sim 2</string>
 </resources>

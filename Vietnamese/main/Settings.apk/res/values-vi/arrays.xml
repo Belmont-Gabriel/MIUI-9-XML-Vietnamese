@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+        <item>Kết hợp</item>
+        <item>Tách</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Chỉ hiển thị trên Màn hình khóa và Thanh thông báo</item>
+        <item>Luôn hiển thị tên nhà mạng</item>
+        <item>Không hiển thị tên nhà mạng</item>
+    </string-array>
+    <string-array name="check_importance_entries">
+        <item>Kiến nghị</item>
+        <item>Quan trọng</item>
+        <item>Không quan trọng</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>Kiến nghị hệ thống, thông báo không quan trọng sẽ xuất hiện trong thư mục riêng</item>
+        <item>Thông báo sẽ xuất hiện trực tiếp trên Thanh thông báo</item>
+        <item>Tất cả thông báo sẽ xuất hiện trong thư mục riêng</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Đang quét…</item>
@@ -27,146 +46,6 @@
         <item>Không thành công</item>
         <item>Đã chặn</item>
         <item>Tạm thời tránh kết nối kém</item>
-    </string-array>
-    <string-array name="hdcp_checking_titles">
-        <item>Không kiểm tra</item>
-        <item>Chỉ kiểm tra nội dung DRM</item>
-        <item>Luôn kiểm tra</item>
-    </string-array>
-    <string-array name="hdcp_checking_summaries">
-        <item>Không bao giờ sử dụng HDCP kiểm tra</item>
-        <item>Chỉ sử dụng HDCP kiểm tra nội dung DRM</item>
-        <item>Luôn sử dụng HDCP kiểm tra</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>Tắt</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>Tắt</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>Tắt</item>
-        <item>Bộ đệm nhật ký 64K</item>
-        <item>Bộ đệm nhật ký 256K</item>
-        <item>Bộ đệm nhật ký 1M</item>
-        <item>Bộ đệm nhật ký 4M</item>
-        <item>Bộ đệm nhật ký 16M</item>
-    </string-array>
-    <string-array name="window_animation_scale_entries">
-        <item>Tắt ảnh động</item>
-        <item>Tỷ lệ ảnh động 0.5x</item>
-        <item>Tỷ lệ ảnh động 1x</item>
-        <item>Tỷ lệ ảnh động 1.5x</item>
-        <item>Tỷ lệ ảnh động 2x</item>
-        <item>Tỷ lệ ảnh động 5x</item>
-        <item>Tỷ lệ ảnh động 10x</item>
-    </string-array>
-    <string-array name="transition_animation_scale_entries">
-        <item>Tắt ảnh động</item>
-        <item>Tỷ lệ ảnh động 0.5x</item>
-        <item>Tỷ lệ ảnh động 1x</item>
-        <item>Tỷ lệ ảnh động 1.5x</item>
-        <item>Tỷ lệ ảnh động 2x</item>
-        <item>Tỷ lệ ảnh động 5x</item>
-        <item>Tỷ lệ ảnh động 10x</item>
-    </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Tắt ảnh động</item>
-        <item>Tỷ lệ ảnh động 0.5x</item>
-        <item>Tỷ lệ ảnh động 1x</item>
-        <item>Tỷ lệ ảnh động 1.5x</item>
-        <item>Tỷ lệ ảnh động 2x</item>
-        <item>Tỷ lệ ảnh động 5x</item>
-        <item>Tỷ lệ ảnh động 10x</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Không</item>
-        <item>480p</item>
-        <item>480p (an toàn)</item>
-        <item>720p</item>
-        <item>720p (an toàn)</item>
-        <item>1080p</item>
-        <item>1080p (an toàn)</item>
-        <item>4K</item>
-        <item>4K (an toàn)</item>
-        <item>4K (nâng cao chất lượng hình ảnh)</item>
-        <item>4K (nâng cao chất lượng hình ảnh, an toàn)</item>
-        <item>720p, 1080p (màn hình kép)</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>Không</item>
-        <item>Logcat</item>
-        <item>Systrace (Đồ họa)</item>
-        <item>Call stack trên glGetError</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_entries">
-        <item>Tắt</item>
-        <item>Đổ màu xanh lam khu vực không thuộc phạm vi hình chữ nhật</item>
-        <item>Mệnh lệnh làm nổi bật khu vực vẽ thử nghiệm màu xanh lá cây</item>
-    </string-array>
-    <string-array name="track_frame_time_entries">
-        <item>Tắt</item>
-        <item>Hiển thị trên màn hình dạng thanh</item>
-        <item>Trong adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="debug_hw_overdraw_entries">
-        <item>Tắt</item>
-        <item>Hiển thị vùng vẽ quá độ</item>
-        <item>Hiển thị các vùng mô phỏng mù màu lục</item>
-    </string-array>
-    <string-array name="app_process_limit_entries">
-        <item>Giới hạn tiêu chuẩn</item>
-        <item>Không có tiến trình chạy nền</item>
-        <item>Nhiều nhất 1 tiến trình</item>
-        <item>Nhiều nhất 2 tiến trình</item>
-        <item>Nhiều nhất 3 tiến trình</item>
-        <item>Nhiều nhất 4 tiến trình</item>
-    </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>Sạc pin</item>
-        <item>MTP (Giao thức Chuyển giao Đa phương tiện)</item>
-        <item>PTP (Giao thức Chuyển giao Hình ảnh)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>Nguồn âm thanh</item>
-        <item>MIDI</item>
-    </string-array>
-    <string-array name="tts_rate_entries">
-        <item>Rất chậm</item>
-        <item>Chậm</item>
-        <item>Bình thường</item>
-        <item>Nhanh</item>
-        <item>Nhanh hơn</item>
-        <item>Rất nhanh</item>
-        <item>Siêu nhanh</item>
-        <item>Cực nhanh</item>
-        <item>Nhanh nhất</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Sáng (mặc định)</item>
-        <item>Tự nhiên</item>
-        <item>Tiêu chuẩn</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Tăng cường màu sắc</item>
-        <item>Màu tự nhiên giống như xem bằng mắt thường</item>
-        <item>Tối ưu màu sắc cho nội dung số</item>
-    </string-array>
-    <string-array name="status_bar_style_entries">
-        <item>Kết hợp</item>
-        <item>Tách</item>
-    </string-array>
-    <string-array name="status_bar_show_carrier_entries">
-        <item>Chỉ hiển thị trên màn hình khóa và thanh thông báo</item>
-        <item>Luôn hiển thị tên nhà mạng</item>
-        <item>Không bao giờ hiển thị tên nhà mạng</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Châu Mỹ</item>
@@ -212,6 +91,24 @@
         <item>Vừa</item>
         <item>Lớn</item>
         <item>Đại</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Rất chậm</item>
+        <item>Chậm</item>
+        <item>Bình thường</item>
+        <item>Nhanh</item>
+        <item>Nhanh hơn</item>
+        <item>Rất nhanh</item>
+        <item>Siêu nhanh</item>
+        <item>Cực nhanh</item>
+        <item>Nhanh nhất</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Rất thấp</item>
+        <item>Thấp</item>
+        <item>Thường</item>
+        <item>Cao</item>
+        <item>Rất cao</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Nút bấm</item>
@@ -496,6 +393,108 @@
         <item>Chữ vàng trên nền lam</item>
         <item>Tùy chỉnh</item>
     </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Tắt</item>
+        <item>Bộ đệm nhật ký 64K</item>
+        <item>Bộ đệm nhật ký 256K</item>
+        <item>Bộ đệm nhật ký 1M</item>
+        <item>Bộ đệm nhật ký 4M</item>
+        <item>Bộ đệm nhật ký 16M</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Không kiểm tra</item>
+        <item>Chỉ kiểm tra nội dung DRM</item>
+        <item>Luôn kiểm tra</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Không bao giờ sử dụng HDCP kiểm tra</item>
+        <item>Chỉ sử dụng HDCP kiểm tra nội dung DRM</item>
+        <item>Luôn sử dụng HDCP kiểm tra</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Tắt ảnh động</item>
+        <item>Tỷ lệ ảnh động 0.5x</item>
+        <item>Tỷ lệ ảnh động 1x</item>
+        <item>Tỷ lệ ảnh động 1.5x</item>
+        <item>Tỷ lệ ảnh động 2x</item>
+        <item>Tỷ lệ ảnh động 5x</item>
+        <item>Tỷ lệ ảnh động 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Không</item>
+        <item>480p</item>
+        <item>480p (an toàn)</item>
+        <item>720p</item>
+        <item>720p (an toàn)</item>
+        <item>1080p</item>
+        <item>1080p (an toàn)</item>
+        <item>4K</item>
+        <item>4K (an toàn)</item>
+        <item>4K (nâng cao chất lượng hình ảnh)</item>
+        <item>4K (nâng cao chất lượng hình ảnh, an toàn)</item>
+        <item>720p, 1080p (màn hình kép)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Không</item>
+        <item>Logcat</item>
+        <item>Systrace (Đồ họa)</item>
+        <item>Call stack trên glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Tắt</item>
+        <item>Đổ màu xanh lam khu vực không thuộc phạm vi hình chữ nhật</item>
+        <item>Mệnh lệnh làm nổi bật khu vực vẽ thử nghiệm màu xanh lá cây</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Tắt</item>
+        <item>Hiển thị trên màn hình dạng thanh</item>
+        <item>Trong adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Tắt</item>
+        <item>Hiển thị vùng vẽ quá độ</item>
+        <item>Hiển thị các vùng mô phỏng mù màu lục</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Giới hạn tiêu chuẩn</item>
+        <item>Không có tiến trình chạy nền</item>
+        <item>Nhiều nhất 1 tiến trình</item>
+        <item>Nhiều nhất 2 tiến trình</item>
+        <item>Nhiều nhất 3 tiến trình</item>
+        <item>Nhiều nhất 4 tiến trình</item>
+    </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
         <item>L2TP/IPSec VPN có khóa chia sẻ trước</item>
@@ -561,17 +560,15 @@
         <item>Hồng</item>
         <item>Đỏ</item>
     </string-array>
-    <string-array name="cellcular2wifi_entries">
-        <item>Kết nối tự động</item>
-        <item>Kết nối thủ công</item>
-        <item>Luôn hỏi</item>
+    <string-array name="usb_configuration_titles">
+        <item>Sạc pin</item>
+        <item>MTP (Giao thức Chuyển giao Đa phương tiện)</item>
+        <item>PTP (Giao thức Chuyển giao Hình ảnh)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Nguồn âm thanh</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>Ưu tiên Wi-Fi</item>
-        <item>Ưu tiên mạng di động</item>
-        <item>Chỉ Wi-Fi</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Ưu tiên Wi-Fi</item>
         <item>Ưu tiên mạng di động</item>
     </string-array>
@@ -585,6 +582,10 @@
         <item>Mạnh</item>
         <item>Vừa</item>
         <item>Yếu</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>Mặc định</item>
+        <item>iPhone</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Đồ họa</item>
@@ -633,15 +634,6 @@
     </string-array>
     <string-array name="screen_key_press_action">
         <item>Hiển thị nhiệm vụ gần đây</item>
-        <item>Hiển thị menu</item>
-    </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Không</item>
-        <item>Hiển thị ứng dụng gần đây</item>
-        <item>Khởi động trình Trợ lý</item>
-        <item>Khởi chạy Google Now</item>
-        <item>Đóng ứng dụng hiện tại</item>
-        <item>Khởi chạy tìm kiếm nhanh</item>
         <item>Hiển thị menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -758,10 +750,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Kết nối tự động</item>
         <item>Kết nối thủ công</item>
     </string-array>
-    <string-array name="connect_mode_entries">
-        <item>chế độ tương thích</item>
-        <item>chế độ cao</item>
-    </string-array>
     <string-array name="traffic_balance_entries">
         <item>đóng</item>
         <item>chế độ thông thường</item>
@@ -834,6 +822,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
         <item>Khởi động lại thiết bị để áp dụng cài đặt này?</item>
     </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Siêu nét (2K)</item>
+        <item>Bình thường (720p)</item>
+    </string-array>
     <string-array name="miui_entries_font_size">
         <item>Bé</item>
         <item>Nhỏ</item>
@@ -862,12 +854,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>Kiểu tay trái</item>
         <item>Kiểu tay phải</item>
-    </string-array>
-    <string-array name="edge_touch_volume_action">
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn đúp</item>
-        <item>Điều chỉnh trượt - Kích hoạt trượt</item>
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn</item>
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn lâu</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -1160,13 +1146,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <string-array name="silent_mode_duration_text">
-        <item>Luôn luôn</item>
-        <item>30 phút</item>
-        <item>1 giờ</item>
-        <item>2 giờ</item>
-        <item>8 giờ</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Mỗi ngày</item>
         <item>Các ngày trong tuần</item>
@@ -1183,18 +1162,76 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tập tin</item>
         <item>Ghi chú</item>
     </string-array>
-    <string-array name="standard_configuration_version">
-        <item>3.00GB</item>
-        <item>32GB</item>
-        <item>Bốn nhân - Max: 2.5GHz</item>
-    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>Dung lượng pin</item>
         <item>Máy ảnh sau</item>
-        <item>Kích thước màn hình</item>
+        <item>K.thước màn hình</item>
         <item>Độ phân giải</item>
-        <item>Phiên bản Android</item>
+        <item>P.bản Android</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Giảm độ trễ</item>
+        <item>Chuẩn</item>
+        <item>Chất lượng tốt hơn</item>
+    </string-array>
+    <string-array name="standard_configuration_version_mi3">
+        <item>3.00GB</item>
+        <item>16GB</item>
+        <item>Bốn nhân - Max: 2.5GHz</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_primary_mi3">
+        <item>CPU</item>
+        <item>Dung lượng Pin</item>
+        <item>Máy ảnh sau</item>
+        <item>K.thước màn hình</item>
+        <item>Độ phân giải</item>
+        <item>P.bản Android</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Ưu tiên Wi-Fi</item>
+        <item>Ưu tiên mạng di động</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Sáng (mặc định)</item>
+        <item>Tự nhiên</item>
+        <item>Tiêu chuẩn</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Tăng cường màu sắc</item>
+        <item>Màu tự nhiên giống như xem bằng mắt thường</item>
+        <item>Tối ưu màu sắc cho nội dung số</item>
+    </string-array>
+    <string-array name="cellcular2wifi_entries">
+        <item>Kết nối tự động</item>
+        <item>Kết nối thủ công</item>
+        <item>Luôn hỏi</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn đúp</item>
+        <item>Điều chỉnh trượt - Kích hoạt trượt</item>
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn</item>
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn lâu</item>
+    </string-array>
+    <string-array name="silent_mode_duration_text">
+        <item>Luôn luôn</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>8 giờ</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Không</item>
+        <item>Hiển thị ứng dụng gần đây</item>
+        <item>Khởi động trình Trợ lý</item>
+        <item>Khởi chạy Google Now</item>
+        <item>Đóng ứng dụng hiện tại</item>
+        <item>Khởi chạy tìm kiếm nhanh</item>
+        <item>Hiển thị menu</item>
+    </string-array>
+    <string-array name="connect_mode_entries">
+        <item>chế độ tương thích</item>
+        <item>chế độ cao</item>
     </string-array>
     <string-array name="install_non_market_app_entries">
         <item>Bật (kiến nghị)</item>
@@ -1203,6 +1240,13 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="install_non_market_app_contents">
         <item>Bật</item>
         <item>Không sử dụng</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Thạch anh tím</item>
+        <item>Hồng ngọc</item>
+        <item>Hoàng ngọc</item>
+        <item>Ngọc lục bảo</item>
+        <item>Ngọc hồng lựu</item>
     </string-array>
     <string-array name="app_ops_permissions">
         <item>Được phép</item>
@@ -1224,22 +1268,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Nhẹ</item>
         <item>Vừa</item>
         <item>Mạnh</item>
-    </string-array>
-    <string-array name="miracast_policies">
-        <item>Giảm độ trễ</item>
-        <item>Chuẩn</item>
-        <item>Chất lượng tốt hơn</item>
-    </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Thạch anh tím</item>
-        <item>Hồng ngọc</item>
-        <item>Hoàng ngọc</item>
-        <item>Ngọc lục bảo</item>
-        <item>Ngọc hồng lựu</item>
-    </string-array>
-    <string-array name="screen_resolution_entries">
-        <item>Siêu nét (2K)</item>
-        <item>Bình thường (720p)</item>
     </string-array>
     <string-array name="select_runtime_summaries">
         <item>Sử dụng Dalvik</item>

@@ -9,4 +9,7 @@
     <plurals name="second_space_notification_format">
         <item quantity="other">%d thông báo trên Không gian thứ hai</item>
     </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">Tìm %d ứng dụng</item>
+    </plurals>
 </resources>

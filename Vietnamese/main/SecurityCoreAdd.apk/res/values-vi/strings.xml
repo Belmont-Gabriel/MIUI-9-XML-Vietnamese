@@ -13,7 +13,7 @@
     <string name="hidden_app">Không gian thứ hai</string>
     <string name="public_app">Cả hai không gian</string>
     <string name="current_space">Không gian hiện tại</string>
-    <string name="switch_in_hidden_space">Nhập dữ liệu vào không gian hiện tại</string>
+    <string name="switch_in_hidden_space">Nhập vào không gian hiện tại</string>
     <string name="summary_switch_apps_settings">Chọn ứng dụng sử dụng trong không gian hiện tại</string>
     <string name="switch_out_hidden_space">Xuất dữ liệu từ không gian hiện tại</string>
     <string name="switch_out_contacts">Xuất liên hệ</string>
@@ -61,11 +61,15 @@
     <string name="cancel_button">Hủy</string>
     <string name="list_empty_text">Trống</string>
     <string name="xspace_label">Ứng dụng kép</string>
+    <string name="xspace_setting_label">Cài đặt ứng dụng kép</string>
+    <string name="xspace_account">Tài khoản ứng dụng kép</string>
     <string name="declare_dialog_title">Giới thiệu ứng dụng kép</string>
     <string name="xspace_loading_msg">Đang tải ứng dụng…</string>
     <string name="xspace_header">Ứng dụng kép</string>
     <string name="xspace_introduce">Đã đề nghị</string>
-    <string name="xspace_description">Tạo ứng dụng kép để phân khai sử dụng. Ứng dụng kép sẽ có biểu tượng cụ thể trên Màn hình chính.</string>
+    <string name="xspace_description">"Ứng dụng kép là ứng dụng sao chép có thể được sử dụng độc lập bằng tài khoản khác.
+
+Một số ứng dụng kép yêu cầu hỗ trợ Google Services Framework. Trong trường hợp đó Google Services Framework kép sẽ được tạo."</string>
     <string name="xspace_chocie">Hỗ trợ ứng dụng kép</string>
     <string name="xspace_creating">Đang tạo ứng dụng kép…</string>
     <string name="xspace_installing">Đang cài đặt…</string>
@@ -251,6 +255,8 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="xspace_guide_title">Tạo Ứng dụng kép cho %s</string>
     <string name="xspace_guide_des">Sử dụng 2 tài khoản mà không cần chuyển đổi</string>
     <string name="xpsace_guide_button">Tạo</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="space_name_default">Không gian Làm việc</string>
     <string name="space_des_default">Không gian cách ly với dữ liệu được mã hóa</string>
     <string name="create_work_space">Tạo Không gian Làm việc</string>
@@ -277,4 +283,34 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="contact_us">Liên hệ chúng tôi</string>
     <string name="space_deleted">Không gian này đã bị xóa</string>
     <string name="function_not_support">Chưa hỗ trợ trên thiết bị này</string>
+    <string name="can_not_switch_when_calling">Không thể chuyển đổi không gian khi gọi</string>
+    <string name="can_not_delete_when_calling">Không thể xóa không gian khi gọi</string>
+    <string name="support_desc">Dịch vụ bảo mật được cung cấp bởi Graphite</string>
+    <string name="sdcardfs_dialog_message">Tắt \"Tối ưu hóa thẻ SD giả lập\" trong Tùy chọn nhà phát triển trước khi vào Không gian thứ hai.</string>
+    <string name="do_not_ask">Không hỏi lại</string>
+    <string name="gpg_message">Tạo ứng dụng kép cho trò chơi yêu cầu làm việc với Google Play Game. Tạo ứng dụng kép cho Google Play Game?</string>
+    <string name="gpg_title">Ứng dụng kép cho Google Play Game</string>
+    <string name="gms_message">Tạo ứng dụng kép yêu cầu làm việc với Google service. Tạo ứng dụng kép cho Google service?</string>
+    <string name="gms_title">Bật Dịch vụ Google</string>
+    <string name="gms_open_button">Bật</string>
+    <string name="create_second_space">Đã tạo thành công</string>
+    <string name="set_space_password">Thiết lập mật khẩu</string>
+    <string name="set_space_finger">Đặt vân tay</string>
+    <string name="guide_start_text">Một thiết bị - Hai không gian.</string>
+    <string name="guide_start_ads_text">Bảo mật ở cấp độ mới</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="input_space_password">Đặt ngay</string>
+    <string name="input_space_finger">Đặt ngay</string>
+    <string name="space_finger_sub_text">Đặt vân tay Không gian thứ hai để chuyển đổi nhanh hơn</string>
+    <string name="set_space_finger_sub_text_suc">Đặt vân tay thành công</string>
+    <string name="show_noti_from_owner">Thông báo từ không gian khác</string>
+    <string name="show_noti_from_owner_detail">Hiển thị nhắc nhở trên Không gian hiện tại khi Không gian thứ hai có thông báo</string>
+    <string name="show_noti_quick_switch_icon">Lối tắt thanh thông báo</string>
+    <string name="show_noti_quick_switch_icon_detail">Hiển thị lối tắt chuyển đổi không gian trên Thanh thông báo</string>
+    <string name="show_decktop_quick_switch_icon">Lối tắt Màn hình chính</string>
+    <string name="show_decktop_quick_switch_icon_detail">Hiển thị lối tắt chuyển đổi không gian trên Màn hình chính Không gian thứ nhất</string>
+    <string name="has_created_second_space">"Bạn có thể mở Không gian thứ hai.
+Một thiết bị - Hai không gian."</string>
+    <string name="privacy_password_fingerprint_dialog_title">Quét vân tay của bạn</string>
+    <string name="privacy_password_fingerprint_dialog_message">Hãy đặt ngón tay của bạn trên cảm biến</string>
 </resources>

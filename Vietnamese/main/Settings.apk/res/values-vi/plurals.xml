@@ -7,15 +7,11 @@
         <item quantity="other">%d ứng dụng có thể hiển thị thông báo</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d phím nhanh trên thanh thông báo được kích hoạt</item>
+        <item quantity="other">%1$d phím nhanh sẽ xuất hiện trong Thanh thông báo</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
         <item quantity="one">Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
-    </plurals>
-    <plurals name="dlg_remove_locales_title">
-        <item quantity="other">Xóa các ngôn ngữ đã chọn?</item>
-        <item quantity="one">Xóa ngôn ngữ đã chọn?</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">Đã thiết lập %1$d dấu vân tay</item>
@@ -48,6 +44,95 @@
     <plurals name="wrong_pin_code">
         <item quantity="other">Mã PIN SIM của bạn không chính xác, bạn còn %d lần thử.</item>
         <item quantity="one">Mã PIN của SIM không chính xác, bạn còn %d lần thử trước khi bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của bạn.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
+        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Đổi sang chỉ báo thức trong %1$d phút (cho đến %2$s)</item>
+        <item quantity="one">Đổi sang chỉ báo thức trong một phút cho đến %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Đổi sang chỉ báo thức trong %1$d giờ cho đến %2$s</item>
+        <item quantity="one">Đổi sang chỉ báo thức trong một giờ cho đến %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d quyền được cấp</item>
+        <item quantity="one">%d quyền được cấp</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Đã cấp %1$d trong %2$d quyền</item>
+        <item quantity="one">Đã cấp %1$d trong số %2$d quyền</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d quyền bổ sung</item>
+        <item quantity="one">%d quyền bổ sung</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
+        <item quantity="zero">Không có ứng dụng nào có thể mở bất kỳ liên kết được hỗ trợ</item>
+        <item quantity="one">Một ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d ứng dụng được phép bỏ qua tối ưu hóa pin</item>
+        <item quantity="one">1 ứng dụng được phép bỏ qua tối ưu hóa pin</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
+        <item quantity="one">1 ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Đã tìm thấy %d nguy cơ</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d ứng dụng được cho phép tự khởi chạy</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">Mã PIN phải chứa %d chữ số</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Đã chia sẻ %d mạng</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d thiết bị</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d thiết bị đã kết nối</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào kiểm tra phần cứng.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Luôn tắt %d ứng dụng</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Không bao giờ tắt %d ứng dụng</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Độ dài của mã PIN phải chứa ít nhất %d chữ số</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN có thể chứa đến %d chữ số</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Kết nối ít nhất %d điểm. Hãy thử lại.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Quá nhiều lần không chính xác. Thử lại sau %d giây.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Chờ %d giây và thử lại.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Xóa các ngôn ngữ đã chọn?</item>
+        <item quantity="one">Xóa ngôn ngữ đã chọn?</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d mục</item>
@@ -101,43 +186,6 @@
         <item quantity="other">Kiểm tra các chứng chỉ</item>
         <item quantity="one">Kiểm tra chứng chỉ</item>
     </plurals>
-    <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d ứng dụng có thể đọc thông báo</item>
-        <item quantity="one">%d ứng dụng có thể đọc thông báo</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_minute">
-        <item quantity="other">Đổi sang chỉ báo thức trong %1$d phút (cho đến %2$s)</item>
-        <item quantity="one">Đổi sang chỉ báo thức trong một phút cho đến %2$s</item>
-    </plurals>
-    <plurals name="zen_mode_summary_alarms_only_by_hour">
-        <item quantity="other">Đổi sang chỉ báo thức trong %1$d giờ cho đến %2$s</item>
-        <item quantity="one">Đổi sang chỉ báo thức trong một giờ cho đến %2$s</item>
-    </plurals>
-    <plurals name="permissions_summary">
-        <item quantity="other">%d quyền được cấp</item>
-        <item quantity="one">%d quyền được cấp</item>
-    </plurals>
-    <plurals name="runtime_permissions_summary">
-        <item quantity="other">Đã cấp %1$d trong %2$d quyền</item>
-        <item quantity="one">Đã cấp %1$d trong số %2$d quyền</item>
-    </plurals>
-    <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d quyền bổ sung</item>
-        <item quantity="one">%d quyền bổ sung</item>
-    </plurals>
-    <plurals name="domain_urls_apps_summary">
-        <item quantity="other">%d ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
-        <item quantity="zero">Không có ứng dụng nào có thể mở bất kỳ liên kết được hỗ trợ</item>
-        <item quantity="one">Một ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
-    </plurals>
-    <plurals name="high_power_count">
-        <item quantity="other">%d ứng dụng được phép bỏ qua tối ưu hóa pin</item>
-        <item quantity="one">1 ứng dụng được phép bỏ qua tối ưu hóa pin</item>
-    </plurals>
-    <plurals name="memory_usage_apps_summary">
-        <item quantity="other">%1$d ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
-        <item quantity="one">1 ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
-    </plurals>
     <plurals name="notification_summary">
         <item quantity="other">%d ứng dụng bị chặn gửi</item>
         <item quantity="one">%d ứng dụng bị chặn gửi</item>
@@ -145,53 +193,5 @@
     <plurals name="data_saver_unrestricted_summary">
         <item quantity="other">%1$d ứng dụng được phép sử dụng dữ liệu không hạn chế khi Trình tiết kiệm dữ liệu đang bật</item>
         <item quantity="one">1 ứng dụng được phép sử dụng dữ liệu không hạn chế khi Trình tiết kiệm dữ liệu đang bật</item>
-    </plurals>
-    <plurals name="virus_scan_app_find_risk">
-        <item quantity="other">Đã tìm thấy %d nguy cơ</item>
-    </plurals>
-    <plurals name="auto_startup_count">
-        <item quantity="other">%d ứng dụng được cho phép tự khởi chạy</item>
-    </plurals>
-    <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">Mã PIN phải chứa %d chữ số</item>
-    </plurals>
-    <plurals name="wifi_share_count">
-        <item quantity="other">Đã chia sẻ %d mạng</item>
-    </plurals>
-    <plurals name="connected_devices_number">
-        <item quantity="other">%d thiết bị</item>
-    </plurals>
-    <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d thiết bị đã kết nối</item>
-    </plurals>
-    <plurals name="show_pho_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để xem thông tin điện thoại.</item>
-    </plurals>
-    <plurals name="show_cit_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào kiểm tra phần cứng.</item>
-    </plurals>
-    <plurals name="show_rep_countdown">
-        <item quantity="other">Bạn chỉ cần hoàn thành %1$d bước để vào báo cáo lỗi.</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Luôn tắt %d ứng dụng</item>
-    </plurals>
-    <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Không bao giờ tắt %d ứng dụng</item>
-    </plurals>
-    <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">Độ dài của mã PIN phải chứa ít nhất %d chữ số</item>
-    </plurals>
-    <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN có thể chứa đến %d chữ số</item>
-    </plurals>
-    <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Kết nối ít nhất %d điểm. Hãy thử lại.</item>
-    </plurals>
-    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Quá nhiều lần không chính xác. Thử lại sau %d giây.</item>
-    </plurals>
-    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Chờ %d giây và thử lại.</item>
     </plurals>
 </resources>
