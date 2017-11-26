@@ -86,10 +86,6 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_left_smarthome">Mi Home</string>
-    <string name="keyguard_left_remotecentral">Điều khiển Mi</string>
-    <string name="keyguard_left_bankcard">Mi Pay</string>
-    <string name="keyguard_left_buscard">Thẻ giao thông</string>
     <string name="face_data_input_title">Thêm dữ liệu khuôn mặt</string>
     <string name="face_data_introduction_title">Nhận dạng khuôn mặt</string>
     <string name="face_data_introduction_msg">Face data can be used to unlock your device or verify your identity. Add Lock screen password before adding your face data.</string>
