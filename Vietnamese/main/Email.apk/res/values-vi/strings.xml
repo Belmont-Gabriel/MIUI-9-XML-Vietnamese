@@ -207,8 +207,6 @@ Cập nhật ngay?"</string>
     <string name="bank_card_detail">Chi tiết thẻ tín dụng</string>
     <string name="battery_saver">Tiết kiệm pin</string>
     <string name="battery_saver_keywords">tiết kiệm pin;pin mail</string>
-    <string name="bcc">Bcc</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Cài đặt hóa đơn</string>
     <string name="bill_center_setting_head">Nhập thông tin từ các tài khoản này</string>
     <string name="bill_cycle_text">Chu kỳ hóa đơn</string>
@@ -228,9 +226,6 @@ Cập nhật ngay?"</string>
     <string name="cancel_action">Hủy</string>
     <string name="cancel_pop3_attchemt_downloading">Tài khoản loại pop3 không thể hủy tệp đính kèm trong quá trình tải xuống</string>
     <string name="cant_move_or_change_labels">Không thể di chuyển nội dung từ nhiều tài khoản.</string>
-    <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
-    <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Đổi thư mục</string>
     <string name="change_sync_settings">Thay đổi cài đặt đồng bộ</string>
@@ -461,7 +456,6 @@ Cập nhật ngay?"</string>
     <string name="invalid_recipient">Địa chỉ %s không hợp lệ.</string>
     <string name="invalid_recipient_title">Lỗi người nhận</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">Tìm kiếm hộp thư trên máy chủ</string>
     <string name="load_more">Tải thêm</string>
     <string name="loading_conversation">Đang tải…</string>
@@ -873,7 +867,6 @@ Hãy thử hộp thư khác."</string>
     <string name="tablet">máy tính bảng</string>
     <string name="tap_to_configure">Chạm để thiết lập.</string>
     <string name="tap_to_enable_sync">Chạm để mở.</string>
-    <string name="to">Tới</string>
     <string name="to_heading">"Tới: "</string>
     <string name="toast_bar_fail_synchronization">Không thể kết nối mạng</string>
     <string name="toast_bar_insufficient_memory_space">Không đủ dung lượng lưu trữ</string>

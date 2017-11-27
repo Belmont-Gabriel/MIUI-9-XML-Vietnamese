@@ -65,8 +65,6 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Đồng bộ</string>
     <string name="sync_dspt_provision">"Đồng bộ ảnh, liên hệ, ghi chú, và nhiều thứ nữa trên tất cả các thiết bị của bạn hoặc truy cập chúng tại "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.
 "</string>
     <string name="sync_dspt_entrance_provision">"Đồng bộ ảnh, liên hệ, lịch sử cuộc gọi, và tin nhắn trên tất cả các thiết bị. Truy cập những thứ bạn đồng bộ từ bất cứ trình duyệt nào tại %s. "</string>
@@ -77,8 +75,6 @@
     <string name="sync_dspt_entrance_provision_confirm_content">Các ứng dụng được xây dựng trong MIUI cần sử dụng Mi Cloud để sao lưu ảnh, liên hệ, ghi chú... Mi Cloud được cung cấp miễn phí và sử dụng dễ dàng, tiện lợi.</string>
     <string name="sync_dspt_entrance_provision_skip">Bỏ qua bước này</string>
     <string name="find_device_dspt_provision">Nếu bạn đánh mất thiết bị, bạn có thể truy cập %s để định vị, khóa, hoặc đặt lại thiết bị. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt.</string>
     <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
@@ -130,7 +126,6 @@ Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</
     <string name="find_device_error_server">Lỗi máy chủ</string>
     <string name="find_device_success_title">Tìm thiết bị</string>
     <string name="find_device_notice_p1">Truy cập</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"để định vị, khóa, hoặc khôi phục lại điện thoại.
 Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này."</string>
     <string name="i_know">OK</string>
@@ -481,8 +476,6 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="micloud_find_device_opened">Tìm thiết bị đã bật</string>
     <string name="micloud_find_device_open_fail">Không thể bật Tìm thiết bị</string>
     <string name="micloud_find_device_opened_content">Tìm thiết bị của bạn tại %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">Không thể kích hoạt lại Tìm thiết bị</string>
     <string name="micloud_find_device_close_fail">Không thể tắt Tìm thiết bị</string>
     <string name="micloud_find_device_finish">Hoàn tất</string>

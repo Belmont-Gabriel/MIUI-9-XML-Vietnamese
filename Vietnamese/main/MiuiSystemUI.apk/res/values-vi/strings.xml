@@ -280,15 +280,10 @@
     <string name="power_remaining_duration_only_short">Còn lại%1$s</string>
     <string name="power_discharging_duration">%1$s - còn lại khoảng %2$s</string>
     <string name="power_discharging_duration_short">%1$s - Còn lại %2$s</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cần sạc đầy</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
     <string name="power_charging_duration_ac">%1$s - %2$s cần sạc đầy từ AC</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
     <string name="power_charging_duration_usb">%1$s - %2$s cần sạc đầy từ USB</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
     <string name="power_charging_duration_wireless">%1$s - %2$s cần sạc đầy từ mạng không dây</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
     <string name="battery_info_status_charging_ac">Đang sạc qua AC</string>

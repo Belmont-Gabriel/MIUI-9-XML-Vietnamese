@@ -100,7 +100,6 @@
     <string name="ui_main_toast_operation_failed">Không thể bỏ yêu thích %1$s</string>
     <string name="rename_failed">Không thể đổi tên %1$s</string>
     <string name="error_open_file_failed_no_app_found">Không tìm thấy ứng dụng để xử lý tác vụ này.</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">Không đủ dung lượng</string>
     <string name="no_enough_storage_indication">Dung lượng lưu trữ của thiết bị đã đầy.</string>
     <string name="used">Đã sử dụng</string>
@@ -558,14 +557,12 @@
     <string name="recommend">Kiến nghị</string>
     <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">Nhận được lượt thích</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_comment_prefix">"Bình luận: "</string>
     <string name="message_reply_prefix">Trả lời</string>
     <string name="topic_followed">Đang theo dõi</string>
     <string name="topic_follow">Theo dõi</string>
     <string name="reply_success">Đã thêm bình luận</string>
     <string name="operation_reply">Bình luận</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="message_praise_video">" đã thích video này"</string>
     <string name="message_praise_comment">" đã thích bình luận này"</string>
     <string name="get_user_info_err">Không thể nhận thông tin về người này</string>

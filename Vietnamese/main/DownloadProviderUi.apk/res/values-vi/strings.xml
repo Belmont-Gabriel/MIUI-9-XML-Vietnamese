@@ -106,7 +106,6 @@
     <string name="package_filter">Gói cài đặt</string>
     <string name="other_filter">Khác</string>
     <string name="xunlei_brand">Được hỗ trợ bởi Xunlei</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Công cụ tải xuống Xunlei</string>
     <string name="turn_off_xunlei_title">Tắt Xunlei</string>
     <string name="turn_off_xunlei_message">Bạn có thể trải nghiệm tốc độ tải xuống chậm hơn.</string>

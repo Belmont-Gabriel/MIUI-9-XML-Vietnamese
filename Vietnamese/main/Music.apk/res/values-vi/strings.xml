@@ -43,7 +43,6 @@
 
 Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đến mạng Wi-Fi."</string>
     <string name="download_no_application_title">Không thể mở tập tin</string>
-    <string name="download_percent">%d%%</string>
     <string name="notification_need_wifi_for_size">Kích thước tập tin tải xuống quá lớn, yêu cầu tải qua Wi-Fi.</string>
     <string name="download_unknown_title">&lt;Không có tiêu đề></string>
     <string name="root_downloads">Tải xuống</string>

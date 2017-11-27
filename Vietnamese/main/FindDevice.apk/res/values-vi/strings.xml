@@ -22,7 +22,6 @@
     <string name="find_device_noise_title">Tìm báo động thiết bị</string>
     <string name="find_device_success_title">Tìm thiết bị</string>
     <string name="find_device_notice_p1">Truy cập</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"để định vị, khóa, hoặc khôi phục lại điện thoại.
 Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này."</string>
     <string name="i_know">OK</string>

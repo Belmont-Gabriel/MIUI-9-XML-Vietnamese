@@ -788,7 +788,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="grant_permission_text">"Thư viện cần truy cập vào 
 %s
  để hoạt động bình thường, chạm \"Đặt\" để truy cập Quyền."</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">Đặt</string>
     <string name="loading">Vui lòng chờ</string>
     <string name="loading_dots">Vui lòng chờ…</string>

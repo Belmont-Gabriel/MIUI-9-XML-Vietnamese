@@ -1836,7 +1836,6 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="power_discharge_remaining">%1$s còn lại</string>
     <string name="power_charge_remaining">%1$s để tính phí</string>
     <string name="power_discharging_duration">%1$s - còn lại khoảng %2$s</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cần sạc đầy</string>
     <string name="power_charging_duration_ac">%1$s - %2$s cần sạc đầy từ AC</string>
     <string name="power_charging_duration_usb">%1$s - %2$s cần sạc đầy từ USB</string>
@@ -5731,10 +5730,6 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="start_vip_mode">bật chế độ VIP</string>
     <string name="vip_mode_info">In the Silent mode, VIP list of contacts in the call or SMS will still ring Ling reminders</string>
     <string name="wifi_eap_info_reconnect">Xác thực thất bại, vui lòng kiểm lại!</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="use_media_format_desc">Xóa Lưu trữ USB? <b>Tất cả</b> tập tin sẽ bị xóa vĩnh viễn.</string>
     <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
     <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
