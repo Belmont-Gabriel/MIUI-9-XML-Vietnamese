@@ -50,22 +50,6 @@
         <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
         <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Trạng thái</item>
-        <item>Tên ứng dụng</item>
-        <item>Tần suất sử dụng</item>
-        <item>Lưu trữ đã dùng</item>
-        <item>Sử dụng dữ liệu</item>
-        <item>Sử dụng pin</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sắp xếp theo trạng thái</item>
-        <item>Sắp xếp theo tên ứng dụng</item>
-        <item>Sắp xếp theo tần suất sử dụng</item>
-        <item>Sắp xếp theo lưu trữ đã dùng</item>
-        <item>Sắp xếp theo sử dụng dữ liệu</item>
-        <item>Sắp xếp theo sử dụng pin</item>
-    </string-array>
     <string-array name="title_app_info">
         <item>Nguồn cài đặt</item>
         <item>Thời gian cài đặt</item>
