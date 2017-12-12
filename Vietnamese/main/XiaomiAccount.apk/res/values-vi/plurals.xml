@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="dirty_contacts_count">
-        <item quantity="other">%d liên hệ</item>
-    </plurals>
-    <plurals name="dirty_mms_count">
-        <item quantity="other">%d tin nhắn</item>
-    </plurals>
-    <plurals name="dirty_note_count">
-        <item quantity="other">%d ghi chú</item>
-    </plurals>
     <plurals name="updated_contacts">
         <item quantity="other">Đã cập nhật %s liên hệ</item>
     </plurals>
@@ -20,5 +11,14 @@
     </plurals>
     <plurals name="view_all_browsers">
         <item quantity="other">Xem tất cả %d trình duyệt</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d liên hệ</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d tin nhắn</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d ghi chú</item>
     </plurals>
 </resources>

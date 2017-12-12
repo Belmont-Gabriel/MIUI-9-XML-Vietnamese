@@ -145,7 +145,7 @@ Trước khi xóa:
     <string name="correct_enter_password">Nhập đúng mật khẩu</string>
     <string name="correct_enter_update_password">Mật khẩu ban đầu được nhập chính xác</string>
     <string name="title_patternforgotten">"Quên mật khẩu của bạn?
-bạn có thể:"</string>
+Bạn có thể:"</string>
     <string name="tip1_patternforgotten">Gỡ bỏ cài đặt bảo mật, cài đặt lại và kích hoạt</string>
     <string name="tip2_patternforgotten">Nhấn vào nút bên dưới “Thiết lập lại ngay lập tức”, khôi phục lại dữ liệu tài khoản ban đầu, kích hoạt lại</string>
     <string name="details_patternforgotten">"Kích hoạt lại:
