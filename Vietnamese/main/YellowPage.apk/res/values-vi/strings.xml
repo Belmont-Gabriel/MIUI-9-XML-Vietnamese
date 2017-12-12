@@ -185,7 +185,6 @@
     <string name="quick_yellow_page_tab_phones">Điện thoại</string>
     <string name="recharge_actual_price">Giá:</string>
     <string name="recharge_charge_range">Giá: %1$s-%2$s Tệ</string>
-    <string name="recharge_charge_value">Giá: %s Tệ</string>
     <string name="recharge_follow_name">Nạp tiền</string>
     <string name="recharge_history">Lịch sử nạp tiền</string>
     <string name="recharge_history_empty">Trống</string>
