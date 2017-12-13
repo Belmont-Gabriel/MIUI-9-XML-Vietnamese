@@ -25,6 +25,14 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Trong lành</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nghiêm trọng</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Quang</item>
         <item>Nhiều mây</item>
@@ -57,7 +65,7 @@
     <string-array name="indices_uv_level">
         <item>Yếu</item>
         <item>Trung bình</item>
-        <item>Mạnh</item>
+        <item>Cao</item>
     </string-array>
     <string-array name="indices_sport">
         <item>Thích hợp</item>
@@ -76,5 +84,66 @@
         <item>Tây Nam</item>
         <item>Tây</item>
         <item>Tây Bắc</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>B</item>
+        <item>ĐB</item>
+        <item>Đ</item>
+        <item>ĐN</item>
+        <item>N</item>
+        <item>TN</item>
+        <item>T</item>
+        <item>TB</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Ưu</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nghiêm trọng</item>
+        <item>Vượt quá chỉ số</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Thang sức gió Beaufort</item>
+        <item>Kilômét mỗi giờ (km/h)</item>
+        <item>Mét mỗi giây (m/s)</item>
+        <item>Dặm mỗi giờ (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Cấp 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Thang sức gió Beaufort</item>
+        <item>Kilômét mỗi giờ (km/h)</item>
+        <item>Mét mỗi giây (m/s)</item>
+        <item>Dặm mỗi giờ (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Cấp %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Rất to</item>
+        <item>Vừa</item>
+        <item>Rào</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Tuyệt vời</item>
+        <item>Trong lành</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Vượt quá chỉ số</item>
     </string-array>
 </resources>
