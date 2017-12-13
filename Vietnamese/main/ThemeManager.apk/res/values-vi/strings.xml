@@ -298,7 +298,6 @@
     <string name="theme_batch_update_dlg_content_single">Cập nhật %1$s bây giờ?</string>
     <string name="theme_current_using_has_update">Có cập nhật chủ đề</string>
     <string name="theme_immediately_apply_tip">Áp dụng cập nhật chủ đề ngay?</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">Chủ đề mới hiện có sẵn</string>
     <string name="selected_resource_file_invalid">Không thể sử dụng tập tin tài nguyên được chọn</string>
     <string name="apply_theme_with_ringtones">Sử dụng nhạc chuông chủ đề</string>
