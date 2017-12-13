@@ -129,7 +129,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>
     <string name="share_update_content_unsign">Đã cập nhật MIUI đến%1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
     <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s\"</string>
-    <string name="share_sina">Đăng qua Sina Weibo</string>
     <string name="share_sina">Chia sẻ qua Sina Weibo</string>
     <string name="update_success_title">Cập nhật thành công</string>
     <string name="my_rank">"Trạng thái cập nhật: "</string>
