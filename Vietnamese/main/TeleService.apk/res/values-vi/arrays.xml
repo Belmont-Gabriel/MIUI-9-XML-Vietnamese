@@ -5,6 +5,11 @@
         <item>LTE/CDMA</item>
         <item>LTE/GSM/UMTS</item>
     </string-array>
+    <string-array name="clir_display_values">
+        <item>Mạng mặc định</item>
+        <item>Ẩn số</item>
+        <item>Hiển thị số</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
         <item>TD-SCDMA, GSM/WCDMA, CDMA và EvDo</item>

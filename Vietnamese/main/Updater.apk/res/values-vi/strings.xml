@@ -39,6 +39,7 @@
     <string name="menu_title_recovery">Khởi động lại vào chế độ Khôi phục</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
     <string name="menu_title_apply_for_alpha">Tham gia Chương trình Kiểm tra Beta</string>
+    <string name="menu_title_feedback">Phản hồi</string>
     <string name="install_file_explorer">Cài đặt trình Tập tin trước</string>
     <string name="boot_recovery">Khởi động lại vào Recovery?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
@@ -129,10 +130,11 @@ http://zhushou.xiaomi.com"</string>
     <string name="share_update_content_unsign">Đã cập nhật MIUI đến%1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
     <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s\"</string>
     <string name="share_sina">Đăng qua Sina Weibo</string>
+    <string name="share_sina">Chia sẻ qua Sina Weibo</string>
     <string name="update_success_title">Cập nhật thành công</string>
     <string name="my_rank">"Trạng thái cập nhật: "</string>
     <string name="no_log">Không có tóm tắt cập nhật</string>
-    <string name="notification_fail_msg">Thử tải xuống bản ROM hoàn chỉnh</string>
+    <string name="notification_fail_msg">Tải ROM xuống và thử cập nhật lại</string>
     <string name="notification_uncrypt_title_hm">Khởi động lại để áp dụng cập nhật</string>
     <string name="notification_uncrypt_summary_hm">Chạm để khởi động lại thiết bị</string>
     <string name="log_share">Chia sẻ</string>
@@ -166,6 +168,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="delay_update_text">Cập nhật tối nay</string>
     <string name="dialog_delay_update_title">Tìm thấy phiên bản mới</string>
     <string name="dialog_delay_update_msg">Cập nhật sẽ được cài đặt vào lúc từ 2:00 đến 5:00 sáng nếu pin còn ít nhất 30%.</string>
+    <string name="dialog_delay_update_msg_ab">Cập nhật sẽ được cài đặt từ 2:00 đến 5:00 SA.</string>
     <string name="dialog_delay_update_tonight">OK</string>
     <string name="dialog_delay_update_cancel">Hủy</string>
     <string name="toast_delay_update_tonight">Thiết bị của bạn sẽ cập nhật vào 2:00-5:00 SA</string>
@@ -265,15 +268,16 @@ Không thể gửi phản hồi"</string>
     <string name="userdata_alert_content">Dùng kết nối dữ liệu di động để xem video này sẽ làm tăng sử dụng dữ liệu của bạn. Nếu bạn sử dụng quá giới hạn dữ liệu mà bạn đăng ký, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="userdata_alert_ok">Phát</string>
     <string name="check_network">Không thể kết nối mạng</string>
-    <string name="log_status_locked_info">Rất tiếc, bạn không có quyền truy cập nhật ký cập nhật</string>
-    <string name="log_status_locked_summary">Vui lòng đăng nhập hệ thống bằng ID Tài khoản Mi được ủy quyền</string>
-    <string name="home_dialog_title">MIUI9 - Nhanh như chớp</string>
+    <string name="log_status_locked_info">Bạn không có quyền để truy cập tóm tắt cập nhật.</string>
+    <string name="log_status_locked_summary">Hãy chắc chắn rằng tài khoản bạn đăng nhập đã được cấp quyền.</string>
+    <string name="home_dialog_title">MIUI 9 - Nhanh như chớp</string>
     <string name="home_dialog_msg">Cập nhật đã sẵn sàng để cài đặt. Chạm \"Khởi động lại\" để hoàn tất.</string>
     <string name="home_dialog_more_button">Xem chi tiết ></string>
     <string name="home_dialog_positive_button">Khởi động lại</string>
     <string name="home_dialog_negative_button">Lần tới</string>
     <string name="home_delay_title">Cập nhật tối nay</string>
     <string name="home_delay_msg">Cập nhật sẽ được cài đặt vào lúc từ 2:00 đến 5:00 sáng nếu pin còn ít nhất %s.</string>
+    <string name="home_delay_msg_ab">Cập nhật sẽ được cài đặt từ 2:00 đến 5:00 SA.</string>
     <string name="home_delay_ok">OK</string>
     <string name="home_delay_cancel">Hủy</string>
     <string name="update_monthly_build_only">Chỉ cập nhật bản hàng tháng</string>
@@ -320,4 +324,10 @@ Không thể gửi phản hồi"</string>
     <string name="welcom_button">OK</string>
     <string name="welcom_message">Xin chào</string>
     <string name="welcom_title">Chào mừng đến với MIUI.VN</string>
+    <string name="accessibility_video">Video</string>
+    <string name="accessibility_image">Ảnh</string>
+    <string name="security_space_title">Cập nhật quan trọng</string>
+    <string name="security_space_msg">MIUI 9 có hệ thống tập tin mới. Nếu bạn khởi động lại thiết bị bây giờ, bạn sẽ không thể sử dụng Không gian thứ hai. Di chuyển tất cả các mục từ Không gian thứ hai đến Không gian thứ nhất trước khi bạn khởi động lại.</string>
+    <string name="security_space_button_pos">Không khởi động lại</string>
+    <string name="security_space_button_neg">Khởi động lại ngay</string>
 </resources>
