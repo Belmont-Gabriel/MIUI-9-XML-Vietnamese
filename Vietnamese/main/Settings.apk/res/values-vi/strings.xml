@@ -4436,7 +4436,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="bootloader_locked_answer_1_warning">Chú ý: Bạn không thể sử dụng \"Tìm thiết bị\" sau khi điện thoại mở khóa.</string>
     <string name="bootloader_locked_question_2">Tôi hiểu các nguy cơ, nhưng vẫn muốn mở khóa thiết bị.</string>
     <string name="bootloader_locked_answer_2">Chạm phím bên dưới để liên kết Tài khoản Mi với thiết bị này. Sau đó truy cập trang web MIUI để tải xuống công cụ mở khóa và cài đặt trên máy tính. Địa chỉ dưới đây:</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">Thêm tài khoản và thiết bị</string>
     <string name="bootloader_device_bind_already">Đã thêm thành công. Tài khoản Mi đã liên kết với thiết bị này.</string>
     <string name="bootloader_device_bind_no_account">Đăng nhập Tài khoản Mi của bạn trước</string>
