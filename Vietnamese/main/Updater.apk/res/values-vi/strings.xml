@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="exo_controls_fastforward_description">Chuyển nhanh</string>
+    <string name="exo_controls_next_description">Bài tiếp theo</string>
+    <string name="exo_controls_pause_description">Tạm dừng</string>
+    <string name="exo_controls_play_description">Phát</string>
+    <string name="exo_controls_previous_description">Bài trước</string>
+    <string name="exo_controls_rewind_description">Quay lại</string>
+    <string name="exo_controls_stop_description">Dừng</string>
     <string name="sina_share_pendding">Đang gửi…</string>
     <string name="sina_share_success">Đã gửi</string>
     <string name="sina_share_fail">Không thể gửi</string>
     <string name="sina_token_expired_warning">Tài khoản Weibo đã hết hạn, thêm tài khoản lại.</string>
     <string name="sina_token_invalid_warning">Tài khoản Weibo không hợp lệ, thêm tài khoản lại.</string>
     <string name="sina_share_fail_content_repeat">Bạn đã chia sẻ nội dung này.</string>
+    <string name="resource_updater">Cập nhật MIUI</string>
+    <string name="keywords_updater">"Cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản MIUI;phiên bản;cập nhật;trình cập nhật"</string>
+    <string name="resource_auto_setting">Tự động cập nhật</string>
+    <string name="keywords_auto_setting">Tự động cập nhật;Tải xuống tự động;Cài đặt tự động;cập nhật tự động;tự động cập nhật;cập nhật tự động</string>
+    <string name="resource_updater_settings">Cập nhật</string>
+    <string name="keywords_updater_settings">"Cập nhật;cập nhật MIUI;cập nhật hệ thống;cập nhật phần mềm;ROM;cập nhật ROM;cập nhật;các bản cập nhật;kiểm tra cập nhật;kiểm tra các bản cập nhật;tìm bản cập nhật;tải xuống bản cập nhật;nâng cấp;bản nâng cấp;nâng cấp phần mềm;phiên bản mới;phiên bản phần mềm;đang kiểm tra;có gì mới;có gì mới;tóm tắt;tóm tắt cập nhật;apk;gói cập nhật;gói ROM;tự động cập nhật;cập nhật tự động;tự động cập nhật;phiên bản MIUI;phiên bản;cập nhật;trình cập nhật;Tải xuống tự động;Cài đặt tự động;Chương trình Phản hồi Beta;rom"</string>
+    <string name="path_updater_settings">Cài đặt/Thiết bị của tôi/Phiên bản MIUI</string>
     <string name="app_name">Cập nhật</string>
     <string name="get_current">Hiện tại</string>
     <string name="check_new_version">Kiểm tra</string>
@@ -127,8 +141,9 @@ http://zhushou.xiaomi.com"</string>
     <string name="emegency_build">"Phiên bản "</string>
     <string name="loading">Đang yêu cầu…</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>
-    <string name="share_update_content_unsign">Đã cập nhật MIUI đến%1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
+    <string name="share_update_content_unsign">Đã cập nhật MIUI đến %1$s! Để xem chi tiết, vui lòng truy cập %2$s\"</string>
     <string name="share_update_content_sign">Đã cập nhật MIUI %1$s! Tôi là người thứ %2$s tiến hành cập nhật. Để xem chi tiết, vui lòng truy cập %3$s\"</string>
+    <string name="post_sina">Đăng qua Sina weibo</string>
     <string name="share_sina">Chia sẻ qua Sina Weibo</string>
     <string name="update_success_title">Cập nhật thành công</string>
     <string name="my_rank">"Trạng thái cập nhật: "</string>
