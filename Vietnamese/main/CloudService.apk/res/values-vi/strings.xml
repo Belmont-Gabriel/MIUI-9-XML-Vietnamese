@@ -565,7 +565,7 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="wipe_secret_photo_dialog_title">Ảnh ẩn không được đồng bộ</string>
     <string name="confirm_delete">Xóa</string>
     <string name="confirm_save">Giữ</string>
-	<string name="ks_fingerprint_payment">Thanh toán bằng vân tay</string>
+    <string name="ks_fingerprint_payment">Thanh toán bằng vân tay</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">Alipay</string>
     <string name="ks_name_soter">WeChat</string>
@@ -577,7 +577,7 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="ks_download_certificate">Tải chứng chỉ</string>
     <string name="ks_update_wait">Vui lòng chờ…</string>
     <string name="ks_update_certificate">Chứng chỉ</string>
-	<string name="ks_update_success">Đã cập nhật thành công</string>
+    <string name="ks_update_success">Đã cập nhật thành công</string>
     <string name="ks_update_fail">Không thể tải xuống</string>
     <string name="ks_update_fail_no_network">Không thể kết nối mạng. Kết nối và thử lại sau.</string>
     <string name="ks_update_fail_request_timeout">Hết thời gian yêu cầu kết nối. Đợi một hoặc hai phút và thử lại.</string>
