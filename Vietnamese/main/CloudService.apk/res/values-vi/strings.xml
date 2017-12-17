@@ -559,4 +559,26 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="pref_title_sync_video_on_wifi_only">Chỉ sử dụng Wi-Fi để đồng bộ video</string>
     <string name="one_sync_item_close">%d chưa bật</string>
     <string name="some_sync_item_close">%d chưa bật</string>
+    <string name="sync_dspt_entrance_provision_network">Ứng dụng này cần kết nối mạng để làm việc bình thường. Đồng bộ dữ liệu có thể yêu cầu kết nối dữ liệu di động và bật Wi-Fi.</string>
+    <string name="xiaomi_cloud_service_subtitle">Đặt tất cả các mục quan trọng một nơi</string>
+    <string name="secret_photo">Ảnh ẩn</string>
+    <string name="wipe_secret_photo_dialog_title">Ảnh ẩn không được đồng bộ</string>
+    <string name="confirm_delete">Xóa</string>
+    <string name="confirm_save">Giữ</string>
+	<string name="ks_fingerprint_payment">Thanh toán bằng vân tay</string>
+    <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_alipay">Alipay</string>
+    <string name="ks_name_soter">WeChat</string>
+    <string name="ks_status_available">Khả dụng</string>
+    <string name="ks_status_unavailable">Không khả dụng</string>
+    <string name="ks_fingerprint_status">Trạng thái thanh toán</string>
+    <string name="ks_certificate_version">Số chứng chỉ</string>
+    <string name="ks_certificate_udpate_time">Cập nhật chứng chỉ</string>
+    <string name="ks_download_certificate">Tải chứng chỉ</string>
+    <string name="ks_update_wait">Vui lòng chờ…</string>
+    <string name="ks_update_certificate">Chứng chỉ</string>
+	<string name="ks_update_success">Đã cập nhật thành công</string>
+    <string name="ks_update_fail">Không thể tải xuống</string>
+    <string name="ks_update_fail_no_network">Không thể kết nối mạng. Kết nối và thử lại sau.</string>
+    <string name="ks_update_fail_request_timeout">Hết thời gian yêu cầu kết nối. Đợi một hoặc hai phút và thử lại.</string>
 </resources>
