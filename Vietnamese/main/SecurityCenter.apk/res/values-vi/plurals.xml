@@ -245,4 +245,13 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="million">
         <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
+	<plurals name="number_masked_text">
+        <item quantity="other">%d thông báo đã ẩn</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d thông báo được hiển thị</item>
+    </plurals>
 </resources>
