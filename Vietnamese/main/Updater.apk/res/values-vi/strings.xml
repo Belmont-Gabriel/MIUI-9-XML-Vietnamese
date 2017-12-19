@@ -356,7 +356,6 @@ Không thể gửi phản hồi"</string>
     <string name="btn_share">Chia sẻ</string>
     <string name="btn_stop">Ngừng</string>
     <string name="btn_yes">Có</string>
-    <string name="check_new_version">Kiểm tra</string>
     <string name="dialog_3g_desc">Lưu ý rằng sử dụng Dữ liệu di động để tải ROM có thể chiếm một phần đáng kể của gói dữ liệu của bạn.</string>
     <string name="dialog_3g_title">Cảnh báo!</string>
     <string name="dialog_btn_3g">Vẫn tiếp tục</string>
