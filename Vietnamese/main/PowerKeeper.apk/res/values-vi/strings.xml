@@ -123,7 +123,7 @@
     <string name="scenario_policies_summary">Tiết kiệm pin theo bối cảnh</string>
     <string name="sleep_config_enhance_title">Chế độ tiết kiệm khi ngủ</string>
     <string name="sleep_config_enhance_description">Dự đoán thời gian ngủ người dùng bằng trí tuệ nhân tạo. Trong thời gian ngủ, hệ thống sẽ đóng ứng dụng chạy nền, giới hạn sử dụng NFC, thông báo đánh thức màn hình, đồng bộ, GPS, dữ liệu di động, dữ liệu Wi-Fi .v.v...</string>
-	<string name="nonui_mode_config_title">Chế độ không tương tác</string>
+    <string name="nonui_mode_config_title">Chế độ không tương tác</string>
     <string name="nonui_mode_config_description">Không sáng màn hình khi thông báo, tắt đèn LED, cảm biến vân tay, và điều khiển cảm ứng để tiết kiệm pin khi MIUI phát hiện bạn không sử dụng thiết bị.</string>
     <string name="power_center">Pin</string>
     <string name="power_usage">Sử dụng Pin</string>
