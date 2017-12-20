@@ -464,5 +464,5 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="dialog_speed_msg">Sử dụng dữ liệu di động để kiểm tra mạng có thể tiêu tốn một lượng lớn dữ liệu di động. Vẫn tiếp tục?</string>
     <string name="dialog_speed_cancel">Bỏ qua</string>
     <string name="dialog_speed_ok">Tiếp tục</string>
-	<string name="home_page_new_download_guide">Tải xuống mới...</string>
+    <string name="home_page_new_download_guide">Tải xuống mới...</string>
 </resources>
