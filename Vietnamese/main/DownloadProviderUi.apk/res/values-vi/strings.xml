@@ -447,9 +447,9 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="ad_install">Cài đặt</string>
     <string name="download_title">Tải xuống</string>
     <string name="dialog_content_limit_max">Không giới hạn</string>
-	<string name="dialog_content_limit0">Luôn chờ Wi-Fi</string>
-	<string name="speed_entrance">Kiểm tra tốc độ Wi-Fi</string>
-	<string name="speed_start">Kiểm tra</string>
+    <string name="dialog_content_limit0">Luôn chờ Wi-Fi</string>
+    <string name="speed_entrance">Kiểm tra tốc độ Wi-Fi</string>
+    <string name="speed_start">Kiểm tra</string>
     <string name="speed_stop">Bỏ qua</string>
     <string name="speed_result_broadband_text1">Tốc độ tải hiện tại</string>
     <string name="speed_result_broadband_text2">%s băng thông</string>
