@@ -446,4 +446,23 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="dialog_btn_ok">OK</string>
     <string name="ad_install">Cài đặt</string>
     <string name="download_title">Tải xuống</string>
+    <string name="dialog_content_limit_max">Không giới hạn</string>
+	<string name="dialog_content_limit0">Luôn chờ Wi-Fi</string>
+	<string name="speed_entrance">Kiểm tra tốc độ Wi-Fi</string>
+	<string name="speed_start">Kiểm tra</string>
+    <string name="speed_stop">Bỏ qua</string>
+    <string name="speed_result_broadband_text1">Tốc độ tải hiện tại</string>
+    <string name="speed_result_broadband_text2">%s băng thông</string>
+    <string name="speed_result_finish">Hoàn thành</string>
+    <string name="speed_result_restart">Kiểm tra lại</string>
+    <string name="speed_title_result">Kiểm tra tốc độ Wi-Fi</string>
+    <string name="speed_title">Kiểm tra lại tốc độ Wi-Fi</string>
+    <string name="speed_tip_no_netwrok">"Không thể kết nối với mạng. Kết nối và thử lại."</string>
+    <string name="speed_tip_netwrok_timeout">Kết nối đã hết thời gian, hãy thử lại</string>
+    <string name="speed_tip_netwrok_fail">Đã xảy ra lỗi mạng, hãy thử lại</string>
+    <string name="dialog_speed_title">Cảnh báo sử dụng dữ liệu</string>
+    <string name="dialog_speed_msg">Sử dụng dữ liệu di động để kiểm tra mạng có thể tiêu tốn một lượng lớn dữ liệu di động. Vẫn tiếp tục?</string>
+    <string name="dialog_speed_cancel">Bỏ qua</string>
+    <string name="dialog_speed_ok">Tiếp tục</string>
+	<string name="home_page_new_download_guide">Tải xuống mới...</string>
 </resources>
