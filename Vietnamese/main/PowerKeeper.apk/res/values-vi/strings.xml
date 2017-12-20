@@ -210,4 +210,5 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="power_config_normal_description">Hạn chế truy cập nền đến dịch vụ vị trí và kết nối mạng</string>
     <string name="power_config_normal_title">Tiêu chuẩn</string>
     <string name="select_items">Đã chọn %d</string>
+    <string name="sleep_config_enhance_description_non_nfc">Dự đoán thời gian ngủ người dùng bằng trí tuệ nhân tạo. Trong thời gian ngủ, hệ thống sẽ đóng ứng dụng chạy nền, thông báo đánh thức màn hình, đồng bộ, GPS, dữ liệu di động, dữ liệu Wi-Fi .v.v...</string>
 </resources>
