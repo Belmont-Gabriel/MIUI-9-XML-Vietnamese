@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="face_count">
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Ẩn tập tin này?</item>
+    </plurals>
+	<plurals name="face_count">
         <item quantity="other">Tổng %d ảnh</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
@@ -54,11 +57,29 @@
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">Đã thêm %d ảnh Mi Cloud, tắt \"Chỉ hiển thị album trong máy\" để xem.</item>
     </plurals>
+	<plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xóa %d mục từ tất cả thiết bị và Mi Cloud?</item>
+    </plurals>
     <plurals name="delete_photo_msg_format">
         <item quantity="other">Xóa %1$d ảnh %2$s?</item>
     </plurals>
     <plurals name="delete_video_msg_format">
         <item quantity="other">Xóa %1$d video %2$s?</item>
+    </plurals>
+	<plurals name="delete_photo_from_local">
+        <item quantity="other">Xóa %d ảnh?</item>
+    </plurals>
+	<plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">Xóa %d ảnh từ album này và Mi Cloud?</item>
+    </plurals>
+	<plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">Xóa %d videos từ tất cả thiết bị và Mi Cloud?</item>
+    </plurals>
+	<plurals name="delete_video_from_local">
+        <item quantity="other">Xóa %d video?</item>
+    </plurals>
+	<plurals name="delete_video_from_this_album_and_cloud_msg">
+        <item quantity="other">Xóa %d video từ album này và Mi Cloud?</item>
     </plurals>
     <plurals name="delete_media_msg_format">
         <item quantity="other">Xóa %1$d mục %2$s?</item>
@@ -140,6 +161,15 @@
     </plurals>
     <plurals name="add_to_secret_successful">
         <item quantity="other">Đã thêm %1$d ảnh vào album ẩn</item>
+    </plurals>
+	<plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">Đã thêm %1$d ảnh vào \"%2$s\" và đồng thời thêm vào cơ sở dữ liệu.</item>
+    </plurals>
+	<plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">Đã xóa %1$d ảnh từ \"%2$s\" và đã thêm vào cơ sở dữ liệu.</item>
+    </plurals>
+	<plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">Đã thêm %1$d ảnh vào \"%2$s\".</item>
     </plurals>
     <plurals name="backup_waiting">
         <item quantity="other">%1$d mục đang chờ sao lưu</item>
