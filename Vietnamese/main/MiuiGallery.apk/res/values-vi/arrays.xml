@@ -4,6 +4,20 @@
         <item>Trai</item>
         <item>Gái</item>
     </string-array>
+    <string-array name="collage_month">
+        <item>Thg 1</item>
+        <item>Thg 2</item>
+        <item>Thg 3</item>
+        <item>Thg 4</item>
+        <item>Thg 5</item>
+        <item>Thg 6</item>
+        <item>Thg 7</item>
+        <item>Thg 8</item>
+        <item>Thg 9</item>
+        <item>Thg 10</item>
+        <item>Thg 11</item>
+        <item>Thg 12</item>
+    </string-array>
     <string-array name="owner_relation">
         <item>Cha</item>
         <item>Mẹ</item>
