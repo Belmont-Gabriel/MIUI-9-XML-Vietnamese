@@ -1170,6 +1170,7 @@ thiết bị của bạn"</string>
     <string name="scan_status_safe">Bảo mật</string>
     <string name="scan_status_risk">Rủi ro</string>
     <string name="safepay_alert_dialog_button_risk">Sửa</string>
+	<string name="safepay_alert_dialog_button_fix">Sửa</string>
     <string name="safepay_alert_dialog_button_continue">Tiếp tục</string>
     <string name="safe_result_header_info_protecting">Đang bảo vệ</string>
     <string name="safe_result_item_info_system_version">MIUI đã cập nhật phiên bản mới nhất</string>
@@ -1542,8 +1543,8 @@ thiết bị của bạn"</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Tải lên và quét tên và chi tiết ứng dụng bằng cơ sở dữ liệu virus trực tuyến.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
     <string name="pref_title_manual_check_virus_db_update">Kiểm tra cập nhật</string>
-    <string name="virus_update_tips_title">Kết nối Wi-Fi</string>
-    <string name="virus_wait_network_dialog_message">Gói cập nhật dung lượng lớn. Kết nối Wi-Fi để tải xuống.</string>
+    <string name="virus_update_tips_title">Cảnh báo</string>
+    <string name="virus_wait_network_dialog_message">Điện thoại của bạn hiện không được kết nối Wi-Fi. Sử dụng kết nối dữ liệu di động?</string>
     <string name="antivirus_not_wlan">Bạn chưa kết nối Wi-Fi. Sử dụng dữ liệu di động có thể phát sinh phí bổ sung. Vẫn tiếp tục?</string>
     <string name="antivirus_longtime_no_update">Dường như dữ liệu nhận dạng virus đã cũ. Cập nhật thường xuyên để giúp kết quả quét được chính xác hơn. Cho phép Bảo mật kết nối với internet và cập nhật dữ liệu virus?</string>
     <string name="antivirus_longtime_no_update1">Dường như dữ liệu nhận dạng virus đã cũ. Cập nhật thường xuyên để giúp kết quả quét được chính xác hơn. Cập nhật và thử lại.</string>

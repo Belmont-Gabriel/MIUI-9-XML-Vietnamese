@@ -70,25 +70,25 @@
         <item>Chặn chế độ ngủ sâu</item>
         <item>Chặn chế độ ngủ</item>
         <item>Đang tìm Wi-Fi</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Đánh thức</item>
+        <item>Sử dụng GPS</item>
+        <item>CPU chiếm dụng cao</item>
+        <item>Đánh thức thiết bị thường xuyên</item>
     </string-array>
-	<string-array name="power_checker_group_suffix">
+    <string-array name="power_checker_group_suffix">
         <item></item>
         <item></item>
         <item></item>
-    </string-array>												
+    </string-array>
     <string-array name="thermal_entries">
         <item>Chế độ điều khiển nhiệt độ mặc định</item>
-        <item>Chế độ ưu tiên hiệu suất</item>
+        <item>Chế độ hiệu suất</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Chế độ mặc định hiện tại</item>
+        <item>Chế độ điều khiển nhiệt độ hiện tại</item>
         <item>Chế độ hiệu suất hiện tại</item>
     </string-array>
-	<string-array name="power_mode_entries">
+    <string-array name="power_mode_entries">
         <item>Hiệu suất</item>
         <item>Cân bằng</item>
-    </string-array>										
+    </string-array>
 </resources>

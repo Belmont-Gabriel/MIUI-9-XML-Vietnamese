@@ -29,12 +29,12 @@
         <item>Tháng này (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
+        <item>"Thông tin sử dụng dữ liệu di động "</item>
+        <item>"Thông tin sử dụng Wi-Fi "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
+        <item>"Thông tin sử dụng dữ liệu di động "</item>
+        <item>"Thông tin sử dụng Wi-Fi "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Hiển thị cảnh báo</item>
@@ -60,6 +60,10 @@
         <item>Sử dụng dữ liệu</item>
         <item>Số dư tài khoản</item>
     </string-array>
+	<string-array name="tether_limit_warn_type">
+        <item>Tắt và thông báo</item>
+        <item>Chỉ thông báo</item>
+    </string-array>											
     <string-array name="alarm_repeat_type">
         <item>Một lần</item>
         <item>Mỗi ngày</item>
