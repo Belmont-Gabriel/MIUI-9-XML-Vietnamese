@@ -40,7 +40,6 @@
     <string name="button_cancel_download">Hủy</string>
     <string name="wifi_required_title">Bạn nên kết nối với Wi-Fi để tải tập tin này</string>
     <string name="wifi_required_body" formatted="false">"Bạn nên sử dụng Wi-Fi để hoàn tất tải xuống này %s . 
-
 Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đến mạng Wi-Fi."</string>
     <string name="download_no_application_title">Không thể mở tập tin</string>
     <string name="notification_need_wifi_for_size">Kích thước tập tin tải xuống quá lớn, yêu cầu tải qua Wi-Fi.</string>
@@ -269,6 +268,11 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="action_item_add_to_favorite_playlist">Danh sách bài hát Yêu thích</string>
     <string name="action_item_add_to_new_playlist">Danh sách mới</string>
     <string name="action_item_remove_from_favorite">Bỏ yêu thích</string>
+	<string name="action_item_play_next">Phát sau</string>
+    <string name="action_item_show_artist">Ca sĩ: %s</string>
+    <string name="action_item_show_album">Album: %s</string>
+    <string name="action_item_as_ring">Đặt làm nhạc chuông</string>
+    <string name="action_item_modify_info">Sửa thông tin</string>													   
     <string name="fragment_more">Khác</string>
     <string name="fragment_title_recommend">Kiến nghị</string>
     <string name="fragment_title_bill">Danh sách phát</string>
@@ -342,6 +346,10 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="dialog_song_sort_type_time">Theo thời gian thêm</string>
     <string name="dialog_song_sort_type_name">Theo tên</string>
     <string name="dialog_song_sort_type_playing_times">Theo số lần đã phát</string>
+	<string name="dialog_show_more_backup">Sao lưu bài hát trên máy</string>
+    <string name="dialog_show_more_optimize_all">Tối ưu thông tin bài hát</string>
+    <string name="optimize_all_until_scanned">Đang quét bài hát trên máy, vui lòng thử lại sau</string>
+    <string name="optimize_all_until_optimized">Tối ưu thông tin bài hát, album và lời bài hát</string>																			 
     <string name="trigger_to_scan_media_library_start">Đang làm mới…</string>
     <string name="trigger_to_scan_media_library_processing">Vẫn đang làm mới…</string>
     <string name="trigger_to_scan_media_library_finish">Đã làm mới</string>
@@ -478,7 +486,9 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="no_local_source_find">Không thể tìm thấy bài hát</string>
     <string name="start_to_play">Phát</string>
     <string name="can_not_find_resource">Không thể tìm thấy tài nguyên</string>
+	<string name="save">Lưu</string>								 
     <string name="modify_song_info">Sửa thông tin bài hát</string>
+	<string name="modify_song_info_success">Thông tin bài hát đã được cập nhật</string>																								
     <string name="song_name">Bài hát</string>
     <string name="artist_name">Nghệ sĩ</string>
     <string name="album_name">Album</string>
@@ -490,6 +500,10 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="search_lyric">Tìm kiếm lời bài hát</string>
     <string name="select_local_album">Chọn album</string>
     <string name="select_local_lyric">Chọn lời bài hát</string>
+	<string name="current_album">Bìa album hiện tại</string>
+    <string name="current_lyric">Lời bài hát hiện tại</string>
+    <string name="hide_album">Ẩn bìa album</string>
+    <string name="hide_lyric">Ẩn lời bài hát</string>															 
     <string name="please_search_or_select">Tìm kiếm hoặc chọn một lĩnh vực</string>
     <string name="in_searching_please_wait">Đang tìm…</string>
     <string name="no_file_picker_find">Trình tập tin chưa được cài đặt trên thiết bị này</string>
@@ -520,6 +534,9 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="bill_list_fragment_title">Bảng xếp hạng</string>
     <string name="nowplaying_dialog_title_delete_tracks">Xóa danh sách phát hiện tại?</string>
     <string name="nowplaying_menu_item_delete">Xóa</string>
+	<string name="nowplaying_circle_style">Phong cách nút Phát</string>
+    <string name="nowplaying_circle_style_wave">Sóng</string>
+    <string name="nowplaying_circle_style_rainbow">Cầu vồng</string>																	  
     <string name="similar_songs">Bài hát tương tự</string>
     <string name="search_for_artist">Nghệ sĩ</string>
     <string name="search_for_album">Album</string>
@@ -689,6 +706,12 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="already_download">Đang tải xuống…</string>
     <string name="download_complete">Tải xuống hoàn tất</string>
     <string name="download_complete_start_install">Đang cài đặt…</string>
+	<string name="download_start_apk">Đang bắt đầu tải xuống… Xem tiến độ trong Thanh thông báo.</string>
+    <string name="downloading_apk">Đang tải xuống… Xem tiến độ trong Thanh thông báo.</string>
+    <string name="downloading_pause_apk">Đã tạm dừng. Tiếp tục tải xuống trong Thanh thông báo.</string>
+    <string name="installing_apk">Đang cài đặt…</string>
+    <string name="connecting_apk">Đang kết nối…</string>
+    <string name="pending_apk">Đang chờ…</string>																														
     <string name="online_list_delete_message">Tất cả bài hát tải xuống trong danh sách này sẽ bị xóa từ bộ nhớ trong.</string>
     <string name="already_favorited">Đã yêu thích</string>
     <string name="back_confirm">Chạm lại để thoát ứng dụng</string>
@@ -828,6 +851,9 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="local_page_playlist">Danh sách phát của tôi</string>
     <string name="recently_played_songs">Đã phát gần đây</string>
     <string name="favorites">Yêu thích</string>
+	<string name="local_page_album_more">Xem tất cả</string>
+    <string name="local_page_artist_more">Thêm bài hát của %s</string>
+    <string name="added_next_play">Đã thêm vào danh sách phát tiếp theo</string>															
     <string name="talkback_radar">Nhận biết nhạc</string>
     <string name="talkback_search">Tìm kiếm</string>
     <string name="talkback_play">Phát / Tạm dừng</string>
@@ -897,6 +923,34 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="online_service_open_tip">Dịch vụ âm nhạc trực tuyến bật</string>
     <string name="online_play_tips">Bài hát này chỉ có sẵn trực tuyến. Bật dịch vụ trực tuyến trong cài đặt để nghe.</string>
     <string name="date_format_str">dd-MM-yyyy</string>
+	<string name="audio_recognition_setting_title">Tìm bìa album và lời bài hát</string>
+    <string name="audio_recognition_setting_summary">Tự động tìm bìa album và lời bài hát cho các bài hát trên máy</string>
+    <string name="recognized_alert_title">Tìm thấy bìa album và lời bài hát</string>
+    <string name="recognized_alert_message">Nhạc Mi tìm thấy bìa album và lời bài hát cho bài hát này. Chạm \"…\" để sửa thông tin.</string>
+    <string name="intelligent_recognize">Bìa album và lời bài hát</string>
+    <string name="recognize_revert_summary">Nhạc Mi tìm thấy bìa album và lời bài hát cho bài hát này.</string>
+    <string name="recognize_call_summary">Nhạc Mi không tìm thấy bìa album và lời bài hát cho bài hát này.</string>
+    <string name="recognize_revert">Hủy thay đổi</string>
+    <string name="recognize_call">OK</string>
+    <string name="recognize_reverting">Đang hủy thay đổi…</string>
+    <string name="recognize_calling">Đang áp dụng thay đổi…</string>
+    <string name="recognize_calling_network_error">Không thể kết nối mạng. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="recognize_calling_fail">Không tìm thấy thông tin. Bạn có thể thử kiểm tra lại sau.</string>
+    <string name="recognition_reverted_title">Bìa album và lời bài hát</string>
+    <string name="recognition_reverted_message">Đã xóa bìa album và lời bài hát thành công. Bạn có thể làm tương tự cho tất cả các bài hát trong Cài đặt.</string>
+	<string name="go_to_settings">Cài đặt</string>
+    <string name="recognize_switch_off_alert_title">Bìa album và lời bài hát</string>
+    <string name="recognize_switch_off_alert_not_now">Lần tới</string>
+    <string name="recognize_switch_off_alert_revert">Xóa</string>
+    <string name="modify_info_disable_note">Nếu bạn muốn sửa thông tin thủ công, hãy tắt \"Tìm bìa album và lời bài hát\" trước.</string>
+    <string name="individuation_recommend_title">Kiến nghị</string>
+    <string name="individuation_recommend_message">Bật đề nghị để nhận yêu cầu cá nhân dựa trên sở thích của bạn.</string>
+    <string name="individuation_recommend_switch_message">Tắt tính năng này sẽ ảnh hưởng đến dịch vụ Nhạc Mi cá nhân. Vẫn tắt?</string>
+    <string name="karaoke_title">Giới thiệu Karaoke</string>
+    <string name="karaoke_message">Tải xuống và cài đặt trình cắm Karaoke để sử dụng tính năng này.</string>
+    <string name="karaoke_negative_text">Sau</string>
+    <string name="karaoke_positive_text">OK</string>
+    <string name="karaoke_my_studio">Studio của tôi</string>
     <string name="alert_msg_vip_song_for_download">Nhận Gói Bài hát Thu phí để tải xuống bài hát này.</string>
     <string name="alert_msg_vip_song_for_download_upgrade">Bạn đã tải xuống hết bài hát thu phí tháng này. Nâng cấp Gói Bài hát Thu phí để tải thêm.</string>
     <string name="alert_msg_vip_song_for_stream">Nhận Gói Bài hát Thu phí để nghe bài hát này.</string>

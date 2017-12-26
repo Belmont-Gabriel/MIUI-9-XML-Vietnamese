@@ -42,6 +42,9 @@
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d dữ liệu danh sách chặn</item>
     </plurals>
+	<plurals name="dirty_secretphoto_count">
+        <item quantity="other">%d ảnh ẩn chưa được đồng bộ. Đăng xuất sau khi tất cả các mục đã được đồng bộ để lưu trữ, nếu không các mục này sẽ bị xóa.</item>
+    </plurals>										
     <plurals name="micloud_main_resume_sync_hour">
         <item quantity="other">Tiếp tục đồng bộ sau %d giờ</item>
     </plurals>

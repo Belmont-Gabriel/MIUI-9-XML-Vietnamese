@@ -649,6 +649,9 @@ d MMMM"</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị kết nối khả dụng</string>
     <string name="accessibility_ime_switch_button">Phím chuyển đổi phương thức nhập.</string>
+	<string name="accessibility_settings">Cài đặt</string>
+    <string name="accessibility_search_scanner">Máy quét</string>
+    <string name="accessibility_brightness_slider">Thanh trượt độ sáng</string>														  
     <string name="click_to_return_multi_window">Chạm để quay trở lại Chia màn hình</string>
     <string name="recent_dock_tip">Chạm để chọn ứng dụng</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Chia màn hình không hỗ trợ trên Màn hình khóa.</string>
@@ -659,6 +662,7 @@ d MMMM"</string>
     <string name="unimportant_desc">Thông báo không quan trọng sẽ xuất hiện trong thư mục riêng.</string>
     <string name="important_desc">Thông báo quan trọng sẽ xuất hiện trực tiếp trên Thanh thông báo.</string>
     <string name="cancel">Hủy</string>
+	<string name="search_hint">Tìm kiếm web, ứng dụng, liên hệ và video</string>
     <string name="lland">Lollipop</string>
     <string name="mland">Marshmallow</string>
     <string name="accessibility_assistant">Phím ảo</string>
@@ -666,6 +670,7 @@ d MMMM"</string>
     <string name="headset_custom">Bỏ qua</string>
     <string name="headset_info">Nhấn để xem cài đặt</string>
     <string name="headset_settings">Tai nghe đã kết nối</string>
+	<string name="description_image_button_answer">Trả lời</string>
     <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
     <string name="settings_toggle_position_divider_page">%1$d phím nhanh trên thanh này hoạt động</string>
 </resources>

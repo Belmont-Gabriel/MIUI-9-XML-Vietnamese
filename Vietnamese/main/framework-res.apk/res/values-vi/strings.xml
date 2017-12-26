@@ -189,6 +189,8 @@
     <string name="global_actions">Tùy chọn điện thoại</string>
     <string name="global_action_lock">Khoá màn hình</string>
     <string name="global_action_power_off">Tắt nguồn</string>
+	<string name="global_action_reboot">Khởi động lại</string>
+    <string name="global_action_emergency">Khẩn cấp</string>																 
     <string name="global_action_bug_report">Báo cáo lỗi</string>
     <string name="bugreport_title">Nhận báo cáo lỗi</string>
     <string name="bugreport_message">Báo cáo này sẽ thu thập thông tin về tình trạng thiết bị hiện tại của bạn, để gửi dưới dạng thông báo qua email. Sẽ mất một chút thời gian kể từ khi bắt đầu báo cáo lỗi cho tới khi báo cáo sẵn sàng để gửi; xin vui lòng kiên nhẫn.</string>
@@ -542,6 +544,7 @@
     <string name="lockscreen_pattern_correct">Chính xác!</string>
     <string name="lockscreen_pattern_wrong">Thử lại</string>
     <string name="lockscreen_password_wrong">Thử lại</string>
+	<string name="lockscreen_storage_locked">Mở khóa đối với tất cả các tính năng và dữ liệu</string>																													 
     <string name="faceunlock_multiple_failures">Đã vượt quá số lần Mở khóa bằng khuôn mặt tối đa</string>
     <string name="lockscreen_missing_sim_message_short">Không có thẻ SIM</string>
     <string name="lockscreen_missing_sim_message">Không có thẻ SIM nào trong điện thoại.</string>
@@ -775,6 +778,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="android_upgrading_title">Android đang nâng cấp...</string>
     <string name="android_start_title">Android đang khởi động...</string>
     <string name="android_upgrading_fstrim">Tối ưu hóa lưu trữ.</string>
+	<string name="app_upgrading_toast">%1$s đang nâng cấp…</string>																								
     <string name="android_upgrading_apk">Đang tối ưu hóa ứng dụng %1$d trong tổng số %2$d.</string>
     <string name="android_preparing_apk">Đang chuẩn bị %1$s.</string>
     <string name="android_upgrading_starting_apps">Khởi động ứng dụng.</string>
@@ -815,6 +819,10 @@ Bạn có muốn đóng trang không?"</string>
     <string name="network_available_sign_in">Đăng nhập vào mạng</string>
     <string name="wifi_no_internet">Wi-Fi không có quyền truy cập Internet</string>
     <string name="wifi_no_internet_detailed">Chạm để biết tùy chọn</string>
+	<string name="network_switch_metered">Đã chuyển sang %1$s</string>
+    <string name="network_switch_metered_detail">Thiết bị sử dụng %1$s khi %2$s không có quyền truy cập Internet. Bạn có thể phải trả phí.</string>
+    <string name="network_switch_metered_toast">Đã chuyển từ %1$s sang %2$s</string>
+    <string name="network_switch_type_name_unknown">loại mạng không xác định</string>																	  
     <string name="wifi_watchdog_network_disabled">Không thể kết nối với Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" có kết nối Internet không tốt."</string>
     <string name="wifi_connect_alert_title">Cho phép kết nối?</string>
@@ -974,6 +982,7 @@ cho tài khoản %s."</string>
     <string name="vpn_text">Chạm để quản lý mạng.</string>
     <string name="vpn_text_long">Đã kết nối với %s. Chạm để quản lý mạng.</string>
     <string name="vpn_lockdown_connecting">Đang kết nối VPN luôn bật…</string>
+	<string name="vpn_lockdown_disconnected">Đã ngắt kết nối VPN luôn bật</string>
     <string name="vpn_lockdown_connected">Đã kết nối VPN luôn bật</string>
     <string name="vpn_lockdown_error">Lỗi VPN luôn bật</string>
     <string name="vpn_lockdown_config">Nhấn để định cấu hình</string>
@@ -1394,6 +1403,7 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="search_language_hint">Nhập tên ngôn ngữ</string>
     <string name="language_picker_section_suggested">Ðược đề xuất</string>
     <string name="language_picker_section_all">Tất cả ngôn ngữ</string>
+	<string name="region_picker_section_all">Tất cả khu vực</string>																	  
     <string name="locale_search_menu">Tìm kiếm</string>
     <string name="work_mode_off_title">Chế độ làm việc đang TẮT</string>
     <string name="work_mode_off_message">Cho phép hồ sơ công việc hoạt động, bao gồm ứng dụng, đồng bộ hóa trong nền và các tính năng liên quan.</string>
@@ -1411,6 +1421,15 @@ Trình tiết kiệm pin tự động tắt khi thiết bị của bạn đang s
     <string name="unpin_target">Bỏ ghim</string>
     <string name="app_info">Thông tin ứng dụng</string>
     <string name="negative_duration">−%1$s</string>
+	<string name="reset_retail_demo_mode_title">Đặt lại thiết bị?</string>
+    <string name="reset_retail_demo_mode_text">Nhấn để đặt lại thiết bị</string>
+    <string name="demo_starting_message">Đang bắt đầu bản trình diễn...</string>
+    <string name="demo_restarting_message">Đang đặt lại thiết bị...</string>
+    <string name="demo_user_inactivity_timeout_title">Đặt lại thiết bị?</string>
+    <string name="demo_user_inactivity_timeout_countdown">Bạn sẽ bị mất mọi thay đổi và bản trình diễn sẽ bắt đầu lại sau %1$s giây…</string>
+    <string name="demo_user_inactivity_timeout_left_button">Hủy</string>
+	<string name="conference_call">Cuộc gọi nhiều bên</string>
+    <string name="demo_user_inactivity_timeout_right_button">Đặt lại ngay bây giờ</string>																			   
     <string name="audit_safemode_notification">Khôi phục cài đặt gốc để sử dụng thiết bị này mà không bị hạn chế</string>
     <string name="audit_safemode_notification_details">Chạm để tìm hiểu thêm.</string>
     <string name="suspended_widget_accessibility">Đã tắt %1$s</string>

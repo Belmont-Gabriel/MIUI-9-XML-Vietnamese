@@ -34,7 +34,8 @@
     <string name="dlg_clear_current_call">Xóa tất cả các cuộc gọi bị chặn từ số này?</string>
     <string name="dlg_clear_all_ok">Xóa tất cả</string>
     <string name="dlg_clear_current_ok">Xóa</string>
-    <string name="dlg_no_block">Bỏ chặn và khôi phục lại cuộc gọi từ số này trong lịch sử cuộc gọi?</string>
+    <string name="dlg_no_block">"Bỏ chặn và khôi phục các cuộc gọi từ số này vào lịch sử cuộc gọi?
+(Số này sẽ được thêm vào danh sách trắng cuộc gọi)"</string>
     <string name="dlg_no_block_ok">Bỏ chặn</string>
     <string name="dlg_add_blacklist_title">Thêm vào danh sách chặn</string>
     <string name="dlg_add_blacklist">Chặn số này?</string>
@@ -71,6 +72,7 @@
     <string name="menu_remove">Xóa</string>
     <string name="st_settings_name">Cài đặt danh sách chặn</string>
     <string name="st_filter_keywords_setting_summary1">Tin nhắn từ những số không xác định có chứa những từ trong danh sách sẽ bị chặn.</string>
+	<string name="st_filter_keywords_setting_summary3">Tin nhắn từ số không xác định có chứa các từ trong danh sách này sẽ được cho phép.</string>																																										
     <string name="st_filter_keywords_setting_summary2">"
 (Sử dụng dấu phẩy để phân cách nhiều từ khóa)"</string>
     <string name="label_callwait">Thông báo cuộc gọi chờ</string>
@@ -132,6 +134,7 @@
     <string name="call_contact_block">Chặn cuộc gọi từ liên hệ</string>
     <string name="call_transfer_block">Chặn cuộc gọi được chuyển tiếp</string>
     <string name="call_cloud_block">Chặn đám mây</string>
+	<string name="call_oversea_block">Chặn cuộc gọi từ nước ngoài</string>																				  
     <string name="mark_fraud_block">Đã báo cáo là lừa đảo</string>
     <string name="mark_agent_block">Đã báo cáo là môi giới</string>
     <string name="mark_sell_block">Đã báo cáo là bán hàng</string>
@@ -161,6 +164,7 @@
     <string name="st_title_antispam_mode">Quy tắc</string>
     <string name="st_sub_title_whiteblack_list_group">Danh sách chặn</string>
     <string name="st_title_keywords_blacklist">Lọc từ khóa</string>
+	<string name="st_title_keywords_whitelist">Từ khóa danh sách trắng</string>																				 
     <string name="st_title_blacklist_numbers">Số đã chặn</string>
     <string name="st_title_whitelist_numbers">Danh sách ngoại lệ</string>
     <string name="st_title_backsound_group">Âm báo từ chối</string>
@@ -267,9 +271,12 @@
     <string name="st_msg_stranger_group">Chặn SMS từ người lạ</string>
     <string name="st_msg_other_group">Khác</string>
     <string name="st_msg_keyword_group">Chặn theo từ khóa</string>
+	<string name="st_msg_keyword_black">Từ khóa Danh sách chặn</string>
+    <string name="st_msg_keyword_white">Từ khóa Danh sách ngoại lệ</string>																		 
     <string name="st_call_settings">Chặn cuộc gọi</string>
     <string name="st_call_intercept_stranger">Chặn cuộc gọi từ người lạ</string>
     <string name="st_call_intercept_forwarding">Chặn cuộc gọi được chuyển tiếp</string>
+	<string name="st_call_intercept_oversea">Chặn cuộc gọi từ nước ngoài</string>																						 
     <string name="st_call_intercept_reported">Chặn cuộc gọi từ số đã báo cáo</string>
     <string name="st_call_intercept_contacts">Chặn cuộc gọi từ liên hệ</string>
     <string name="st_call_intercept_unknown">Chặn cuộc gọi từ số đã ẩn</string>
@@ -281,6 +288,7 @@
     <string name="st_confirm_dialog_btn_open">Mở</string>
     <string name="st_confirm_dialog_summary_stranger_call">Tất cả cuộc gọi từ người lạ sẽ bị chặn.</string>
     <string name="st_confirm_dialog_summary_contact_call">Tất cả cuộc gọi từ liên hệ sẽ bị chặn.</string>
+	<string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>																																									
     <string name="cta_dialog_title">Kết nối Internet</string>
     <string name="cta_dialog_msg">Bảo mật yêu cầu kết nối internet để nhận cập nhật, cũng như truy cập vị trí để hoạt động bình thường.</string>
     <string name="cta_settings">Cho phép kết nối internet</string>
@@ -339,8 +347,11 @@ phản hồi"</string>
     <string name="main_purchase_tips">Giảm giá</string>
     <string name="main_month_total_used">Đã dùng tháng này</string>
     <string name="main_daily_package">Gói dữ liệu hàng ngày</string>
+	<string name="main_indicator_title">Đang chờ kích hoạt</string>																	 
     <string name="firewall_activity_lable">Hạn chế sử dụng dữ liệu bởi ứng dụng</string>
     <string name="firewall_applist">Ứng dụng</string>
+	<string name="firewall_mobile">Dữ liệu di động</string>
+    <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_rule_group_title_mobile">Di động</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_fragment_tab_title_nonsys">Đã cài đặt</string>
@@ -358,6 +369,7 @@ phản hồi"</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="firewall_mobile_dialog_message">Ứng dụng đã cài đặt không thể kết nối internet bằng dữ liệu di động khi tắt chuyển đổi này.</string>
     <string name="firewall_wifi_dialog_message">Ứng dụng đã cài đặt không thể kết nối internet bằng Wi-Fi khi tắt chuyển đổi này.</string>
+	<string name="firewall_system_title">Sử dụng dữ liệu ứng dụng hệ thống</string>																							   
     <string name="usage_sorted_activity_lable">Sử dụng dữ liệu</string>
     <string name="usage_sorted_loading_text">Vui lòng chờ…</string>
     <string name="usage_sorted_empty_text">Trống</string>
@@ -643,6 +655,7 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="traffic_warning_purchase_title">Cảnh báo sử dụng dữ liệu di động</string>
     <string name="traffic_purchase_body">Chạm để mua thêm lưu lượng.</string>
     <string name="traffic_over_purchase_link">"Bạn đã đạt đến giới hạn sử dụng dữ liệu. &lt;br/>Nếu bạn vượt quá giới hạn dữ liệu mà bạn đăng ký, nhà mạng sẽ tính phí bổ sung.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Chạm để mua thêm lưu lượng.&lt;/U>&lt;/font>"</string>
+	<string name="more_settings">Thêm</string>										   
     <string name="repair_loading_text">Vui lòng chờ…</string>
     <string name="network_diagnostics">Kiểm tra mạng</string>
     <string name="btn_start_diagnostic">Kiểm tra mạng</string>
@@ -2703,15 +2716,9 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="virus_update_success">Đã cập nhật thành công</string>
     <string name="fw_oversea">Chặn cuộc gọi từ nước ngoài</string>
 	<string name="fw_oversea_content">Chặn cuộc gọi đến từ các số điện thoại nước ngoài</string>
-	<string name="call_oversea_block">Chặn cuộc gọi từ nước ngoài</string>
-	<string name="st_call_intercept_oversea">Chặn cuộc gọi từ nước ngoài</string>
-	<string name="st_confirm_dialog_summary_oversea_call">Bật để chặn tất cả các cuộc gọi đến từ các số điện thoại nước ngoài.</string>
-	<string name="main_indicator_title">Đang chờ kích hoạt</string>
     <string name="main_tobe_added_desc">Dữ liệu di động từ ¥0.03/MB</string>
     <string name="main_button_mi_sim_close">Kích hoạt Mi SIM</string>
     <string name="main_button_mi_sim_open">Xem chi tiết</string>
-	<string name="firewall_system_title">Sử dụng dữ liệu ứng dụng hệ thống</string>
-	<string name="more_settings">Thêm</string>
 	<string name="vpn_unbale_get_phonenum">Không nhận được số điện thoại sử dụng kế hoạch dữ liệu chỉ định</string>
     <string name="vpn_disabled_by_user">Kết nối dữ liệu chỉ định đã tắt</string>
 	<string name="status_bar_network_flow_purchase">"   Mua >"</string>

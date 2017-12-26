@@ -3240,6 +3240,9 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="upload_debug_log_title">Gửi dữ liệu chuẩn đoán tự động</string>
     <string name="upload_debug_log_summary">Thông tin mà chúng tôi thu thập có thể chứa dữ liệu cá nhân của bạn. Nó sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và sẽ không bao giờ sử dụng để xác định cá nhân bạn.</string>
     <string name="sound_vibrate_settings">Âm thanh &amp; rung</string>
+	<string name="settings_notify_phone_recycled">Số điện thoại của bạn đã bị thu hồi. Chạm để thêm số điện thoại khác.</string>
+    <string name="settings_notify_need_backup">Sao lưu cài đặt lên Mi Cloud để truy cập sau khi bạn đổi điện thoại.</string>
+	<string name="model_name">Tên đời máy</string>
     <string name="my_device">Thiết bị của tôi</string>
     <string name="device_miui_version">Phiên bản MIUI</string>
     <string name="device_miui_version_update">Cập nhật MIUI khả dụng</string>
@@ -3946,6 +3949,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="block_list_no_device">Khôngh có thiết bị kết nối trong danh sách chặn</string>
     <string name="no_connected_devices">Không có thiết bị nào được kết nối</string>
     <string name="tether_settings_disabled">Điểm phát sóng cá nhân tắt</string>
+	<string name="tether_data_usage_limit">Giới hạn dữ liệu sử dụng một lần</string>
+    <string name="tether_data_usage_limit_summary">Giới hạn dữ liệu sẽ được áp dụng lần tới khi điểm phát sóng bật</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">Đầu ra 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">Bật lập thể 3D truyền ra màn hình hiển thị 3D ngoài</string>

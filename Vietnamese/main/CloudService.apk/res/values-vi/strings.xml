@@ -79,18 +79,14 @@
     <string name="find_device_dspt_provision_4">Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự động để kích hoạt lại tính năng này.</string>
     <string name="find_device_send_sms_alert">Nếu bạn đổi thẻ SIM, hệ thống sẽ gửi tin nhắn SMS tự động để kích hoạt lại tính năng này.</string>
     <string name="mx_dspt_provision">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho thiết bị MIUI khác mà không phải trả phí khi kết nối Wi-Fi.
-
 Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt."</string>
     <string name="mx_dspt_provision_with_voip">Gọi thiết bị MIUI khác miễn phí bằng cách sử dụng kết nối internet. Bạn có thể bật hoặc tắt tính năng này bất cứ lúc nào trong Cài đặt. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư</string>
     <string name="mx_dspt_provision_with_voip2">Chính sách Riêng tư</string>
     <string name="mx_dspt_provision_privacy">"Tính năng này có thể yêu cầu số điện thoại của bạn. Một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ. Nhà cung cấp sẽ tính phí tin nhắn này.
-
 Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</string>
     <string name="mx_dspt_provision_privacy_2_sim">"Tính năng này có thể yêu cầu số điện thoại của bạn. 2 tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ. Nhà cung cấp sẽ tính phí tin nhắn này.
-
 Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</string>
     <string name="mx_dspt_provision_privacy_no_sim">"Tính năng này có thể yêu cầu số điện thoại của bạn. Khi thẻ SIM được phát hiện, một tin nhắn SMS có thể được yêu cầu gửi đi để kích hoạt dịch vụ. Nhà cung cấp sẽ tính phí tin nhắn này.
-
 Tính năng này mã hóa và gửi ID của thiết bị lên máy chủ Mi."</string>
     <string name="user_agreement_p5">"
 "</string>
@@ -187,11 +183,8 @@ Nếu bạn đổi thẻ SIM, một tin nhắn SMS sẽ được gửi tự đ�
     <string name="micloud_storage_expires_auto_renewal_sum">Bạn cần phải gia hạn đăng ký của bạn.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Bạn cần phải gia hạn đăng ký của bạn.</string>
     <string name="micloud_full_influence_dspt">"Tất cả ảnh, video, ghi chú, và ứng dụng sẽ được sao lưu lên Mi Cloud. 
-
 Bằng cách này, nếu điện thoại bạn mất hoặc hư hỏng, dữ liệu sẽ vẫn được an toàn. 
-
 Khi Mi Cloud đầy, dữ liệu cũ của bạn sẽ không dời đến vị trí khác. Tuy nhiên, bất kỳ nội dung mới nào bạn thêm (ví dụ như ảnh, video, ghi chú, và ứng dụng) sẽ không được sao lưu.
-
 Để sửa lỗi này, bạn có thể xóa một số tập tin cũ để nhường chỗ cho những nội dung cần sao lưu mới, hoặc bạn có thể mua dung lượng lưu trữ bổ sung."</string>
     <string name="micloud_upgrade_space">Nhận dung lượng</string>
     <string name="enable_sync_dspt">Không đồng bộ</string>
@@ -361,7 +354,6 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
 Để nhận thêm dung lượng lưu trữ, truy cập mi.com/micloud."</string>
     <string name="micloud_member_buy_title">Xác nhận mua</string>
     <string name="micloud_member_buy_content" formatted="false">"Có giá trị đến %s-%s-%s
-
 Mi Credit: %s"</string>
     <string name="micloud_member_net_error_alert_title">Không thể kết nối mạng</string>
     <string name="micloud_member_net_error_alert_message">Bạn không có kết nối internet.</string>
@@ -406,6 +398,7 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="micloud_main_error_network_disallowed">Hãy chắc chắn bạn đã cho phép truy cập Internet.</string>
     <string name="micloud_main_error_activated_fail">Vui lòng kích hoạt thẻ SIM.</string>
     <string name="micloud_main_error_permission_limit">Vui lòng cho phép quyền truy cập cơ sở dữ liệu cho Mi Cloud.</string>
+	<string name="micloud_manage_space_data">quản lý dữ liệu Mi Cloud</string>																				 
     <string name="micloud_confusion_no">Không</string>
     <string name="micloud_confusion_yes">Có</string>
     <string name="micloud_confusion_cancel">Hủy</string>
@@ -548,6 +541,11 @@ Sao lưu lần cuối lúc %2$s"</string>
     <string name="micloud_dialog_sync_now_message">Kết nối Wi-Fi để tránh chi phí dữ liệu di động phát sinh</string>
     <string name="micloud_dialog_sync_now_negative">Lần tới</string>
     <string name="micloud_dialog_sync_now_positive">Sử dụng dữ liệu di động</string>
+	<string name="micloud_main_head_menu_recycle_bin_title">Thùng rác</string>
+    <string name="micloud_main_head_menu_recycle_bin_summary">Sao lưu lại Liên hệ, Ảnh</string>
+    <string name="micloud_main_head_menu_cloud_backup">Sao lưu Mi Cloud</string>
+    <string name="micloud_main_head_menu_state_open">Đã mở</string>
+    <string name="micloud_main_head_menu_state_close">Đã đóng</string>
     <string name="micloud_main_not_sync">Các mục đang chờ đồng bộ: %d</string>
     <string name="micloud_detail_query_error_detail">Không thể xác nhận một vài dịch vụ đã hoàn tất đồng bộ hay chưa. Bạn có thể liên hệ với nhà phát triển thông qua ứng dụng Phản hồi.</string>
     <string name="micloud_detail_query_error_title">Không thể nhận thông tin về trạng thái đồng bộ</string>

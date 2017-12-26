@@ -34,7 +34,7 @@
     <string name="replace">Thay thế</string>
     <string name="frequent_phrases">Cụm từ thường dùng</string>
     <string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
-    <string name="alwaysUsePrompt">Nhớ lựa chọn này</string>
+    <string name="alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
     <string name="translation_query_error">Không tìm thấy kết quả</string>
     <string name="translation_query_error_network">Không thể nhận thông tin, kiểm tra kết nối mạng và thử lại</string>
     <string name="translation_more">Thêm</string>
