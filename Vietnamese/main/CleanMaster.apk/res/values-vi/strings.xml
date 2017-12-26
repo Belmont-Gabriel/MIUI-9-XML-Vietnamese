@@ -386,7 +386,7 @@
     <string name="dialog_title_stop_scan">Dừng quét</string>
     <string name="dialog_msg_stop_scan">Dừng quét?</string>
     <string name="dialog_title_esc_cleanmaster">Thoát dọn dẹp</string>
-    <string name="dialog_msg_esc_cleanmaster">Dừng quét?</string>
+    <string name="dialog_msg_esc_cleanmaster">Dừng quét và thoát Trình dọn dẹp?</string>
     <string name="pref_category_title_engine_settings">Cài đặt định dạng quét</string>
     <string name="pref_title_choose_engine">Nhận dạng</string>
     <string name="recommend_the_following">Làm theo bước sau để xem thêm nhiều nội dung thú vị</string>
@@ -511,4 +511,22 @@
     <string name="wechat_clean_downloads">Đã nhận tập tin</string>
     <string name="wechat_clean_downloads_desc">Đã nhận tập tin trên WeChat</string>
     <string name="wechat_normal_files">Rác</string>
+	<string name="wechat_qq_celan_tab_video">Video</string>
+    <string name="wechat_qq_celan_tab_voice">Tin nhắn thoại</string>
+    <string name="wechat_qq_celan_tab_image">Ảnh</string>
+    <string name="wechat_qq_celan_tab_file">Tập tin</string>
+    <string name="wechat_qq_deep_clean_button_text">Dọn dẹp sâu</string>
+    <string name="wechat_clean_finish_summary">Xóa tập tin đã chọn thành công</string>
+    <string name="qq_clean_finish_summary">Xóa tập tin đã chọn thành công</string>
+    <string name="wechat_clean_finish_empty_summary">Mọi thứ đều tốt</string>
+    <string name="wechat_clean_canceled_empty_summary">Dọn dẹp chưa hoàn tất. Hãy bắt đầu lại.</string>
+    <string name="wqfile_group_chat_pic">Ảnh trò chuyện</string>
+    <string name="wqfile_group_chat_video">Video trò chuyện</string>
+    <string name="wqfile_group_chat_voice">Tin nhắn thoại</string>
+    <string name="wqfile_group_chat_file">Tập tin trò chuyện</string>
+    <string name="wq_deep_clean_filter_all">Tất cả</string>
+    <string name="wq_deep_clean_filter_week_ago">1 tuần trước</string>
+    <string name="wq_deep_clean_filter_month_ago">1 tháng trước</string>
+    <string name="wq_deep_clean_filter_three_month_ago">3 tháng trước</string>
+    <string name="wq_deep_clean_filter_years_ago">6 tháng trước</string>
 </resources>

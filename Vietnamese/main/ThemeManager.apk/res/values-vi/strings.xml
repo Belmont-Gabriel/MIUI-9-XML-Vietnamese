@@ -212,8 +212,8 @@
     <string name="resource_tab_to_view">Chạm để xem.</string>
     <string name="search_hint_header_text">Từ khóa hot</string>
     <string name="resource_search_color_hint_red">Đỏ</string>
-    <string name="resource_search_color_hint_blue">Lam</string>
-    <string name="resource_search_color_hint_green">Lục</string>
+    <string name="resource_search_color_hint_blue">Xanh lam</string>
+    <string name="resource_search_color_hint_green">Xanh lá cây</string>
     <string name="resource_search_color_hint_orange">Cam</string>
     <string name="resource_search_color_hint_purple">Tía</string>
     <string name="resource_search_color_hint_yellow">Vàng</string>
@@ -366,8 +366,8 @@
     <string name="lockscreen_magazine_subscribe">%1$s người theo dõi</string>
     <string name="lockscreen_magazine_system_title">Mặc định hệ thống</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s hình</string>
-    <string name="theme_apply_success">Đã áp dụng màn hình khóa</string>
-    <string name="theme_apply_failured">Không thể áp dụng hình nền Màn hình khóa</string>
+    <string name="theme_apply_success">Đã áp dụng thành công</string>
+    <string name="theme_apply_failured">Không thể áp dụng</string>
     <string name="theme_applying">Đang áp dụng…</string>
     <string name="provision_loading_tips">Vui lòng chờ…</string>
     <string name="provision_title">Chọn chủ đề</string>

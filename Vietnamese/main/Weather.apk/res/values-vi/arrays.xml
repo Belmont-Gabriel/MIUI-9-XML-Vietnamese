@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_detail_title">
+        <item>Trong lành</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nghiêm trọng</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Ưu</item>
+        <item>Tốt</item>
+        <item>Ô nhiễm nhẹ</item>
+        <item>Ô nhiễm vừa</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Ô nhiễm nghiêm trọng</item>
+        <item>Vượt quá chỉ số</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Cấp 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
     <string-array name="hot_city">
-        <item>Bắc Kinh</item>
-        <item>Thượng Hải</item>
-        <item>Hồng Kông</item>
-        <item>Thành phố Đài Bắc</item>
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
         <item>Jakarta</item>
         <item>Delhi</item>
         <item>Mumbai</item>
@@ -25,13 +57,32 @@
         <item>Seoul</item>
         <item>Kuala Lumpur</item>
     </string-array>
-    <string-array name="aqi_detail_title">
+    <string-array name="indices_car_wash">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Thích hợp</item>
+        <item>Không thích hợp</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Yếu</item>
+        <item>Trung bình</item>
+        <item>Cao</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Rất to</item>
+        <item>Vừa</item>
+        <item>Rào</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Tuyệt vời</item>
         <item>Trong lành</item>
-        <item>Tốt</item>
         <item>Ô nhiễm nhẹ</item>
         <item>Ô nhiễm vừa</item>
         <item>Ô nhiễm nặng</item>
-        <item>Ô nhiễm nghiêm trọng</item>
+        <item>Ô nhiễm nặng</item>
+        <item>Vượt quá chỉ số</item>
     </string-array>
     <string-array name="weather_type">
         <item>Quang</item>
@@ -62,28 +113,15 @@
         <item>Mưa đá</item>
         <item></item>
     </string-array>
-    <string-array name="indices_uv_level">
-        <item>Yếu</item>
-        <item>Trung bình</item>
-        <item>Cao</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Thích hợp</item>
-        <item>Không thích hợp</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Thích hợp</item>
-        <item>Không thích hợp</item>
-    </string-array>
     <string-array name="wind_direction">
         <item>Bắc</item>
-        <item>Đông Bắc</item>
+        <item>Đông bắc</item>
         <item>Đông</item>
-        <item>Đông Nam</item>
+        <item>Đông nam</item>
         <item>Nam</item>
-        <item>Tây Nam</item>
+        <item>Tây nam</item>
         <item>Tây</item>
-        <item>Tây Bắc</item>
+        <item>Tây bắc</item>
     </string-array>
     <string-array name="wind_direction_simple">
         <item>B</item>
@@ -94,29 +132,6 @@
         <item>TN</item>
         <item>T</item>
         <item>TB</item>
-    </string-array>
-    <string-array name="aqi_value">
-        <item>Ưu</item>
-        <item>Tốt</item>
-        <item>Ô nhiễm nhẹ</item>
-        <item>Ô nhiễm vừa</item>
-        <item>Ô nhiễm nặng</item>
-        <item>Ô nhiễm nghiêm trọng</item>
-        <item>Vượt quá chỉ số</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Thang sức gió Beaufort</item>
-        <item>Kilômét mỗi giờ (km/h)</item>
-        <item>Mét mỗi giây (m/s)</item>
-        <item>Dặm mỗi giờ (mph)</item>
-        <item>Knot (kn)</item>
-    </string-array>
-    <string-array name="breeze">
-        <item>&lt;Cấp 2</item>
-        <item>&lt;6.0km/h</item>
-        <item>&lt;1.7m/s</item>
-        <item>&lt;3.7mph</item>
-        <item>&lt;3.2kn</item>
     </string-array>
     <string-array name="wind_unit_detail">
         <item>Thang sức gió Beaufort</item>
@@ -132,18 +147,11 @@
         <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>
-    <string-array name="minute_rain_array">
-        <item>Rất to</item>
-        <item>Vừa</item>
-        <item>Rào</item>
-    </string-array>
-    <string-array name="pollution_level_desc_arr">
-        <item>Tuyệt vời</item>
-        <item>Trong lành</item>
-        <item>Ô nhiễm nhẹ</item>
-        <item>Ô nhiễm vừa</item>
-        <item>Ô nhiễm nặng</item>
-        <item>Ô nhiễm nặng</item>
-        <item>Vượt quá chỉ số</item>
+    <string-array name="wind_unit_simple">
+        <item>Thang sức gió Beaufort</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
     </string-array>
 </resources>
