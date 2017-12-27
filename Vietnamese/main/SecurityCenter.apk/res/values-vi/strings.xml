@@ -1643,7 +1643,7 @@ thiết bị của bạn"</string>
     <string name="card_main_netcheck_title">Kiểm tra mạng</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
-    <string name="card_main_hbassistant_title">Trợ giúp lì xì</string>
+    <string name="card_main_hbassistant_title">Khóa ứng dụng</string>
     <string name="card_main_hbassistant_summary">Sử dụng công cụ này để nhận lì xì nhanh hơn</string>
     <string name="card_main_deepclean_qq_title">Trình dọn dẹp QQ</string>
     <string name="action_button_text_100">Tối ưu</string>
