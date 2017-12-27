@@ -297,9 +297,7 @@
     <string name="express_booking_txt">Hẹn nhận hàng</string>
     <string name="express_code_txt">Mã:</string>
     <string name="express_complete">Đã chấp nhận</string>
-    <string name="express_complete_flag">3</string>
     <string name="express_delivery">Đã nhận</string>
-    <string name="express_delivery_flag">5</string>
     <string name="express_icon_tip">Tra thông tin giao hàng qua số điện thoại và thông tin đặt hàng.</string>
     <string name="express_icon_tip_link">Bảo mật &amp; riêng tư</string>
     <string name="express_install_cainiao_description">%s yêu cầu cài đặt ứng dụng Cainiao. Cài đặt ngay?</string>
@@ -546,7 +544,6 @@
     <string name="payment_total_today_desc">Hôm nay</string>
     <string name="payment_unit_cny">NDT</string>
     <string name="personalAssistant_mainpage">Trang chính</string>
-    <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="place_label">Địa điểm thường dùng</string>
     <string name="plan">Kế hoạch</string>
     <string name="preferences">Sở thích</string>
@@ -694,7 +691,6 @@
     <string name="steps_vip_des">Đếm số bước mà không cần cài ứng dụng của bên thứ ba.</string>
     <string name="stock_card_add">Thêm công ty</string>
     <string name="stock_card_title">Cổ phiếu</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">Bảng màu</string>
     <string name="stock_list_empty_text">Bạn chưa theo dõi bất kỳ công ty nào.</string>
     <string name="stock_search_empty">Không tìm thấy kết quả</string>
