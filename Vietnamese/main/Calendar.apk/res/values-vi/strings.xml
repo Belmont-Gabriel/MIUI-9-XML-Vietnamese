@@ -212,6 +212,8 @@
     <string name="edit_event_tab_birthday">Sinh nhật</string>
     <string name="edit_event_tab_countdown">Đếm ngược</string>
     <string name="edit_event_tab_event">Sự kiện</string>
+	<string name="email_install_hint">Mail đã gỡ cài đặt. Cài đặt lại Mail để khôi phục tài khoản lịch hoặc thêm một tài khoản mới.</string>
+    <string name="english_premium_league">Giải bóng đá Ngoại hạng Anh</string>																																										   
     <string name="event_account">Tài khoản</string>
     <string name="event_action_delete">Xóa</string>
     <string name="event_action_edit">Sửa</string>
@@ -247,6 +249,9 @@
     <string name="insert_event_dialog_title">Chú ý</string>
     <string name="insert_event_toast_add_failed">Không thể thêm</string>
     <string name="insert_event_toast_add_success">Đã tạo sự kiện</string>
+	<string name="install_email_app">Cài đặt Mail</string>
+    <string name="install_email_finished">Đã cài đặt thành công</string>
+    <string name="installing_email">Đang cài đặt…</string>														  
     <string name="item_num_selected">Đã chọn %1$d</string>
     <string name="jump_date_full">Chuyển đến ngày</string>
     <string name="load_more_hint">Làm mới sự kiện %1$d</string>
@@ -270,6 +275,7 @@
     <string name="month_medium_october">Tháng 10</string>
     <string name="month_medium_september">Tháng 9</string>
     <string name="network_not_available">Không thể kết nối mạng</string>
+	<string name="new_event_description">Mới</string>												   
     <string name="no_contact_birthday_hint">Không có sinh nhật nào để nhập</string>
     <string name="no_events_hint">Không có sự kiện</string>
     <string name="no_network">"Không thể kết nối mạng.

@@ -227,11 +227,11 @@
         <item>Thg 12</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>đầu tiên</item>
-        <item>thứ hai</item>
-        <item>thứ ba</item>
-        <item>thứ tư</item>
-        <item>cuối cùng</item>
+        <item>lần thứ nhất</item>
+        <item>lần thứ 2</item>
+        <item>lần thứ 3</item>
+        <item>lần thứ 4</item>
+        <item>lần cuối</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Thứ hai - Thứ sáu</item>

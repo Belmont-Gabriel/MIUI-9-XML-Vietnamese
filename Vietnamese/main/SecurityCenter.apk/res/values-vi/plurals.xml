@@ -24,6 +24,12 @@
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d ứng dụng</item>
     </plurals>
+	<plurals name="bg_network_allow_count">
+        <item quantity="other">%d ứng dụng có thể kết nối với mạng trong nền</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d ứng dụng không thể kết nối với mạng trong nền</item>
+    </plurals>									   
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Giới hạn dữ liệu hàng ngày đã vượt quá %s lần.</item>
     </plurals>
@@ -44,6 +50,9 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d ứng dụng được tìm thấy</item>
     </plurals>
+	<plurals name="network_restrict_count">
+        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &amp;lt;font color='#ff0000'>%d:&amp;lt;/font> ứng dụng"</item>
+    </plurals>									   
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d ứng dụng không hoạt động bình thường và hao pin</item>
     </plurals>

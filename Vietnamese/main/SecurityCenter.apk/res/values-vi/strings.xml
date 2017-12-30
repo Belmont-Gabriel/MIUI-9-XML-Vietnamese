@@ -365,6 +365,7 @@ phản hồi"</string>
     <string name="firewall_restrict_android_dialog_content">Để đảm bảo thiết bị làm việc bình thường, một vài ứng dụng hệ thống Android sẽ tiếp tục kết nối internet. Các ứng dụng này sẽ sử dụng kết nối dữ liệu di động và có thể phát sinh chi phí nhỏ từ nhà mạng.</string>
     <string name="background_restrict_app_dialog_message">Giới hạn truy cập mạng nền của ứng dụng này sẽ làm cho ứng dụng không thể hoạt động bình thường như nhận tin nhắn và tải xuống nội dung v.v...Vẫn giới hạn?</string>
     <string name="firewall_allow_network">Cho phép</string>
+	<string name="app_bg_restrict_dialog_message">Hạn chế kết nối mạng nền có thể ngăn ứng dụng hoạt động bình thường. Ví dụ: nó không thể nhận được tin nhắn hoặc cập nhật nội dung. Hạn chế không?</string>																																																																  
     <string name="firewall_network_allow">Đã cho phép %1$s sử dụng kết nối%2$s</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="firewall_mobile_dialog_message">Ứng dụng đã cài đặt không thể kết nối internet bằng dữ liệu di động khi tắt chuyển đổi này.</string>
@@ -400,6 +401,7 @@ phản hồi"</string>
     <string name="pref_title_traffic_speed_state">Hiển thị tốc độ mạng</string>
     <string name="pref_title_declaration">Từ chối trách nhiệm quan trọng</string>
     <string name="pref_new_installed_preconfig_title">Cài đặt mặc định ứng dụng mới</string>
+	<string name="pref_bg_network_title">Kết nối nền</string>															   
     <string name="pref_mi_sim_settings">Cài đặt Mi SIM</string>
     <string name="pref_title_upload_data_usage">Báo cáo trạng thái sử dụng dữ liệu</string>
     <string name="pref_summary_upload_data_usage">Báo cáo thống kê sử dụng dữ liệu của bạn để giúp chúng tôi cải thiện MIUI. Báo cáo được thực hiện tuân theo Chính sách Bảo mật của chúng tôi.</string>
@@ -1907,6 +1909,9 @@ thiết bị của bạn"</string>
     <string name="app_manager_show_all_apps">Hiển thị tất cả ứng dụng</string>
     <string name="app_manager_hide_system_server">Ẩn dịch vụ hệ thống</string>
     <string name="app_manager_back">Quay lại</string>
+	<string name="app_manager_show_all_apps_opened">Đang hiển thị kết quả từ tất cả các ứng dụng…</string>
+    <string name="app_manager_search_prompt">Không tìm thấy kết quả? Thử hiển thị kết quả từ tất cả các ứng dụng.</string>
+    <string name="app_manager_open_show_all_apps_immediate">Hiển thị tất cả kết quả</string>																															
     <string name="ad_btn_default_text">Tìm hiểu thêm</string>
     <string name="open_activity_err">Không tìm thấy ứng dụng này</string>
     <string name="low_memory_warning_dialog_title">Không đủ dung lượng trống</string>
@@ -1989,6 +1994,8 @@ thiết bị của bạn"</string>
     <string name="scan_installed_games">Đang kiểm tra trò chơi đã cài đặt…</string>
     <string name="boostering">Đang tăng tốc…</string>
     <string name="booster_suc">Đã tăng tốc thành công</string>
+	<string name="auto_booster_suc">Đã tăng tốc thành công</string>
+    <string name="auto_back_booster">Dừng tăng tốc</string>																	  
     <string name="support_game_booster_tips">Tăng tốc độ &amp; cải thiện trải nghiệm trò chơi</string>
     <string name="setting">Cài đặt</string>
     <string name="loading">Vui lòng chờ…</string>
@@ -2022,6 +2029,12 @@ thiết bị của bạn"</string>
     <string name="xunyou_pay_webview">Dịch vụ Xunyou</string>
     <string name="lock_settings_title">Màn hình khóa và mật khẩu</string>
     <string name="white_list_risk_app_header">Ứng dụng nguy hiểm: %d</string>
+	<string name="gb_description_image_button_answer">Trả lời</string>
+    <string name="gb_description_image_button_video_answer">Gọi video</string>
+    <string name="gb_description_image_button_reject">Từ chối</string>
+    <string name="gs_autobooster">Tăng tốc tự động</string>
+    <string name="gs_autobooster_detail">Tự động tăng tốc cho các trò chơi đã chọn</string>
+    <string name="gs_autobooster_dialog_message">Nếu bạn đang sử dụng tăng tốc Xunyou, hãy mở trò chơi trên trang được chỉ định.</string>																			
     <string name="white_list_trojan_header">Trojan: %d</string>
     <string name="power_center_consume_rank">Sử dụng pin</string>
     <string name="power_center_custom_title">Chế độ pin</string>

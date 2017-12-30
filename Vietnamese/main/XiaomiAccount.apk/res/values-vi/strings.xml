@@ -10,6 +10,7 @@
     <string name="passport_skip_login">Bỏ qua</string>
     <string name="passport_skip_setup_account_title">Bỏ qua cài đặt</string>
     <string name="passport_skip_setup_account_msg">Bạn có thể cài đặt Tài khoản Mi sau ở phần Cài đặt.</string>
+	<string name="passport_confirm_login">Tiếp tục</string>														   
     <string name="passport_find_password_on_web_msg">Truy cập vào account.mi.com để đặt lại mật khẩu của bạn.</string>
     <string name="passport_title_reg">Tạo một tài khoản</string>
     <string name="passport_reg_prompt">Không có Tài khoản Mi? Hãy tạo miễn phí.</string>
@@ -166,6 +167,7 @@
     <string name="passport_barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
     <string name="passport_quick_register_notice"><u>Không có Tài khoản Mi? Hãy tạo tài khoản.</u></string>
     <string name="passport_password_phone_login">Đăng nhập thông qua Tài khoản Mi</string>
+	<string name="passport_sms_verification_code_login">Tin nhắn SMS xác minh đăng nhập</string>																								   
     <string name="passport_login_other_account">Tài khoản khác</string>
     <string name="passport_reg_new_account">Tạo tài khoản</string>
     <string name="passport_select_the_login_account">Chọn tài khoản đăng nhập</string>

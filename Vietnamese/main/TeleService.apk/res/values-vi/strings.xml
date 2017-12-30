@@ -154,6 +154,7 @@
     <string name="allow_mock_location">Cho phép vị trí mô phỏng</string>
     <string name="allow_mock_location_summary">Cho phép vị trí mô phỏng</string>
     <string name="debug_view_attributes">Cho phép kiểm tra thuộc tính của chế độ xem</string>
+	<string name="legacy_dhcp_client_summary">Sử dụng ứng dụng DHCP từ Lollipop thay vì ứng dụng DHCP mới của Android.</string>																																			  
     <string name="mobile_data_always_on_summary">Luôn giữ cho dữ liệu di động hoạt động, ngay cả khi Wi-Fi đang hoạt động (để chuyển đổi mạng nhanh).</string>
     <string name="adb_warning_title">Cho phép gỡ lỗi USB?</string>
     <string name="adb_warning_message">Gỡ lỗi USB chỉ dành cho mục đích phát triển. Hãy sử dụng tính năng này để sao chép dữ liệu giữa máy tính và thiết bị của bạn, cài đặt ứng dụng trên thiết bị của bạn mà không thông báo và đọc dữ liệu nhật ký.</string>
@@ -203,6 +204,8 @@
     <string name="debug_layout_summary">Hiển thị viền đoạn video, lề, v.v..</string>
     <string name="force_rtl_layout_all_locales">Buộc hướng bố cục RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Buộc hướng bố cục màn hình RTL cho tất cả ngôn ngữ</string>
+	<string name="show_cpu_usage">Hiển thị mức sử dụng CPU</string>
+    <string name="show_cpu_usage_summary">Lớp phủ màn hình hiển thị mức sử dụng CPU hiện tại</string>																		 
     <string name="force_hw_ui">Bắt buộc kết xuất GPU</string>
     <string name="force_hw_ui_summary">Bắt buộc sử dụng GPU cho bản vẽ 2d</string>
     <string name="force_msaa">Bắt buộc 4x MSAA</string>
@@ -341,6 +344,7 @@
     <string name="optional_summary">&lt;Tùy chọn></string>
     <string name="advanced_settings_show">▷ Chạm để hiển thị tất cả</string>
     <string name="advanced_settings_hide">▽ Chạm để ẩn tất cả</string>
+	<string name="all_empty_alert">Nhập chi tiết của tài khoản SIP mới.</string>																					   
     <string name="empty_alert">%s không được để trống.</string>
     <string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534.</string>
     <string name="no_internet_available">Để thực hiện cuộc gọi internet, bạn cần phải kết nối internet.</string>
@@ -349,6 +353,7 @@
     <string name="sip_system_decide">Tự động</string>
     <string name="sip_always_send_keepalive">Luôn gửi</string>
     <string name="sip_connection_service_label">Tính năng gọi điện SIP tích hợp sẵn</string>
+	<string name="description_dialpad_back">Điều hướng trở lại</string>																			 
     <string name="description_dialpad_overflow">Thêm tùy chọn</string>
     <string name="description_delete_button">phím xóa</string>
     <string name="description_image_button_plus">cộng</string>
@@ -377,8 +382,13 @@
     <string name="callFailed_dsac_restricted_normal">Cuộc gọi thông thường bị hạn chế bởi kiểm soát truy cập.</string>
     <string name="callFailed_unobtainable_number">Số không hợp lệ</string>
     <string name="incall_error_missing_voicemail_number">Số thư thoại không xác định.</string>
-    <string name="callFailed_low_battery">Pin yếu</string>
-    <string name="ringtone_silent">Không có</string>
+    <string name="callEnded_pulled">Đã chuyển cuộc gọi tới một thiết bị khác.</string>
+	<string name="callFailed_low_battery">Pin yếu</string>
+    <string name="callFailed_maximum_reached">Tất cả các đường dây có sẵn đều đang được sử dụng. Để thực hiện cuộc gọi, hãy ngắt kết nối một trong những cuộc gọi trên thiết bị này hoặc trên một trong các thiết bị khác của bạn.</string>
+    <string name="callFailed_data_disabled">Cuộc gọi đã kết thúc vì dữ liệu di động đã bị tắt.</string>
+    <string name="callFailed_data_limit_reached_description">Cuộc gọi đã kết thúc vì đã đạt đến giới hạn dữ liệu di động.</string>
+    <string name="callFailed_data_limit_reached">Đã đạt đến giới hạn dữ liệu. Cuộc gọi đã kết thúc.</string>
+	<string name="ringtone_silent">Không có</string>
     <string name="ringtone_unknown">Nhạc chuông không xác định</string>
     <string name="ims_settings">Cài đặt IMS</string>
     <string name="label_nsdp">Mở khóa SIM mạng con</string>
@@ -1405,6 +1415,11 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="volte_switch_summary">Sử dụng VoLTE để cải thiện chất lượng cuộc gọi thoại và cuộc gọi video</string>
     <string name="volte_switch_not_support_summary">Cuộc gọi VoLTE không được hỗ trợ thẻ SIM dữ liệu di động.</string>
     <string name="volte_switch_not_support_summary2">Cuộc gọi VoLTE không được hỗ trợ bởi nhà mạng.</string>
+	<string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE yêu cầu kết nối cho cả 2 khe SIM. Chuyển sang 4G kép ngay?</string>
+    <string name="dual_4g_switch_title">4G kép</string>
+    <string name="dual_4g_switch_summary">Cho phép kết nối 4G cho cả 2 khe SIM.</string>
+    <string name="turn_on_dual_4g_failed">Không thể bật 4G kép.</string>
+    <string name="turn_off_dual_4g_failed">Không thể tắt 4G kép.</string>																																			 
     <string name="roaming_notification_title">Dường như chuyển vùng đã được kích hoạt</string>
     <string name="roaming_notification_content">Bạn có thể thêm mã quốc gia tự động để quay số thuận tiện hơn.</string>
     <string name="go_to_virtual_sim_title">SIM Ảo</string>
@@ -1448,6 +1463,12 @@ Tính năng liên quan PIN2 sẽ bị khóa sau khi lần thử không thành c�
     <string name="volte_provision_text">Cuộc gọi VoLTE có chất lượng cao hơn cuộc gọi thông thường. Gửi SMS để kích hoạt?</string>
     <string name="no_checked_network">Bạn sẽ không thể kết nối với mạng di dộng và thực hiện cuộc gọi. Chọn mạng khác?</string>
     <string name="carrier_info">Thông tin nhà cung cấp</string>
+	<string name="modem_dialog_title">Mạng di động không ổn định</string>
+    <string name="modem_dialog_body">Mạng di động không ổn định, gây gián đoạn hoặc các vấn đề về mạng. Bạn có muốn gửi báo cáo lỗi đến Mi? Báo cáo này có thể chứa các thông tin cá nhân. Báo cáo của bạn sẽ được sử dụng để giúp khắc phục lỗi này và sẽ không bao giờ được chia sẻ trong bất kỳ bối cảnh thương mại nào.</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="dialog_report">Báo cáo</string>																				
+	<string name="miui_notification_network_selection_title_by_sim">Thẻ SIM %s không có dịch vụ</string>
+    <string name="miui_network_selection_reset_text">Đặt lại</string>																																																																																																										  
     <string name="phone_account_settings">Cài đặt tài khoản điện thoại</string>
     <string name="preferred_phone_account">Tài khoản cuộc gọi ưu tiên</string>
     <string name="other_available_phone_accounts">Tài khoản khả dụng khác</string>

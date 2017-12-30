@@ -24,6 +24,9 @@
     <plurals name="conversation_folder_changed">
         <item quantity="other">Đã đổi thư mục</item>
     </plurals>
+	<plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d người</item>
+    </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">Đã bỏ qua %1$d hội thoại.</item>
     </plurals>
