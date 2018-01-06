@@ -341,7 +341,7 @@
     <string name="non_primary_user">Chỉ chủ sở hữu thiết bị mới có thể xem và quản lý số đã chặn.</string>
     <string name="delete_icon_description">Bỏ chặn</string>
     <string name="blocked_numbers_butter_bar_title">Danh sách chặn đã tắt</string>
-    <string name="blocked_numbers_butter_bar_body">Sau khi bạn quay số hoặc nhắn tin cho số khẩn cấp, danh sách chặn sẽ tắt để đảm bảo dịch vụ khẩn cấp có thể liên lạc với bạ</string>
+    <string name="blocked_numbers_butter_bar_body">Sau khi bạn quay số hoặc nhắn tin cho số khẩn cấp, danh sách chặn sẽ tắt để đảm bảo dịch vụ khẩn cấp có thể liên lạc với bạn.</string>
     <string name="blocked_numbers_butter_bar_button">Bật lại</string>
     <string name="blocked_numbers_number_blocked_message">Đã chặn %1$s</string>
     <string name="blocked_numbers_number_unblocked_message">Bỏ chặn %1$s</string>
