@@ -870,8 +870,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="search_title_recommend">Đề nghị</string>
     <string name="search_title_suggestion">Kiến nghị</string>
     <string name="search_title_tag">Đối tượng</string>
-	<string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
     <string name="searching_cast_devices">Đang tìm máy chiếu…</string>																  
     <string name="secret_album_card_description">Nơi tốt nhất để lưu giữ bí mật</string>
     <string name="secret_album_card_title">Mở album ẩn</string>
