@@ -154,6 +154,7 @@
     <string name="allow_mock_location">Cho phép vị trí mô phỏng</string>
     <string name="allow_mock_location_summary">Cho phép vị trí mô phỏng</string>
     <string name="debug_view_attributes">Cho phép kiểm tra thuộc tính của chế độ xem</string>
+	<string name="legacy_dhcp_client_summary">Sử dụng ứng dụng DHCP từ Lollipop thay vì ứng dụng DHCP mới của Android.</string>					  
     <string name="mobile_data_always_on_summary">Luôn giữ cho dữ liệu di động hoạt động, ngay cả khi Wi-Fi đang hoạt động (để chuyển đổi mạng nhanh).</string>
     <string name="adb_warning_title">Cho phép gỡ lỗi USB?</string>
     <string name="adb_warning_message">Gỡ lỗi USB chỉ dành cho mục đích phát triển. Hãy sử dụng tính năng này để sao chép dữ liệu giữa máy tính và thiết bị của bạn, cài đặt ứng dụng trên thiết bị của bạn mà không thông báo và đọc dữ liệu nhật ký.</string>
@@ -203,6 +204,8 @@
     <string name="debug_layout_summary">Hiển thị viền đoạn video, lề, v.v..</string>
     <string name="force_rtl_layout_all_locales">Buộc hướng bố cục RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Buộc hướng bố cục màn hình RTL cho tất cả ngôn ngữ</string>
+	<string name="show_cpu_usage">Hiển thị mức sử dụng CPU</string>
+    <string name="show_cpu_usage_summary">Lớp phủ màn hình hiển thị mức sử dụng CPU hiện tại</string>											 
     <string name="force_hw_ui">Bắt buộc kết xuất GPU</string>
     <string name="force_hw_ui_summary">Bắt buộc sử dụng GPU cho bản vẽ 2d</string>
     <string name="force_msaa">Bắt buộc 4x MSAA</string>
@@ -338,7 +341,7 @@
     <string name="non_primary_user">Chỉ chủ sở hữu thiết bị mới có thể xem và quản lý số đã chặn.</string>
     <string name="delete_icon_description">Bỏ chặn</string>
     <string name="blocked_numbers_butter_bar_title">Danh sách chặn đã tắt</string>
-    <string name="blocked_numbers_butter_bar_body">Sau khi bạn quay số hoặc nhắn tin cho số khẩn cấp, danh sách chặn sẽ tắt để đảm bảo dịch vụ khẩn cấp có thể liên lạc với bạn.</string>
+    <string name="blocked_numbers_butter_bar_body">Sau khi bạn quay số hoặc nhắn tin cho số khẩn cấp, danh sách chặn sẽ tắt để đảm bảo dịch vụ khẩn cấp có thể liên lạc với bạ</string>
     <string name="blocked_numbers_butter_bar_button">Bật lại</string>
     <string name="blocked_numbers_number_blocked_message">Đã chặn %1$s</string>
     <string name="blocked_numbers_number_unblocked_message">Bỏ chặn %1$s</string>

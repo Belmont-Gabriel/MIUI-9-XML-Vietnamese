@@ -23,6 +23,7 @@
     <string name="cloud_backup_detail_frequence_day">Sao lưu sau mỗi %1$s</string>
     <string name="cloud_backup_detail_time">Sao lưu trước: %1$s</string>
     <string name="cloud_backup_detail_manage">Quản lý sao lưu</string>
+	<string name="cloud_backup_derail_size_summary">Kích thước: %s</string>
     <string name="cloud_backup_detail_manage_summary">%1$s sao lưu, kích thước:%2$s</string>
     <string name="backup_size_summary">Kích thước: %1$s</string>
     <string name="cloud_back_up_opening">Vui lòng chờ…</string>
@@ -130,9 +131,12 @@
     <string name="btn_back">Quay lại</string>
     <string name="btn_continue">Tiếp tục</string>
     <string name="btn_skip">Bỏ qua bước này</string>
+	<string name="btn_retry">Kiểm tra lại</string>												  
     <string name="can_not_restore_in_lite_mode">Không thể khôi phục trong Chế độ thu gọn</string>
     <string name="can_not_backup_in_lite_mode">Không thể sao lưu trong Chế độ thu gọn</string>
     <string name="restore_data_title">Khôi phục dữ liệu</string>
+	<string name="provision_error_connect_msg">Kiểm tra mạng và thử lại. Sao lưu không khả dụng khi thiết bị của bạn ngoại tuyến.</string> 
+	<string name="provision_error_connect_title">Không thể kết nối</string>															 
     <string name="authentication_failed">Không thể xác minh Tài khoản.</string>
     <string name="no_account">Chưa đăng nhập Tài khoản Mi.</string>
     <string name="no_backup">Không có sao lưu trên Mi Cloud.</string>

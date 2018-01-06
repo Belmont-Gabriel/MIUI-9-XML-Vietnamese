@@ -98,7 +98,7 @@
     <string name="record_quliaty_preference_title">Chất lượng ghi âm</string>
     <string name="cloud_record_tip">Đồng bộ ghi âm với Mi Cloud.</string>
     <string name="cloud_record_open">Đồng bộ ghi âm</string>
-    <string name="cloud_status_full_dialog_title">Lưu trữ Mi Cloud đã đầy</string>
+	<string name="cloud_service_state_open_reminder">Bật đồng bộ Mi Cloud để đồng bộ tập tin ghi âm.</string>																		<string name="cloud_status_full_dialog_title">Lưu trữ Mi Cloud đã đầy</string>
     <string name="cloud_status_full_dialog_msg">Lưu trữ Mi Cloud đã đầy, không thể đồng bộ ghi âm. Nâng cấp tài khoản của bạn để nhận thêm dung lượng lưu trữ.</string>
     <string name="cloud_status_full_dialog_cancel">Không phải bây giờ</string>
     <string name="cloud_status_full_dialog_ok">Nâng cấp</string>
