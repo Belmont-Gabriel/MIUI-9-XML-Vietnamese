@@ -820,6 +820,7 @@ Danh thiếp sẽ tắt"</string>
     <string name="import_contact_card_aggregate_suggestion_button">Thẻ hợp nhất</string>
     <string name="success_message_import_from_account">Liên hệ đã được nhập</string>
     <string name="unknown_contact_name">Liên hệ không xác định</string>
+	<string name="unknown_details_add_to_contact">Thêm vào liên hệ</string>
     <string name="contactDetailCalllog">Lịch sử cuộc gọi</string>
     <string name="add_blacklist">Chặn</string>
     <string name="remove_blacklist">Bỏ chặn</string>
