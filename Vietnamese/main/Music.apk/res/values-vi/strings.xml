@@ -586,7 +586,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="sync_only_in_wifi_summary">Đồng bộ nhạc của bạn giữa các thiết bị với Mi Cloud. Dùng kết nối dữ liệu di động để đồng bộ nhạc sẽ làm tăng sử dụng dữ liệu. Nếu bạn sử dụng vượt quá kế hoạch, nhà cung cấp dịch vụ sẽ tính phí bổ sung.</string>
     <string name="multichoice">Chọn</string>
     <string name="cp_info_first">Dịch vụ phát nhạc trực tuyến được cung cấp bởi Ultimate Inc.</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="favorite_singer">Ca sĩ yêu thích</string>
     <string name="nav_online_billboard">Bảng xếp hạng</string>
     <string name="nav_online_artist">Ca sĩ</string>
