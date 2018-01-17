@@ -389,6 +389,7 @@ Khoảng cách máy ảnh và đối tượng không nên xa hơn 2 mét."</stri
     <string name="simple_mode_button_text_raw">Tắt RAW</string>
     <string name="toast_saving">Đang lưu ảnh…</string>
     <string name="cannot_connect_camera_volte_call">Đang thực hiện cuộc gọi video, vui lòng thử lại sau.</string>
+	<string name="multi_window_mode_not_supported">Máy ảnh không làm việc trong chế độ Chia màn hình</string>
     <string name="hibernate_hint">Chạm màn hình để mở Máy ảnh</string>
     <string name="accessibility_zoom_button">Chế độ thu phóng</string>
     <string name="accessibility_portrait_button">Chế độ chân dung</string>
@@ -451,6 +452,7 @@ và tạo ra một ảnh đẹp nhất với độ nhiễu thấp nhất."</stri
     <string name="hint_fast_motion">The video you shoot will be played faster.</string>
     <string name="hint_slow_motion">The video you shoot will be played slower.</string>
     <string name="hunt_dual_water_mark">Dấu chìm máy ảnh kép sẽ được thêm tự động.</string>
+	<string name="hint_device_water_mark">Dấu chìm sẽ được thêm tự động.</string>																						
     <string name="module_name_fun">Video ngắn</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_capture">Ảnh</string>

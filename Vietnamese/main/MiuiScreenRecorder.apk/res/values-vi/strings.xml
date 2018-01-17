@@ -23,7 +23,8 @@
     <string name="stop_record_while_locking_summary">Kết thúc quay phim và lưu video khi màn hình khóa</string>
     <string name="gleam_led_while_recording">Đèn flash thông báo khi quay phim màn hình</string>
     <string name="quit_recording">Thoát Quay phim màn hình</string>
-    <string name="timer_format">%s</string>
+	<string name="recording_failure">Quay màn hình thất bại, hãy bắt đầu lại</string>
+	<string name="recording_max_size">Quay màn hình đã dừng và lưu lại do dung lượng tập tin video đã đạt đến giới hạn. Bắt đầu quay từ nơi bạn dừng lại nếu bạn chưa kết thúc</string>
     <string name="no_recorder_info">Không có video</string>
     <string name="no_recorder_info2">Chạm vào nút trên màn hình để quay</string>
     <string name="cancel_edit">Hủy</string>
@@ -48,9 +49,8 @@
     <string name="button_goon_recorder">Tiếp tục</string>
     <string name="button_confirm">OK</string>
     <string name="bubble_text">Chạm để bắt đầu quay phim</string>
-    <string name="date_year">/</string>
-    <string name="date_month">/</string>
-    <string name="date_day" />
+	<string name="description_content">Quay phim màn hình là ứng dụng hệ thống được tích hợp sẵn. Hành động này có nghĩa là bạn sẽ hủy tính năng quay phim màn hình. Xác nhận Tiếp tục.</string>
+	<string name="description_title">Giới thiệu Quay phim màn hình</string>									
     <string name="error_open_file_failed_no_app_found">Không tìm thấy ứng dụng để mở tập tin này</string>
     <string name="hint_home">Phím Trang chủ</string>
     <string name="hint_menu">Phím Menu</string>
@@ -65,4 +65,6 @@
     <string name="no_sound">Tắt tiếng</string>
     <string name="mic_sound">Micro</string>
     <string name="loopback_sound">Loa</string>
+	<string name="stop_recording">Dừng quay màn hình</string>
+	<string name="start_recording">Bắt đầu quay màn hình</string>
 </resources>
