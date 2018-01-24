@@ -529,4 +529,5 @@
     <string name="wq_deep_clean_filter_month_ago">1 tháng trước</string>
     <string name="wq_deep_clean_filter_three_month_ago">3 tháng trước</string>
     <string name="wq_deep_clean_filter_years_ago">6 tháng trước</string>
+	<string name="wechat_qq_activity_title">Dọn dẹp sâu</string>
 </resources>

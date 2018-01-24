@@ -204,4 +204,16 @@
     <plurals name="sync_off">
         <item quantity="other">Đồng bộ đã tắt. %1$d mục đang chờ sao lưu</item>
     </plurals>
+	<plurals name="slim_complete_photo_count">
+        <item quantity="other">Đã tối ưu %d ảnh</item>
+		<item quantity="one">Đã tối ưu %d ảnh</item>
+    </plurals>
+	<plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d ảnh chưa được tối ưu. Dừng ngay?"</item>
+        <item quantity="one">"%d ảnh chưa được tối ưu. Dừng ngay?"</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">Còn lại %d ảnh</item>
+        <item quantity="one">Còn lại %d ảnh</item>
+    </plurals>
 </resources>

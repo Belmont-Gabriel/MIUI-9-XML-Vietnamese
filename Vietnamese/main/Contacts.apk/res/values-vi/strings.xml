@@ -579,6 +579,7 @@ Chọn một trong các tùy chọn sau:"</string>
     <string name="description_add_contact">Thêm liên hệ</string>
     <string name="description_view_contact">Xem liên hệ %1$s</string>
     <string name="description_call">Gọi %1$s</string>
+	<string name="description_quick_dial_button">Quay số nhanh</string>
     <string name="description_send_text_message">Gửi tin nhắn đến %1$s</string>
     <string name="description_call_log_unheard_voicemail">Thư thoại chưa đọc</string>
     <string name="description_send_message">Gửi tin nhắn đến %1$s</string>
@@ -1347,4 +1348,11 @@ Danh thiếp sẽ tắt"</string>
     <string name="t9_search_empty_send_sms">Gửi tin nhắn</string>
     <string name="t9_search_empty_edit_contact">Thêm vào liên hệ</string>
     <string name="add_field_toast">Không có mục để thêm.</string>
+	<string name="path_quick_dial_setting">Ứng dụng hệ thống/Liên hệ/Quay số nhanh</string>
+	<string name="quick_dial_setting_delete_dialog_message">Xóa số gọi nhanh được chỉ định?</string>
+	<string name="quick_dial_setting_delete_dialog_option_delete">Xóa</string>
+	<string name="quick_dial_setting_hint">Chạm vào một nút để gán hoặc xoá số quay số nhanh. Nhấn và giữ nút với một số được chỉ định để quay số.</string>
+	<string name="quick_dial_setting_set_dialog_message">Chỉ định số quay số nhanh cho nút này?</string>
+	<string name="quick_dial_setting_set_dialog_option_set">Đồng ý</string>
+	<string name="quick_dial_setting_title">Quay số nhanh</string>
 </resources>

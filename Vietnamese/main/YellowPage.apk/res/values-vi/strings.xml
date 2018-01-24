@@ -421,4 +421,14 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="upload_and_verify_fraud_num_off">Chia sẻ thông tin cuộc gọi không mong muốn</string>
     <string name="upload_and_verify_fraud_num_on">Chia sẻ thông tin cuộc gọi không mong muốn</string>
     <string name="title_activity_di_di_web">DiDi</string>
+	<string name="antispam_curr_version">Phiên bản hiện tại: %d</string>
+    <string name="antispam_data_downloading">Đang tải xuống thông tin ID người gọi. Mất khoảng 3-5 giây để hoàn tất.</string>
+    <string name="antispam_data_downloading_error">Không thể kết nối mạng</string>
+    <string name="antispam_local_newest">Phiên bản hiện tại đã được cập nhật.</string>
+    <string name="antispam_network_remind_summary">Tải bản cập nhật bằng dữ liệu di động?</string>
+    <string name="antispam_network_remind_title">Cảnh báo sử dụng dữ liệu</string>
+    <string name="antispam_pull_newest">Cập nhật lên phiên bản %d thành công</string>
+    <string name="antispam_update_version">Kiểm tra cập nhật</string>
+	<string name="mark_number_notification_title">Báo cáo số đáng ngờ</string>
+    <string name="recharge_charge_value">Giá: %s NDT</string>
 </resources>

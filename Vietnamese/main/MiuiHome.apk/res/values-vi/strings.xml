@@ -292,4 +292,32 @@
     <string name="uninstall_result_multi_succeeded">%1$d ứng dụng đã gỡ cài đặt</string>
     <string name="uninstall_result_other_failed" formatted="false">Không thể gỡ cài đặt %s và %d ứng dụng khác</string>
     <string name="uninstall_result_two_failed">Không thể gỡ cài đặt %s và 1 ứng dụng khác</string>
+	<string name="announce_for_delete_gadget_and_widget">Tiện ích</string>
+	<string name="announce_for_choose_default_screen">chọn màn hình %1$d làm trang chính</string>
+    <string name="announce_for_close_default_preview">đóng thiết lập trang chính</string>
+    <string name="announce_for_close_folder">đóng thư mục</string>
+    <string name="announce_for_close_launcher_menu">đóng menu</string>
+    <string name="announce_for_delete_item">%1$s đã bị xóa</string>
+    <string name="announce_for_drag_enter_delete_zone">kéo mục vào thùng rác</string>
+    <string name="announce_for_drag_enter_folder_grid">thả biểu tượng vào thư mục</string>
+    <string name="announce_for_drag_enter_workspace_thumbnail">kéo mục vào màn hình xem trước %1$d</string>
+    <string name="announce_for_drop">Đã thả %1$s</string>
+    <string name="announce_for_drop_folder_grid_view">thư mục bên trong tại vị trí %1$d</string>
+    <string name="announce_for_drop_folder_icon">trong thư mục %1$s</string>
+    <string name="announce_for_drop_hotseat">trong khu vực dock dưới</string>
+    <string name="announce_for_drop_shortcut_icon">tạo thư mục bằng %1$s, %2$s</string>
+    <string name="announce_for_drop_thumbnail_container">trên màn hình xem trước, số %1$d</string>
+    <string name="announce_for_drop_trash">thùng rác</string>
+    <string name="announce_for_drop_workspace">trên màn hình %1$d, tại hàng %2$d, cột %3$d</string>
+    <string name="announce_for_edit_mode">vào chế độ chỉnh sửa</string>
+    <string name="announce_for_edit_mode_disable">thoát chế độ chỉnh sửa</string>
+    <string name="announce_for_open_default_preview">mở thiết lập trang chính</string>
+    <string name="announce_for_open_folder">mở thư mục %1$s</string>
+    <string name="announce_for_open_launcher_menu">mở menu</string>
+    <string name="announce_for_show_uninstall_dialog">hộp thoại gỡ cài đặt, vui lòng chọn hủy hoặc xác nhận.</string>
+	<string name="content_description_for_shortcut_icon_checked">%1$s, đã kiểm tra</string>
+    <string name="content_description_shortcut_icon_unchecked">%1$s, chưa kiểm tra</string>
+    <string name="content_description_workspace_thumbnail_item">xem trước màn hình, %1$s</string>
+	<string name="recommend_apps_no_data">Không có dữ liệu</string>
+	<string name="recommend_loading">Đang tải</string>
 </resources>

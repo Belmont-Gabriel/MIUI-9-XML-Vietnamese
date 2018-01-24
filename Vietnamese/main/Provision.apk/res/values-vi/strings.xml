@@ -83,4 +83,15 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="content_description_language_picker">Chọn ngôn ngữ</string>
     <string name="other_settings_mifg_online_content">Tạp chí Khóa màn hình</string>
     <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
+	<string name="voice_assist_desp">Nói \"Mi AI\" vào điện thoại. Mi AI sẽ nhận biết âm thanh của bạn và cho phép bạn điều khiển thiết bị.</string>
+	<string name="voice_assist_title">Đánh thức bằng âm thanh</string>
+	<string name="congratulation_swipe">Trượt lên để vào hệ thống</string>
+	<string name="navigation_picker_gesture_guide">Hướng dẫn cử chỉ</string>
+	<string name="navigation_picker_radio_text_full_screen">Chế độ màn hình tràn cạnh</string>
+	<string name="navigation_picker_radio_text_virtual_key">Chế độ phím ảo</string>
+	<string name="sim_card_detecting_check">Không tìm thấy thẻ SIM. Hãy chắc chắn rằng thẻ SIM được lắp đặt đúng và bạn có đủ tiền trong tài khoản.</string>
+	<string name="system_navigation_mode">Chế độ điều hướng hệ thống</string>
+	<string name="terms_of_use_label_gms">"Thông tin cá nhân của bạn rất quan trọng với chúng tôi. Vui lòng đọc Điều khoản Dịch vụ và Chính sách Riêng tư để hiểu rõ những thông tin mà chúng tôi thu thập, sử dụng như thế nào và những lựa chọn dành cho bạn.
+
+Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư trước khi sử dụng MIUI. Dịch vụ Mi, dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm trò chơi, MAB, thành phần hệ thống Miui Daemon và MSA, ứng dụng web, Kho ứng dụng, thống kê, thẻ thông minh, Liên kết Mi, Tài khoản Mi và dịch vụ Google Play sẽ kết nối internet và yêu cầu vị trí của bạn."</string>
 </resources>

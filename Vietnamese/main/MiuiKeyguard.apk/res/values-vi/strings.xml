@@ -175,4 +175,13 @@ Bạn sẽ không thể thực hiện được trừ khi bạn đã đăng nhậ
     <string name="phone_locked_foget_password_footer">"Các bước thực hiện:
 Đăng nhập vào i.mi.com, vào “Tìm thiết bị”, chọn thiết bị và bấm \"Xóa thiết bị\"."</string>
     <string name="phone_locked_foget_password_header">Tôi phải làm gì khi quên mật khẩu?</string>
+    <string name="face_data_siggesstion_next">Tiếp theo</string>
+    <string name="face_data_siggesstion_next_time">Tiếp theo (%dgiây)</string>
+    <string name="face_data_input_ok_msg_angle">"Mở khóa thiết bị bằng khuôn mặt khi màn hình bật.
+(Ghi lại dữ liệu khuôn mặt từ tất cả các góc cần thiết.)"</string>
+    <string name="lock_screen_no_sim_card">Không có thẻ SIM</string>
+    <string name="do_disclosure_generic">Thiết bị này do tổ chức của bạn quản lý</string>
+    <string name="do_disclosure_with_name">Thiết bị này được quản lý bởi %s</string>
+    <string name="face_unlock_reenter_title">Ghi lại dữ liệu khuôn mặt.</string>
+    <string name="face_unlock_reenter_content">Thuật toán mở khóa bằng khuôn mặt đang được cập nhật. Chạm để ghi lại dữ liệu khuôn mặt.</string>
 </resources>

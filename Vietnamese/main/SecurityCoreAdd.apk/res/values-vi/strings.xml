@@ -313,4 +313,16 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
 Một thiết bị - Hai không gian."</string>
     <string name="privacy_password_fingerprint_dialog_title">Quét vân tay của bạn</string>
     <string name="privacy_password_fingerprint_dialog_message">Hãy đặt ngón tay của bạn trên cảm biến</string>
+	<string name="xspace_default_guide_notification_content">Chạm để đổi</string>
+	<string name="xspace_default_guide_notification_main_title">Sử dụng ứng dụng mặc định</string>
+	<string name="xspace_default_guide_notification_xspace_title">Sử dụng ứng dụng kép</string>
+	<string name="weixin_share_sign">Đăng nhập và chia sẻ</string>
+	<string name="xspace_weibo_title">Weibo</string>
+	<string name="weibo_send">Gửi đến Weibo</string>
+    <string name="xspace_qq_title">QQ</string>
+    <string name="qq_send">Gửi đến Bạn bè QQ/thiết bị</string>
+    <string name="xspace_default_setting_label">Ứng dụng mặc định</string>
+    <string name="xspace_default_app_title">Ứng dụng mặc định</string>
+    <string name="xspace_default_app_summary">Đặt ứng dụng mặc định thanh toán, chia sẻ, yêu thích và nhiều thứ khác.</string>
+    <string name="xspace_default_setting_dialog_title">Mặc định</string>
 </resources>

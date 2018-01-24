@@ -347,7 +347,7 @@ phản hồi"</string>
     <string name="main_purchase_tips">Giảm giá</string>
     <string name="main_month_total_used">Đã dùng tháng này</string>
     <string name="main_daily_package">Gói dữ liệu hàng ngày</string>
-	<string name="main_indicator_title">Đang chờ kích hoạt</string>																	 
+	<string name="main_indicator_title">Kích hoạt</string>																 
     <string name="firewall_activity_lable">Hạn chế sử dụng dữ liệu bởi ứng dụng</string>
     <string name="firewall_applist">Ứng dụng</string>
 	<string name="firewall_mobile">Dữ liệu di động</string>
@@ -1698,7 +1698,7 @@ thiết bị của bạn"</string>
     <string name="passwordIncorrect">Tên người dùng hoặc mật khẩu không chính xác</string>
     <string name="access_control_app_is_launching">Đang bắt đầu ứng dụng</string>
     <string name="access_control_need_to_unlock_nofingerprint">Nhập mật khẩu Khóa ứng dụng</string>
-    <string name="access_control_failed_need_to_unlock_nofingerprint">Yêu cầu mật khẩu để mở ứng dụng</string>
+    <string name="access_control_failed_need_to_unlock_nofingerprint">Nhập mật khẩu trước khi mở khóa bằng vân tay mới</string>
     <string name="access_control_fingerprint_not_identified_msg">Không thể đọc vân tay.</string>
     <string name="access_control_need_password">"%s đã thêm thành công
 "</string>
@@ -2840,4 +2840,39 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="game_booster_close">Tăng tốc trò chơi đã tắt</string>
     <string name="databooster_tips_title">Chú ý</string>
     <string name="databooster_tips_message">Bật để giới hạn tất cả thẻ SIM ngoại trừ thẻ dữ liệu. Tắt tính năng này nếu xảy ra lỗi trong các trò chơi bạn chọn.</string>
+	<string name="firewall_temp_rule_reason">%2$s giới hạn kết nối internet %1$s​</string>
+	<string name="power_center_back">Quay lại Tiết kiệm Pin</string>
+	<string name="action_source_call_title">Cuộc gọi đã chặn</string>
+    <string name="delete_input">Xóa</string>
+    <string name="gb_new_feature">Tính năng mới</string>
+    <string name="input_password_hint_text">Nhập mật khẩu</string>
+    <string name="mixed_need_to_confirm">Nhập lại để xác nhận</string>
+    <string name="mixed_password_confirmed_header_confirm">Thiết lập thành công. Chạm để xác nhận.</string>
+    <string name="mixed_password_confirmed_header_continue">Thiết lập thành công. Chạm \"Tiếp theo\".</string>
+    <string name="mixed_pattern_entered_header">Thiết lập mật khẩu thành công</string>
+    <string name="mixed_recording_incorrect_too_short">Nhập ít nhất %d ký tự.</string>
+    <string name="mixed_recording_intro_header">Nhập ít nhất 4 ký tự</string>
+    <string name="mixed_retry_button_text">Hủy</string>
+    <string name="mixed_settings_help_how_to_record">Cách đặt mật khẩu</string>
+    <string name="numeric_need_to_confirm">Nhập lại để xác nhận</string>
+    <string name="numeric_password_confirmed_header_confirm">Thiết lập thành công. Chạm để xác nhận.</string>
+    <string name="numeric_password_confirmed_header_continue">Thiết lập thành công. Chạm \"Tiếp theo\".</string>
+    <string name="numeric_pattern_entered_header">Thiết lập mã PIN thành công</string>
+    <string name="numeric_recording_incorrect_too_short">Nhập ít nhất %d ký tự.</string>
+    <string name="numeric_recording_intro_header">Nhập mật khẩu</string>
+    <string name="numeric_retry_button_text">Hủy</string>
+    <string name="numeric_settings_help_how_to_record">Cách thiết lập mã PIN</string>
+    <string name="password_type">Thay đổi mật khẩu</string>
+    <string name="password_type_underline"><u>Thay đổi mật khẩu</u></string>
+    <string name="quite_all_string">Hủy</string>
+    <string name="set_mixed_password_name">Thiết lập mật khẩu</string>
+    <string name="set_numeric_password_name">Thiết lập mã PIN</string>
+    <string name="set_pattern_password_name">Thiết lập hình mở khóa</string>
+    <string name="unlock_set_unlock_pattern_title">Hình mở khóa</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_password_title">Mật khẩu</string>
+    <string name="unlock_set_unlock_pattern_summary">Kết nối ít nhất 4 điểm</string>
+    <string name="unlock_set_unlock_pin_summary">Nhập 4 chữ số</string>
+    <string name="unlock_set_unlock_password_summary">Có thể kết hợp các ký tự khác nhau</string>
+    <string name="wrong_password">Mật khẩu không chính xác</string>
 </resources>

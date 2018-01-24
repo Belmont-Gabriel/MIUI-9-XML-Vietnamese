@@ -263,4 +263,12 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="number_to_mask_text">
         <item quantity="other">%d thông báo được hiển thị</item>
     </plurals>
+	<plurals name="gb_ad_people_play">
+        <item quantity="other">1$d người đang chơi</item>
+        <item quantity="one">1$d người đang chơi</item>
+    </plurals>
+	<plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">1$d người đang chơi</item>
+        <item quantity="one">1$d người đang chơi</item>
+    </plurals>
 </resources>

@@ -18,4 +18,7 @@
     <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d ứng dụng đã gỡ cài đặt</item>
     </plurals>
+	<plurals name="announce_for_drag">
+        <item quantity="other">đang kéo %1$d mục</item>
+    </plurals>
 </resources>
