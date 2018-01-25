@@ -489,7 +489,6 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
 bạn nên tạo một bản sao lưu iCloud trước."</string>
     <string name="list_footer_tip_title">Hướng dẫn:</string>
     <string name="import_tip_summary">Do vấn đề tương thích, bạn chỉ có thể chuyển một phần dữ liệu từ thiết bị iOS. Đảm bảo rằng bạn đã tạo một bản sao lưu iCloud trước khi bắt đầu chuyển.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">Nhập</string>
     <string name="select_empty">Chọn mục để nhập</string>
     <string name="select_item_summary_wait">Đang chờ…</string>

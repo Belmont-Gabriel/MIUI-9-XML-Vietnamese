@@ -430,5 +430,4 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="antispam_pull_newest">Cập nhật lên phiên bản %d thành công</string>
     <string name="antispam_update_version">Kiểm tra cập nhật</string>
 	<string name="mark_number_notification_title">Báo cáo số đáng ngờ</string>
-    <string name="recharge_charge_value">Giá: %s NDT</string>
 </resources>
