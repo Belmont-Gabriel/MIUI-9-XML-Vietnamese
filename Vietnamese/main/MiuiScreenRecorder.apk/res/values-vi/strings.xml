@@ -69,6 +69,4 @@
 	<string name="start_recording">Bắt đầu quay màn hình</string>
 	<string name="app_notification_info">Trình ghi Hình đang hoạt động ở chế độ nền</string>
 	<string name="recording_without_mic">Microphone bị chiếm dụng và không thể ghi lại âm thanh của microphone</string>
-	<string name="low_memory">Bạn có ít hơn 1GB dung lượng trống. Bạn có thể quay đến 20 phút.</string>
-	
 </resources>
