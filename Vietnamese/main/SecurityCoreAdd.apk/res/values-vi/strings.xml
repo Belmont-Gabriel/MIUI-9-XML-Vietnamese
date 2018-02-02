@@ -252,7 +252,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="scanner_fingerprint">Đang quét vân tay…</string>
     <string name="scanner_fingerprint_enter_second">"Quét vân tay Không gian thứ hai
 để vào Không gian thứ hai từ Màn hình khóa"</string>
-    <string name="xspace_guide_title">Tạo Ứng dụng kép cho %s</string>
+    <string name="xspace_guide_title">Tạo ứng dụng kép</string>
     <string name="xspace_guide_des">Sử dụng 2 tài khoản mà không cần chuyển đổi</string>
     <string name="xpsace_guide_button">Tạo</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>

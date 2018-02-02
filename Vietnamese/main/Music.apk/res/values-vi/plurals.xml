@@ -114,4 +114,7 @@
     <plurals name="artist_list_fragment_item_count_format">
         <item quantity="other">%d bài hát</item>
     </plurals>
+	<plurals name="Nassociate_songs">
+        <item quantity="other">Đang tìm kiếm bìa album và lời bài hát (%1$d/%2$d)</item>
+    </plurals>
 </resources>

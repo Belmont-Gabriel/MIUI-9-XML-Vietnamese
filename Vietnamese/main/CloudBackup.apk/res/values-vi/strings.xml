@@ -165,4 +165,8 @@
     <string name="notification_channel_remind">Nhắc nhở</string>
     <string name="done_remove">Xóa thành công</string>
     <string name="doing_restore_home">Đang khôi phục Màn hình chính và cài đặt…</string>
+	<string name="dialog_btn_next">Tiếp theo</string>
+	<string name="dialog_btn_restore_skip">Khôi phục sau</string>
+	<string name="dialog_msg_restore_require_wlan">Khôi phục sao lưu cần kết nối với Wi-Fi.</string>
+	<string name="dialog_title_require_wlan">Kết nối Wi-Fi</string>
 </resources>

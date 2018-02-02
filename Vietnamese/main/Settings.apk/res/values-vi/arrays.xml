@@ -1162,6 +1162,40 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tập tin</item>
         <item>Ghi chú</item>
     </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Không</item>
+        <item>Hiển thị ứng dụng gần đây</item>
+        <item>Khởi động trình Trợ lý</item>
+        <item>Khởi chạy Google Now</item>
+        <item>Đóng ứng dụng hiện tại</item>
+        <item>Khởi chạy tìm kiếm nhanh</item>
+        <item>Hiển thị menu</item>
+    </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Bật (kiến nghị)</item>
+        <item>Không sử dụng (nguy hiểm)</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Bật</item>
+        <item>Không sử dụng</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Thạch anh tím</item>
+        <item>Hồng ngọc</item>
+        <item>Hoàng ngọc</item>
+        <item>Ngọc lục bảo</item>
+        <item>Ngọc hồng lựu</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Sáng (mặc định)</item>
+        <item>Tự nhiên</item>
+        <item>Tiêu chuẩn</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Tăng cường màu sắc</item>
+        <item>Màu tự nhiên giống như xem bằng mắt thường</item>
+        <item>Tối ưu màu sắc cho nội dung số</item>
+    </string-array>
     <string-array name="standard_configuration_version_description_primary">
         <item>CPU</item>
         <item>Dung lượng pin</item>
@@ -1169,6 +1203,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>K.thước màn hình</item>
         <item>Độ phân giải</item>
         <item>P.bản Android</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_without_wifi_only">
+        <item>Ưu tiên Wi-Fi</item>
+        <item>Ưu tiên mạng di động</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Giảm độ trễ</item>
@@ -1188,20 +1226,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Độ phân giải</item>
         <item>P.bản Android</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Ưu tiên Wi-Fi</item>
-        <item>Ưu tiên mạng di động</item>
-    </string-array>
-    <string-array name="color_mode_names">
-        <item>Sáng (mặc định)</item>
-        <item>Tự nhiên</item>
-        <item>Tiêu chuẩn</item>
-    </string-array>
-    <string-array name="color_mode_descriptions">
-        <item>Tăng cường màu sắc</item>
-        <item>Màu tự nhiên giống như xem bằng mắt thường</item>
-        <item>Tối ưu màu sắc cho nội dung số</item>
-    </string-array>
     <string-array name="cellcular2wifi_entries">
         <item>Kết nối tự động</item>
         <item>Kết nối thủ công</item>
@@ -1220,33 +1244,9 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>2 giờ</item>
         <item>8 giờ</item>
     </string-array>
-    <string-array name="screen_key_long_press_action">
-        <item>Không</item>
-        <item>Hiển thị ứng dụng gần đây</item>
-        <item>Khởi động trình Trợ lý</item>
-        <item>Khởi chạy Google Now</item>
-        <item>Đóng ứng dụng hiện tại</item>
-        <item>Khởi chạy tìm kiếm nhanh</item>
-        <item>Hiển thị menu</item>
-    </string-array>
     <string-array name="connect_mode_entries">
         <item>chế độ tương thích</item>
         <item>chế độ cao</item>
-    </string-array>
-    <string-array name="install_non_market_app_entries">
-        <item>Bật (kiến nghị)</item>
-        <item>Không sử dụng (nguy hiểm)</item>
-    </string-array>
-    <string-array name="install_non_market_app_contents">
-        <item>Bật</item>
-        <item>Không sử dụng</item>
-    </string-array>
-    <string-array name="pink_panel_led_color_entries">
-        <item>Thạch anh tím</item>
-        <item>Hồng ngọc</item>
-        <item>Hoàng ngọc</item>
-        <item>Ngọc lục bảo</item>
-        <item>Ngọc hồng lựu</item>
     </string-array>
     <string-array name="app_ops_permissions">
         <item>Được phép</item>

@@ -301,4 +301,5 @@
     <string name="bugreport_feedback_from">Từ: %s</string>
     <string name="michat_mesage_resend_error_network">Không thể kết nối mạng</string>
     <string name="michat_mesage_send_error_network">Không thể gửi, kiểm tra kết nối mạng</string>
+	<string name="submit_dialog_content_global">"Phản hồi của bạn, cùng với tệp đính kèm và nhật ký, sẽ được gửi đến các máy chủ của MIUI. Nhật ký có thể chứa thông tin cá nhân và dữ liệu vị trí của bạn. Bạn có thể chọn không gửi bản ghi bằng cách bỏ chọn hộp tương ứng."</string>
 </resources>

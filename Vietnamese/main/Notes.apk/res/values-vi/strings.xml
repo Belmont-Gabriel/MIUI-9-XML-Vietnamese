@@ -230,4 +230,6 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="toast_unmark_privacy_notes">Bỏ ẩn thành công</string>
     <string name="toast_unmark_privacy_notes_count">Bỏ ẩn %1$s thành công</string>
     <string name="widget_under_privacy_mode">Không thể xem ghi chú khi ở chế độ Khách</string>
+    <string name="refuse_to_open_as_pic_because_of_loading">Chờ đến khi ghi chú được tải và thử lại.</string>
+    <string name="toast_cancel_to_insert_image">Không thể thêm ảnh.</string>
 </resources>

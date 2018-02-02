@@ -756,6 +756,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="networkchanged_exception_title">Đã thay đổi kết nối</string>
     <string name="networkchanged_exception_summary">Kết nối mạng đã thay đổi. Vui lòng kiểm tra lại.</string>
     <string name="network_test_speed">Kiểm tra tốc độ Wi-Fi</string>
+	<string name="network_changed_noti_title">Đã ngắt kết nối khỏi Wi-Fi</string>
+    <string name="network_changed_noti_summary">Sử dụng dữ liệu di động</string>
     <string name="network_speed_for_apps_title">Kết nối</string>
     <string name="network_speed_for_apps_total">Tốc độ kết nối</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Bắt buộc đóng ứng dụng này?</string>
@@ -1632,7 +1634,7 @@ thiết bị của bạn"</string>
     <string name="preferred_app_entries_music">Nhạc</string>
     <string name="preferred_app_entries_email">Email</string>
     <string name="card_main_applock_title">Khóa ứng dụng</string>
-    <string name="card_main_applock_summary">Bảo vệ ứng dụng riêng bằng Khóa ứng dụng</string>
+    <string name="card_main_applock_summary">Bảo vệ tin nhắn, ảnh và các mục khác bằng mật khẩu.</string>
     <string name="card_main_applock_action">Bật</string>
     <string name="card_main_deepclean_title">Dọn dẹp sâu</string>
     <string name="card_main_deepclean_summary">Xóa tập tin không cần thiết</string>
@@ -1678,6 +1680,8 @@ thiết bị của bạn"</string>
     <string name="ac_summaryOff">Đã tắt, không yêu cầu mật khẩu để mở ứng dụng</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
     <string name="lockpattern_tutorial_continue_label">Tiếp theo</string>
+	<string name="lockpattern_tutorial_continue_label_next">Chạm \"Tiếp theo\"</string>
+    <string name="lockpattern_tutorial_continue_label_confirm">Chạm \"OK\"</string>
     <string name="lockpattern_retry_button_text">Vẽ lại</string>
     <string name="lockpattern_continue_button_text">Tiếp theo</string>
     <string name="lockpattern_confirm_button_text">OK</string>
@@ -2841,7 +2845,7 @@ Hãy chắc chắn rằng bạn biết nguồn gốc thiết bị và liên hệ
     <string name="databooster_tips_title">Chú ý</string>
     <string name="databooster_tips_message">Bật để giới hạn tất cả thẻ SIM ngoại trừ thẻ dữ liệu. Tắt tính năng này nếu xảy ra lỗi trong các trò chơi bạn chọn.</string>
 	<string name="firewall_temp_rule_reason">%2$s giới hạn kết nối internet %1$s​</string>
-	<string name="power_center_back">Quay lại Tiết kiệm Pin</string>
+	<string name="power_center_back">Quay lại Sử dụng pin</string>
 	<string name="action_source_call_title">Cuộc gọi đã chặn</string>
     <string name="delete_input">Xóa</string>
     <string name="gb_new_feature">Tính năng mới</string>
