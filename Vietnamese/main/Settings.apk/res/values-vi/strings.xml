@@ -777,6 +777,13 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_skip_anyway">Vẫn bỏ qua</string>
     <string name="wifi_dont_skip">Quay lại</string>
     <string name="wifi_skipped_message">CẢNH BÁO: Nếu bạn bỏ qua Wi‑Fi, điện thoại của bạn sẽ chỉ sử dụng dữ liệu di động cho bản cập nhật và tải xuống ban đầu. Để không phải trả phí dữ liệu, hãy kết nối với Wi‑Fi.</string>
+    <string name="wifi_and_mobile_skipped_message">"Nếu bạn bỏ qua Wi‑Fi:
+
+"<li>Điện thoại của bạn sẽ không có kết nối Internet.</li>"
+
+"<li>Bạn sẽ không nhận được bản cập nhật phần mềm cho đến khi kết nối với Internet.</li>"
+
+"<li>Tại thời điểm này, bạn không thể kích hoạt tính năng bảo vệ thiết bị.</li></string>
     <string name="wifi_connect_failed_message">Điện thoại không thể kết nối với mạng Wi‑Fi này.</string>
     <string name="wifi_saved_access_points_titlebar">Mạng đã lưu</string>
     <string name="wifi_advanced_titlebar">Wi-Fi nâng cao</string>
@@ -1213,6 +1220,11 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="menu_restore">Đặt lại</string>
     <string name="restore_default_apn_completed">Đặt lại cài đặt APN mặc định đã hoàn tất.</string>
     <string name="reset_network_title">Đã đặt lại cài đặt mạng</string>
+    <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
+
+"<li>Wi‑Fi</li>"
+"<li>Dữ liệu di động</li>"
+"<li>Bluetooth</li></string>
     <string name="reset_network_button_text">Đặt lại cài đặt</string>
     <string name="reset_network_final_desc">Đặt lại tất cả cài đặt mạng? Bạn không thể hoàn tác thao tác này!</string>
     <string name="reset_network_final_button_text">Đặt lại cài đặt</string>
@@ -1397,7 +1409,7 @@ Có người dùng khác trên thiết bị này.
     <string name="install_applications_title">Cho phép tất cả các nguồn ƯD</string>
     <string name="install_unknown_applications_title">Cho phép bạn cài đặt ƯD từ những nguồn không phải là Google Play</string>
     <string name="install_unknown_applications">Cho phép cài đặt ứng dụng từ những nguồn không xác định</string>
-    <string name="install_all_warning">Điện thoại và dữ liệu cá nhân của bạn dễ bị tấn công hơn bởi các ứng dụng từ nguồn không xác định. Bạn đồng ý rằng bạn tự chịu trách nhiệm cho mọi hỏng hóc đối với điện thoại của bạn hoặc mất mát dữ liệu có thể phát sinh do sử dụng những ứng dụng này.</string>
+    <string name="install_all_warning">Điện thoại và dữ liệu cá nhân của bạn dễ bị các ứng dụng không xác định tấn công hơn. Bằng cách cài đặt ứng dụng từ nguồn này, bạn đồng ý tự chịu trách nhiệm cho mọi hỏng hóc đối với điện thoại của mình hoặc mất mát dữ liệu có thể phát sinh do sử dụng những ứng dụng này.</string>
     <string name="advanced_settings">Cài đặt nâng cao</string>
     <string name="advanced_settings_summary">Bật thêm tùy chọn cài đặt</string>
     <string name="application_info_label">Thông tin ứng dụng</string>
@@ -1706,8 +1718,8 @@ Một số ứng dụng có thể không hoạt động cho đến khi được 
     <string name="accessibility_screen_magnification_summary">"Khi tính năng này được bật, bạn có thể phóng to và thu nhỏ bằng cách chạm ba lần vào màn hình.
 
 Trong khi phóng to, bạn có thể:
-"<ul><li>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
-"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></li></ul>"
+"<li><ul>"Xoay: Kéo hai hoặc nhiều ngón tay qua màn hình.
+"<li>Điều chỉnh mức thu phóng: Chụm hai hoặc nhiều ngón tay với nhau hoặc tách chúng ra.</li></ul></li>"
 
 Bạn cũng có thể tạm thời thu phóng các mục bên dưới ngón tay bạn bằng cách nhấn ba lần và giữ. Ở trạng thái thu phóng này, bạn có thể kéo ngón tay để khám phá các phần khác nhau của màn hình. Thả ngón tay để trở về trạng thái trước.
 
@@ -2781,6 +2793,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="managed_user_title">Tất cả ứng dụng hoạt động</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Hồ sơ công việc này được quản lý bằng:</string>
     <string name="managing_admin">Quản lý bởi %s</string>
+	<string name="experimental_category_title">Thử nghiệm</string>
     <string name="experimental_preference">(Thử nghiệm)</string>
     <string name="display_auto_rotate_title">Tự động xoay màn hình</string>
     <string name="display_auto_rotate_rotate">Bật</string>
@@ -4700,18 +4713,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="lock_screen_secure_after_timeout_immediately_summary">Yêu cầu mật khẩu ngay.</string>
     <string name="unlock_disable_frp_warning_title_profile">Xóa tính năng bảo vệ hồ sơ?</string>
     <string name="unlock_disable_frp_warning_content_profile">Tính năng bảo vệ hồ sơ sẽ không làm việc sau khi xóa mật khẩu.</string>
-    <string name="wifi_and_mobile_skipped_message">"Nếu bạn bỏ qua Wi‑Fi:
-
-"<li>Điện thoại của bạn sẽ không có kết nối Internet.</li>"
-
-"<li>Bạn sẽ không nhận được bản cập nhật phần mềm cho đến khi kết nối với Internet.</li>"
-
-"<li>Tại thời điểm này, bạn không thể kích hoạt tính năng bảo vệ thiết bị.</li></string>
-    <string name="reset_network_desc">"Điều này sẽ đặt lại tất cả cài đặt mạng, bao gồm:
-
-"<li>Wi‑Fi</li>"
-"<li>Dữ liệu di động</li>"
-"<li>Bluetooth</li></string>
     <string name="dirac_control">Tối ưu chất lượng âm thanh</string>
     <string name="dirac_mode_off">Dirac tắt</string>
     <string name="dirac_mode_in_ear">Tai nghe Mi in-ear rút gọn</string>
@@ -5809,4 +5810,60 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s sau khi chuyển sang chế độ ngủ</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s / ngay sau khi chuyển sang chế độ ngủ</string>
+    <string name="security_dashboard_summary">Khóa màn hình, vân tay</string>
+    <string name="security_dashboard_summary_no_fingerprint">Khóa màn hình</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Chỉ cần chạm vào cảm biến vân tay để mở khóa điện thoại của bạn, ủy quyền mua hàng hoặc đăng nhập vào ứng dụng. Hãy cẩn trọng với vân tay mà bạn thêm. Ngay cả một vân tay được thêm cũng có thể làm tất cả những việc này.
+
+Lưu ý: Vân tay của bạn có thể kém an toàn hơn so với hình mở khóa hoặc mã PIN mạnh."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Chỉ cần chạm vào cảm biến vân tay để ủy quyền mua hàng hoặc đăng nhập vào ứng dụng. Hãy cẩn trọng với vân tay mà bạn thêm. Thậm chí một vân tay được thêm có thể làm tất cả những việc này.
+    
+Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa thiết bị này. Để biết thêm thông tin, hãy liên hệ với quản trị viên của tổ chức."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Sử dụng vân tay của bạn</string>
+    <string name="security_status">Trạng thái Bảo mật</string>
+    <string name="security_status_title">Trạng thái bảo mật</string>
+    <string name="security_update">Cập nhật Bảo mật</string>
+	<string name="enterprise_privacy_always_on_vpn_device">Đã bật tùy chọn luôn bật VPN</string>
+    <string name="enterprise_privacy_always_on_vpn_personal">Đã bật tùy chọn luôn bật VPN trong hồ sơ cá nhân của bạn</string>
+    <string name="enterprise_privacy_always_on_vpn_work">Đã bật tùy chọn luôn bật VPN trong hồ sơ công việc của bạn</string>
+    <string name="enterprise_privacy_apps_count_estimation_info">Số lượng ứng dụng được ước tính. Có thể không bao gồm các ứng dụng được cài đặt bên ngoài Cửa hàng Play.</string>
+    <string name="enterprise_privacy_bug_reports">Báo cáo lỗi gần đây nhất</string>
+    <string name="enterprise_privacy_ca_certs">Chứng chỉ tin cậy</string>
+    <string name="enterprise_privacy_camera_access">Quyền truy cập máy ảnh</string>
+    <string name="enterprise_privacy_device_access_category">Quyền truy cập của bạn vào thiết bị này</string>
+    <string name="enterprise_privacy_enterprise_data">Dữ liệu được liên kết với tài khoản công việc của bạn, chẳng hạn như email và lịch</string>
+    <string name="enterprise_privacy_enterprise_installed_packages">Ứng dụng đã cài đặt</string>
+    <string name="enterprise_privacy_enterprise_set_default_apps">Ứng dụng mặc định</string>
+    <string name="enterprise_privacy_exposure_category">Loại thông tin mà tổ chức của bạn có thể xem</string>
+    <string name="enterprise_privacy_exposure_changes_category">Những thay đổi do quản trị viên của tổ chức bạn thực hiện</string>
+    <string name="enterprise_privacy_failed_password_wipe_device">Những lần nhập mật khẩu không thành công trước khi xóa tất cả dữ liệu thiết bị</string>
+    <string name="enterprise_privacy_failed_password_wipe_work">Những lần nhập mật khẩu không thành công trước khi xóa dữ liệu hồ sơ công việc</string>
+    <string name="enterprise_privacy_global_http_proxy">Đặt proxy HTTP chung</string>
+    <string name="enterprise_privacy_header">"Để cung cấp quyền truy cập vào dữ liệu công việc, tổ chức của bạn có thể thay đổi cài đặt và cài đặt phần mềm trên thiết bị.
+
+Để biết thêm chi tiết, hãy liên hệ với quản trị viên tổ chức của bạn."</string>
+    <string name="enterprise_privacy_input_method">Bàn phím mặc định</string>
+    <string name="enterprise_privacy_input_method_name">Đặt thành %s</string>
+    <string name="enterprise_privacy_installed_packages">Danh sách ứng dụng trên thiết bị của bạn</string>
+    <string name="enterprise_privacy_location_access">Quyền truy cập vị trí</string>
+    <string name="enterprise_privacy_lock_device">Quản trị viên có thể khóa thiết bị và đặt lại mật khẩu</string>
+    <string name="enterprise_privacy_microphone_access">Quyền truy cập micrô</string>
+    <string name="enterprise_privacy_network_logs">Nhật ký lưu lượng truy cập mạng gần đây nhất</string>
+    <string name="enterprise_privacy_none">Không có</string>
+    <string name="enterprise_privacy_security_logs">Nhật ký bảo mật gần đây nhất</string>
+    <string name="enterprise_privacy_settings">Thông tin thiết bị được quản lý</string>
+    <string name="enterprise_privacy_settings_summary_generic">Thay đổi và cài đặt do tổ chức của bạn quản lý</string>
+    <string name="enterprise_privacy_settings_summary_with_name">Thay đổi và cài đặt do %s quản lý</string>
+    <string name="enterprise_privacy_usage_stats">Thời gian và dữ liệu được sử dụng trong mỗi ứng dụng</string>
+    <string name="enterprise_privacy_wipe_device">Quản trị viên có thể xóa tất cả dữ liệu thiết bị</string>
+    <string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
+    <string name="install_type_instant">Ứng dụng tức thì</string>
+    <string name="installed">Đã cài đặt</string>
+    <string name="instant_app_details_summary">Thông tin thêm về %1$s</string>
+    <string name="instant_apps_account">Tài khoản ứng dụng tức thì</string>
+	<string name="external_source_switch_title">Cho phép từ nguồn này</string>
+	<string name="external_source_trusted">Được phép</string>
+	<string name="external_source_untrusted">Không được phép</string>
+	<string name="user_credential_none_installed">Không có thông tin xác thực người dùng nào được cài đặt</string>
+	<string name="encryption_and_credential_settings_summary">Điện thoại được mã hóa</string>
+    <string name="encryption_and_credential_settings_title">Mã hóa và thông tin đăng nhập</string>
 </resources>
