@@ -4349,8 +4349,8 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="single_key_use">Phím đơn</string>
     <string name="single_key_use_summary">Dùng phím Trang chính thay thế cho hai phím còn lại</string>
     <string name="settings_forbidden_message">Cài đặt này đã bị vô hiệu hóa</string>
-    <string name="auto_disable_screenbuttons_title">Tự động tắt phím đều hướng</string>
-    <string name="auto_disable_screenbuttons_summary">Tự động tắt phím đều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
+    <string name="auto_disable_screenbuttons_title">Tự động tắt phím điều hướng</string>
+    <string name="auto_disable_screenbuttons_summary">Tự động tắt phím điều hướng khi sử dụng ứng dụng đã chọn. Nhấp đúp vào phím bất kỳ để bật lại.</string>
     <string name="auto_disable_screenbuttons_ask">Hỏi để tắt</string>
     <string name="auto_disable_screenbuttons_auto">Luôn tắt</string>
     <string name="auto_disable_screenbuttons_no">Không bao giờ tắt</string>
