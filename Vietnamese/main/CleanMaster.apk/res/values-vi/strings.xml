@@ -530,4 +530,8 @@
     <string name="wq_deep_clean_filter_three_month_ago">3 tháng trước</string>
     <string name="wq_deep_clean_filter_years_ago">6 tháng trước</string>
 	<string name="wechat_qq_activity_title">Dọn dẹp sâu</string>
+	<string name="auto_clean_time_every_day">Mỗi ngày</string>
+    <string name="auto_clean_time_three_day">Mỗi 3 ngày</string>
+    <string name="auto_clean_time_seven_day">Mỗi 7 ngày</string>
+    <string name="auto_clean_time_fifteen_day">Mỗi 15 ngày</string>
 </resources>
