@@ -5807,7 +5807,6 @@ Bạn có thể đặt khóa màn hình mới cho cả thiết bị và hồ sơ
     <string name="wifi_eap_info_reconnect">Xác thực thất bại, vui lòng kiểm lại!</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s sau khi chuyển sang chế độ ngủ</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s / ngay sau khi chuyển sang chế độ ngủ</string>
     <string name="security_dashboard_summary">Khóa màn hình, vân tay</string>

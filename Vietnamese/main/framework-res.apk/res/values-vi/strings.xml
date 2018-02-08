@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Chú ý</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Video này không hợp lệ để phát trực tuyến đến thiết bị này.</string>
     <string name="selectTextMode">Chọn văn bản</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">Biểu tượng vân tay</string>
     <string name="month_day_year" formatted="false">Ngày %d tháng %-m năm %Y</string>
     <string name="time_of_day" formatted="false">%H:%M:%S</string>

@@ -26,7 +26,6 @@
     <string name="mibi_button_cancel">Hủy</string>
     <string name="mibi_button_confirm">Xác nhận</string>
     <string name="mibi_button_count_down_finish">OK (%1$s)</string>
-    <string name="mibi_button_count_down_reget">%1$s</string>
     <string name="mibi_button_custom_service_phone">Hiểu rồi</string>
     <string name="mibi_button_next">Tiếp theo</string>
     <string name="mibi_button_pay">Xác nhận</string>
@@ -34,7 +33,6 @@
     <string name="mibi_button_retry">Thử lại</string>
     <string name="mibi_cancel">Hủy</string>
     <string name="mibi_change_security_lock">Thêm khóa màn hình</string>
-    <string name="mibi_colon">": "</string>
     <string name="mibi_deduct_goods_name">Sản phẩm</string>
     <string name="mibi_deduct_open_prompt">%1$s sẽ có thể tính phí bạn tự động bằng cách sử dụng %2$s mà không cần xác minh. Bạn có thể tắt tính năng này trong %1$s</string>
     <string name="mibi_deduct_order_price">Giá</string>
