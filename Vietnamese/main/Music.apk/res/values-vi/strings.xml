@@ -1006,7 +1006,6 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
     <string name="billboard_song_subtitle">— %s</string>
 	<string name="feed_back">Phản hồi</string>
     <string name="user_agreement">Thỏa thuận Người dùng</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
 	<string name="privacy_policy">Chính sách Riêng tư</string>
 	<string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
 	<string name="play_mode_all_loop">Lặp lại tất cả</string>
