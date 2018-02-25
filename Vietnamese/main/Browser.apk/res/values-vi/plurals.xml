@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="adblock_notification">
+        <item quantity="other">Đã chặn %d quảng cáo</item>
+        <item quantity="one">Đã chặn %d quảng cáo</item>
+    </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d mục đã chặn</item>
         <item quantity="one">%d mục đã chặn</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Xóa %d tác vụ?</item>
+        <item quantity="one">Xóa %d tác vụ?</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d kết quả phù hợp</item>
@@ -10,14 +18,31 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">%d ngày trước</item>
+        <item quantity="one">%d ngày trước</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d/%2$d kết quả</item>
         <item quantity="one">1 kết quả</item>
     </plurals>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">Đã chặn %d QC</item>
+        <item quantity="one">Đã chặn %d QC</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">%d bài hát</item>
+        <item quantity="one">%d bài hát</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">%d album</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">%d bài hát phổ biến</item>
+        <item quantity="one">%d bài hát phổ biến</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">Đã chọn %1$d mục</item>
-        <item quantity="one">Đã chọn %1$d mục</item>
+        <item quantity="other">Đã chọn %1$d</item>
+        <item quantity="one">Đã chọn %1$d</item>
     </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">Đã xóa %1$d video thành công.</item>
@@ -35,8 +60,16 @@
         <item quantity="other">Xóa %1$d mục khỏi lịch sử?</item>
         <item quantity="one">Xóa %1$d mục khỏi lịch sử?</item>
     </plurals>
+    <plurals name="video_push_multi_message">
+        <item quantity="other">%1$d cập nhật khả dụng.</item>
+        <item quantity="one">%1$d cập nhật khả dụng.</item>
+    </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">Còn lại %d phút</item>
         <item quantity="one">Còn lại %d phút</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Quang</item>
+        <item quantity="one">Nắng</item>
     </plurals>
 </resources>
