@@ -4406,7 +4406,6 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="security_encryption_attention_info">Bạn có thể mã hóa tài khoản, cài đặt, ứng dụng tải xuống cùng với dữ liệu, phương tiện, và tập tin khác.</string>
     <string name="security_encryption_alert_dialog_title_first">Thiết lập khóa màn hình trước</string>
     <string name="security_encryption_alert_dialog_info_first">Đặt mật khẩu màn hình khóa để bật tính năng này. Bạn phải nhập mật khẩu màn hình khóa sau mỗi lần khởi động lại để giải mã và sử dụng thiết bị bình thường.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_1">Bạn sẽ không thể sử dụng báo thức khi thiết bị tắt.</string>
     <string name="security_encryption_attention_2">Bạn phải nhập mật khẩu màn hình khóa sau mỗi lần khởi động lại để giải mã thiết bị. Khởi động lại sẽ mất nhiều thời gian hơn bình thường.</string>
     <string name="security_encryption_attention_3">Bạn phải đặt mật khẩu màn hình khóa mới.</string>
