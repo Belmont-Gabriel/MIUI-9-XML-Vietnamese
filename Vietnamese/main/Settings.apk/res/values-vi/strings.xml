@@ -5864,4 +5864,9 @@ Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa th
 	<string name="user_credential_none_installed">Không có thông tin xác thực người dùng nào được cài đặt</string>
 	<string name="encryption_and_credential_settings_summary">Điện thoại được mã hóa</string>
     <string name="encryption_and_credential_settings_title">Mã hóa và thông tin đăng nhập</string>
+	<string name="privacy_authorize_cloud_msg">"Để đảm bảo an ninh cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn thu hồi xác thực đối với dịch vụ Mi Cloud (bao gồm đồng bộ và sao lưu)."</string>
+  <string name="privacy_authorize_dialog_message">&lt;Dữ liệu&gt;"Để sử dụng các tính năng cơ bản của dịch vụ Mi Cloud, bạn phải đồng ý rằng Xiaomi sẽ thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách bảo mật của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn \ "Đồng ý \" có nghĩa là bạn đã đọc và đồng ý với chúng tôi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Chính sách bảo mật&amp;lt;/a&amp;gt; và &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Thỏa thuận người dùng&amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Dữ liệu&gt;</string>
+  <string name="wfd_status_dialog_disconnect">Ngắt kết nối</string>
+  <string name="wfd_status_dialog_message">Nội dung màn hình đang được hiển thị trên thiết bị hiển thị khác thông qua kết nối không dây</string>
+  <string name="wfd_status_dialog_title">Kết nối không dây</string>
 </resources>
