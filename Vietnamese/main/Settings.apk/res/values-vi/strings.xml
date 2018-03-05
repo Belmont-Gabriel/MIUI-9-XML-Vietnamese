@@ -5864,4 +5864,59 @@ Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa th
 	<string name="user_credential_none_installed">Không có thông tin xác thực người dùng nào được cài đặt</string>
 	<string name="encryption_and_credential_settings_summary">Điện thoại được mã hóa</string>
     <string name="encryption_and_credential_settings_title">Mã hóa và thông tin đăng nhập</string>
+	<string name="privacy_authorize_dialog_agree">Đồng ý</string>
+    <string name="privacy_authorize_dialog_exit">Thoát</string>
+    <string name="privacy_authorize_dialog_message">%1$s yêu cầu bạn đọc và đồng ý với %2$s. Ứng dụng cần kết nối mạng để làm việc bình thường. Đồng ý?</string>
+    <string name="privacy_authorize_network_error">Kết nối mạng và thử lại.</string>
+    <string name="privacy_authorize_privacy_policy">Chính sách Riêng tư</string>
+    <string name="privacy_authorize_revoke">Hủy</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Sau khi bạn hủy ủy quyền, ứng dụng sẽ dừng thu thập dữ liệu, và tất cả dữ liệu liên quan sẽ bị xóa khỏi máy chủ. Điều này có thể làm ứng dụng không sử dụng được. Vẫn tiếp tục hủy?</string>
+    <string name="privacy_authorize_revoke_dialog_title">Đang hủy ủy quyền</string>
+    <string name="privacy_authorize_revoke_failed">Không thể hủy ủy quyền</string>
+    <string name="privacy_authorize_revoke_success">Đã hủy ủy quyền thành công</string>
+    <string name="privacy_authorize_revoke_time">Hủy (%1$d giây)</string>
+    <string name="privacy_authorize_revoke_title">Ủy quyền &amp; Hủy bỏ</string>
+    <string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
+    <string name="privacy_authorize_success">Đã cấp ủy quyền thành công</string>
+    <string name="privacy_authorize_title">Đang cấp ủy quyền</string>
+	<string name="user_installed_services_category_title">Các dịch vụ đã tải xuống</string>
+	<string name="screen_reader_category_title">Trình đọc màn hình</string>
+	<string name="display_category_title">Màn hình</string>
+	<string name="display_summary">Chuyển sang chế độ ngủ sau %1$s không hoạt động</string>
+	<string name="display_summary_example">Chuyển sang chế độ ngủ sau 10 phút không hoạt động</string>
+	<string name="display_dashboard_summary">Hình nền, ngủ, kích thước phông chữ</string>
+	<string name="fingerprint_payment">Thanh toán bằng vân tay</string>
+	<string name="fingerprint_intro_error_max">Bạn đã thêm số vân tay tối đa</string>
+	<string name="fingerprint_intro_error_unknown">Không thể thêm dấu vân tay khác</string>
+	<string name="fingerprint_swipe_for_notifications_summary">Để kiểm tra thông báo, hãy vuốt xuống trên cảm biến vân tay ở mặt sau điện thoại.</string>
+	<string name="fingerprint_swipe_for_notifications_title">Vuốt dấu vân tay để xem thông báo</string>
+	<string name="fingerprint_unlock_skip_fingerprint">Tiếp tục mà không thiết lập vân tay</string>
+	<string name="fingerprint_unlock_title">Bạn có thể mở khóa điện thoại bằng vân tay của mình. Để đảm bảo an toàn, tùy chọn này yêu cầu một khóa màn hình dự phòng.</string>
+	<string name="accessibility_shortcut_service_title">Dịch vụ phím tắt</string>
+	<string name="accessibility_summary_state_disabled">TẮT</string>
+    <string name="accessibility_summary_state_enabled">BẬT</string>
+	<string name="accessibility_shortcut_service_on_lock_screen_title">Cho phép từ màn hình khóa</string>
+	<string name="accessibility_shortcut_description">Khi phím tắt được bật, bạn có thể nhấn cả hai nút âm lượng trong 3 giây để khởi động tính năng trợ năng.</string>
+	<string name="accessibility_settings_summary">Trình đọc màn hình, màn hình, điều khiển tương tác</string>
+	<string name="accessibility_screen_magnification_state_navbar_gesture">Phóng đại bằng nút và nhấn ba lần</string>
+	<string name="accessibility_screen_magnification_navbar_title">Phóng đại bằng nút</string>
+	<string name="accessibility_screen_magnification_navbar_summary">"Khi tính năng phóng đại được bật, sử dụng nút Trợ năng ở cuối màn hình để phóng đại nhanh.
+
+"<b>Để thu phóng</b>", nhấn vào nút Trợ năng, sau đó nhấn bất kỳ chỗ nào trên màn hình.
+"<ul><li>Kéo 2 hoặc nhiều ngón tay để cuộn</li>"
+"<li>Chụm 2 hoặc nhiều ngón tay để điều chỉnh mức thu phóng</li></ul>"
+
+"<b>Để thu phóng tạm thời</b>", nhấn vào nút Trợ năng, sau đó chạm và giữ bất kỳ chỗ nào trên màn hình.
+"<ul><li>Kéo để di chuyển quanh màn hình</li>"
+"<li>Nhấc ngón tay để thu nhỏ</li></ul>"
+
+Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</string>
+	<string name="accessibility_screen_magnification_navbar_short_summary">Nhấn vào nút để thu phóng</string>
+	<string name="accessibility_screen_magnification_navbar_configuration_warning">Nút Trợ năng được đặt thành %1$s. Để sử dụng tính năng phóng đại, hãy chạm và giữ nút Trợ năng, sau đó chọn độ phóng đại.</string>
+	<string name="accessibility_screen_magnification_gestures_title">Phóng đại bằng cách nhấn 3 lần</string>
+	<string name="accessibility_preference_magnification_summary">Phóng to trên màn hình</string>
+	<string name="accessibility_no_service_selected">Không có dịch vụ nào được chọn</string>
+	<string name="find_my_device">Tìm thiết bị</string>
+    <string name="find_my_device_disable">Tắt</string>
+    <string name="find_my_device_enable">Bật</string>
 </resources>

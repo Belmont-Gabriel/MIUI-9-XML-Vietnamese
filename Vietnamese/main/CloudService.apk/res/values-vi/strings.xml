@@ -452,6 +452,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_notif_content_multi_user_error">Bạn đã đăng nhập cùng tài khoản với Không gian thứ nhất.</string>
     <string name="micloud_notif_title_dirty_data">Bạn có dữ liệu chưa đồng bộ</string>
     <string name="micloud_notif_content_dirty_data">Chi tiết</string>
+	<string name="micloud_notif_title_privacy_reopen_failed">Không thể khởi chạy dịch vụ Mi Cloud</string>
+    <string name="micloud_notif_content_privacy_reopen_failed">Xem chi tiết</string>																				  
     <string name="micloud_find_device_guide_title">Đăng nhập vào &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> để định vị, khóa, hoặc xóa thiết bị. Điều này giúp bạn có thể tìm thấy thiết bị trong trường hợp bị mất.&lt;br />Nếu bạn mất thiết bị, bạn có thể liên hệ với dịch vụ bảo mật của ứng dụng mà bạn thường sử dụng (như: Alipay, WeChat, QQ) để bảo vệ tài khoản tại &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.</string>
     <string name="micloud_find_device_guide_content">Tin nhắn SMS được yêu cầu gửi đi để kích hoạt dịch vụ này. Nhà cung cấp sẽ tính phí tin nhắn này. Khi bạn chuyển đổi Thẻ SIM, tin nhắn sẽ được gửi đi tự động để kích hoạt lại tính năng này.</string>
     <string name="micloud_find_device_guide_button">Bật Tìm thiết bị</string>
@@ -488,6 +490,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">"Nếu bạn tắt tính năng này, bạn sẽ không thể định vị thiết bị của mình trong trường hợp bị mất."</string>
     <string name="micloud_find_device_close_alert_positive">Tiếp tục mở</string>
     <string name="micloud_find_device_close_alert_negtive">Tiếp tục tắt</string>
+	<string name="find_device_gdpr_prompt">Bằng cách bật Tìm thiết bị, bạn đồng ý với \"Chính sách Riêng tư\". Nếu bạn cần hủy ủy quyền riêng tư, vui lòng tắt tính năng này.</string>
+	<string name="find_device_gdpr_prompt_policy_doc_name">\"Chính sách Riêng tư\"</string>
     <string name="activate_finddevice">Kết nối mạng để kích hoạt thiết bị</string>
     <string name="account_related">Thiết bị này đã liên kết với Tài khoản Mi (%s). Kết nối mạng để xác minh thiết bị.</string>
     <string name="connect_network">Kết nối Wi-Fi hoặc lắp thẻ SIM</string>
@@ -541,7 +545,8 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_main_head_menu_state_open">Đã mở</string>
     <string name="micloud_main_head_menu_state_close">Đã đóng</string>
 	<string name="micloud_main_head_menu_state_unavailable">Không khả dụng</string>
-    <string name="micloud_main_not_sync">Các mục đang chờ đồng bộ: %d</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">Tìm thiết bị không khả dụng trong Không gian thứ hai, bạn có thể sử dụng trong Không gian thứ nhất.</string>
+	<string name="micloud_main_not_sync">Các mục đang chờ đồng bộ: %d</string>
     <string name="micloud_detail_query_error_detail">Không thể xác nhận một vài dịch vụ đã hoàn tất đồng bộ hay chưa. Bạn có thể liên hệ với nhà phát triển thông qua ứng dụng Phản hồi.</string>
     <string name="micloud_detail_query_error_title">Không thể nhận thông tin về trạng thái đồng bộ</string>
     <string name="micloud_detail_wlan_contact">Ảnh liên hệ đang chờ đồng bộ: %d</string>
@@ -554,6 +559,15 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="some_sync_item_close">%d chưa bật</string>
     <string name="sync_dspt_entrance_provision_network">Ứng dụng này cần kết nối mạng để làm việc bình thường. Đồng bộ dữ liệu có thể yêu cầu kết nối dữ liệu di động và bật Wi-Fi.</string>
     <string name="xiaomi_cloud_service_subtitle">Đặt tất cả các mục quan trọng một nơi</string>
+	<string name="micloud_privacy_cloud_off">Đồng bộ tắt</string>
+    <string name="micloud_privacy_licence_agreed">Đồng ý với Chính sách Riêng tư của Mi Cloud.</string>
+    <string name="micloud_privacy_licence_privacy_policy">chính sách riêng tư</string>
+    <string name="micloud_privacy_explanation">Kích hoạt Mi Cloud sau khi bật ủy quyền</string>
+    <string name="micloud_privacy_cloud_sync">Kích hoạt Mi Cloud</string>
+    <string name="micloud_privacy_warning_title">Gợi ý</string>
+    <string name="micloud_privacy_warning_content">Không thể kích hoạt Mi Cloud. Hãy thử lại sau.</string>
+    <string name="micloud_privacy_warning_button">Quay lại</string>
+    <string name="micloud_privacy_more">thêm</string>
     <string name="secret_photo">Ảnh ẩn</string>
     <string name="wipe_secret_photo_dialog_title">Ảnh ẩn không được đồng bộ</string>
     <string name="confirm_delete">Xóa</string>
@@ -579,4 +593,6 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="title_back">Quay lại</string>
     <string name="reading_status">Đang tải trạng thái…</string>
     <string name="reading_status_failure">Không thể tải trạng thái.</string>
+	<string name="micloud_alert_dialog_negative">Hủy</string>
+    <string name="micloud_alert_dialog_positive">OK</string>
 </resources>

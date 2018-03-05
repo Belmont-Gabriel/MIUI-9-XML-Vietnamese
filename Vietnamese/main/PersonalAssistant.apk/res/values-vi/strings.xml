@@ -774,4 +774,14 @@
     <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>
     <string name="yesterday">Hôm qua</string>
+	<string name="list_icon_drag">Sắp xếp lại</string>
+    <string name="memory_clear_nothing_result">Không có gì để dọn dẹp trong bộ nhớ đệm</string>
+    <string name="stock_title_schema">Tùy chọn hiển thị cổ phiếu</string>
+    <string name="title_schema_code">Nổi bật mã</string>
+    <string name="title_schema_title">Nổi bật tên</string>
+    <string name="upgrade_log_default">"1. Đã cải thiện hiệu suất.
+2. Đã sửa lỗi."</string>
+    <string name="upgrade_log_subtitle">(Đã tải xuống bằng Wi-Fi)</string>
+    <string name="upgrade_log_title">Phiên bản mới</string>
+    <string name="upgrade_now">Cập nhật</string>
 </resources>
