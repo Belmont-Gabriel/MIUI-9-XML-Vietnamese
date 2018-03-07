@@ -255,7 +255,6 @@ Cập nhật ngay?"</string>
     <string name="click_download_all_content">[Nhấn vào để tải nội dung thư]</string>
     <string name="click_to_reload">Chạm màn hình để làm mới</string>
     <string name="collapse_recipient_details">Thu gọn chi tiết người nhận</string>
-    <string name="colon">:</string>
     <string name="compose">Soạn</string>
     <string name="compose_attachment_number_limit">Không thể thêm hơn 10 đính kèm</string>
     <string name="compose_paste_address_oob">Quá nhiều ký tự</string>

@@ -17,7 +17,6 @@
     <string name="stopwatch_title">Bấm giờ</string>
     <string name="timer_title">Hẹn giờ</string>
     <string name="timer_alarm_dot_matrix_label">HẸN GIỜ</string>
-    <string name="symbol_colon">:</string>
     <string name="menu_add_worldclock">Thêm đồng hồ</string>
     <string name="menu_edit_timer_item">Chỉnh sửa nhiệm vụ hẹn giờ</string>
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>

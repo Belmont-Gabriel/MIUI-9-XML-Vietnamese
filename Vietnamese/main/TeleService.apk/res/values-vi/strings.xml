@@ -530,7 +530,6 @@
     <string name="sum_cfu_disabled">Tắt</string>
     <string name="set_time_period">Đặt thời gian</string>
     <string name="all_day">Cả ngày</string>
-    <string name="time_interval_char">:</string>
     <string name="time_start">Từ</string>
     <string name="time_start_hour">Thời gian bắt đầu (giờ)</string>
     <string name="time_start_minute">Thời gian bắt đầu (phút)</string>
