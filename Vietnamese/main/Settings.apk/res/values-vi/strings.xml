@@ -1924,7 +1924,6 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="menu_stats_last_unplugged">Trong khi tháo đầu cắm lần cuối cho %1$s</string>
     <string name="menu_stats_total">Tổng số sử dụng</string>
     <string name="menu_stats_refresh">Làm mới</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="process_dex2oat_label">Tối ưu hóa ứng dụng</string>
     <string name="battery_saver">Trình tiết kiệm pin</string>

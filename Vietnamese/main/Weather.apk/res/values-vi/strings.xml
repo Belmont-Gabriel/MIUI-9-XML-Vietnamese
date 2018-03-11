@@ -95,7 +95,6 @@ Kéo xuống để làm mới hoặc kiểm tra cài đặt mạng"</string>
     <string name="no_network_btn">Thử lại</string>
     <string name="share">Chia sẻ</string>
     <string name="open_browser">Mở trong trình duyệt</string>
-    <string name="empty">" "</string>
     <string name="information_menu_title" />
     <string name="information_manager_wlan">Hiển thị khi có kết nối Wi-Fi</string>
     <string name="information_manager_information">Thông tin thời tiết</string>

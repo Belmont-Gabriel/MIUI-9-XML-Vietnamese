@@ -947,7 +947,6 @@ thiết bị của bạn"</string>
     <string name="usage_type_data_send">Dữ liệu di động đã gửi</string>
     <string name="usage_type_no_coverage">Thời gian không có tín hiệu</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Máy chủ phương tiện</string>
     <string name="power_screen">Màn hình</string>
     <string name="power_wifi">Wi-Fi</string>

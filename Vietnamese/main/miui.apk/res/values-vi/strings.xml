@@ -64,7 +64,6 @@
     <string name="error_forbidden">Đồng bộ đã bị tắt do vấn đề với Tài khoản Mi của bạn.</string>
     <string name="error_not_acceptable">Đồng bộ đã bị tắt.</string>
     <string name="more">Thêm</string>
-    <string name="empty" />
     <string name="solar_term_slight_cold">Tiểu Hàn</string>
     <string name="solar_term_great_cold">Đại Hàn</string>
     <string name="solar_term_spring_begins">Lập Xuân</string>

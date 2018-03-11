@@ -555,7 +555,6 @@
     <string name="you_liao_goddess_desc">Tải video lên thường xuyên và tăng số lượng người hâm mộ của mình để nhận danh hiệu Quý bà</string>
     <string name="default_user_desc">Người này chưa thêm bất kỳ miêu tả nào</string>
     <string name="recommend">Kiến nghị</string>
-    <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">Nhận được lượt thích</string>
     <string name="message_comment_prefix">"Bình luận: "</string>
     <string name="message_reply_prefix">Trả lời</string>

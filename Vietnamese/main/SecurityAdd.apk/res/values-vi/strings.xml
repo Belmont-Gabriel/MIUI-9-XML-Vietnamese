@@ -31,7 +31,6 @@
     <string name="month_report_follow_service_positive">Theo dõi</string>
     <string name="month_report_follow_service_negative">Không, cảm ơn</string>
     <string name="app_not_installed_toast">Ứng dụng chưa được cài đặt trên thiết bị của bạn.</string>
-    <string name="empty">" "</string>
     <string name="share">Chia sẻ</string>
     <string name="open_browser">Mở trong trình duyệt</string>
     <string name="title_share_link">Chia sẻ URL</string>

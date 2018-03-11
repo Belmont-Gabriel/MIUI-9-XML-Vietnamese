@@ -860,7 +860,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="label_no_duplicate_contacts">Không tìm thấy liên hệ trùng lặp nào</string>
     <string name="quit_dialog_confirm_title">Hủy hợp nhất liên hệ</string>
     <string name="quit_dialog_confirm_message">Bạn chưa hợp nhất bất kỳ liên hệ nào</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">Nhập/Xuất</string>
     <string name="preference_import_export_title">Nhập/Xuất liên hệ</string>
     <string name="import_vcard_description">Nhập liên hệ từ bộ nhớ điện thoại</string>
@@ -960,7 +959,6 @@ Danh thiếp sẽ tắt"</string>
     <string name="menu_new_favorite_action_bar">Thêm vào yêu thích</string>
     <string name="click_close">Chạm để đóng</string>
     <string name="phone_primary">Chính</string>
-    <string name="phone_info_divider"> ｜ </string>
     <string name="menu_bar_group_add">Thêm</string>
     <string name="menu_bar_group_sms">SMS</string>
     <string name="menu_bar_group_ringtone">Nhạc chuông</string>
