@@ -5875,6 +5875,8 @@ Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa th
     <string name="privacy_authorize_revoke_success">Đã hủy ủy quyền thành công</string>
     <string name="privacy_authorize_revoke_time">Hủy (%1$d giây)</string>
     <string name="privacy_authorize_revoke_title">Ủy quyền &amp; Hủy bỏ</string>
+	<string name="enabled_authorised_apps_summary">Ủy quyền của bạn sẽ được hủy sau khi bạn chuyển sang ứng dụng cá nhân.</string>
+	<string name="enabled_authorised_apps_title">Đã cấp ủy quyền</string>
     <string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
     <string name="privacy_authorize_success">Đã cấp ủy quyền thành công</string>
     <string name="privacy_authorize_title">Đang cấp ủy quyền</string>
@@ -5918,4 +5920,5 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</s
 	<string name="find_my_device">Tìm thiết bị</string>
     <string name="find_my_device_disable">Tắt</string>
     <string name="find_my_device_enable">Bật</string>
+	<string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Mi Cloud (bao gồm đồng bộ và sao lưu).</string>
 </resources>

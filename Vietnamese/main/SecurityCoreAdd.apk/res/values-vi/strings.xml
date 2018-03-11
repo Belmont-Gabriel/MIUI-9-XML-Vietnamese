@@ -60,6 +60,7 @@
     <string name="ok_button">OK</string>
     <string name="cancel_button">Hủy</string>
     <string name="list_empty_text">Trống</string>
+    <string name="list_empty_text_xspace">Cài đặt WeChat/QQ/Weibo, tạo ứng dụng kép, và thử lại.</string>
     <string name="xspace_label">Ứng dụng kép</string>
     <string name="xspace_setting_label">Cài đặt ứng dụng kép</string>
     <string name="xspace_account">Tài khoản ứng dụng kép</string>
@@ -150,6 +151,7 @@ Một số ứng dụng kép yêu cầu hỗ trợ Google Services Framework. Tr
     <string name="click_to_switch">Chạm để xem</string>
     <string name="confirm_main_space_password">Xác nhận mật khẩu Không gian thứ nhất</string>
     <string name="create_space_loading">Đang tạo Không gian thứ hai…</string>
+    <string name="close_second_space">Đã xóa Không gian thứ hai</string>
     <string name="close_second_space_success">Đã xóa Không gian thứ hai</string>
     <string name="enable">Bật</string>
     <string name="disable">Tắt</string>
@@ -159,16 +161,32 @@ Tin nhắn chỉ xuất hiện trong Không gian thứ hai."</string>
 tính năng này sẽ được thêm vào Không gian thứ hai tự động."</string>
     <string name="openSuccess">Đã bật</string>
     <string name="closeSuccess">Đã tắt</string>
-    <string name="settings_notification_and_switch">Đang chuyển đổi &amp; thông báo</string>
+    <string name="settings_set_password_for_owner_space">Thiết lập khóa màn hình trên Không gian thứ nhất</string>
+    <string name="settings_set_password_for_owner_space_desc">Thiết lập khóa màn hình trên Không gian thứ nhất để xóa lối tắt khỏi Cài đặt.</string>
+    <string name="settings_set_password_for_sec_space">Thiết lập khóa màn hình trên Không gian thứ hai</string>
+    <string name="settings_set_password_for_sec_space_desc">Thiết lập khóa màn hình trên Không gian thứ hai để xóa lối tắt khỏi Cài đặt.</string>
+    <string name="settings_notification_and_switch_owner_space">Cài đặt Không gian thứ nhất</string>
+    <string name="settings_second_space_entrance_title">Lối tắt trong Cài đặt</string>
+    <string name="settings_second_space_entrance_summary">Hiển thị lối tắt Không gian thứ hai trong Cài đặt</string>
+    <string name="settings_switch_shortcut_title">Lối tắt Màn hình chính</string>
+    <string name="settings_switch_space">Chuyển đổi giữa hai không gian</string>
+    <string name="settings_notification_from_second_space_title">Hiển thị thông báo từ Không gian thứ hai</string>
+    <string name="settings_notification_and_switch_second_space">Cài đặt Không gian thứ hai</string>
+    <string name="settings_notification_from_owner_space_title">Hiển thị thông báo từ Không gian thứ nhất</string>
+    <string name="notification_from_owner_user">Hiển thị thông báo từ Không gian thứ nhất</string>
+    <string name="notification_from_second_user">Hiển thị thông báo từ Không gian thứ hai</string>
+    <string name="radio_button_icon_switch_title">Sử dụng lối tắt</string>
+    <string name="radio_button_password_switch_title">Sử dụng mật khẩu</string>
     <string name="settings_cross_notification_title">Thông báo</string>
     <string name="settings_cross_notification_summary">Nhận thông báo từ không gian khác</string>
-    <string name="settings_switch_shortcut_title">Chạm lối tắt để chuyển đổi</string>
     <string name="settings_switch_shortcut_summary">Hiển thị lối tắt Màn hình chính trên Không gian thứ nhất</string>
     <string name="settings_space_data">Dữ liệu</string>
     <string name="settings_status_icon_title">Biểu tượng Không gian thứ hai</string>
     <string name="settings_status_icon_summary">Hiển thị biểu tượng Không gian thứ hai trên thanh trạng thái</string>
-    <string name="settings_msg_add_shortcut">Đã thêm lối tắt vào Không gian thứ nhất</string>
-    <string name="settings_msg_remove_shortcut">Đã xóa lối tắt từ Không gian thứ nhất</string>
+    <string name="settings_msg_add_shortcut_to_owner_space">Đã thêm lối tắt vào Không gian thứ nhất</string>
+    <string name="settings_msg_add_shortcut_to_second_space">Lối tắt đã được tạo trên Không gian thứ hai</string>
+    <string name="settings_msg_remove_shortcut_from_owner_space">Đã xóa lối tắt khỏi Không gian thứ nhất</string>
+    <string name="settings_msg_remove_shortcut_from_second_space">Lối tắt đã bị xóa khỏi Không gian thứ hai</string>
     <string name="start_setting_guide_desc_title">Hoàn thành thiết lập đơn giản dưới đây</string>
     <string name="setting_is_show_text_contacts">Thiết lập liên hệ và tin nhắn riêng</string>
     <string name="switch_data_app">Chuyển ứng dụng và dữ liệu cần thiết vào Không gian thứ hai</string>
@@ -246,6 +264,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="no_match_repate_scanner">Không tìm thấy vân tay trùng khớp, hãy quét lại</string>
     <string name="delete_phone_fingerprint">Xóa vân tay Không gian thứ hai</string>
     <string name="delete_fingerprint">Xóa vân tay</string>
+    <string name="fingerprint_number_upper_limit">Quá nhiều lần thử mở khóa không thành công</string>
     <string name="delete_fingerprint_desc">Vân tay Không gian thứ hai sẽ bị xóa cùng với mật khẩu</string>
     <string name="fingerprint_removal_failed">Không thể xóa vân tay</string>
     <string name="notification_recommend_title">12 ứng dụng hàng đầu cho Không gian thứ hai</string>
@@ -257,6 +276,20 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="xpsace_guide_button">Tạo</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
+    <string name="xspace_weixin_title">WeChat</string>
+    <string name="weixin_pay">Thanh toán WeChat</string>
+    <string name="weixin_share_sign">Đăng nhập và chia sẻ</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="weibo_send">Gửi đến Weibo</string>
+    <string name="xspace_qq_title">QQ</string>
+    <string name="qq_send">Gửi đến Bạn bè QQ/máy tính</string>
+    <string name="xspace_default_setting_label">Ứng dụng mặc định</string>
+    <string name="xspace_default_app_title">Ứng dụng mặc định</string>
+    <string name="xspace_default_app_summary">Đặt ứng dụng mặc định thanh toán, chia sẻ, yêu thích và nhiều thứ khác.</string>
+    <string name="xspace_default_setting_dialog_title">Mặc định</string>
+    <string name="xspace_default_guide_notification_content">Chạm để đổi</string>
+    <string name="xspace_default_guide_notification_main_title">Sử dụng ứng dụng mặc định</string>
+    <string name="xspace_default_guide_notification_xspace_title">Sử dụng ứng dụng kép</string>
     <string name="space_name_default">Không gian Làm việc</string>
     <string name="space_des_default">Không gian cách ly với dữ liệu được mã hóa</string>
     <string name="create_work_space">Tạo Không gian Làm việc</string>
@@ -285,8 +318,9 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="function_not_support">Chưa hỗ trợ trên thiết bị này</string>
     <string name="can_not_switch_when_calling">Không thể chuyển đổi không gian khi gọi</string>
     <string name="can_not_delete_when_calling">Không thể xóa không gian khi gọi</string>
-    <string name="support_desc">Dịch vụ bảo mật được cung cấp bởi Graphite</string>
-    <string name="sdcardfs_dialog_message">Tắt \"Tối ưu hóa thẻ SD giả lập\" trong Tùy chọn nhà phát triển trước khi vào Không gian thứ hai.</string>
+    <string name="support_desc">Dịch vụ bảo mật được cung cấp bởi Spaces Mobile</string>
+    <string name="sdcardfs_dialog_title">Cập nhật quan trọng</string>
+    <string name="sdcardfs_dialog_message">MIUI 9 có hệ thống tập tin mới. Dữ liệu cũ có thể sẽ không tương thích. Để giải quyết vấn đề này, hãy làm theo các bước để cài đặt bản cập nhật. Thiết bị của bạn sẽ khởi động lại hai lần khi cập nhật.</string>
     <string name="do_not_ask">Không hỏi lại</string>
     <string name="gpg_message">Tạo ứng dụng kép cho trò chơi yêu cầu làm việc với Google Play Game. Tạo ứng dụng kép cho Google Play Game?</string>
     <string name="gpg_title">Ứng dụng kép cho Google Play Game</string>
@@ -313,16 +347,28 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
 Một thiết bị - Hai không gian."</string>
     <string name="privacy_password_fingerprint_dialog_title">Quét vân tay của bạn</string>
     <string name="privacy_password_fingerprint_dialog_message">Hãy đặt ngón tay của bạn trên cảm biến</string>
-	<string name="xspace_default_guide_notification_content">Chạm để đổi</string>
-	<string name="xspace_default_guide_notification_main_title">Sử dụng ứng dụng mặc định</string>
-	<string name="xspace_default_guide_notification_xspace_title">Sử dụng ứng dụng kép</string>
-	<string name="weixin_share_sign">Đăng nhập và chia sẻ</string>
-	<string name="xspace_weibo_title">Weibo</string>
-	<string name="weibo_send">Gửi đến Weibo</string>
-    <string name="xspace_qq_title">QQ</string>
-    <string name="qq_send">Gửi đến Bạn bè QQ/thiết bị</string>
-    <string name="xspace_default_setting_label">Ứng dụng mặc định</string>
-    <string name="xspace_default_app_title">Ứng dụng mặc định</string>
-    <string name="xspace_default_app_summary">Đặt ứng dụng mặc định thanh toán, chia sẻ, yêu thích và nhiều thứ khác.</string>
-    <string name="xspace_default_setting_dialog_title">Mặc định</string>
+    <string name="optimize_now">Tối ưu</string>
+    <string name="dialog_title">Chú ý</string>
+    <string name="remove_user_click_message">*Nếu bạn không có mục quan trọng nào trong Không gian thứ hai, %s</string>
+    <string name="remove_user_click_message_action">bạn có thể xóa Không gian thứ hai và khởi động lại thiết bị của bạn ngay.</string>
+    <string name="sdcradfs_dialog_in_owner_title">Không gian thứ hai</string>
+    <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 có hệ thống tập tin mới. Dữ liệu cũ có thể sẽ không tương thích. Để cập nhật, di chuyển các mục từ Không gian thứ hai, khởi động lại thiết bị của bạn và tạo lại Không gian thứ hai.
+Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt động bình thường."</string>
+    <string name="sdcradfs_dialog_in_sec_title">Cập nhật quan trọng</string>
+    <string name="sdcradfs_dialog_in_sec_message">"Để cập nhật, bạn nên xóa Không gian thứ hai rồi sau đó tạo lại. Di chuyển dữ liệu từ Không gian thứ hai sang Không gian thứ nhất và khởi động lại thiết bị để hoàn tất cập nhật.
+Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt động bình thường."</string>
+    <string name="space_created_success">Đã tạo Không gian thứ hai thành công</string>
+    <string name="space_create_guide_title_1">Bảo vệ sự riêng tư của bạn</string>
+    <string name="space_create_guide_desc_1">Lưu trữ ứng dụng và hình ảnh an toàn</string>
+    <string name="space_create_guide_title_2">Tạo bất cứ lúc nào</string>
+    <string name="space_create_guide_desc_2">Hoàn toàn sẵn sàng để sử dụng không gian riêng biệt</string>
+    <string name="space_create_guide_title_3">Hoàn toàn không rủi ro</string>
+    <string name="space_create_guide_desc_3">Không gian thứ hai không ảnh hưởng đến các mục khác trên thiết bị của bạn</string>
+    <string name="space_create_guide_switchmode_title">Chuyển đổi giữa hai không gian</string>
+    <string name="second_space_desktop_tips_dialog_title">Cập nhật quan trọng</string>
+    <string name="second_space_desktop_tips_dialog_positive_text">Tôi biết</string>
+    <string name="second_space_desktop_tips_dialog_message">Sau lần cập nhật này, biểu tượng chuyển dữ liệu và quản lý Không gian thứ hai sẽ không còn được hiển thị trên Màn hình chính. Bạn vẫn có thể truy cập các tính năng tương ứng trong Cài đặt.</string>
+	<string name="settings_msg_add_shortcut">Đã thêm lối tắt vào Không gian thứ nhất</string>
+	<string name="settings_msg_remove_shortcut">Đã xóa lối tắt từ Không gian thứ nhất</string>
+	<string name="settings_notification_and_switch">Đang chuyển đổi &amp; thông báo</string>
 </resources>
