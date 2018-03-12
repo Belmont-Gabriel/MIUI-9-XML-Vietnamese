@@ -5923,4 +5923,7 @@ Bạn không thể phóng to trên bàn phím hoặc thanh điều hướng."</s
     <string name="find_my_device_disable">Tắt</string>
     <string name="find_my_device_enable">Bật</string>
 	<string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Mi Cloud (bao gồm đồng bộ và sao lưu).</string>
+	<string name="wfd_status_dialog_disconnect">Ngắt kết nối</string>
+	<string name="wfd_status_dialog_message">Nội dung màn hình đang được hiển thị trên thiết bị hiển thị khác thông qua kết nối không dây</string>
+	<string name="wfd_status_dialog_title">Kết nối không dây</string>
 </resources>
