@@ -351,7 +351,6 @@
     <string name="choose_report_reason">Nguyên nhân bạn báo cáo video clip này là gì?</string>
     <string name="input_memo_hint">Nhập lý do bổ sung (không bắt buộc)</string>
     <string name="network_dialog_checkbox_tip">Không hiển thị lại</string>
-    <string name="video_tag">\# %s #</string>
     <string name="remote_video_report_success">Cảm ơn phản hồi của bạn! Chúng tôi sẽ xử lý sớm.</string>
     <string name="video_status_review">Đang được đánh giá</string>
     <string name="video_status_reject">Đã từ chối</string>
@@ -436,7 +435,6 @@
     <string name="video_publish_hint">Mô tả hoàn chỉnh sẽ giúp người khác dễ dàng tìm thấy video của bạn</string>
     <string name="video_publish_hint2">Mô tả</string>
     <string name="video_comment_limit">%1$s ký tự còn lại</string>
-    <string name="video_tag_search_lead">\#</string>
     <string name="video_data_consumption_dialog_title">Cảnh báo dữ liệu di động</string>
     <string name="video_data_consumption_dialog_message">Tải lên sẽ yêu cầu %1$s dữ liệu di động</string>
     <string name="video_data_consumption_confirm">OK</string>
@@ -566,7 +564,6 @@
     <string name="message_praise_comment">" đã thích bình luận này"</string>
     <string name="get_user_info_err">Không thể nhận thông tin về người này</string>
     <string name="choose_report_comment_reason">Chọn nguyên nhân bạn báo cáo bình luận này?</string>
-    <string name="add_one">+1</string>
     <string name="no_comment">Không có bình luận</string>
     <string name="no_topic">Không có chủ đề</string>
     <string name="no_message">Không có tin nhắn</string>
