@@ -32,6 +32,10 @@
         <item quantity="other">sau %d giờ</item>
         <item quantity="one">sau %d giờ</item>
     </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
     <plurals name="duration_hours_shortest_future">
         <item quantity="other">sau %d giờ</item>
         <item quantity="one">sau %d giờ</item>
@@ -132,20 +136,16 @@
         <item quantity="other">Trong %1$d phút (cho đến %2$s)</item>
         <item quantity="one">Trong 1 phút (cho đến %2$s)</item>
     </plurals>
-	<plurals name="duration_seconds">
-        <item quantity="other">%d giây</item>
-        <item quantity="one">1 giây</item>
-    </plurals>
-	<plurals name="duration_minutes">
-        <item quantity="other">%d phút</item>
-        <item quantity="one">1 phút</item>
-    </plurals>
-	<plurals name="duration_hours">
+    <plurals name="duration_hours">
         <item quantity="other">%d giờ</item>
         <item quantity="one">1 giờ</item>
     </plurals>
-	<plurals name="duration_hours_shortest">
-        <item quantity="other">%d giờ</item>
-        <item quantity="one">%d giờ</item>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">1 phút</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d giây</item>
+        <item quantity="one">1 giây</item>
     </plurals>
 </resources>

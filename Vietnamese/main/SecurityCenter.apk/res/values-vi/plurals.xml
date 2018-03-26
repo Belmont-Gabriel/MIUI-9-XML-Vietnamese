@@ -3,6 +3,9 @@
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%1$d cuộc gọi từ %2$s và số khác</item>
     </plurals>
+	<plurals name="fw_blocked_count_call_one">
+        <item quantity="other">%1$d cuộc gọi từ %2$s</item>
+    </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d tin nhắn</item>
     </plurals>
@@ -24,12 +27,12 @@
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d ứng dụng</item>
     </plurals>
-	<plurals name="bg_network_allow_count">
+    <plurals name="bg_network_allow_count">
         <item quantity="other">%d ứng dụng có thể kết nối với mạng trong nền</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
         <item quantity="other">%d ứng dụng không thể kết nối với mạng trong nền</item>
-    </plurals>									   
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">Giới hạn dữ liệu hàng ngày đã vượt quá %s lần.</item>
     </plurals>
@@ -50,9 +53,9 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d ứng dụng được tìm thấy</item>
     </plurals>
-	<plurals name="network_restrict_count">
-        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &amp;lt;font color='#ff0000'>%d:&amp;lt;/font> ứng dụng"</item>
-    </plurals>									   
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Quyền truy cập mạng bị giới hạn cho &lt;font color='#ff0000'>%d:&lt;/font> ứng dụng"</item>
+    </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">%d ứng dụng không hoạt động bình thường và hao pin</item>
     </plurals>
@@ -85,6 +88,14 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Được tải xuống bởi %1$d người</item>
+    </plurals>
+    <plurals name="gb_ad_people_play">
+        <item quantity="other">1$d người đang chơi</item>
+        <item quantity="one">1$d người đang chơi</item>
+    </plurals>
+    <plurals name="gb_ad_ten_thousand_people_play">
+        <item quantity="other">1$d người đang chơi</item>
+        <item quantity="one">1$d người đang chơi</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d lượt xem</item>
@@ -161,11 +172,20 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Chờ %d giây và thử lại. "</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">%d ứng dụng</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d ứng dụng đã khóa</item>
     </plurals>
     <plurals name="number_to_lock">
         <item quantity="other">%d ứng dụng chưa khóa</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">%d thông báo đã ẩn</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">%d thông báo được hiển thị</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Tìm kiếm trong %d ứng dụng</item>
@@ -193,9 +213,6 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d lần</item>
-    </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">Đã chặn %d lần</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Đã sử dụng %d ngày trước</item>
@@ -254,21 +271,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
     <plurals name="million">
         <item quantity="other">Được tải xuống bởi %1$d người</item>
     </plurals>
-    <plurals name="number_masked">
-        <item quantity="other">%d ứng dụng</item>
-    </plurals>
-	<plurals name="number_masked_text">
-        <item quantity="other">%d thông báo đã ẩn</item>
-    </plurals>
-    <plurals name="number_to_mask_text">
-        <item quantity="other">%d thông báo được hiển thị</item>
-    </plurals>
-	<plurals name="gb_ad_people_play">
-        <item quantity="other">1$d người đang chơi</item>
-        <item quantity="one">1$d người đang chơi</item>
-    </plurals>
-	<plurals name="gb_ad_ten_thousand_people_play">
-        <item quantity="other">1$d người đang chơi</item>
-        <item quantity="one">1$d người đang chơi</item>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Đã chặn %d lần</item>
     </plurals>
 </resources>

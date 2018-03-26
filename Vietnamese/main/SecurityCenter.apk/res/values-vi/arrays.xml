@@ -50,6 +50,22 @@
         <item>Khi thiết bị khóa hoặc sau khi thoát ứng dụng</item>
         <item>Khi thiết bị khóa hoặc trong 1 phút sau khi thoát ứng dụng</item>
     </string-array>
+    <string-array name="sort_type">
+        <item>Trạng thái</item>
+        <item>Tên ứng dụng</item>
+        <item>Tần suất sử dụng</item>
+        <item>Lưu trữ đã dùng</item>
+        <item>Thời gian cài đặt</item>
+        <item>Bạn có thể gỡ cài đặt các ứng dụng này</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Sắp xếp theo trạng thái</item>
+        <item>Sắp xếp theo tên ứng dụng</item>
+        <item>Sắp xếp theo tần suất sử dụng</item>
+        <item>Sắp xếp theo lưu trữ đã dùng</item>
+        <item>Sắp xếp theo thời gian cài đặt</item>
+        <item>Hiển thị ứng dụng có thể gỡ cài đặt trước</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>Nguồn cài đặt</item>
         <item>Thời gian cài đặt</item>
@@ -60,10 +76,10 @@
         <item>Sử dụng dữ liệu</item>
         <item>Số dư tài khoản</item>
     </string-array>
-	<string-array name="tether_limit_warn_type">
+    <string-array name="tether_limit_warn_type">
         <item>Tắt và thông báo</item>
         <item>Chỉ thông báo</item>
-    </string-array>											
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Một lần</item>
         <item>Mỗi ngày</item>
@@ -148,21 +164,5 @@
     </string-array>
     <string-array name="long_add_menu">
         <item>Thêm vào danh sách ngoại lệ</item>
-    </string-array>
-    <string-array name="sort_type">
-        <item>Trạng thái</item>
-        <item>Tên ứng dụng</item>
-        <item>Tần suất sử dụng</item>
-        <item>Lưu trữ đã dùng</item>
-        <item>Thời gian cài đặt</item>
-        <item>Bạn có thể gỡ cài đặt các ứng dụng này</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Sắp xếp theo trạng thái</item>
-        <item>Sắp xếp theo tên ứng dụng</item>
-        <item>Sắp xếp theo tần suất sử dụng</item>
-        <item>Sắp xếp theo lưu trữ đã dùng</item>
-        <item>Sắp xếp theo thời gian cài đặt</item>
-        <item>Hiển thị ứng dụng có thể gỡ cài đặt trước</item>
     </string-array>
 </resources>

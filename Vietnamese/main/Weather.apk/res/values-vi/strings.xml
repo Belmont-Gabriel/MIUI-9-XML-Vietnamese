@@ -269,4 +269,16 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
     <string name="daily_forcast_drawer_on_top">Dự báo %1$s ngày tới</string>
     <string name="location_management">Quản lý Vị trí</string>
     <string name="hide_topic">Ẩn</string>
+	<string name="button_settings_cancel">Hủy</string>
+    <string name="button_settings_confirm">Hủy</string>
+    <string name="button_settings_confirm_to_revoke_msg">Bạn sẽ không thể sử dụng Thời tiết sau khi hủy ủy quyền.</string>
+    <string name="button_settings_confirm_to_revoke_title">Hủy ủy quyền?</string>
+    <string name="eu_region_version_first_start_network_msg">Bằng cách sử dụng sản phẩm này, bạn đồng ý để Xiaomi thu thập, xử lý và sử dụng thông tin cá nhân của bạn, bao gồm tọa độ của các thành phố mà bạn tìm kiếm và các loại dữ liệu khác được quy định trong Chính sách Riêng tư của chúng tôi. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý thông tin. Bằng cách chạm vào \"Đồng ý\", bạn đồng ý với %1$s and %2$s của Xiaomi.</string>
+    <string name="policy_settings">Điều khoản và Điều kiện</string>
+    <string name="privacy_grant_failed">Không thể cấp ủy quyền. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="privacy_grant_or_revoke_settings">Cấp &amp; hủy ủy quyền</string>
+    <string name="privacy_grant_success">Cấp ủy quyền thành công</string>
+    <string name="privacy_revoke_failed">Không thể hủy ủy quyền. Chờ một hoặc hai phút và thử lại.</string>
+    <string name="privacy_revoke_success">Hủy ủy quyền thành công</string>
+    <string name="privacy_settings">Chính sách Riêng tư</string>
 </resources>

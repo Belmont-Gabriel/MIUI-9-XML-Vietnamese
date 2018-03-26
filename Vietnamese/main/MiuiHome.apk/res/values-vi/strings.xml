@@ -321,4 +321,19 @@
     <string name="content_description_workspace_thumbnail_item">xem trước màn hình, %1$s</string>
 	<string name="recommend_apps_no_data">Không có dữ liệu</string>
 	<string name="recommend_loading">Đang tải</string>
+	<string name="defalut_launcher_title">Trình khởi chạy mặc định</string>
+	<string name="launcher_auto_fill_empty_title">Thêm vào ô trống</string>
+	<string name="launcher_title">Màn hình chính &amp; Nhiệm vụ gần đây</string>
+	<string name="lock_screen_cells_title">Khóa bố cục Màn hình chính</string>
+	<string name="miui_screen_config_title">Cài đặt Màn hình chính</string>
+	<string name="open_personal_assistant_dialog_btn_cancel">Hủy</string>
+	<string name="open_personal_assistant_dialog_btn_confirm">Tắt</string>
+	<string name="open_personal_assistant_dialog_desc">Bạn sẽ không thể sử dụng App vault và nhận cập nhật. Tắt ngay?</string>
+	<string name="open_personal_assistant_dialog_title">Tắt App vault</string>
+	<string name="open_personal_assistant_title">Bật App vault</string>
+	<string name="preferred_app_settings_not_selected">Chưa chọn</string>
+	<string name="recents_config_title">Gần đây</string>
+	<string name="screen_cells_config_title">Bố cục Màn hình chính</string>
+	<string name="show_mem_info_title">Hiển thị trạng thái bộ nhớ</string>
+	<string name="title_jeejen">Màn hình chính Jeejen</string>
 </resources>
