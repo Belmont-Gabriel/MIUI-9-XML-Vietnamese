@@ -86,7 +86,6 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi 3 vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đầy.</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng đã xóa</string>
     <string name="tether_settings_title_usb">Kết nối USB</string>
