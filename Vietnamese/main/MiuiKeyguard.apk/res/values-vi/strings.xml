@@ -5,6 +5,13 @@
     <string name="unlockscreen_recharge_completed">Đã sạc đầy pin</string>
     <string name="unlockscreen_low_battery">Kết nối bộ sạc ngay</string>
     <string name="lockscreen_charging_msg">Đang sạc</string>
+    <string name="reset_device_tip">Sạc hơi chậm. Điều chỉnh lại thiết bị của bạn.</string>
+    <string name="reset_device_detail_tip">Đặt thiết bị trên đế sạc không dây chính xác để đảm bảo tốc độ sạc cao.</string>
+    <string name="wireless_charge_stop">Đã tắt sạc không dây</string>
+    <string name="change_to_ac_charging">Đã chuyển sang sạc không dây</string>
+    <string name="wireless_charge_dialog_title">Điều chỉnh thiết bị trên đế sạc không dây</string>
+    <string name="wireless_charge_dialog_cancel">Hủy</string>
+    <string name="wireless_current_charge">Sạc hiện tại</string>
     <string name="emergency_call_string">Khẩn cấp</string>
     <string name="forget_password_string">Quên mật khẩu</string>
     <string name="input_puk_code">Nhập mã PUK</string>
@@ -47,7 +54,7 @@
     <string name="fingerprint_try_again_msg">Không thể xác minh vân tay, hãy thử lại.</string>
     <string name="fingerprint_not_identified_title">Nhập mật khẩu</string>
     <string name="fingerprint_not_identified_msg">Quá nhiều lần không thành công. Nhập mật khẩu ngay hoặc thử sử dụng vân tay của bạn trong vài phút nữa.</string>
-	<string name="fingerprint_not_identified_msg_lock">Quá nhiều lần thử không thành công. Nhập mật khẩu ngay.</string>																																   
+    <string name="fingerprint_not_identified_msg_lock">Quá nhiều lần thử không thành công. Nhập mật khẩu ngay.</string>
     <string name="fingerprint_again_identified_msg">Vân tay của bạn được kích hoạt. Hãy sử dụng để mở khóa thiết bị, hoặc nhập mật khẩu.</string>
     <string name="fingerprint_add_title">Thêm vân tay</string>
     <string name="fingerprint_add_text">Giao diện vân tay đã được cập nhật. Hãy thêm dấu vân tay lại.</string>
@@ -58,9 +65,10 @@
     <string name="input_password_after_boot_msg">Để mở khóa thiết bị, nhập mật khẩu của bạn</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Bạn cần vào Không gian thứ nhất sau khi thiết bị khởi động lại</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Không thể chuyển đổi không gian khi gọi</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Không thể chuyển đổi không gian khi green guard đang hoạt động</string>
     <string name="input_password_handle_sdcard_fs">Không thể vào Không gian thứ hai từ Màn hình khóa. Vào từ Không gian thứ nhất.</string>
     <string name="accessibility_enter_lock_wallpaper">Chạm để mở Tạp chí khóa màn hình</string>
-	<string name="wallpaper_global_des_drop_down_notify_text">Thả để xem chi tiết</string>																							 
+    <string name="wallpaper_global_des_drop_down_notify_text">Thả để xem chi tiết</string>
     <string name="lock_wallpaper_learn_more">Thêm</string>
     <string name="lock_wallpaper_enter">Vào</string>
     <string name="custom_lock_wallpaper_enter">Vào</string>
@@ -69,9 +77,6 @@
     <string name="fingerprint_enter_second_psw_msg_oldman">Không thể vào Không gian thứ hai trong Chế độ thu gọn</string>
     <string name="keyguard_charging_info_click_to_detail">Xem chi tiết</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Sạc nhanh. Chạm để xem chi tiết.</string>
-    <string name="keyguard_quickly_charging_info_charging_text">Đang sạc nhanh…</string>
-    <string name="keyguard_charging_info_finished_charging_text">Đã sạc đầy</string>
-    <string name="keyguard_charging_info_charging_text">Đang sạc</string>
     <string name="keyguard_charging_info_last_charge_today_time">%s hôm nay</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">%s hôm qua</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
@@ -88,14 +93,16 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-	<string name="keyguard_left_smarthome">Mi Home</string>
+    <string name="keyguard_left_smarthome">Mi Home</string>
     <string name="keyguard_left_remotecentral">Điều khiển Mi</string>
     <string name="keyguard_left_bankcard">Mi Pay</string>
-    <string name="keyguard_left_buscard">Thẻ giao thông</string>													   
+    <string name="keyguard_left_buscard">Thẻ giao thông</string>
     <string name="face_data_input_title">Thêm dữ liệu khuôn mặt</string>
     <string name="face_data_introduction_title">Nhận dạng khuôn mặt</string>
     <string name="face_data_introduction_msg">Dữ liệu khuôn mặt được sử dụng để mở khóa thiết bị hoặc xác minh danh tính của bạn. Thêm Mật khẩu khóa màn hình trước khi thêm dữ liệu khuôn mặt.</string>
     <string name="face_data_introduction_next">Tiếp theo</string>
+    <string name="face_data_siggesstion_next">Tiếp theo</string>
+    <string name="face_data_siggesstion_next_time">Tiếp theo (%dgiây)</string>
     <string name="face_data_suggesstion_first">Vấn đề bảo mật: Mở khóa bằng khuôn mặt kém an toàn hơn PIN, mật khẩu hoặc hình mở khóa. Thiết bị có thể được mở khóa bằng ảnh của bạn, cũng như bằng người hoặc đối tượng có diện mạo tương tự.</string>
     <string name="face_data_suggesstion_second">Chắc chắn rằng toàn bộ khuôn mặt của bạn không bị che khuất và được hiển thị rõ. Ngoài ra, khuôn mặt của bạn cần phải đủ sáng.</string>
     <string name="face_data_input_camera_fail">Không thể tải máy ảnh</string>
@@ -103,6 +110,8 @@
     <string name="face_data_input_msg">Đặt khuôn mặt bên trong khung</string>
     <string name="face_data_input_ok_title">Đã thêm thành công</string>
     <string name="face_data_input_ok_msg">Bật màn hình để mở khóa thiết bị bằng dữ liệu khuôn mặt.</string>
+    <string name="face_data_input_ok_msg_angle">"Mở khóa thiết bị bằng khuôn mặt khi màn hình bật.
+(Ghi lại dữ liệu khuôn mặt từ tất cả các góc cần thiết.)"</string>
     <string name="face_data_input_cancel">Hủy</string>
     <string name="face_data_input_cancel_msg">Không thể thêm dữ liệu khuôn mặt</string>
     <string name="face_data_input_ok">Hoàn tất</string>
@@ -138,35 +147,42 @@
     <string name="face_unlock_rotated_right">Quay đầu sang trái một chút</string>
     <string name="face_unlock_rise">Cúi xuống một chút</string>
     <string name="face_unlock_down">Ngẩng đầu lên một chút</string>
-    <string name="face_unlock_quality">"Không thể nhìn thấy khuôn mặt của bạn rõ ràng"</string>
-    <string name="experimental_try_string">Thử</string>
+    <string name="face_unlock_quality">Không thể nhìn thấy khuôn mặt của bạn rõ ràng</string>
+    <string name="lock_screen_no_sim_card">Không có thẻ SIM</string>
+    <string name="do_disclosure_generic">Thiết bị này do tổ chức của bạn quản lý</string>
+    <string name="do_disclosure_with_name">Thiết bị này được quản lý bởi %s</string>
+    <string name="face_unlock_reenter_title">Ghi lại dữ liệu khuôn mặt.</string>
+    <string name="face_unlock_reenter_content">Thuật toán mở khóa bằng khuôn mặt đang được cập nhật. Chạm để ghi lại dữ liệu khuôn mặt.</string>
+    <string name="keyguard_left_view_lock_wallpaper">Tạp chí Khóa màn hình.</string>
+    <string name="incorrect_pukcode_remaining_attempts">Mã PUK không chính xác, còn lại %d lần thử</string>
+    <string name="incorrect_pincode_remaining_attempts">Mã PIN không chính xác, còn lại %d lần thử</string>
+    <string name="open_wifi_settings">Mở kết nối mạng</string>
+    <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
+    <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
+    <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/micloud</string>
+    <string name="experimental_validate_thanks">Cảm ơn!</string>
+    <string name="experimental_validate_warning">Cảm ơn bạn đã hỗ trợ để MIUI ngày càng hoàn thiện hơn!</string>
     <string name="experimental_validate">Xác nhận</string>
-    <string name="experimental_validate_fail">Không thể đăng nhập</string>
+    <string name="experimental_try_string">Thử</string>
+    <string name="experimental_validate_username">Tên người dùng</string>
     <string name="experimental_validate_password">Mật khẩu</string>
     <string name="experimental_validate_progress">Đang đăng nhập…</string>
-    <string name="experimental_validate_thanks">Cảm ơn!</string>
-    <string name="experimental_validate_username">Tên người dùng</string>
-    <string name="experimental_validate_warning">Cảm ơn bạn đã hỗ trợ để MIUI ngày càng hoàn thiện hơn!</string>
-    <string name="find_device_turn_off_flight_mode">Tắt chế độ máy bay</string>
-    <string name="fingerprint_lockout_msg">Đợi một phút, sau đó thử mở khóa bằng vân tay lại</string>
-    <string name="incorrect_pincode_remaining_attempts">Mã PIN không chính xác, còn lại %d lần thử</string>
-    <string name="incorrect_pukcode_remaining_attempts">Mã PUK không chính xác, còn lại %d lần thử</string>
-    <string name="left_action_default_hint_text">Điều khiển Mi</string>
-    <string name="lockscreen_glogin_checking_password">Đang kiểm tra…</string>
+    <string name="experimental_validate_fail">Không thể đăng nhập</string>
     <string name="lockscreen_glogin_invalid_input">Tên người dùng hoặc mật khẩu không hợp lệ.</string>
-    <string name="lockscreen_glogin_password_hint">Mật khẩu</string>
-    <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
-    <string name="login_website_in_case_forget_password">Để đặt lại mật khẩu, truy cập www.mi.com/micloud</string>
-    <string name="missed_call_text">%d cuộc gọi nhỡ</string>
-    <string name="open_wifi_settings">Mở kết nối mạng</string>
-    <string name="phone_locked_timeout_minutes_string">Thử lại sau %d phút</string>
+    <string name="find_device_turn_off_flight_mode">Tắt chế độ máy bay</string>
     <string name="phone_locked_timeout_seconds_string">Thử lại sau %d giây</string>
-    <string name="set_lock_wallpaper_failed">Không có hình nền mới</string>
+    <string name="phone_locked_timeout_minutes_string">Thử lại sau %d phút</string>
     <string name="unlock_sim_string">Mở khóa SIM</string>
+    <string name="lockscreen_glogin_submit_button">Đăng nhập</string>
+    <string name="missed_call_text">%d cuộc gọi nhỡ</string>
+    <string name="set_lock_wallpaper_failed">Không có hình nền mới</string>
+    <string name="fingerprint_lockout_msg">Đợi một phút, sau đó thử mở khóa bằng vân tay lại</string>
+    <string name="left_action_default_hint_text">Điều khiển Mi</string>
     <string name="keyguard_charging_info_battery_temperature_text">Nhiệt độ pin</string>
     <string name="keyguard_charging_info_charging_full_need_hour_time__text">Khoảng %d giờ sạc đầy</string>
     <string name="keyguard_charging_info_charging_full_need_min_time__text">Khoảng %d phút để sạc đầy</string>
     <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Khoảng %d giờ %d phút để sạc đầy</string>
+    <string name="keyguard_charging_info_charging_text">Đang sạc</string>
     <string name="keyguard_charging_info_charging_voltage_text">Điện áp</string>
     <string name="keyguard_charging_info_could_use_hour_time_text">Còn lại khoảng %d giờ</string>
     <string name="keyguard_charging_info_could_use_min_time_text">Còn lại khoảng %d phút</string>
@@ -175,20 +191,12 @@
     <string name="keyguard_charging_info_drained_hour_time_format">%d giờ</string>
     <string name="keyguard_charging_info_drained_min_time_format">%d phút</string>
     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d giờ %d phút</string>
+    <string name="keyguard_charging_info_finished_charging_text">Đã sạc đầy</string>
     <string name="phone_locked_foget_password_content">"Bạn có thể đăng nhập i.mi.com bằng cách sử dụng Tài khoản Mi đã liên kết với thiết bị này, và xóa tất cả dữ liệu. Điều này có nghĩa là bạn sẽ xóa tất cả dữ liệu cá nhân lưu trữ trên thiết bị này. Sau đó, bạn có thể khởi động lại thiết bị và khôi phục liên hệ, tin nhắn, ảnh, và các mục khác từ Mi Cloud. 
 
 Bạn sẽ không thể thực hiện được trừ khi bạn đã đăng nhập Tài khoản Mi trên thiết bị. Nếu không, bạn sẽ phải flash lại thiết bị."</string>
     <string name="phone_locked_foget_password_footer">"Các bước thực hiện:
 Đăng nhập vào i.mi.com, vào “Tìm thiết bị”, chọn thiết bị và bấm \"Xóa thiết bị\"."</string>
     <string name="phone_locked_foget_password_header">Tôi phải làm gì khi quên mật khẩu?</string>
-    <string name="face_data_siggesstion_next">Tiếp theo</string>
-    <string name="face_data_siggesstion_next_time">Tiếp theo (%dgiây)</string>
-    <string name="face_data_input_ok_msg_angle">"Mở khóa thiết bị bằng khuôn mặt khi màn hình bật.
-(Ghi lại dữ liệu khuôn mặt từ tất cả các góc cần thiết.)"</string>
-    <string name="lock_screen_no_sim_card">Không có thẻ SIM</string>
-    <string name="do_disclosure_generic">Thiết bị này do tổ chức của bạn quản lý</string>
-    <string name="do_disclosure_with_name">Thiết bị này được quản lý bởi %s</string>
-    <string name="face_unlock_reenter_title">Ghi lại dữ liệu khuôn mặt.</string>
-    <string name="face_unlock_reenter_content">Thuật toán mở khóa bằng khuôn mặt đang được cập nhật. Chạm để ghi lại dữ liệu khuôn mặt.</string>
-	<string name="keyguard_left_view_lock_wallpaper">Tạp chí Khóa màn hình.</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Đang sạc nhanh…</string>
 </resources>

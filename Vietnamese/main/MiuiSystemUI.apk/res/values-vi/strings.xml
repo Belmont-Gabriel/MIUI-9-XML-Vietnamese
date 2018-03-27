@@ -20,12 +20,15 @@
     <string name="wifi_remembered">Đã lưu</string>
     <string name="wifi_disabled_generic">Đã tắt</string>
     <string name="wifi_disabled_network_failure">Không thể cấu hình IP</string>
+    <string name="wifi_disabled_by_recommendation_provider">Không được kết nối do mạng chất lượng kém</string>
     <string name="wifi_disabled_wifi_failure">Không thể kết nối Wi-Fi</string>
     <string name="wifi_disabled_password_failure">Vấn đề xác thực</string>
     <string name="wifi_not_in_range">Không nằm trong phạm vi</string>
+    <string name="wifi_no_internet_no_reconnect">Sẽ không tự động kết nối</string>
     <string name="wifi_no_internet">Không thể truy cập internet, sẽ không kết nối lại tự động.</string>
     <string name="saved_network">Đã lưu %1$s</string>
-    <string name="connected_via_wfa">Đã kết nối qua trợ lý Wi‑Fi</string>
+    <string name="connected_via_network_scorer">Tự động được kết nối qua %1$s</string>
+    <string name="connected_via_network_scorer_default">Tự động được kết nối qua nhà cung cấp dịch vụ xếp hạng mạng</string>
     <string name="connected_via_passpoint">Đã kết nối qua %1$s</string>
     <string name="available_via_passpoint">Khả dụng qua %1$s</string>
     <string name="wifi_connected_no_internet">Đã kết nối, không có Internet</string>
@@ -49,6 +52,8 @@
     <string name="bluetooth_profile_map">Dùng cho truy cập tin nhắn</string>
     <string name="bluetooth_profile_sap">Dùng cho truy cập SIM</string>
     <string name="bluetooth_profile_dun">Dùng cho truy cập mạng quay số</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Sử dụng âm thanh chất lượng cao: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Sử dụng âm thanh chất lượng cao</string>
     <string name="bluetooth_a2dp_profile_summary_connected">Đã kết nối âm thanh phương tiện</string>
     <string name="bluetooth_headset_profile_summary_connected">Đã kết nối âm thanh điện thoại</string>
     <string name="bluetooth_opp_profile_summary_connected">Đã kết nối với máy chủ chuyển tiếp tập tin</string>
@@ -81,6 +86,7 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi 2 vạch.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi 3 vạch.</string>
     <string name="accessibility_wifi_signal_full">Tín hiệu Wi-Fi đầy.</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="data_usage_uninstalled_apps">Ứng dụng đã xóa</string>
     <string name="data_usage_uninstalled_apps_users">Ứng dụng và người dùng đã xóa</string>
     <string name="tether_settings_title_usb">Kết nối USB</string>
@@ -155,18 +161,39 @@
     <string name="wifi_allow_scan_with_traffic">Luôn cho phép quét chuyển vùng Wi‑Fi</string>
     <string name="mobile_data_always_on">Dữ liệu di động luôn kích hoạt</string>
     <string name="bluetooth_disable_absolute_volume">Tắt âm lượng tuyệt đối</string>
+    <string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
+    <string name="bluetooth_select_avrcp_version_string">Bluetooth phiên bản AVRCP</string>
+    <string name="bluetooth_select_avrcp_version_dialog_title">Chọn Bluetooth phiên bản AVRCP</string>
+    <string name="bluetooth_select_a2dp_codec_type">Codec âm thanh Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">Chọn Codec âm thanh Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate">Tốc độ lấy mẫu âm thanh Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Chọn Codec âm thanh Bluetooth:
+Tốc độ lấy mẫu"</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample">Số bit âm thanh Bluetooth mỗi mẫu</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Chọn Codec âm thanh Bluetooth:
+Số bit trên mẫu"</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode">Chế độ kênh âm thanh Bluetooth</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Chọn Codec âm thanh Bluetooth:
+Chế độ kênh"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec LDAC âm thanh Bluetooth: Chất lượng phát lại</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Chọn Codec LDAC âm thanh Bluetooth:
+Chất lượng phát lại"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Truyền trực tuyến: %1$s</string>
     <string name="wifi_display_certification_summary">Hiển thị tùy chọn chứng chỉ hiển thị không dây</string>
     <string name="wifi_verbose_logging_summary">Tăng cấp độ nhật ký Wi‑Fi, hiển thị RSSI trên mỗi SSID trong danh sách mạng Wi‑Fi.</string>
     <string name="wifi_aggressive_handover_summary">Sau khi bật cài đặt này, khi tín hiệu Wi‑Fi yếu, kết nối sẽ chuyển sang mạng di động.</string>
     <string name="wifi_allow_scan_with_traffic_summary">Cho phép hoặc hạn chế quét chuyển vùng Wi‑Fi dựa vào số lượng lưu lượng dữ liệu hiện tại.</string>
     <string name="select_logd_size_title">Kích thước bộ đệm bản ghi</string>
     <string name="select_logd_size_dialog_title">Chọn kích thước trình ghi nhật ký tải</string>
+    <string name="dev_logpersist_clear_warning_title">Xóa bộ nhớ ổn định trong trình ghi nhật ký?</string>
+    <string name="dev_logpersist_clear_warning_message">Khi chúng tôi không còn theo dõi bằng trình ghi nhật ký ổn định nữa, chúng tôi sẽ được yêu cầu xóa dữ liệu trong trình ghi nhật ký nằm trên thiết bị của bạn.</string>
+    <string name="select_logpersist_title">Lưu dữ liệu trình ghi nhật ký ổn định</string>
+    <string name="select_logpersist_dialog_title">Chọn lần tải nhật ký để lưu trữ ổn định trên thiết bị</string>
     <string name="select_usb_configuration_title">Chọn cấu hình USB</string>
     <string name="select_usb_configuration_dialog_title">Chọn cấu hình USB</string>
     <string name="allow_mock_location">Cho phép giả lập vị trí</string>
     <string name="allow_mock_location_summary">Cho phép giả lập vị trí</string>
     <string name="debug_view_attributes">Bật thuộc tính xem</string>
-    <string name="legacy_dhcp_client_summary">Sử dụng DHCP khách từ Lollilop thay thế khách DHCP Android mới.</string>
     <string name="mobile_data_always_on_summary">Luôn giữ dữ liệu di động kích hoạt, thậm chí khi Wi‑Fi đang kích hoạt (để chuyển đổi mạng nhanh).</string>
     <string name="adb_warning_title">Cho phép gỡ lỗi USB?</string>
     <string name="adb_warning_message">Gỡ lỗi USB chỉ với mục đích phát triển. Sử dụng để sao chép dữ liệu với máy tính, cài đặt ứng dụng trên thiết bị của bạn mà không cần thông báo, và đọc dữ liệu nhật ký.</string>
@@ -176,6 +203,7 @@
     <string name="verify_apps_over_usb_title">Xác minh ứng dụng qua USB</string>
     <string name="verify_apps_over_usb_summary">Kiểm tra hành vi gây hại của ứng dụng đã cài đặt qua ADB/ADT.</string>
     <string name="bluetooth_disable_absolute_volume_summary">Tắt âm lượng tuyệt đối Bluetooth trong trường hợp xảy ra sự cố âm lượng với các thiết bị kết nối, chẳng hạn như âm lượng quá lớn không thể chấp nhận hoặc không thể kiểm soát.</string>
+    <string name="bluetooth_enable_inband_ringing_summary">Cho phép nhạc chuông trên điện thoại được phát trên tai nghe Bluetooth</string>
     <string name="enable_terminal_title">Ứng dụng cuối trên máy</string>
     <string name="enable_terminal_summary">Bật ứng dụng cuối để truy cập shell trên máy</string>
     <string name="hdcp_checking_title">Kiểm tra HDCP</string>
@@ -188,6 +216,8 @@
     <string name="no_application">Không có ứng dụng</string>
     <string name="wait_for_debugger">Chờ bộ gỡ lỗi</string>
     <string name="wait_for_debugger_summary">Ứng dụng gỡ lỗi chờ trình gỡ lỗi đính kèm trước khi thực hiện</string>
+    <string name="telephony_monitor_switch">Giám sát điện thoại</string>
+    <string name="telephony_monitor_switch_summary">TelephonyMonitor sẽ thu thập nhật ký khi phát hiện thấy sự cố với chức năng điện thoại/modem và gửi thông báo khẩn cấp tới người dùng để gửi lỗi</string>
     <string name="debug_input_category">Nhập</string>
     <string name="debug_drawing_category">Vẽ</string>
     <string name="debug_hw_drawing_category">Phần cứng tăng tốc kết xuất</string>
@@ -206,6 +236,7 @@
     <string name="show_hw_layers_updates">Hiển thị cập nhật cấp phần cứng</string>
     <string name="show_hw_layers_updates_summary">Phần cứng đang được cập nhật sẽ flash màu xanh</string>
     <string name="debug_hw_overdraw">Gỡ lỗi vẽ quá độ GPU</string>
+    <string name="debug_hw_renderer">Đặt kết xuất đồ họa GPU</string>
     <string name="disable_overlays">Tắt lớp phủ HW</string>
     <string name="disable_overlays_summary">Luôn sử dụng GPU cho kết xuất màn hình</string>
     <string name="simulate_color_space">Mô phỏng không gian màu</string>
@@ -216,8 +247,6 @@
     <string name="debug_layout_summary">Hiển thị ranh giới, lề biên tập v.v…</string>
     <string name="force_rtl_layout_all_locales">Bắt buộc phương hướng bố cục RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Bắt buộc hướng bố cục màn hình phải sang trái cho tất cả khu vực</string>
-    <string name="show_cpu_usage">Hiển thị sử dụng CPU</string>
-    <string name="show_cpu_usage_summary">Hiển thị sử dụng CPU qua lớp phủ màn hình</string>
     <string name="force_hw_ui">Bắt buộc kết xuất GPU</string>
     <string name="force_hw_ui_summary">Buộc sử dụng GPU để vẽ 2D</string>
     <string name="force_msaa">Bắt buộc 4x MSAA</string>
@@ -234,6 +263,8 @@
     <string name="app_process_limit_title">Giới hạn tiến trình chạy nền</string>
     <string name="show_all_anrs">Hiển thị tất cả ANR</string>
     <string name="show_all_anrs_summary">Hiển thị hộp thoại \"Không phản hồi\" đối với ứng dụng nền</string>
+    <string name="show_notification_channel_warnings">Hiện cảnh báo kênh th.báo</string>
+    <string name="show_notification_channel_warnings_summary">Hiện cảnh báo trên m.hình khi ƯD đăng th.báo ko có kênh hợp lệ</string>
     <string name="force_allow_on_external">Buộc cho phép ứng dụng ghi trên bộ nhớ ngoài</string>
     <string name="force_allow_on_external_summary">Cho phép bất kỳ ứng dụng ghi trên bộ nhớ ngoài, bỏ qua giá trị bảng liệt kê</string>
     <string name="force_resizable_activities">Bắt buộc hoạt động có thể điều chỉnh kích thước</string>
@@ -251,8 +282,6 @@
     <string name="inactive_app_active_summary">Đã kích hoạt. Chạm để chuyển.</string>
     <string name="runningservices_settings_title">Đang chạy dịch vụ</string>
     <string name="runningservices_settings_summary">Xem và điều khiển dịch vụ đang chạy</string>
-    <string name="enable_webview_multiprocess">WebView đa tiến trình</string>
-    <string name="enable_webview_multiprocess_desc">Chạy kiết xuất WebView độc lập</string>
     <string name="select_webview_provider_title">Thực hiện WebView</string>
     <string name="select_webview_provider_dialog_title">Đặt thực hiện WebView</string>
     <string name="select_webview_provider_toast_text">Chọn lựa này đã không còn hiệu lực. Thử lại.</string>
@@ -276,27 +305,24 @@
     <string name="accessibility_display_daltonizer_preference_subtitle">Tính năng này là tính năng thử nghiệm có thể ảnh hưởng đến hiệu suất.</string>
     <string name="daltonizer_type_overridden">Ghi đè bởi %1$s</string>
     <string name="power_remaining_duration_only">Còn lại khoảng %1$s</string>
+    <string name="power_remaining_charging_duration_only">Còn %1$s cho tới khi được sạc đầy</string>
     <string name="power_remaining_duration_only_short">Còn lại%1$s</string>
     <string name="power_discharging_duration">%1$s - còn lại khoảng %2$s</string>
     <string name="power_discharging_duration_short">%1$s - Còn lại %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s cần sạc đầy</string>
-    <string name="power_charging_duration_ac">%1$s - %2$s cần sạc đầy từ AC</string>
-    <string name="power_charging_duration_usb">%1$s - %2$s cần sạc đầy từ USB</string>
-    <string name="power_charging_duration_wireless">%1$s - %2$s cần sạc đầy từ mạng không dây</string>
     <string name="battery_info_status_unknown">Không xác định</string>
     <string name="battery_info_status_charging">Đang sạc</string>
-    <string name="battery_info_status_charging_ac">Đang sạc qua AC</string>
-    <string name="battery_info_status_charging_ac_short">Đang sạc</string>
-    <string name="battery_info_status_charging_usb">Đang sạc qua USB</string>
-    <string name="battery_info_status_charging_usb_short">Đang sạc</string>
-    <string name="battery_info_status_charging_wireless">Đang sạc không dây</string>
-    <string name="battery_info_status_charging_wireless_short">Đang sạc</string>
+    <string name="battery_info_status_charging_lower">đang sạc</string>
     <string name="battery_info_status_discharging">Không sạc</string>
     <string name="battery_info_status_not_charging">Không sạc</string>
     <string name="battery_info_status_full">Đầy</string>
     <string name="disabled_by_admin_summary_text">Điều khiển bởi Quản trị viên</string>
     <string name="enabled_by_admin">Đã bật bởi Quản trị viên</string>
     <string name="disabled_by_admin">Đã tắt bởi Quản trị viên</string>
+    <string name="disabled">Đã tắt</string>
+    <string name="external_source_trusted">Được phép</string>
+    <string name="external_source_untrusted">Không được phép</string>
+    <string name="install_other_apps">C.đặt ư.dụng ko xác định</string>
     <string name="home">Màn hình chính Cài đặt</string>
     <string name="charge_length_format">%1$s trước</string>
     <string name="remaining_length_format">Còn lại %1$s</string>
@@ -307,6 +333,16 @@
     <string name="screen_zoom_summary_extremely_large">Lớn nhất</string>
     <string name="screen_zoom_summary_custom">Tùy chỉnh (%d)</string>
     <string name="help_feedback_label">Trợ giúp &amp; phản hồi</string>
+    <string name="content_description_menu_button">Menu</string>
+    <string name="time_zone_gmt">GMT</string>
+    <string name="retail_demo_reset_message">Nhập mật khẩu để tiến hành khôi phục cài đặt gốc ở chế độ trình diễn</string>
+    <string name="retail_demo_reset_next">Tiếp theo</string>
+    <string name="retail_demo_reset_title">Yêu cầu mật khẩu</string>
+    <string name="active_input_method_subtypes">Phương pháp nhập liệu hoạt động</string>
+    <string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
+    <string name="failed_to_open_app_settings_toast">Không thể mở cài đặt cho %1$s</string>
+    <string name="ime_security_warning">Phương thức nhập này có thể thu thập tất cả văn bản bạn nhập, bao gồm dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Phương thức nhập này đến từ ứng dụng %1$s. Sử dụng phương thức nhập này?</string>
+    <string name="direct_boot_unaware_dialog_message">Lưu ý: Sau khi khởi động lại, ứng dụng này không thể khởi động cho đến khi bạn mở khóa điện thoại</string>
     <string name="app_label">Giao diện hệ thống</string>
     <string name="status_bar_no_recent_apps">Không có ứng dụng gần đây</string>
     <string name="recent_task_lock_text">Khóa</string>
@@ -429,7 +465,6 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="recents_multistack_add_stack_dialog_split_custom">Tùy chỉnh</string>
     <string name="recents_multi_window_mode">Chia màn hình</string>
     <string name="recents_exit_multi_window_mode">Thoát</string>
-    <string name="keyboard_shortcut_group_system_recents">Gần đây</string>
     <string name="accessibility_divider">Đường chia màn hình</string>
     <string name="accessibility_action_divider_left_full">Toàn màn hình bên trái</string>
     <string name="accessibility_action_divider_left_70">70% bên trái</string>
@@ -443,6 +478,93 @@ Nếu bạn kích hoạt lại dữ liệu, bạn có thể bị tính phí bở
     <string name="accessibility_action_divider_bottom_full">Toàn màn hình bên dưới</string>
     <string name="dock_forced_resizable">Ứng dụng này không làm việc trong chế độ Chia màn hình</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Ứng dụng này không hỗ trợ Chia màn hình</string>
+    <string name="accessibility_desc_work_lock">Màn hình khóa công việc</string>
+    <string name="keyboard_key_button_template">Phím %1$s</string>
+    <string name="keyboard_key_home">Home</string>
+    <string name="keyboard_key_back">Quay lại</string>
+    <string name="keyboard_key_dpad_up">Lên</string>
+    <string name="keyboard_key_dpad_down">Xuống</string>
+    <string name="keyboard_key_dpad_left">Trái</string>
+    <string name="keyboard_key_dpad_right">Phải</string>
+    <string name="keyboard_key_dpad_center">Giữa</string>
+    <string name="keyboard_key_tab">Tab</string>
+    <string name="keyboard_key_space">Phím cách</string>
+    <string name="keyboard_key_enter">Enter</string>
+    <string name="keyboard_key_backspace">Backspace</string>
+    <string name="keyboard_key_media_play_pause">Phát/Tạm dừng</string>
+    <string name="keyboard_key_media_stop">Dừng</string>
+    <string name="keyboard_key_media_next">Bài hát sau</string>
+    <string name="keyboard_key_media_previous">Bài hát trước</string>
+    <string name="keyboard_key_media_rewind">Tua lại</string>
+    <string name="keyboard_key_media_fast_forward">Tua nhanh</string>
+    <string name="keyboard_key_page_up">Page Up</string>
+    <string name="keyboard_key_page_down">Page Down</string>
+    <string name="keyboard_key_forward_del">Xóa</string>
+    <string name="keyboard_key_move_home">Home</string>
+    <string name="keyboard_key_move_end">End</string>
+    <string name="keyboard_key_insert">Insert</string>
+    <string name="keyboard_key_num_lock">Num Lock</string>
+    <string name="keyboard_key_numpad_template">Bàn phím số %1$s</string>
+    <string name="keyboard_shortcut_group_system">System</string>
+    <string name="keyboard_shortcut_group_system_home">Home</string>
+    <string name="keyboard_shortcut_group_system_recents">Gần đây</string>
+    <string name="keyboard_shortcut_group_system_back">Quay lại</string>
+    <string name="keyboard_shortcut_group_system_notifications">Thông báo</string>
+    <string name="keyboard_shortcut_group_system_shortcuts_helper">Lối tắt bàn phím</string>
+    <string name="keyboard_shortcut_group_system_switch_input">Chuyển đổi phương thức nhập</string>
+    <string name="keyboard_shortcut_group_applications">Ứng dụng</string>
+    <string name="keyboard_shortcut_group_applications_assist">Trợ lý</string>
+    <string name="keyboard_shortcut_group_applications_browser">Trình duyệt</string>
+    <string name="keyboard_shortcut_group_applications_contacts">Liên hệ</string>
+    <string name="keyboard_shortcut_group_applications_email">Email</string>
+    <string name="keyboard_shortcut_group_applications_sms">SMS</string>
+    <string name="keyboard_shortcut_group_applications_im">IM</string>
+    <string name="keyboard_shortcut_group_applications_music">Nhạc</string>
+    <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Lịch</string>
+    <string name="legacy_vpn_name">VPN</string>
+    <string name="monitoring_button_view_policies">Xem Chính sách thực thi</string>
+    <string name="monitoring_description_ca_certificate">Chứng chỉ ủy quyền đã được cài đặt trên thiết bị này. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
+    <string name="monitoring_description_named_management">"Thiết bị của bạn được quản lý bởi %1$s.
+
+Quản trị viên có thể giám sát và quản lý cài đặt, truy cập công ty, ứng dụng, dữ liệu liên kết với thiết bị và thông tin vị trí.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên."</string>
+    <string name="monitoring_description_management">"Thiết bị của bạn được quản lý bởi tổ chức của bạn.
+
+Quản trị viên có thể giám sát và quản lý cài đặt, truy cập công ty, ứng dụng, dữ liệu liên kết với thiết bị và thông tin vị trí.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên."</string>
+    <string name="monitoring_description_managed_profile_ca_certificate">Tổ chức của bạn đã cài đặt chứng chỉ ủy quyền trong hồ sơ công việc. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
+    <string name="monitoring_description_management_ca_certificate">Tổ chức của bạn đã cài đặt chứng chỉ ủy quyền trên thiết bị này. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
+    <string name="monitoring_description_managed_profile_named_vpn">Hồ sơ công việc của bạn đã kết nối %1$s. Ứng dụng này có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_management_network_logging">Quản trị viên đã bật lịch sử mạng, điều này giúp theo dõi lưu lượng truy cập trên thiết bị của bạn.</string>
+    <string name="monitoring_description_named_vpn">Bạn đã kết nối %1$s. Ứng dụng này thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_personal_profile_named_vpn">Hồ sơ cá nhân của bạn đã kết nối %1$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_two_named_vpns">Bạn đã kết nối %1$s và %2$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
+    <string name="monitoring_description_vpn_settings">Mở cài đặt VPN</string>
+    <string name="monitoring_title">Giám sát mạng</string>
+    <string name="monitoring_subtitle_ca_certificate">Chứng chỉ CA</string>
+    <string name="monitoring_subtitle_network_logging">Nhật ký mạng</string>
+    <string name="monitoring_subtitle_vpn">VPN</string>
+    <string name="monitoring_title_device_owned">Quản lý thiết bị</string>
+    <string name="quick_settings_done">Hoàn tất</string>
+    <string name="quick_settings_disclosure_management_monitoring">Tổ chức của bạn quản lý thiết bị này và có thể giám sát lưu lượng mạng</string>
+    <string name="quick_settings_disclosure_named_management_monitoring">%1$s quản lý thiết bị này và có thể giám sát lưu lượng mạng</string>
+    <string name="quick_settings_disclosure_management_named_vpn">Thiết bị được quản lý bởi tổ chức của bạn và kết nối %1$s</string>
+    <string name="quick_settings_disclosure_named_management_named_vpn">Thiết bị được quản lý bởi %1$s và kết nối %2$s</string>
+    <string name="quick_settings_disclosure_management">Thiết bị được quản lý bởi tổ chức của bạn</string>
+    <string name="quick_settings_disclosure_named_management">Thiết bị được quản lý bởi %1$s</string>
+    <string name="quick_settings_disclosure_management_vpns">Thiết bị được quản lý bởi tổ chức của bạn và kết nối VPN</string>
+    <string name="quick_settings_disclosure_named_management_vpns">Thiết bị được quản lý bởi %1$s và kết nối VPN</string>
+    <string name="quick_settings_disclosure_managed_profile_monitoring">Tổ chức của bạn có thể giám sát lưu lượng mạng trong hồ sơ công việc của bạn</string>
+    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s có thể giám sát lưu lượng mạng trong hồ sơ công việc của bạn</string>
+    <string name="quick_settings_disclosure_monitoring">Mạng có thể được giám sát</string>
+    <string name="quick_settings_disclosure_vpns">Thiết bị đã kết nối VPN</string>
+    <string name="quick_settings_disclosure_managed_profile_named_vpn">Hồ sơ công việc đã kết nối %1$s</string>
+    <string name="quick_settings_disclosure_personal_profile_named_vpn">Hồ sơ cá nhân đã kết nối %1$s</string>
+    <string name="quick_settings_disclosure_named_vpn">Thiết bị đã kết nối %1$s</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
@@ -462,9 +584,9 @@ d MMMM"</string>
     <string name="accessibility_recent_task_memory_info">Tổng RAM: %2$s |RAM khả dụng: %1$s. Chạm đúp để xóa.</string>
     <string name="accessibility_recent_task_locked">Đã khóa, trượt xuống để mở khóa.</string>
     <string name="accessibility_recent_task_unlocked">Đã mở khóa</string>
-	<string name="accessibility_recent_task_unlocked_state">Đã mở khóa</string>
-	<string name="accessibility_recent_task_locked_state">Đã khóa</string>
-	<string name="accessibility_drag_hint_message">Kéo mục vào phần trên của màn hình</string>
+    <string name="accessibility_recent_task_locked_state">Đã khóa</string>
+    <string name="accessibility_recent_task_unlocked_state">Đã mở khóa</string>
+    <string name="accessibility_drag_hint_message">Kéo mục vào phần trên của màn hình</string>
     <string name="nav_guide_title">Ẩn phím ảo</string>
     <string name="nav_guide_message">Sử dụng cử chỉ để ẩn/hiển thị phím ảo.</string>
     <string name="nav_guide_cancel">Bỏ qua</string>
@@ -595,6 +717,9 @@ d MMMM"</string>
     <string name="notification_low_battery_open_save_mode">Bật tiết kiệm Pin</string>
     <string name="notification_low_battery_action_btn">Bật</string>
     <string name="notification_low_battery_need_charge">Pin yếu. Hãy sạc thiết bị.</string>
+    <string name="low_temperature_warning_title">Cảnh báo tắt nguồn</string>
+    <string name="low_temperature_warning_message">Nhiệt độ quá thấp, điện thoại có thể tắt nguồn bất cứ lúc nào, vui lòng lưu dữ liệu.</string>
+    <string name="low_temperature_button_ok">Tôi biết</string>
     <string name="oldman_airplane_mode_text">chế độ máy bay</string>
     <string name="oldman_incall_text">đang gọi</string>
     <string name="demo_mode">Chế độ Demo</string>
@@ -622,6 +747,18 @@ d MMMM"</string>
     <string name="notification_header_title">Thông báo</string>
     <string name="weather_publish_time">Đã cập nhật %1$s</string>
     <string name="no_weather_description">Nhận thông tin thời tiết ></string>
+    <string name="accessibility_desc_notification_shade">Thanh thông báo</string>
+    <string name="accessibility_desc_quick_settings">Cài đặt nhanh</string>
+    <string name="accessibility_desc_details_page">Trang chi tiết %1$s</string>
+    <string name="accessibility_desc_block_notification">Ẩn thông báo</string>
+    <string name="accessibility_desc_select_block_notification">Chọn thông báo để ẩn</string>
+    <string name="accessibility_desc_confirm_block">Ẩn</string>
+    <string name="accessibility_desc_reconfirm_block">Ẩn ngay?</string>
+    <string name="accessibility_desc_cancel_block">Không ẩn</string>
+    <string name="accessibility_desc_app_allow_block">Thông báo của %1$s có thể ẩn</string>
+    <string name="accessibility_desc_app_unallow_block">Thông báo của %1$s không thể ẩn</string>
+    <string name="accessibility_desc_check_block_notification">Chọn thông báo của %1$s</string>
+    <string name="accessibility_desc_uncheck_block_notification">Bỏ chọn thông báo của %1$s</string>
     <string name="screenshot_long_screenshot">Chụp ảnh màn hình kéo dài</string>
     <string name="screenshot_edit">Sửa</string>
     <string name="screenshot_send">Gửi</string>
@@ -642,7 +779,6 @@ d MMMM"</string>
     <string name="notification_manager">Quản lý thông báo</string>
     <string name="notification_manager_des">Lọc và quản lý thông báo</string>
     <string name="quick_settings_more_settings">Cài đặt thêm</string>
-    <string name="quick_settings_done">Hoàn tất</string>
     <string name="quick_settings_wifi_detail_empty_text">Mạng Wi-Fi không khả dụng</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Chọn mạng lân cận</string>
@@ -651,11 +787,12 @@ d MMMM"</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Không có thiết bị kết nối khả dụng</string>
     <string name="accessibility_ime_switch_button">Phím chuyển đổi phương thức nhập.</string>
-	<string name="accessibility_settings">Cài đặt</string>
+    <string name="accessibility_settings">Cài đặt</string>
     <string name="accessibility_search_scanner">Máy quét</string>
-    <string name="accessibility_brightness_slider">Thanh trượt độ sáng</string>														  
+    <string name="accessibility_brightness_slider">Thanh trượt độ sáng</string>
     <string name="click_to_return_multi_window">Chạm để quay trở lại Chia màn hình</string>
     <string name="recent_dock_tip">Chạm để chọn ứng dụng</string>
+    <string name="recent_cannot_dock">Không thể sử dụng Chia màn hình trong Không gian thứ hai</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Chia màn hình không hỗ trợ trên Màn hình khóa.</string>
     <string name="un_important_notifications">Thông báo không quan trọng</string>
     <string name="as_important">Quan trọng</string>
@@ -664,62 +801,21 @@ d MMMM"</string>
     <string name="unimportant_desc">Thông báo không quan trọng sẽ xuất hiện trong thư mục riêng.</string>
     <string name="important_desc">Thông báo quan trọng sẽ xuất hiện trực tiếp trên Thanh thông báo.</string>
     <string name="cancel">Hủy</string>
-	<string name="search_hint">Tìm kiếm web, ứng dụng, liên hệ và video</string>
-    <string name="lland">Lollipop</string>
-    <string name="mland">Marshmallow</string>
-    <string name="accessibility_assistant">Phím ảo</string>
-    <string name="block_record_notification_more_text">Ẩn thông báo từ %1$s &amp; %2$d ứng dụng.</string>
-    <string name="headset_custom">Bỏ qua</string>
-    <string name="headset_info">Nhấn để xem cài đặt</string>
-    <string name="headset_settings">Tai nghe đã kết nối</string>
-	<string name="description_image_button_answer">Trả lời</string>
-    <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
-    <string name="settings_toggle_position_divider_page">%1$d phím nhanh trên thanh này hoạt động</string>
-	<string name="monitoring_button_view_policies">Xem Chính sách thực thi</string>
-    <string name="monitoring_description_ca_certificate">Chứng chỉ ủy quyền đã được cài đặt trên thiết bị này. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
-    <string name="monitoring_description_named_management">"Thiết bị của bạn được quản lý bởi %1$s.
-
-Quản trị viên có thể giám sát và quản lý cài đặt, truy cập công ty, ứng dụng, dữ liệu liên kết với thiết bị và thông tin vị trí.
-
-Để biết thêm thông tin, hãy liên hệ với quản trị viên."</string>
-    <string name="monitoring_description_managed_profile_ca_certificate">Tổ chức của bạn đã cài đặt chứng chỉ ủy quyền trong hồ sơ công việc. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
-    <string name="monitoring_description_management">"Thiết bị của bạn được quản lý bởi tổ chức của bạn.
-
-Quản trị viên có thể giám sát và quản lý cài đặt, truy cập công ty, ứng dụng, dữ liệu liên kết với thiết bị và thông tin vị trí.
-
-Để biết thêm thông tin, hãy liên hệ với quản trị viên."</string>
-    <string name="monitoring_description_management_ca_certificate">Tổ chức của bạn đã cài đặt chứng chỉ ủy quyền trên thiết bị này. Lưu lượng mạng an toàn có thể được giám sát hoặc thay đổi.</string>
-    <string name="monitoring_description_managed_profile_named_vpn">Hồ sơ công việc của bạn đã kết nối %1$s. Ứng dụng này có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_management_network_logging">Quản trị viên đã bật lịch sử mạng, điều này giúp theo dõi lưu lượng truy cập trên thiết bị của bạn.</string>
-    <string name="monitoring_description_named_vpn">Bạn đã kết nối %1$s. Ứng dụng này thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_personal_profile_named_vpn">Hồ sơ cá nhân của bạn đã kết nối %1$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_two_named_vpns">Bạn đã kết nối %1$s và %2$s. Ứng dụng có thể giám sát hoạt động mạng, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
-    <string name="monitoring_description_vpn_settings">Mở cài đặt VPN</string>
-    <string name="monitoring_title">Giám sát mạng</string>
-    <string name="monitoring_subtitle_ca_certificate">Chứng chỉ CA</string>
-    <string name="monitoring_subtitle_network_logging">Nhật ký mạng</string>
-    <string name="monitoring_subtitle_vpn">VPN</string>
-    <string name="monitoring_title_device_owned">Quản lý thiết bị</string>
-    <string name="quick_settings_disclosure_management_monitoring">Tổ chức của bạn quản lý thiết bị này và có thể giám sát lưu lượng mạng</string>
-    <string name="quick_settings_disclosure_named_management_monitoring">%1$s quản lý thiết bị này và có thể giám sát lưu lượng mạng</string>
-    <string name="quick_settings_disclosure_management_named_vpn">Thiết bị được quản lý bởi tổ chức của bạn và kết nối %1$s</string>
-    <string name="quick_settings_disclosure_named_management_named_vpn">Thiết bị được quản lý bởi %1$s và kết nối %2$s</string>
-    <string name="quick_settings_disclosure_management">Thiết bị được quản lý bởi tổ chức của bạn</string>
-    <string name="quick_settings_disclosure_named_management">Thiết bị được quản lý bởi %1$s</string>
-    <string name="quick_settings_disclosure_management_vpns">Thiết bị được quản lý bởi tổ chức của bạn và kết nối VPN</string>
-    <string name="quick_settings_disclosure_named_management_vpns">Thiết bị được quản lý bởi %1$s và kết nối VPN</string>
-    <string name="quick_settings_disclosure_managed_profile_monitoring">Tổ chức của bạn có thể giám sát lưu lượng mạng trong hồ sơ công việc của bạn</string>
-    <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s có thể giám sát lưu lượng mạng trong hồ sơ công việc của bạn</string>
-    <string name="quick_settings_disclosure_monitoring">Mạng có thể được giám sát</string>
-    <string name="quick_settings_disclosure_vpns">Thiết bị đã kết nối VPN</string>
-    <string name="quick_settings_disclosure_managed_profile_named_vpn">Hồ sơ công việc đã kết nối %1$s</string>
-    <string name="quick_settings_disclosure_personal_profile_named_vpn">Hồ sơ cá nhân đã kết nối %1$s</string>
-    <string name="quick_settings_disclosure_named_vpn">Thiết bị đã kết nối %1$s</string>
-	<string name="fsg_demo_back">Quay lại</string>
+    <string name="search_hint">Tìm kiếm web, ứng dụng, liên hệ và video</string>
+    <string name="description_image_button_reject">Từ chối</string>
+    <string name="description_image_button_answer">Trả lời</string>
+    <string name="screenshot_feedback_txt">Phản hồi</string>
+    <string name="screenshot_toalbum_txt">Xem trước</string>
+    <string name="please_slide_agian">Hãy trượt lại</string>
+    <string name="how_to_use_fsg">Bạn có thể thực hiện các thao tác này bằng cử chỉ:</string>
+    <string name="how_to_back_home">Vào Màn hình chính</string>
+    <string name="how_to_switch_recents">Mở Gần đây</string>
+    <string name="fsg_demo_back">Quay lại</string>
     <string name="fsg_demo_go_on">Tìm hiểu</string>
     <string name="fs_gesture_back_home_summary">Vuốt nhanh từ phía dưới màn hình</string>
     <string name="fs_gesture_switch_recents_summary">Vuốt từ phía dưới màn hình và tạm dừng</string>
+    <string name="how_to_use_drawer">Làm thế nào để mở menu trượt</string>
+    <string name="how_to_use_drawer_summary">Trượt phải phần phía trên màn hình</string>
     <string name="fs_gesture_back_ready_title">Quay lại</string>
     <string name="fs_gesture_left_back_ready_summary">Trượt qua phải từ cạnh</string>
     <string name="fs_gesture_right_back_ready_summary">Trượt qua trái từ cạnh</string>
@@ -729,10 +825,54 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="fs_gesture_final_summary">Bạn có thể chuyển lại sử dụng các nút trong Cài đặt > Màn hình tràn cạnh</string>
     <string name="fs_gesture_final_restart">Một lần nữa</string>
     <string name="fs_gesture_final_over">Hoàn tất</string>
-	<string name="how_to_use_fsg">Bạn có thể thực hiện các thao tác này bằng cử chỉ:</string>
-    <string name="how_to_back_home">Vào Màn hình chính</string>
-    <string name="how_to_switch_recents">Mở Gần đây</string>
-	<string name="screenshot_feedback_txt">Phản hồi</string>
-    <string name="screenshot_toalbum_txt">Xem trước</string>
-	<string name="please_slide_agian">Hãy trượt lại</string>
+    <string name="lland">Lollipop</string>
+    <string name="mland">Marshmallow</string>
+    <string name="monitoring_title_profile_owned">Giám sát hồ sơ</string>
+    <string name="monitoring_description_do_header_generic">Thiết bị của bạn do %1$s quản lý.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s sử dụng %2$s để quản lý thiết bị của bạn.</string>
+    <string name="monitoring_description_do_body">Quản trị viên của bạn có thể giám sát và quản lý cài đặt, quyền truy cập dữ liệu công ty, ứng dụng, dữ liệu được liên kết với thiết bị và thông tin vị trí thiết bị của bạn.</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
+    <string name="monitoring_description_do_learn_more">Tìm hiểu thêm</string>
+    <string name="monitoring_description_do_body_vpn">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
+    <string name="monitoring_description_ca_cert_settings">Mở thông tin xác thực tin cậy</string>
+    <string name="monitoring_description_network_logging">"Quản trị viên đã bật tính năng ghi nhật ký mạng. Tính năng này giám sát lưu lượng truy cập trên thiết bị của bạn.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn."</string>
+    <string name="monitoring_description_vpn">"Bạn đã cấp cho ứng dụng quyền thiết lập kết nối VPN.
+
+Ứng dụng này có thể giám sát hoạt động mạng và thiết bị của bạn, bao gồm email, ứng dụng và trang web."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Hồ sơ công việc của bạn do %1$s quản lý.
+
+Quản trị viên có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn.
+
+Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sát hoạt động mạng của bạn."</string>
+    <string name="monitoring_description_app">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_app_personal">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng cá nhân của bạn bao gồm email, ứng dụng và trang web.</string>
+    <string name="connected_via_wfa">Đã kết nối qua trợ lý Wi‑Fi</string>
+    <string name="legacy_dhcp_client_summary">Sử dụng DHCP khách từ Lollilop thay thế khách DHCP Android mới.</string>
+    <string name="show_cpu_usage">Hiển thị sử dụng CPU</string>
+    <string name="show_cpu_usage_summary">Hiển thị sử dụng CPU qua lớp phủ màn hình</string>
+    <string name="enable_webview_multiprocess">WebView đa tiến trình</string>
+    <string name="enable_webview_multiprocess_desc">Chạy kiết xuất WebView độc lập</string>
+    <string name="battery_info_status_charging_ac">Đang sạc qua AC</string>
+    <string name="battery_info_status_charging_ac_short">Đang sạc</string>
+    <string name="battery_info_status_charging_usb">Đang sạc qua USB</string>
+    <string name="battery_info_status_charging_usb_short">Đang sạc</string>
+    <string name="battery_info_status_charging_wireless">Đang sạc không dây</string>
+    <string name="battery_info_status_charging_wireless_short">Đang sạc</string>
+    <string name="memory_clear_result_mega">Đã xóa %1$sMB</string>
+    <string name="memory_clear_result_giga">Đã xóa %1$sGB</string>
+    <string name="power_charging_duration_ac">%1$s - %2$s cần sạc đầy từ AC</string>
+    <string name="power_charging_duration_usb">%1$s - %2$s cần sạc đầy từ USB</string>
+    <string name="power_charging_duration_wireless">%1$s - %2$s cần sạc đầy từ mạng không dây</string>
+    <string name="headset_custom">Bỏ qua</string>
+    <string name="headset_info">Nhấn để xem cài đặt</string>
+    <string name="headset_settings">Tai nghe đã kết nối</string>
+    <string name="settings_toggle_position_divider_page">%1$d phím nhanh trên thanh này hoạt động</string>
+    <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
+    <string name="block_record_notification_more_text">Ẩn thông báo từ %1$s &amp; %2$d ứng dụng.</string>
+    <string name="accessibility_assistant">Phím ảo</string>
 </resources>

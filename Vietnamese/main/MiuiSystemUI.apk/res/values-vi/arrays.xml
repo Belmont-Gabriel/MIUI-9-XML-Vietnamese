@@ -38,27 +38,117 @@
         <item>Chỉ sử dụng HDCP kiểm tra nội dung DRM</item>
         <item>Luôn sử dụng HDCP kiểm tra</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Mặc định)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Được tối ưu hóa cho chất lượng âm thanh (990kb/giây/909kb/giây)</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng (660kbps/606kbps)</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối (330kb/giây/303kb/giây)</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Được tối ưu hóa cho chất lượng âm thanh</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Tắt</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Tắt</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Tắt</item>
-        <item>Bộ đệm nhật ký 64K</item>
-        <item>Bộ đệm nhật ký 256K</item>
-        <item>Bộ đệm nhật ký 1M</item>
-        <item>Bộ đệm nhật ký 4M</item>
-        <item>Bộ đệm nhật ký 16M</item>
+        <item>Bộ đệm nhật ký 64KB</item>
+        <item>Bộ đệm nhật ký 256KB</item>
+        <item>Bộ đệm nhật ký 1MB</item>
+        <item>Bộ đệm nhật ký 4MB</item>
+        <item>Bộ đệm nhật ký 16MB</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Tắt</item>
+        <item>Tất cả</item>
+        <item>Tất cả trừ đài</item>
+        <item>chỉ kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Tắt</item>
+        <item>Tất cả lần tải nhật ký</item>
+        <item>Tất cả trừ lần tải nhật ký qua đài</item>
+        <item>chỉ vùng đệm nhật ký kernel</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Tắt ảnh động</item>
@@ -120,7 +210,11 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Tắt</item>
         <item>Hiển thị vùng vẽ quá độ</item>
-        <item>Hiển thị các khu vực cho Deuteranomaly</item>
+        <item>Hiển thị khu vực cho người mù màu xanh lá cây</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Mặc định)</item>
+        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Giới hạn tiêu chuẩn</item>
@@ -149,6 +243,17 @@
         <item>Cực nhanh</item>
         <item>Nhanh nhất</item>
     </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>Sáng (mặc định)</item>
         <item>Tự nhiên</item>
@@ -163,6 +268,24 @@
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -188,7 +311,7 @@
         <item>Mưa nhỏ</item>
         <item>Mưa kèm tuyết rơi</item>
         <item>Bão tuyết</item>
-        <item>Tuyết</item>
+        <item>Tuyết rơi</item>
         <item>Tuyết rơi dày</item>
         <item>Tuyết rơi vừa</item>
         <item>Tuyết rơi nhẹ</item>
