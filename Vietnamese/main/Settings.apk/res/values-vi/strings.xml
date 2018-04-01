@@ -6390,7 +6390,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="foreground_traffic">Nền trước %s</string>
     <string name="item_system_app">Ứng dụng hệ thống</string>
     <string name="label_mi_stats">Thống kê Mi</string>
-    <string name="link_speed">%1$d Mb/giây</string>
     <string name="list_empty_text">Trống</string>
     <string name="list_bg_header_text">Nếu bạn hạn chế kết nối nền, các ứng dụng mới sẽ không thể kết nối internet trong nền sau khi bạn cài đặt. Chúng có thể không nhận được tin nhắn hoặc tải nội dung từ đây.</string>
     <string name="lockscreen_magazine_summary">Tạp chí Khóa màn hình chất lượng cao</string>
@@ -6422,7 +6421,6 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="pref_new_installed_preconfig_title">Cài đặt mặc định ứng dụng mới</string>
     <string name="pref_title_update_notification">Thông báo sử dụng dữ liệu</string>
     <string name="print_settings_summary_no_service">Tắt</string>
-    <string name="process_kernel_label">Hệ điều hành Android</string>
     <string name="restrict_bg_app">Hạn chế</string>
     <string name="screen_paper_mode_hdr_toast">Chế độ đọc sách sẽ tắt khi bạn phát các video HDR. Nó sẽ được bật lại tự động sau khi phát lại kết thúc.</string>
     <string name="select_logd_size_title">Kích cỡ tải trình ghi</string>
