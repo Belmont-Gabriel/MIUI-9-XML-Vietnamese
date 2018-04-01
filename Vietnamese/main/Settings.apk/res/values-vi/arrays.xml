@@ -11,12 +11,14 @@
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Mỗi ngày</item>
-        <item>Các ngày trong tuần</item>
+        <item>Buổi tối trong tuần</item>
+        <item>Cuối tuần</item>
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Mỗi ngày</item>
-        <item>Các ngày trong tuần</item>
+        <item>Buổi tối trong tuần</item>
+        <item>Cuối tuần</item>
         <item>Tùy chỉnh</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
@@ -66,14 +68,14 @@
         <item>Vị trí</item>
         <item>Gọi điện thoại</item>
         <item>Đọc SMS/MMS</item>
-        <item>Soạn SMS/MMS</item>
+        <item>Viết SMS/MMS</item>
         <item>Nhận SMS/MMS</item>
         <item>Nhận SMS/MMS</item>
         <item>Nhận SMS/MMS</item>
         <item>Nhận SMS/MMS</item>
         <item>Gửi SMS/MMS</item>
         <item>Đọc SMS/MMS</item>
-        <item>Soạn SMS/MMS</item>
+        <item>Viết SMS/MMS</item>
         <item>Sửa đổi cài đặt</item>
         <item>Vẽ lên trên</item>
         <item>Truy cập thông báo</item>
@@ -115,6 +117,151 @@
         <item>Bật màn hình</item>
         <item>Nhận tài khoản</item>
         <item>Chạy trong nền</item>
+        <item>Âm lượng của trợ năng</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Hơn 30 ngày</item>
+        <item>Hơn 60 ngày</item>
+        <item>Hơn 90 ngày</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>16 bit/mẫu</item>
+        <item>24 bit/mẫu</item>
+        <item>32 bit/mẫu</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>Đơn âm</item>
+        <item>Âm thanh nổi</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Được tối ưu hóa cho chất lượng âm thanh</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Được tối ưu hóa cho chất lượng âm thanh (990kb/giây/909kb/giây)</item>
+        <item>Chất lượng kết nối và âm thanh cân bằng (660kbps/606kbps)</item>
+        <item>Được tối ưu hóa cho chất lượng kết nối (330kb/giây/303kb/giây)</item>
+        <item>Nỗ lực cao nhất (Tốc độ bit thích ứng)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Mặc định)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Mặc định)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>Từ mọi người</item>
+        <item>Chỉ từ liên hệ</item>
+        <item>Chỉ từ liên hệ yêu thích</item>
+        <item>Không</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Ưu tiên Wi-Fi</item>
+        <item>Được ưu tiên trên thiết bị di động</item>
+        <item>Chỉ Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Di động</item>
+        <item>Chỉ Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Di động</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>Không có</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Tắt</item>
+        <item>64K/lần tải nhật ký</item>
+        <item>256K/lần tải nhật ký</item>
+        <item>1M/lần tải nhật ký</item>
+        <item>4M/lần tải nhật ký</item>
+        <item>16M/lần tải nhật ký</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Tắt</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Tắt</item>
+        <item>Tất cả lần tải nhật ký</item>
+        <item>Tất cả trừ lần tải nhật ký qua đài</item>
+        <item>chỉ vùng đệm nhật ký kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Tắt</item>
+        <item>Tất cả</item>
+        <item>Tất cả trừ đài</item>
+        <item>chỉ kernel</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>vị trí tổng thể</item>
@@ -621,7 +768,7 @@
         <item>Không</item>
         <item>Logcat</item>
         <item>Systrace (Đồ họa)</item>
-        <item>Call stack trên glGetError</item>
+        <item>Chồng lệnh trên glGetError</item>
     </string-array>
     <string-array name="entries_color_calibration">
         <item>sRGB</item>
@@ -1091,7 +1238,8 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Kém</item>
-        <item>Khá</item>
+        <item>Kém</item>
+        <item>Khá tốt</item>
         <item>Tốt</item>
         <item>Tuyệt vời</item>
     </string-array>
@@ -1150,6 +1298,14 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Tỷ lệ ảnh động 5x</item>
         <item>Tỷ lệ ảnh động 10x</item>
     </string-array>
+    <string-array name="standard_configuration_version_description_primary">
+        <item>CPU</item>
+        <item>Dung lượng pin</item>
+        <item>Máy ảnh sau</item>
+        <item>K.thước màn hình</item>
+        <item>Độ phân giải</item>
+        <item>P.bản Android</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Không</item>
         <item>Hiển thị ứng dụng gần đây</item>
@@ -1159,13 +1315,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Khởi chạy tìm kiếm nhanh</item>
         <item>Hiển thị menu</item>
     </string-array>
-    <string-array name="standard_configuration_version_description_primary">
-        <item>CPU</item>
-        <item>Dung lượng pin</item>
-        <item>Máy ảnh sau</item>
-        <item>K.thước màn hình</item>
-        <item>Độ phân giải</item>
-        <item>P.bản Android</item>
+    <string-array name="cellcular2wifi_entries">
+        <item>Kết nối tự động</item>
+        <item>Kết nối thủ công</item>
+        <item>Luôn hỏi</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Rất thấp</item>
@@ -1173,11 +1326,6 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Thường</item>
         <item>Cao</item>
         <item>Rất cao</item>
-    </string-array>
-    <string-array name="cellcular2wifi_entries">
-        <item>Kết nối tự động</item>
-        <item>Kết nối thủ công</item>
-        <item>Luôn hỏi</item>
     </string-array>
     <string-array name="install_non_market_app_contents">
         <item>Bật</item>
@@ -1187,10 +1335,17 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Bật (kiến nghị)</item>
         <item>Không sử dụng (nguy hiểm)</item>
     </string-array>
-    <string-array name="app_ops_permissions">
-        <item>Được phép</item>
-        <item>Từ chối</item>
-        <item>Luôn hỏi</item>
+    <string-array name="anr_record_interval_entries">
+        <item>10 giây</item>
+        <item>20 giây</item>
+        <item>30 giây</item>
+        <item>1 phút</item>
+    </string-array>
+    <string-array name="edge_touch_volume_action">
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn đúp</item>
+        <item>Điều chỉnh trượt - Kích hoạt trượt</item>
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn</item>
+        <item>Điều chỉnh nhấn - Kích hoạt nhấn lâu</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Tắt</item>
@@ -1245,17 +1400,10 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>1 giờ</item>
         <item>Không giới hạn</item>
     </string-array>
-    <string-array name="anr_record_interval_entries">
-        <item>10 giây</item>
-        <item>20 giây</item>
-        <item>30 giây</item>
-        <item>1 phút</item>
-    </string-array>
-    <string-array name="edge_touch_volume_action">
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn đúp</item>
-        <item>Điều chỉnh trượt - Kích hoạt trượt</item>
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn</item>
-        <item>Điều chỉnh nhấn - Kích hoạt nhấn lâu</item>
+    <string-array name="app_ops_permissions">
+        <item>Được phép</item>
+        <item>Từ chối</item>
+        <item>Luôn hỏi</item>
     </string-array>
     <string-array name="standard_configuration_version_mi3">
         <item>3.00GB</item>

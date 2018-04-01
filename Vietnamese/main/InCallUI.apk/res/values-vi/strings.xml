@@ -255,4 +255,9 @@
     <string name="onscreen_mi_support_calls_text">Hỗ trợ Mi</string>
 	<string name="change_to_voice_tips_when_background">Đối phương đã chuyển sang cuộc gọi thoại</string>
     <string name="video_crbt_title">%s nhạc chuông video</string>
+	<string name="card_title_answering_time_out">Không thể trả lời cuộc gọi, hãy thử lại.</string>
+    <string name="crbt_second_hold_prompt">%s đang giữ…</string>
+    <string name="crbt_second_hold_prompt_no_name">Cuộc gọi trước đang giữ…</string>
+    <string name="crbt_second_hold_prompt_conference">Cuộc gọi hội nghị đang giữ…</string>
+	<string name="prompt_no_volte_when_failed">Dịch vụ VoLTE không khả dụng.</string>
 </resources>

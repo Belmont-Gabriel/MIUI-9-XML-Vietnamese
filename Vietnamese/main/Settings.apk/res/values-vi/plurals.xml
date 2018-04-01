@@ -273,13 +273,26 @@
         <item quantity="other">%d ứng dụng được phép bỏ qua tối ưu hóa pin</item>
         <item quantity="one">1 ứng dụng được phép bỏ qua tối ưu hóa pin</item>
     </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d lệnh in</item>
+        <item quantity="one">1 lệnh in</item>
+    </plurals>
     <plurals name="domain_urls_apps_summary">
         <item quantity="other">%d ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
         <item quantity="zero">Không có ứng dụng nào có thể mở bất kỳ liên kết được hỗ trợ</item>
         <item quantity="one">Một ứng dụng có thể mở các liên kết được hỗ trợ của mình</item>
     </plurals>
-    <plurals name="print_settings_title">
-        <item quantity="other">%d lệnh in</item>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d ứng dụng có thể kết nối mạng</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d ứng dụng không thể kết nối mạng</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Đã hạn chế kết nối cho %s ứng dụng</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d lệnh in</item>
         <item quantity="one">1 lệnh in</item>
     </plurals>
 </resources>

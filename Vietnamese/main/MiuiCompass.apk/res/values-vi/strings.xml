@@ -29,6 +29,7 @@
     <string name="direction_north_west">Tây Bắc</string>
     <string name="direction_south_east">Đông Nam</string>
     <string name="direction_south_west">Tây Nam</string>
+	<string name="unit_degree">Độ</string>
     <string name="guide_toast">Để hiệu chỉnh la bàn, hãy di chuyển điện thoại của bạn như trong hình dưới đây.</string>
     <string name="mobiledata_alert_dialog_title">Cảnh báo sử dụng dữ liệu</string>
     <string name="mobiledata_alert_dialog_message">Kết nối internet để đo đạc độ cao?</string>

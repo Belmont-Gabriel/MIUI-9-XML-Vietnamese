@@ -358,6 +358,13 @@ Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt 
     <string name="sdcradfs_dialog_in_sec_message">"Để cập nhật, bạn nên xóa Không gian thứ hai rồi sau đó tạo lại. Di chuyển dữ liệu từ Không gian thứ hai sang Không gian thứ nhất và khởi động lại thiết bị để hoàn tất cập nhật.
 Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt động bình thường."</string>
     <string name="space_created_success">Đã tạo Không gian thứ hai thành công</string>
+    <string name="encrypt_space_delete_dialog_title">Chú ý</string>
+    <string name="encrypt_space_delete_dialog_message">Bạn sắp cập nhật Android. Sau khi cập nhật, dữ liệu Không gian thứ hai sẽ trở nên không tương thích. Để tránh điều này, di chuyển tất cả dữ liệu sang Không gian thứ nhất, xóa Không gian thứ hai và tạo lại.</string>
+    <string name="encrypt_space_delete_dialog_click_message">*Nếu bạn không cần di chuyển dữ liệu, %s</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">xóa và tạo Không gian thứ hai ngay.</string>
+    <string name="encrypt_space_delete_dialog_positive_text">Chuyển dữ liệu</string>
+    <string name="encrypt_space_delete_notification_title">Không gian thứ hai</string>
+    <string name="encrypt_space_delete_notification_message">Xóa Không gian thứ hai của bạn và tạo một không gian mới để cập nhật thiết bị của bạn được thành công.</string>
     <string name="space_create_guide_title_1">Bảo vệ sự riêng tư của bạn</string>
     <string name="space_create_guide_desc_1">Lưu trữ ứng dụng và hình ảnh an toàn</string>
     <string name="space_create_guide_title_2">Tạo bất cứ lúc nào</string>
@@ -368,7 +375,14 @@ Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt 
     <string name="second_space_desktop_tips_dialog_title">Cập nhật quan trọng</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Tôi biết</string>
     <string name="second_space_desktop_tips_dialog_message">Sau lần cập nhật này, biểu tượng chuyển dữ liệu và quản lý Không gian thứ hai sẽ không còn được hiển thị trên Màn hình chính. Bạn vẫn có thể truy cập các tính năng tương ứng trong Cài đặt.</string>
-	<string name="settings_msg_add_shortcut">Đã thêm lối tắt vào Không gian thứ nhất</string>
-	<string name="settings_msg_remove_shortcut">Đã xóa lối tắt từ Không gian thứ nhất</string>
-	<string name="settings_notification_and_switch">Đang chuyển đổi &amp; thông báo</string>
+    <string name="green_guard">Kiểm soát phụ huynh</string>
+    <string name="bind_device">Thêm thiết bị</string>
+    <string name="green_guard_des1">Thêm thiết bị để quản lý từ xa</string>
+    <string name="green_guard_title2">Xem thông tin vị trí</string>
+    <string name="green_guard_des2">Biết chính xác tất cả thiết bị được quản lý ở đâu</string>
+    <string name="green_guard_title3">Quản lý ứng dụng</string>
+    <string name="green_guard_des3">Kiểm soát ứng dụng đã cài đặt và hạn chế sử dụng</string>
+    <string name="experience_more_features">Thêm thiết bị để xem tất cả tính năng</string>
+    <string name="can_not_switch_when_green_kid_active">Chuyển sang Không gian thứ hai bị hạn chế bởi kiểm soát phụ huynh</string>
+    <string name="need_network_when_bind">Kết nối mạng trước khi thêm thiết bị</string>
 </resources>
