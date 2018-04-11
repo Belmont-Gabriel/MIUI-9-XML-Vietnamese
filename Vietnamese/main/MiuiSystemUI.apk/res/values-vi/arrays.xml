@@ -149,17 +149,6 @@
         <item>Cực nhanh</item>
         <item>Nhanh nhất</item>
     </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-    </string-array>
     <string-array name="color_mode_names">
         <item>Sáng (mặc định)</item>
         <item>Tự nhiên</item>
@@ -301,10 +290,5 @@
     <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (Mặc định)</item>
         <item>OpenGL (Skia)</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
 </resources>
