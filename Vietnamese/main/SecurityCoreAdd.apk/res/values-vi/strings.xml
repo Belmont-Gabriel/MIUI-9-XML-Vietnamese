@@ -385,4 +385,11 @@ Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt 
     <string name="experience_more_features">Thêm thiết bị để xem tất cả tính năng</string>
     <string name="can_not_switch_when_green_kid_active">Chuyển sang Không gian thứ hai bị hạn chế bởi kiểm soát phụ huynh</string>
     <string name="need_network_when_bind">Kết nối mạng trước khi thêm thiết bị</string>
+    <string name="exit_dialog_homepage_optimise_message">"Điểm hiệu năng của thiết bị của bạn thấp hơn 80 điểm. Tối ưu hóa bây giờ?"</string>
+  <string name="gb_msg_completely_shielded">Ần tin nhắn</string>
+  <string name="gb_msg_completely_shielded_summary">Ẩn</string>
+  <string name="gb_msg_quickly_answer">Cho phép trả lời nhanh</string>
+  <string name="gb_msg_quickly_answer_summary">Trả lời nhanh</string>
+  <string name="gb_msg_transparent_dispaly">Thông báo với ảnh nền trong suốt</string>
+  <string name="gb_msg_transparent_dispaly_summary">Trong suốt</string>
 </resources>
