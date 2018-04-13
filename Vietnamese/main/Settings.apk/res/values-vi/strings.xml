@@ -6438,4 +6438,13 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="usb_dlg_confirm_unmount_title">Ngắt kết nối lưu trữ USB?</string>
     <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
     <string name="miracast_dialog_title">%1$s</string>
+    <string name="miui_touch_filtered_warning">Nếu một ứng dụng đang chặn một hộp thoại cho phép, hãy kéo mục chồng chéo lên hoặc đóng ứng dụng.</string>
+  <string name="wireless_connected">Đã kết nối</string>
+  <string name="confirm_frp_credential_message">Thiết bị của bạn đã được đặt lại, bạn có thể mở khóa bằng bí mật trước đó.</string>
+  <string name="confirm_frp_credential_skip_txt">SỬ DỤNG TÀI KHOẢN GOOGLE THAY THẾ</string>
+  <string name="confirm_frp_credential_title">Đặt lại dữ liệu nhà sản xuất</string>
+  <string name="wifi_tether_enabled_summary">%1$s kích hoạt</string>
+  <string name="accessibility_wifi_security_type_none">Mở mạng</string>
+  <string name="accessibility_wifi_security_type_secured">An toàn mạng</string>
+   <string name="add_fingerprint_cancel_button_text">Trở lại</string>
 </resources>
