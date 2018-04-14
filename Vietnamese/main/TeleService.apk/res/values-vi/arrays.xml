@@ -43,11 +43,6 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sử dụng lựa chọn hệ thống (Mặc định)</item>
         <item>SBC</item>
@@ -263,11 +258,6 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
-    <string-array name="preferred_network_mode_values_world_mode">
-        <item>10</item>
-        <item>8</item>
-        <item>9</item>
-    </string-array>
     <string-array name="clir_display_values">
         <item>Mạng mặc định</item>
         <item>Ẩn số</item>
@@ -307,15 +297,6 @@
         <item>Tiếng Trung</item>
         <item>Tiếng Do Thái</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Chỉ hệ thống trên máy</item>
         <item>Tự động</item>
@@ -323,10 +304,6 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
-    </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY Tắt</item>
