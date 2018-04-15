@@ -376,7 +376,6 @@
     <string name="dialog_chose_item">Chọn mục để hiển thị</string>
     <string name="pref_key_tethering_setting">Giới hạn dữ liệu sử dụng một lần</string>
     <string name="pref_key_tethering_title">Giới hạn dữ liệu sử dụng một lần</string>
-    <string name="tether_limit_value_custom">Tùy chỉnh</string>
     <string name="tether_limit_dialog_title">Giới hạn dữ liệu di động</string>
     <string name="tether_custom_dialog_title">Giới hạn dữ liệu di động</string>
     <string name="tether_over_limit_warning_notify_title">Đã đạt đến giới hạn dữ liệu điểm phát sóng</string>
