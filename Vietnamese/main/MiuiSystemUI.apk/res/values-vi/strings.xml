@@ -874,4 +874,12 @@ Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sá
     <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
     <string name="block_record_notification_more_text">Ẩn thông báo từ %1$s &amp; %2$d ứng dụng.</string>
     <string name="accessibility_assistant">Phím ảo</string>
+	<string name="click_to_return_multi_window_of_notch">Quay lại Chia màn hình</string>
+    <string name="no_sim_card">Không có thẻ SIM</string>
+    <string name="prompt_detecting">Đang phát hiện</string>
+    <string name="prompt_danger">Nguy hiểm</string>
+    <string name="prompt_failure">Lỗi</string>
+    <string name="prompt_safe">An toàn</string>
+    <string name="prompt_unknown">Không xác định</string>
+    <string name="prompt_return_to_split">Chia màn hình</string>
 </resources>

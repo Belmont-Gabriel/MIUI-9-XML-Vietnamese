@@ -15,4 +15,7 @@
     <plurals name="power_config_ultimate_unlock_count">
         <item quantity="other">Hoàn tất %1$d bước để mở khóa tất cả các mục</item>
     </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Tìm kiếm %d ứng dụng</item>
+    </plurals>
 </resources>

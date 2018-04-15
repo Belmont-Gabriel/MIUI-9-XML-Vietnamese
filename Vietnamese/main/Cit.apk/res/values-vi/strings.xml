@@ -417,6 +417,12 @@ Hãy chạm vào màn hình để bắt đầu GPS…"</string>
     <string name="cit_hardware_info_summary">Vui lòng chờ… Hiển thị thông tin phần cứng của thiết bị này</string>
     <string name="cit_x5_audio_lb_topmic_to_speaker_title">Kiểm tra phản hồi loa micrô trên cùng</string>
     <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Kiểm tra phản hồi micrô trước</string>
+	<string name="abc_action_mode_done">Xong</string>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_toolbar_collapse_description">Thu gọn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
     <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Kiểm tra phản hồi của micrô trên cùng với loa.
 
  Xoay điện thoại, nói vào micrô trên cùng, bạn sẽ nghe thấy giọng nói trong loa."</string>

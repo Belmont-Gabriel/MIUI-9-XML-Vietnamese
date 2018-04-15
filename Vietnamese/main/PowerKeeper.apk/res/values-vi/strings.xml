@@ -218,4 +218,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="power_config_ultimate_unlock_already">Tất cả mục đã mở khóa</string>
     <string name="ragment_sys_listempty">Không có ứng dụng hệ thống</string>
     <string name="google_base_app_install_choice">\"%s\" yêu cầu ứng dụng Google Service Framwork (Khung dịch vụ Google) để hoạt động bình thường, tải xuống và cài đặt?</string>
+	<string name="pref_config_title">Tối ưu Hiệu suất</string>
+    <string name="app_preload_policies_title">Tải trước AI</string>
+    <string name="app_preload_policies_summary">Sử dụng máy học để dự đoán ứng dụng mà bạn thường sử dụng, và tải trước tài nguyên.</string>
 </resources>
