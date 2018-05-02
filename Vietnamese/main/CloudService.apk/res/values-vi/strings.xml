@@ -598,4 +598,7 @@ tài khoản Mi của bạn để kích hoạt lại Mi Cloud."</string>
     <string name="micloud_detail_query_error_title">Không thể nhận thông tin về trạng thái đồng bộ</string>
     <string name="one_sync_item_close">%d chưa bật</string>
     <string name="some_sync_item_close">%d chưa bật</string>
+	<string name="micloud_main_see_unsynced_data">Kiểm tra dữ liệu được đồng bộ hóa</string>
+    <string name="micloud_find_device_sms_alert">Một tin nhắn SMS gửi đi có thể được yêu cầu để kích hoạt dịch vụ này. Nhà mạng của bạn sẽ tính phí cho bạn đối với tin nhắn này. Khi bạn đổi thẻ SIM, một tin nhắn có thể được gửi tự động để kích hoạt lại tính năng này.</string>
+ 
 </resources>

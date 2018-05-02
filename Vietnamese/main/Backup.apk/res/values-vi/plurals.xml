@@ -42,4 +42,12 @@
     <plurals name="save_item_failed_summary_seg2">
         <item quantity="other">Nhập lại %d mục.</item>
     </plurals>
+	<plurals name="trans_failed_summary">
+        <item quantity="other">"Không thể chuyển %d mục. Nhấn để xem chi tiết."</item>
+        <item quantity="one">"Không thể chuyển %d mục. Nhấn để xem chi tiết."</item>
+    </plurals>
+	<plurals name="trans_item_failed_summary">
+        <item quantity="other">"Không thể chuyển %d mục."</item>
+        <item quantity="one">"Không thể chuyển %d mục."</item>
+    </plurals>
 </resources>

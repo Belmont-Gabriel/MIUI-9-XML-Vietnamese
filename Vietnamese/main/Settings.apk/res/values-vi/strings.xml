@@ -6438,14 +6438,11 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="usb_dlg_confirm_unmount_text">Nếu bạn ngắt kết nối lưu trữ USB, vài ứng dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn kết nối lại.</string>
     <string name="miracast_dialog_title">%1$s</string>
 	<string name="accessibility_wifi_security_type_none">Mở mạng</string>
-    <string name="accessibility_wifi_security_type_secured">Bảo mật mạng</string>
-	<string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Một ứng dụng muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Một ứng dụng muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
 	<string name="carrier_show_in_lock_screen">Chỉ hiển thị trên màn hình khóa</string>
     <string name="carrier_show_none">Không hiển thị tên nhà mạng</string>
 	<string name="confirm_frp_credential_message">Thiết bị của bạn đã được đặt lại về cài đặt gốc. Bạn có thể mở khóa bằng mật khẩu trước khi khôi phục.</string>
-    <string name="confirm_frp_credential_skip_txt">SỬ DỤNG TÀI KHOẢN GOOGLE THAY THẾ</string>
-    <string name="confirm_frp_credential_title">Bảo vệ đặt lại cài đặt gốc</string>
-	<string name="default_launcher_title">Trình khởi chạy mặc định</string>
+    <string name="default_launcher_title">Trình khởi chạy mặc định</string>
 	<string name="eq_auto">Tùy chỉnh</string>
     <string name="eq_blues">Blue</string>
     <string name="eq_cancel">Hủy</string>
@@ -6475,4 +6472,20 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="wireless_connected">Đã kết nối</string>
     <string name="oldman_uninstalled_btn">Cài đặt</string>
     <string name="oldman_uninstalled_des">Chế độ thu gọn sẽ xóa bỏ sự lộn xộn và giữ Màn hình chính đơn giản.</string>
+	<string name="choose_a_card_to_reset">Chọn thẻ SIM để đặt lại</string>
+    <string name="reset_network_bluetooth">Bluetooth</string>
+    <string name="reset_network_category">Thao tác này sẽ đặt lại tất cả cài đặt mạng, bao gồm:</string>
+    <string name="reset_network_data">Dữ liệu di động</string>
+    <string name="reset_network_wifi">Wi-Fi</string>
+    <string name="accessibility_close_tab">Đóng tab hiện tại</string>
+    <string name="accessibility_more_settings">Cài đặt bổ sung</string>
+    <string name="wifi_hide_password">Ẩn mật khẩu</string>
+	<string name="confirm_frp_credential_skip_txt">SỬ DỤNG TÀI KHOẢN GOOGLE CỦA TÔI THAY THẾ</string>
+    <string name="confirm_frp_credential_title">Bảo vệ khôi phục cài đặt gốc</string>
+    <string name="wifi_tether_enabled_summary">%1$s đang hoạt động</string>
+    <string name="accessibility_wifi_security_type_secured">Mạng an toàn</string>
+	<string name="close_optimization_message">Bố cục văn bản, tài khoản và các phần khác ngoài MIUI có thể bị ảnh hưởng sau khi bạn tắt tính năng này.</string>
+    <string name="close_optimization_option">Tắt</string>
+    <string name="open_optimization_message">Bật tối ưu hóa để tận hưởng giao diện người dùng mượt mà hơn, nhanh hơn.</string>
+    <string name="open_optimization_option">Bật</string>
 </resources>

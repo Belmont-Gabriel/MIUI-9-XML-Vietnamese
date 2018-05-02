@@ -8,6 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"Hôm qua "</item>
         <item>"Hôm nay "</item>
+        <item>"Tháng trước "</item>
         <item>"Tháng này "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -18,15 +19,18 @@
     <string-array name="date_of_traffic_prefix">
         <item>"Hôm qua: "</item>
         <item>"Hôm nay: "</item>
+        <item>"Tháng trước: "</item>
         <item>"Tháng này: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Hôm qua (dữ liệu)</item>
         <item>Hôm nay (dữ liệu)</item>
+        <item>Tháng trước (dữ liệu)</item>
         <item>Tháng này (dữ liệu)</item>
-        <item>Hôm qua (Wi-Fi)</item>
-        <item>Hôm nay (Wi-Fi)</item>
-        <item>Tháng này (Wi-Fi)</item>
+        <item>Wi-Fi hôm qua</item>
+        <item>Wi-Fi hôm nay</item>
+        <item>Wi-Fi tháng trước</item>
+        <item>Wi-Fi tháng này</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Thông tin sử dụng dữ liệu di động "</item>
@@ -56,7 +60,6 @@
         <item>Tần suất sử dụng</item>
         <item>Lưu trữ đã dùng</item>
         <item>Thời gian cài đặt</item>
-        <item>Bạn có thể gỡ cài đặt các ứng dụng này</item>
     </string-array>
     <string-array name="sort_title">
         <item>Sắp xếp theo trạng thái</item>
@@ -64,7 +67,6 @@
         <item>Sắp xếp theo tần suất sử dụng</item>
         <item>Sắp xếp theo lưu trữ đã dùng</item>
         <item>Sắp xếp theo thời gian cài đặt</item>
-        <item>Hiển thị ứng dụng có thể gỡ cài đặt trước</item>
     </string-array>
     <string-array name="title_app_info">
         <item>Nguồn cài đặt</item>
@@ -97,7 +99,6 @@
         <item>Sau 1 phút</item>
         <item>Sau 5 phút</item>
         <item>Sau 10 phút</item>
-        <item>Sau 30 phút</item>
         <item>Không bao giờ</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
@@ -122,47 +123,5 @@
         <item>Không rung</item>
         <item>Rung khi im lặng</item>
         <item>Luôn rung</item>
-    </string-array>
-    <string-array name="auto_memory_clean">
-        <item>Trong 1 phút</item>
-        <item>Trong 5 phút</item>
-        <item>Trong 10 phút</item>
-        <item>Trong 30 phút</item>
-        <item>Không bao giờ</item>
-    </string-array>
-    <string-array name="date_of_app">
-        <item>Hôm qua (dữ liệu)</item>
-        <item>Hôm nay (dữ liệu)</item>
-        <item>Tháng này (dữ liệu)</item>
-    </string-array>
-    <string-array name="network_speed_update_internals">
-        <item>3 giây</item>
-        <item>4 giây</item>
-        <item>5 giây</item>
-        <item>6 giây</item>
-        <item>7 giây</item>
-        <item>8 giây</item>
-        <item>9 giây</item>
-    </string-array>
-    <string-array name="roaming_apps_sorted_type">
-        <item>Sử dụng nhiều nhất</item>
-        <item>Tên</item>
-    </string-array>
-    <string-array name="traffic_saving_compress_level_string_array">
-        <item>Không</item>
-        <item>Thấp</item>
-        <item>Vừa</item>
-        <item>Cao</item>
-    </string-array>
-    <string-array name="traffic_setting_sms_template">
-        <item>Nhận tự động</item>
-        <item>Thiết lập thủ công</item>
-    </string-array>
-    <string-array name="traffic_sort_type">
-        <item>"Sử dụng dữ liệu "</item>
-        <item>"Sử dụng Wi-Fi "</item>
-    </string-array>
-    <string-array name="long_add_menu">
-        <item>Thêm vào danh sách ngoại lệ</item>
     </string-array>
 </resources>

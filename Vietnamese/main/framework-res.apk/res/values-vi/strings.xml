@@ -1554,4 +1554,5 @@ Bạn có muốn đóng trang không?"</string>
     <string name="time_picker_radial_mode_description">Chuyển sang chế độ đồng hồ để nhập thời gian.</string>
     <string name="time_picker_text_input_mode_description">Chuyển sang chế độ nhập văn bản để nhập thời gian.</string>
 	<string name="tooltip_popup_title">Chú giải công cụ</string>
+	<string name="move_button_text">Chuyển đổi</string>
 </resources>

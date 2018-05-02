@@ -12,12 +12,6 @@
         <item>Thường dùng</item>
         <item>Kích thước</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Mỗi ngày</item>
-        <item>Mỗi 3 ngày</item>
-        <item>Mỗi 7 ngày</item>
-        <item>Mỗi 15 ngày</item>
-    </string-array>
     <string-array name="auto_clean_size">
         <item>100 MB</item>
         <item>300 MB</item>
@@ -63,13 +57,6 @@
         <item>Mỗi 15 ngày</item>
         <item>Mỗi 30 ngày</item>
     </string-array>
-    <string-array name="low_memory_clean_menu">
-        <item>Dọn dẹp</item>
-    </string-array>
-    <string-array name="scan_engine">
-        <item>Clean Master</item>
-        <item>Tencent</item>
-    </string-array>
     <string-array name="wechat_menu_delete">
         <item>Xóa</item>
     </string-array>
@@ -79,5 +66,18 @@
     <string-array name="wechat_menu_delete_whitelist_view">
         <item>Xóa</item>
         <item>Xem</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Mỗi ngày</item>
+        <item>Mỗi 3 ngày</item>
+        <item>Mỗi 7 ngày</item>
+        <item>Mỗi 15 ngày</item>
+    </string-array>
+    <string-array name="low_memory_clean_menu">
+        <item>Dọn dẹp</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
     </string-array>
 </resources>

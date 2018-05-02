@@ -528,6 +528,17 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite đang yêu cầu quyền để khôi phục các mục trên điện thoại của bạn. Cho phép?</string>
     <string name="alert_button_deny">Từ chối</string>
     <string name="alert_button_agree_and_continue">Cho phép</string>
-
+    <string name="button_clean_garbage">Giải phóng dung lượng</string>
+    <string name="button_got_it">OK</string>
+    <string name="button_quit">Thoát</string>
+    <string name="err_bakfile_not_exist">"Tệp sao lưu không tồn tại."</string>
+    <string name="err_binder_died">Ứng dụng đã dừng đột ngột.</string>
+    <string name="err_pkg_not_exist">"Không thể tìm thấy ứng dụng."</string>
+    <string name="err_user_abort">Đã bị hủy bởi người dùng.</string>
+    <string name="trans_failed_details_page_title">Chuyển không thành công</string>
+    <string name="trans_generate_qrcode_failed">"Không thể tạo mã QR. Thử lại."</string>
+    <string name="trans_generating_qrcode">Đang tạo mã QR…</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Mover cần một số dung lượng lưu trữ để đóng gói dữ liệu được chuyển, nhưng có vẻ như không có đủ dung lượng trống trên thiết bị cũ. Giải phóng dung lượng trong \"Bảo Mật\" hoặc chỉ chuyển các mục quan trọng."</string>
+    <string name="trans_old_phone_low_space_title">Không đủ dung lượng lưu trữ</string>
 
 </resources>

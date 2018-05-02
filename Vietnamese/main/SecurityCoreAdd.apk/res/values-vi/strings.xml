@@ -58,6 +58,8 @@
     <string name="wating">Vui lòng chờ…</string>
     <string name="Active">Kích hoạt</string>
     <string name="ok_button">OK</string>
+    <string name="remove_button">Xóa và khởi động lại</string>
+    <string name="remove_button_time">Xóa và khởi động lại (%ds)</string>
     <string name="cancel_button">Hủy</string>
     <string name="list_empty_text">Trống</string>
     <string name="list_empty_text_xspace">Cài đặt WeChat/QQ/Weibo, tạo ứng dụng kép, và thử lại.</string>
@@ -65,6 +67,8 @@
     <string name="xspace_setting_label">Cài đặt ứng dụng kép</string>
     <string name="xspace_account">Tài khoản ứng dụng kép</string>
     <string name="declare_dialog_title">Giới thiệu ứng dụng kép</string>
+    <string name="stop_xspace_alert_title">Xóa tài khoản ứng dụng kép</string>
+    <string name="stop_xspace_alert_content">Bạn đã xóa tất cả ứng dụng kép. Xóa dữ liệu và tài khoản ứng dụng kép không? Sau khi xóa đến lúc cần dùng bạn sẽ phải tạo lại.</string>
     <string name="xspace_loading_msg">Đang tải ứng dụng…</string>
     <string name="xspace_header">Ứng dụng kép</string>
     <string name="xspace_introduce">Đã đề nghị</string>
@@ -77,6 +81,7 @@ Một số ứng dụng kép yêu cầu hỗ trợ Google Services Framework. Tr
     <string name="xspace_install_failed">Không thể tạo</string>
     <string name="xspace_uninstalling">Đang gỡ cài đặt…</string>
     <string name="xspace_install_completed">Biểu tượng đã được thêm vào Màn hình chính</string>
+    <string name="xspace_install_completed_global">Biểu tượng đã thêm đến ngăn ứng dụng</string>
     <string name="xspace_uninstall_completed">Gỡ cài đặt ứng dụng kép thành công</string>
     <string name="xspace_uninstall_dialog_title">Gỡ cài đặt ứng dụng kép</string>
     <string name="xspace_uninstall_dialog_content">Gỡ cài đặt ứng dụng kép sẽ xóa tất cả dữ liệu ứng dụng.</string>
@@ -177,6 +182,10 @@ tính năng này sẽ được thêm vào Không gian thứ hai tự động."</
     <string name="notification_from_second_user">Hiển thị thông báo từ Không gian thứ hai</string>
     <string name="radio_button_icon_switch_title">Sử dụng lối tắt</string>
     <string name="radio_button_password_switch_title">Sử dụng mật khẩu</string>
+    <string name="reset_password_dialog_title">Không thể ẩn lối tắt Không gian thứ hai</string>
+    <string name="reset_password_dialog_message">Bạn đang sử dụng loại mật khẩu khác nhau giữa Không gian thứ nhất và Không gian thứ hai. Không gian thứ hai phải sử dụng loại mật khẩu giống Không gian thứ nhất để lối tắt được ẩn đi.</string>
+    <string name="reset_password_dialog_positve_btn_title">Thay đổi</string>
+    <string name="entrance_reopen_toast_msg">Hiển thị biểu tượng lối tắt Không gian thứ hai do loại mật khẩu khác nhau</string>
     <string name="settings_cross_notification_title">Thông báo</string>
     <string name="settings_cross_notification_summary">Nhận thông báo từ không gian khác</string>
     <string name="settings_switch_shortcut_summary">Hiển thị lối tắt Màn hình chính trên Không gian thứ nhất</string>
@@ -274,7 +283,7 @@ Nếu không bạn sẽ không thể vào Không gian thứ hai từ Màn hình 
     <string name="xspace_guide_title">Tạo ứng dụng kép</string>
     <string name="xspace_guide_des">Sử dụng 2 tài khoản mà không cần chuyển đổi</string>
     <string name="xpsace_guide_button">Tạo</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
     <string name="search_result_text">Không tìm thấy bất kỳ ứng dụng nào</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">Thanh toán WeChat</string>
@@ -384,14 +393,9 @@ Nếu bạn không cập nhật, ứng dụng kép có thể sẽ không hoạt 
     <string name="green_guard_des3">Kiểm soát ứng dụng đã cài đặt và hạn chế sử dụng</string>
     <string name="experience_more_features">Thêm thiết bị để xem tất cả tính năng</string>
     <string name="can_not_switch_when_green_kid_active">Chuyển sang Không gian thứ hai bị hạn chế bởi kiểm soát phụ huynh</string>
-    <string name="need_network_when_bind">Kết nối mạng trước khi thêm thiết bị</string>
-	<string name="remove_button">Xóa và khởi động lại</string>
-    <string name="remove_button_time">Xóa và khởi động lại (%ds)</string>
-	<string name="stop_xspace_alert_title">Xóa tài khoản ứng dụng kép</string>
-    <string name="stop_xspace_alert_content">Bạn đã xóa tất cả ứng dụng kép. Xóa dữ liệu và tài khoản ứng dụng kép không? Sau khi xóa đến lúc cần dùng bạn sẽ phải tạo lại.</string>
-	<string name="xspace_install_completed_global">Biểu tượng đã thêm đến ngăn ứng dụng</string>
-	<string name="reset_password_dialog_title">Không thể ẩn lối tắt Không gian thứ hai</string>
-    <string name="reset_password_dialog_message">Bạn đang sử dụng loại mật khẩu khác nhau giữa Không gian thứ nhất và Không gian thứ hai. Không gian thứ hai phải sử dụng loại mật khẩu giống Không gian thứ nhất để lối tắt được ẩn đi.</string>
-    <string name="reset_password_dialog_positve_btn_title">Thay đổi</string>
-    <string name="entrance_reopen_toast_msg">Hiển thị biểu tượng lối tắt Không gian thứ hai do loại mật khẩu khác nhau</string>
+    <string name="need_network_when_bind">Kết nối mạng trước khi thêm thiết bị</string><string name="msg_switch_file_second">Xóa tập tin này trên Không gian thứ hai sau khi đã chuyển?</string>
+    <string name="use_xiaoai_open">Đánh thức thông qua trợ giọng nói</string>
+	<string name="net_work_notice">Chế độ trẻ em cần kết nối với internet và quyền truy cập vào vị trí của bạn để hoạt động bình thường. Quyền này được yêu cầu để gửi thông tin về mức pin, số bước và vị trí của bạn đến thiết bị được kiểm soát. Cho phép?</string>
+    <string name="agree">Đồng ý</string>
+    <string name="disagree">Không đồng ý</string>
 </resources>

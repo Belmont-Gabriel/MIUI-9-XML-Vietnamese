@@ -710,7 +710,7 @@ d MMMM"</string>
     <string name="account_info">Chưa đăng nhập</string>
     <string name="notification_header_title">Thông báo</string>
     <string name="weather_publish_time">Đã cập nhật %1$s</string>
-    <string name="no_weather_description">Nhận thông tin thời tiết ></string>
+    <string name="no_weather_description">Nhận thông tin thời tiết</string>
     <string name="accessibility_desc_notification_shade">Thanh thông báo</string>
     <string name="accessibility_desc_quick_settings">Cài đặt nhanh</string>
     <string name="accessibility_desc_details_page">Trang chi tiết %1$s</string>
@@ -755,6 +755,7 @@ d MMMM"</string>
     <string name="accessibility_search_scanner">Máy quét</string>
     <string name="accessibility_brightness_slider">Thanh trượt độ sáng</string>
     <string name="click_to_return_multi_window">Chạm để quay trở lại Chia màn hình</string>
+    <string name="click_to_return_multi_window_of_notch">Quay lại Chia màn hình</string>
     <string name="recent_dock_tip">Chạm để chọn ứng dụng</string>
     <string name="recent_cannot_dock">Không thể sử dụng Chia màn hình trong Không gian thứ hai</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">Chia màn hình không hỗ trợ trên Màn hình khóa.</string>
@@ -789,8 +790,39 @@ d MMMM"</string>
     <string name="fs_gesture_final_summary">Bạn có thể chuyển lại sử dụng các nút trong Cài đặt > Màn hình tràn cạnh</string>
     <string name="fs_gesture_final_restart">Một lần nữa</string>
     <string name="fs_gesture_final_over">Hoàn tất</string>
+    <string name="no_sim_card">Không có thẻ SIM</string>
+    <string name="prompt_detecting">Đang phát hiện</string>
+    <string name="prompt_danger">Nguy hiểm</string>
+    <string name="prompt_failure">Lỗi</string>
+    <string name="prompt_safe">An toàn</string>
+    <string name="prompt_unknown">Không xác định</string>
+    <string name="prompt_return_to_split">Chia màn hình</string>
     <string name="lland">Lollipop</string>
     <string name="mland">Marshmallow</string>
+    <string name="monitoring_title_profile_owned">Giám sát hồ sơ</string>
+    <string name="monitoring_description_do_header_generic">Thiết bị của bạn do %1$s quản lý.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s sử dụng %2$s để quản lý thiết bị của bạn.</string>
+    <string name="monitoring_description_do_body">Quản trị viên của bạn có thể giám sát và quản lý cài đặt, quyền truy cập dữ liệu công ty, ứng dụng, dữ liệu được liên kết với thiết bị và thông tin vị trí thiết bị của bạn.</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
+    <string name="monitoring_description_do_learn_more">Tìm hiểu thêm</string>
+    <string name="monitoring_description_do_body_vpn">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn, bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
+    <string name="monitoring_description_ca_cert_settings">Mở thông tin xác thực tin cậy</string>
+    <string name="monitoring_description_network_logging">"Quản trị viên đã bật tính năng ghi nhật ký mạng. Tính năng này giám sát lưu lượng truy cập trên thiết bị của bạn.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn."</string>
+    <string name="monitoring_description_vpn">"Bạn đã cấp cho ứng dụng quyền thiết lập kết nối VPN.
+
+Ứng dụng này có thể giám sát hoạt động mạng và thiết bị của bạn, bao gồm email, ứng dụng và trang web."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Hồ sơ công việc của bạn do %1$s quản lý.
+
+Quản trị viên có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.
+
+Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn.
+
+Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sát hoạt động mạng của bạn."</string>
+    <string name="monitoring_description_app">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.</string>
+    <string name="monitoring_description_app_personal">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng cá nhân của bạn bao gồm email, ứng dụng và trang web.</string>
     <string name="active_input_method_subtypes">Phương pháp nhập liệu hoạt động</string>
     <string name="battery_info_status_charging_lower">đang sạc</string>
     <string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
@@ -841,30 +873,6 @@ Tốc độ lấy mẫu"</string>
     <string name="use_system_language_to_select_input_method_subtypes">Sử dụng ngôn ngữ hệ thống</string>
     <string name="wifi_disabled_by_recommendation_provider">Không được kết nối do mạng chất lượng kém</string>
     <string name="wifi_no_internet_no_reconnect">Sẽ không tự động kết nối</string>
-    <string name="monitoring_title_profile_owned">Giám sát hồ sơ</string>
-    <string name="monitoring_description_do_header_generic">Thiết bị của bạn do %1$s quản lý.</string>
-    <string name="monitoring_description_do_header_with_name">%1$s sử dụng %2$s để quản lý thiết bị của bạn.</string>
-    <string name="monitoring_description_do_body">Quản trị viên của bạn có thể giám sát và quản lý cài đặt, quyền truy cập dữ liệu công ty, ứng dụng, dữ liệu được liên kết với thiết bị và thông tin vị trí thiết bị của bạn.</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
-    <string name="monitoring_description_do_learn_more">Tìm hiểu thêm</string>
-    <string name="monitoring_description_do_body_vpn">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn, bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
-    <string name="monitoring_description_ca_cert_settings">Mở thông tin xác thực tin cậy</string>
-    <string name="monitoring_description_network_logging">"Quản trị viên đã bật tính năng ghi nhật ký mạng. Tính năng này giám sát lưu lượng truy cập trên thiết bị của bạn.
-
-Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn."</string>
-    <string name="monitoring_description_vpn">"Bạn đã cấp cho ứng dụng quyền thiết lập kết nối VPN.
-
-Ứng dụng này có thể giám sát hoạt động mạng và thiết bị của bạn, bao gồm email, ứng dụng và trang web."</string>
-    <string name="monitoring_description_vpn_profile_owned">"Hồ sơ công việc của bạn do %1$s quản lý.
-
-Quản trị viên có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.
-
-Để biết thêm thông tin, hãy liên hệ với quản trị viên của bạn.
-
-Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sát hoạt động mạng của bạn."</string>
-    <string name="monitoring_description_app">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng của bạn bao gồm email, ứng dụng và trang web.</string>
-    <string name="monitoring_description_app_personal">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng cá nhân của bạn bao gồm email, ứng dụng và trang web.</string>
     <string name="memory_clear_result_mega">Đã xóa %1$sMB</string>
     <string name="memory_clear_result_giga">Đã xóa %1$sGB</string>
     <string name="headset_custom">Bỏ qua</string>
@@ -874,12 +882,5 @@ Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sá
     <string name="hint_for_long_press_app_switch_key">Chạm &amp; giữ để hiển thị menu</string>
     <string name="block_record_notification_more_text">Ẩn thông báo từ %1$s &amp; %2$d ứng dụng.</string>
     <string name="accessibility_assistant">Phím ảo</string>
-	<string name="click_to_return_multi_window_of_notch">Quay lại Chia màn hình</string>
-    <string name="no_sim_card">Không có thẻ SIM</string>
-    <string name="prompt_detecting">Đang phát hiện</string>
-    <string name="prompt_danger">Nguy hiểm</string>
-    <string name="prompt_failure">Lỗi</string>
-    <string name="prompt_safe">An toàn</string>
-    <string name="prompt_unknown">Không xác định</string>
-    <string name="prompt_return_to_split">Chia màn hình</string>
+	<string name="select_logd_level">Chọn cấp nhật ký</string>
 </resources>
