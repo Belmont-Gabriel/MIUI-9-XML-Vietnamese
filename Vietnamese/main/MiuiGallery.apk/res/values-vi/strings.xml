@@ -273,10 +273,10 @@
     <string name="confirm_merge_face_albums">" \" Hợp nhất album này với %s? \" "</string>
     <string name="confirm_merge_many_face_albums">" \" Hợp nhất các album này mới %s? \" "</string>
     <string name="confirm_not_face">Không khớp</string>
-    <string name="confirm_recommandation_face_is">" \" Bạn có chắc đây là "<b><font color="#323232">%1$s? Người</font></b>" này sẽ bị chuyển đến \"%2$s\" album. \" "</string>
-    <string name="confirm_recommandation_face_not">" \" Bạn có chắc đây không phải là "<b><font color="#323232">"%1$s? \" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" \" Bạn có chắc đây là "<b><font color="#323232">%1$s? Những</font></b>" người này sẽ bị chuyển đến \"%2$s\" album. \" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" \" Bạn có chắc đây không phải là "<b><font color="#323232">"%1$s? \" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bạn có chắc đây là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Những người này sẽ bị chuyển đến \"%2$s\" album. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bạn có chắc đây không phải là &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? </Data>" "</string>
     <string name="contact_tip">Liên hệ</string>
     <string name="context_menu_add_contact">Thêm vào liên hệ</string>
     <string name="context_menu_copy">Sao chép</string>
