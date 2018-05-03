@@ -228,8 +228,8 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="note_list_none">Danh sách trống</string>
     <string name="note_sms_none">Không có tin nhắn</string>
     <string name="note_call_none">Không có cuộc gọi</string>
-    <string name="block_message_number">Tin nhắn: <font color="#5fab1b">%d</font></string>
-    <string name="block_phone_number">Cuộc gọi: <font color="#5fab1b">%d</font></string>
+    <string name="block_message_number">Tin nhắn: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">Cuộc gọi: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="info_antispam_close">Danh sách chặn đã tắt</string>
     <string name="mark_fraud">Chặn số được báo cáo là lừa đảo</string>
     <string name="mark_agent">Chặn số được báo cáo là môi giới</string>
@@ -819,8 +819,8 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_repair_success_toast">Đã thay đổi thành công</string>
     <string name="tc_diagnostic_complete">Hoàn tất</string>
     <string name="tc_diagnostic_notification_sumarry">Chạm để xem kết quả</string>
-    <string name="tc_diagnostic_repair_location"><font color="'#3EC234'">Chuẩn đoán hoàn tất, vấn đề vị trí đã được sửa.</font></string>
-    <string name="tc_diagnostic_repair_location_and_operator"><font color="'#3EC234'">Chuẩn đoán hoàn tất, vấn đề vị trí và nhà mạng đã được sửa.</font></string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí đã được sửa.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí và nhà mạng đã được sửa.&lt;/font>"</string>
     <string name="diagnostic_attention_dialog_message">Đang tiến hành chuẩn đoán nhà mạng %1$s. Đợi đến khi quá trình kết thúc và thử lại.</string>
     <string name="correction_attention_dialog_message">Đang điều chỉnh cài đặt. Hãy chờ quá trình kết thúc và thử lại.</string>
     <string name="text_button">Tôi biết</string>
@@ -845,7 +845,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="status_bar_network_flow_purchase">"   Mua >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Thiết lập kế hoạch dữ liệu >"</string>
     <string name="status_bar_network_flow_phone_balance">"   Số dư tài khoản:%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: <font color="%2$s">%3$s</font></string>
+    <string name="status_bar_network_flow_exceed_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Vượt quá: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_content">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Còn lại: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">Hôm nay: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; Tháng này: %2$s</string>
     <string name="status_bar_network_flow_today">Hôm nay: %1$s</string>
