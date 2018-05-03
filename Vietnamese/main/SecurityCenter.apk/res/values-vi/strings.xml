@@ -344,7 +344,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
     <string name="guide_wait_setting">Lần tới</string>
     <string name="guide_operator_text">Nhà cung cấp hiện tại:</string>
     <string name="guide_second_text">Sau khi bạn thiết lập nhà mạng, MIUI sẽ giám sát việc sử dụng dữ liệu di động của bạn hàng ngày bằng cách gửi SMS nhà mạng miễn phí. Khi MIUI phát hiện bạn vượt quá giới hạn dữ liệu, hệ thống sẽ ngắt kết nối mạng và thông báo cho bạn.</string>
-    <string name="guide_get_operator_error"><font color="'#33b4ff'">Sai nhà mạng?</font></string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Sai nhà mạng?&lt;/U>&lt;/font>"</string>
     <string name="card_tc_failed">Hiệu chỉnh thất bại</string>
     <string name="card_tc_failed_content">"Nguyên nhân:
  1. Nhà mạng phản hồi chậm vào đầu hoặc cuối tháng. Hãy thử lại sau vài ngày.
@@ -502,7 +502,7 @@ phản hồi"</string>
     <string name="traffic_setting_fragment_send_num_tips">Nhập số điện thoại</string>
     <string name="traffic_setting_fragment_sms_content_tips">Viết tin nhắn của bạn ở đây</string>
     <string name="traffic_setting_fragment_loacation_alert_nomore">Không hiển thị lại</string>
-    <string name="traffic_setting_fragment_find_brand"><font color="'#33b4ff'">Không chắc chắn về nhà mạng?</font></string>
+    <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Không chắc chắn về nhà mạng?&lt;/U>&lt;/font>"</string>
     <string name="data_usage_warning_body">Chạm để xem chi tiết sử dụng dữ liệu.</string>
     <string name="data_usage_mobile_limit_title">Đã đạt đến giới hạn dữ liệu di động</string>
     <string name="data_usage_limit_body">Chạm để bật dữ liệu di động.</string>
@@ -649,7 +649,7 @@ Khi hiệu chỉnh, MIUI sẽ gửi tin nhắn đến nhà mạng để nhận m
     <string name="roaming_limit_warning_notification_body">Chạm để xem sử dụng dữ liệu.</string>
     <string name="roaming_limit_network_notification_body">Chạm để xem mạng dữ liệu khả dụng</string>
     <string name="roaming_limit_dialog_message">Đã đạt đến giới hạn dữ liệu chuyển vùng hàng ngày.</string>
-    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">Cho phép chuyển vùng dữ liệu di động?</string>
     <string name="title_limit_traffic_per_day">Giới hạn sử dụng dữ liệu hàng ngày</string>
     <string name="daily_limit_and_lock_screen">Giới hạn dữ liệu &amp; thông báo</string>
@@ -790,18 +790,18 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="operator_diagnostic">Chẩn đoán nhà mạng</string>
     <string name="brand_diagnostic">Chuẩn đoán thương hiệu nhà mạng</string>
     <string name="tc_diagnostic_status_updating">Đang kiểm tra…</string>
-    <string name="tc_diagnostic_status_success"><font color="'#3EC234'">Chính xác</font></string>
-    <string name="tc_diagnostic_status_failure"><font color="'#CC0000'">Lỗi</font></string>
-    <string name="tc_diagnostic_status_not_get"><font color="'#ED9523'">Không thể nhận thông tin</font></string>
-    <string name="tc_diagnostic_status_no_network"><font color="'#ED9523'">Không có kết nối mạng</font></string>
-    <string name="tc_diagnostic_status_timeout"><font color="'#CC0000'">Hết giờ</font></string>
+    <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Chính xác&lt;/font>"</string>
+    <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Lỗi&lt;/font>"</string>
+    <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Không thể nhận thông tin&lt;/font>"</string>
+    <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Không có kết nối mạng&lt;/font>"</string>
+    <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Hết giờ&lt;/font>"</string>
     <string name="tc_diagnostic_status_error_brand">Không tìm thấy mạng nhà cung cấp</string>
-    <string name="tc_diagnostic_status_success_brand"><font color="'#3EC234'">Phản hồi của nhà mạng</font></string>
-    <string name="tc_diagnostic_sim_location_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Cài đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực: &lt;xliff:g id=location example=S"</font>hangHai>%2$s&lt;/xliff:g>&lt;/font></string>
-    <string name="tc_diagnostic_operator_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Kết quả: Nhà mạng sai&lt;br/>&lt;br/>Cài đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực: &lt;xliff:g id=location example"</font>=UNICOM>%2$s&lt;/xliff:g>&lt;/font></string>
-    <string name="tc_diagnostic_brand_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UN"</font>ICOM 4G>%2$s&lt;/xliff:g>&lt;/font></string>
-    <string name="tc_diagnostic_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chuẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải th"</font>iện công cụ chuẩn đoán&lt;/font></string>
-    <string name="tc_diagnostic_success_result"><font color="'#CC0000'">"&lt;font color='#CC0000'>Kết quả: Nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Tính năng ứng dụng bảo mật chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để MIUI cải th"</font>iện công cụ chuẩn đoán&lt;/font></string>
+    <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Phản hồi của nhà mạng&lt;/font>"</string>
+    <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Cài đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng sai&lt;br/>&lt;br/>Cài đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chuẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Tính năng ứng dụng bảo mật chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Chẩn đoán nhà mạng</string>
     <string name="tc_diagnostic_notification_summary">Không thể điều chỉnh liên tục 5 lần. Chạm để bắt đầu chuẩn đoán.</string>
     <string name="tc_diagnostic_upload_success">Cảm ơn phản hồi của bạn!</string>
