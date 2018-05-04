@@ -784,4 +784,10 @@
     <string name="upgrade_log_subtitle">(Đã tải xuống bằng Wi-Fi)</string>
     <string name="upgrade_log_title">Phiên bản mới</string>
     <string name="upgrade_now">Cập nhật</string>
+	<string name="btn_back">Quay lại</string>
+    <string name="list_icon_add">Thêm</string>
+    <string name="list_icon_delete">Xóa</string>
+	<string name="more_stock_infos">Thêm thông tin</string>
+	<string name="phone_check">Tối ưu</string>
+	<string name="stock_provider">Thông tin thị trường chứng khoán được cung cấp bởi Webull</string>
 </resources>
