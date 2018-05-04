@@ -185,7 +185,7 @@
     <string name="activity_title_cache_data">Dữ liệu ứng dụng</string>
     <string name="deepclean_cache_header_left">Tập tin dữ liệu: %d</string>
     <string name="notification_title_of_garbage_cleanup">Kích thước rác</string>
-    <string name="notification_summary_of_garbage_cleanup">Rác đã vượt quá %s.</string>
+    <string name="notification_summary_of_garbage_cleanup">Nhấn để giải phóng dung lượng.</string>
     <string name="notification_summary_after_auto_cleanup">Đã dọn dẹp %s.</string>
     <string name="toast_uninstall_success">Gỡ cài đặt hoàn tất</string>
     <string name="toast_app_no_residual_on_sdcard">Ứng dụng không có bất kỳ tập tin nào được lưu trữ trên thẻ SD</string>
