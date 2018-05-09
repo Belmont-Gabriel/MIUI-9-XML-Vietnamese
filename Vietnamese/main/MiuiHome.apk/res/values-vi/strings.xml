@@ -7,6 +7,8 @@
     <string name="chooser_wallpaper">Chọn hình nền mới</string>
     <string name="activity_not_found">Ứng dụng chưa được cài đặt trên thiết bị của bạn</string>
     <string name="cancel_action">Hủy</string>
+    <string name="edit_mode_uninstall">Gỡ cài đặt</string>
+    <string name="edit_mode_group">Nhóm</string>
     <string name="bad_wallpaper_source_prompt">Không thể tải hình nền</string>
     <string name="apply_action">Áp dụng</string>
     <string name="download_action">Tải xuống</string>
