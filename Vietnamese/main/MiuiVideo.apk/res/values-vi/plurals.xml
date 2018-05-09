@@ -12,4 +12,8 @@
     <plurals name="v_video_count">
         <item quantity="other">%d video</item>
     </plurals>
+    <plurals name="favor_short_selected_counts">
+        <item quantity="other">Đã chọn %1$s mục</item>
+        <item quantity="one">Đã chọn %1$s mục</item>
+    </plurals>
 </resources>
