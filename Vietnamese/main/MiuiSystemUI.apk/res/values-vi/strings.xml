@@ -648,6 +648,7 @@ d MMMM"</string>
     <string name="notification_hidden_text">Thông báo đã ẩn</string>
     <string name="block_notification_text">Ẩn</string>
     <string name="block_notification_content_text">Thông báo của %1$s sẽ không hiển thị lại. Bạn có thể thay đổi trong Cài đặt.</string>
+    <string name="block_notification_desc">"Thông báo của ứng dụng sẽ không hiển thị lại. Bạn có thể thay đổi trong Cài đặt."</string>
     <string name="notification_otg_mouse_in">Chuột đã kết nối</string>
     <string name="notification_otg_keyboard_in">Bàn phím đã kết nối</string>
     <string name="notification_otg_gamestick_in">Bộ điều khiển trò chơi đã kết nối</string>
