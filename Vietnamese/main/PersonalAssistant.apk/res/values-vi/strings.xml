@@ -9,6 +9,8 @@
     <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
     <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
     <string name="abc_search_hint">Tìm kiếm…</string>
+    <string name="quickstart_accessibility_service">Trợ lý thông minh</string>
+    <string name="smart_assistant_enter_tip">Trợ lý thông minh</string>
     <string name="abc_searchview_description_clear">Xóa truy vấn</string>
     <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
     <string name="abc_searchview_description_search">Tìm kiếm</string>
