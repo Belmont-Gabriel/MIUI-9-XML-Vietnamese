@@ -187,6 +187,13 @@
     <string name="card_bookall_train_started">Đã khởi hành</string>
     <string name="card_detail">Hướng dẫn</string>
     <string name="card_example">Thẻ</string>
+    <string name="card_expand_note_clear">Xóa</string>
+    <string name="card_expand_note_dialog_button">Đã hiểu</string>
+    <string name="card_expand_note_dialog_message">Một ghi chú mới được tạo mỗi lần bạn nhấn vào nút \"Lưu\" trong Trợ lý thông minh.</string>
+    <string name="card_expand_note_dialog_title">Lưu ghi chú</string>
+    <string name="card_expand_note_toast_clear_null">Trống !</string>
+    <string name="card_expand_note_toast_save_done">Đã lưu vào Ghi chú</string>
+    <string name="card_expand_note_toast_save_dup">Đã lưu thành công</string>
     <string name="card_hint_noteboard">Chạm để ghi chú nhanh.</string>
     <string name="card_menu_edit">Sửa</string>
     <string name="card_menu_setting">Cài đặt</string>
