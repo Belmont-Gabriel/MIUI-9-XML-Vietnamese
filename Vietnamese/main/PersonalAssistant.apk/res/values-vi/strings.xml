@@ -342,6 +342,9 @@
     <string name="fav_nodata_tip">Không có yêu thích</string>
     <string name="fav_search_nodata_tip">Không tìm thấy kết quả</string>
     <string name="fav_success">Đã thêm vào yêu thích thành công</string>
+    <string name="fav_label">Yêu thích</string>
+    <string name="function_jd_attention">Yêu thích</string>
+    <string name="function_mistore_favorite">Yêu thích</string>
     <string name="favorite">Yêu thích</string>
     <string name="favorite_add_home">Thêm vào Màn hình chính</string>
     <string name="favorite_add_home_add">Thêm</string>
