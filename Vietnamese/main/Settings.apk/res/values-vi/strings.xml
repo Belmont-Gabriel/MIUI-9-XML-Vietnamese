@@ -5048,8 +5048,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="twohours">1 giờ</string>
     <string name="onehour">30 phút</string>
     <string name="fourhours">2 giờ</string>
-    <string name="edit_rules">chỉnh sửa</string>
-    <string name="ok_rules">hoàn tất</string>
+    <string name="edit_rules">Chỉnh sửa</string>
+    <string name="ok_rules">Hoàn tất</string>
     <string name="ask_for_delete">Bạn có chắc chắn xóa quy tắc?</string>
     <string name="silent_off">Tắt</string>
     <string name="silent_standard">Im lặng</string>
@@ -5060,7 +5060,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="standard_info">Cuộc gọi và thông báo sẽ im lặng</string>
     <string name="total">Không làm phiền</string>
     <string name="total_info">Im lặng và tắt rung trừ báo thức</string>
-    <string name="rule_name">tên quy tắc</string>
+    <string name="rule_name">Tên quy tắc</string>
     <string name="day_of_week">Ngày trong tuần</string>
     <string name="silent_mode">Chế độ Im lặng</string>
     <string name="alarm_stop">Tắt Chế độ im lặng khi báo thức tắt</string>
