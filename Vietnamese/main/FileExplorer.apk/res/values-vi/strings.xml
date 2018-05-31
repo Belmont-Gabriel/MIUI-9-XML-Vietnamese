@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="delete_folder">Xóa thư mục này?</string>
+    <string name="search_guid_hint">Tìm kiếm tập tin</string>
     <string name="delete_folders">Xóa %1$d thư mục?</string>
     <string name="delete_file">Xóa tập tin này?</string>
     <string name="delete_files">Xóa %1$d tập tin?</string>
